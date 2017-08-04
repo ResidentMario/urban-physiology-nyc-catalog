@@ -1,0 +1,43 @@
+{
+    "name": "wastewater-treatment-plant-performance-data",
+    "datapackage_version": "1.0-beta",
+    "title": "Wastewater Treatment Plant Performance Data",
+    "version": "N/A",
+    "keywords": [
+        "wasterwater",
+        "treatment",
+        "spedes",
+        "plant",
+        "water"
+    ],
+    "description": "The data tables provides a monthly roll up of key parameters at Wastewater treatment plants including SPEDES permit requirements",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 274.310546875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 338,
+    "preferred_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "xlsx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/hgue-hj96",
+    "last_updated": "2017-05-09 15:32:02+00:00",
+    "protocol": "https",
+    "created": "2015-02-24 22:43:18+00:00"
+}

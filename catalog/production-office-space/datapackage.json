@@ -1,0 +1,63 @@
+{
+    "name": "production-office-space",
+    "datapackage_version": "1.0-beta",
+    "title": "Production office space",
+    "version": "N/A",
+    "keywords": [
+        "moftb",
+        "production",
+        "recording",
+        "property",
+        "sound",
+        "space",
+        "studio",
+        "record",
+        "business",
+        "commercial",
+        "media",
+        "production office space"
+    ],
+    "description": "List of Commercial space for recording and sound production in New York City. This is a list of studios which have requested to be included, rather than a comprehensive list of NYC facilities.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of Film, Theatre, and Broadcasting (FILM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/bvna-6j7v/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 25,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 475,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Email",
+        "Studio Name",
+        "Website",
+        "Zip Code",
+        "Phone",
+        "Fax",
+        "Location 1"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/bvna-6j7v",
+    "last_updated": "2014-09-05 18:11:46+00:00",
+    "protocol": "https",
+    "created": "2011-10-08 20:43:42+00:00"
+}

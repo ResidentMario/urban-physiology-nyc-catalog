@@ -1,0 +1,55 @@
+{
+    "name": "historical-driver-application-status",
+    "datapackage_version": "1.0-beta",
+    "title": "Historical Driver Application Status",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Historical licensee status data. Data dictionary available here: https://data.cityofnewyork.us/api/views/p32s-yqxq/files/20bca1de-74f0-462e-8574-f25ca66b8346?download=true&filename=NewDriverAppStatusLookupLegend.pdf\r\n\r\nFor questions, please email newdriverapp@tlc.nyc.gov.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/p32s-yqxq/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 48000,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 5552,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Other Requirements",
+        "Drug Test",
+        "FRU Interview Scheduled",
+        "Status",
+        "Medical Clearance Form",
+        "Defensive Driving",
+        "WAV Course",
+        "Type",
+        "Driver Exam",
+        "App No",
+        "App Date",
+        "Last Updated"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/p32s-yqxq",
+    "last_updated": "2017-05-31 22:17:41+00:00",
+    "protocol": "https",
+    "created": "2016-06-16 18:07:19+00:00"
+}

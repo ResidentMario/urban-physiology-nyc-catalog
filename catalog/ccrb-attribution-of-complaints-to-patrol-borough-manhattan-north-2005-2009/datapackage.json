@@ -1,0 +1,65 @@
+{
+    "name": "ccrb-attribution-of-complaints-to-patrol-borough-manhattan-north-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "CCRB: Attribution of Complaints to Patrol Borough Manhattan North 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "complaint activity",
+        "statistics",
+        "review",
+        "complaint",
+        "civilian complaint review board",
+        "civilian",
+        "ccrb",
+        "board",
+        "activity",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2005"
+    ],
+    "description": "Civilian Complaint Review Board (CCRB) complaint activity data, 2005-2009.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/xpcf-tg2m/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 17,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 154,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "Manhattan North",
+        "Total",
+        "2005"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/xpcf-tg2m",
+    "last_updated": "2014-09-05 17:36:08+00:00",
+    "protocol": "https",
+    "created": "2011-09-13 21:42:03+00:00"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "alerts",
+    "datapackage_version": "1.0-beta",
+    "title": "Alerts",
+    "version": "N/A",
+    "keywords": [],
+    "description": "This dataset contains alerts related to NYC OpenData datasets that have been reported and verified.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology and Telecommunications"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/sn5i-xuny/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 8,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1993,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Resolution",
+        "Resolution Date",
+        "Alert Date",
+        "Dataset",
+        "Dataset Name",
+        "Status",
+        "Details"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/sn5i-xuny",
+    "last_updated": "2017-05-22 19:31:23+00:00",
+    "protocol": "https",
+    "created": "2016-12-22 20:51:56+00:00"
+}

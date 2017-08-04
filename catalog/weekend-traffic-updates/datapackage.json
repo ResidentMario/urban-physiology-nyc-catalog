@@ -1,0 +1,44 @@
+{
+    "name": "weekend-traffic-updates",
+    "datapackage_version": "1.0-beta",
+    "title": "Weekend Traffic Updates",
+    "version": "N/A",
+    "keywords": [
+        "clean web",
+        "update",
+        "travel",
+        "transportation",
+        "weekend",
+        "traffic"
+    ],
+    "description": "RSS Feed displaying weekend traffic updates",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 7.380859375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 528,
+    "preferred_mimetype": "text/xml",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/qhen-5rve",
+    "last_updated": "2014-09-05 16:58:10+00:00",
+    "protocol": "https",
+    "created": "2011-07-30 01:05:32+00:00"
+}

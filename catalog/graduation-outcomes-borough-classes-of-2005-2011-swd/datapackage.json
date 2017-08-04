@@ -1,0 +1,72 @@
+{
+    "name": "graduation-outcomes-borough-classes-of-2005-2011-swd",
+    "datapackage_version": "1.0-beta",
+    "title": "Graduation Outcomes - Borough - Classes of 2005-2011 - SWD",
+    "version": "N/A",
+    "keywords": [
+        "borough",
+        "swd",
+        "school",
+        "lifelong learning",
+        "graduation outcome"
+    ],
+    "description": "Latest available data and trends in graduation and dropout outcomes disaggregated by borough and students with disability.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hnf2-ds4u/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 220,
+    "columns": 23,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 159,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Total Grads Num",
+        "Regents w/o Advanced Num",
+        "Advanced Regents Num",
+        "Cohort Category",
+        "Advanced Regents Pct of cohort",
+        "Still Enrolled Pct of cohort",
+        "Local Pct of grads",
+        "Still Enrolled Num",
+        "Total Regents Pct of cohort",
+        "Regents w/o Advanced Pct of grads",
+        "Total Cohort Num",
+        "Total Regents Num",
+        "Regents w/o Advanced Pct of cohort",
+        "Demographic",
+        "Total Grads Pct of cohort",
+        "Local Pct of cohort",
+        "Local Num",
+        "Total Regents Pct of grads",
+        "Dropped Out Num",
+        "Dropped Out Pct of cohort",
+        "Cohort Year",
+        "Borough",
+        "Advanced Regents Pct of grads"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hnf2-ds4u",
+    "last_updated": "2014-09-05 17:17:59+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 02:31:26+00:00"
+}

@@ -1,0 +1,46 @@
+{
+    "name": "parks-properties",
+    "datapackage_version": "1.0-beta",
+    "title": "Parks Properties",
+    "version": "N/A",
+    "keywords": [
+        "parks",
+        "parks properties",
+        "dpr"
+    ],
+    "description": "This data identifies City property under the jurisdiction of NYC Parks, which may be managed partially or solely by the Agency. This data has been produced in whole or part using secondary data. Data accuracy is limited by the scale and accuracy of the original sources. Site specific conditions should be field-verified. For legal accuracy, refer to the maps that established parks and acquisition maps.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/rjaj-zgq7?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 6529.7314453125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 7319,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/rjaj-zgq7",
+    "last_updated": "2016-08-27 18:20:17+00:00",
+    "protocol": "https",
+    "created": "2013-11-25 18:20:14+00:00"
+}

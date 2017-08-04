@@ -1,0 +1,52 @@
+{
+    "name": "police-department-disciplinary-penalties",
+    "datapackage_version": "1.0-beta",
+    "title": "Police Department Disciplinary Penalties",
+    "version": "N/A",
+    "keywords": [
+        "ccrb",
+        "police",
+        "terminated",
+        "department",
+        "penalties"
+    ],
+    "description": "This data set represents police department disciplinary penalties imposed by NYPD",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ns22-2dcm/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 27,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 562,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Officer Count",
+        "Year",
+        "Penalties"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ns22-2dcm",
+    "last_updated": "2014-09-05 17:10:31+00:00",
+    "protocol": "https",
+    "created": "2013-02-26 20:08:34+00:00"
+}

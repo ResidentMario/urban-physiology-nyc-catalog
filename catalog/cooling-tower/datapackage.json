@@ -1,0 +1,47 @@
+{
+    "name": "cooling-tower",
+    "datapackage_version": "1.0-beta",
+    "title": "Cooling Tower",
+    "version": "N/A",
+    "keywords": [
+        "doitt gis",
+        "doitt",
+        "planimetrics",
+        "gis"
+    ],
+    "description": "Cooling towers are structures typically found on the roofs of large buildings that enclose large fans used for ventilation and cooling. Only cooling towers greater than 4ft in diameter were captured. Please see the following link for additional documentation- https://github.com/CityOfNewYork/nyc-planimetrics/blob/master/Capture_Rules.md.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/miz8-534t?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 1330.1005859375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 517,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/miz8-534t",
+    "last_updated": "2016-08-27 18:19:02+00:00",
+    "protocol": "https",
+    "created": "2016-03-25 19:39:15+00:00"
+}

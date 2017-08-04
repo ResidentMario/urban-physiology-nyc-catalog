@@ -1,0 +1,56 @@
+{
+    "name": "school-attendance-and-enrollment-statistics-by-district-2010-11",
+    "datapackage_version": "1.0-beta",
+    "title": "School Attendance and Enrollment Statistics by District (2010-11)",
+    "version": "N/A",
+    "keywords": [
+        "schools",
+        "lifelong learning",
+        "enrollment",
+        "education",
+        "doe",
+        "district",
+        "absent",
+        "attendance",
+        "school district"
+    ],
+    "description": "DOE attendance and enrollment statistics broken down by school district",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/7z8d-msnt/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 35,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 8267,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "District",
+        "YTD % Attendance (Avg)",
+        "YTD Enrollment(Avg)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/7z8d-msnt",
+    "last_updated": "2014-09-05 17:34:29+00:00",
+    "protocol": "https",
+    "created": "2011-10-11 17:45:27+00:00"
+}

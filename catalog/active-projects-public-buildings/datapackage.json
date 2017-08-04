@@ -1,0 +1,58 @@
+{
+    "name": "active-projects-public-buildings",
+    "datapackage_version": "1.0-beta",
+    "title": "Active Projects - Public Buildings",
+    "version": "N/A",
+    "keywords": [
+        "ddc",
+        "budget",
+        "construction",
+        "design",
+        "projects"
+    ],
+    "description": "List of currently active buildings projects including description and high level schedule and budget range.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Design and Construction (DDC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/g9ub-hrve/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 252,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 215,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Status",
+        "Division",
+        "Projected Construction Completion ",
+        "Scope",
+        "Project ID",
+        "Description",
+        "Dollar Amount",
+        "Client Agency",
+        "Phase"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/g9ub-hrve",
+    "last_updated": "2016-09-15 14:42:07+00:00",
+    "protocol": "https",
+    "created": "2016-06-06 17:18:04+00:00"
+}

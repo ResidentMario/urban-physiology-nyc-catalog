@@ -1,0 +1,58 @@
+{
+    "name": "active-projects-infrastructure",
+    "datapackage_version": "1.0-beta",
+    "title": "Active Projects - Infrastructure",
+    "version": "N/A",
+    "keywords": [
+        "projects",
+        "budget",
+        "ddc",
+        "design",
+        "construction"
+    ],
+    "description": "List of currently active infrastructure projects including description and high level schedule and budget range.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Design and Construction (DDC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/rukc-mmqu/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 3282,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 256,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Client Agency",
+        "Status",
+        "Scope",
+        "Project ID",
+        "Dollar Amount",
+        "Division",
+        "Description",
+        "Phase",
+        "Projected Construction Completion "
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/rukc-mmqu",
+    "last_updated": "2017-02-03 22:28:14+00:00",
+    "protocol": "https",
+    "created": "2016-06-06 17:18:02+00:00"
+}

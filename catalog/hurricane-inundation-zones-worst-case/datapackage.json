@@ -1,0 +1,46 @@
+{
+    "name": "hurricane-inundation-zones-worst-case",
+    "datapackage_version": "1.0-beta",
+    "title": "Hurricane Inundation Zones - Worst Case",
+    "version": "N/A",
+    "keywords": [
+        "hurricane inundation zones - worst case",
+        "surge",
+        "office of emergency management (oem)"
+    ],
+    "description": "Worst case storm surge inundation areas.  These are the SLOSH MOM zones.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of Emergency Management (OEM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/h3ke-x25q?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 151069.337890625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 697,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/h3ke-x25q",
+    "last_updated": "2016-08-27 18:32:51+00:00",
+    "protocol": "https",
+    "created": "2014-05-29 22:32:59+00:00"
+}

@@ -1,0 +1,71 @@
+{
+    "name": "forestry-inspections",
+    "datapackage_version": "1.0-beta",
+    "title": "Forestry Inspections",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Record of Forestry inspections as of March 8th, 2017.\r\nThis dataset can be joined to the Forestry Tree Points dataset by joining TreePointGlobalID from Forestry Inspections to GLOBALID from Forestry Tree Points.\r\n\r\nThis dataset can be joined to the Forestry Planting Spaces dataset by joining PlantingSpaceGlobalID from Forestry Inspections to GLOBALID from Forestry Planting Spaces.\r\n\r\nThis dataset can be joined to the Forestry Service Requests dataset by joining ServiceRequestGlobalID from Forestry Inspections to GLOBALID from Forestry Service Requests.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": null
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/4pt5-3vv4/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 239000,
+    "columns": 28,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 40,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "InspectionTPStructure",
+        "SWDamagedFlagstonesRating",
+        "SWClearanceRating",
+        "SWLocationRating",
+        "ReinspectionDate",
+        "ParentInspectionGlobalID",
+        "UpdatedByName",
+        "UpdatedDate",
+        "CreatedByName",
+        "CreatedDate",
+        "ClosedByName",
+        "ClosedDate",
+        "InspectedByName",
+        "InspectionDate",
+        "GlobalID",
+        "SHAPE",
+        "ServiceRequestGlobalID",
+        "PlantingSpaceGlobalID",
+        "TreePointDBH",
+        "InspectionTPCondition",
+        "InspectionType",
+        "OBJECTID",
+        "SWTotalTrees",
+        "SWRatingTotal",
+        "InspectionStatus",
+        "SWDamageRating",
+        "SWTreeConditionRating",
+        "TreePointGlobalID"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/4pt5-3vv4",
+    "last_updated": "2017-05-25 16:19:09+00:00",
+    "protocol": "https",
+    "created": "2017-03-06 22:10:16+00:00"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "intake-within-and-outside-ccrb-jurisdiction",
+    "datapackage_version": "1.0-beta",
+    "title": "Intake within and outside CCRB Jurisdiction",
+    "version": "N/A",
+    "keywords": [
+        "complaints",
+        "referrals",
+        "ccrb",
+        "jurisdiction"
+    ],
+    "description": "This table represents the total intake of complaints within and outside CCRB Jurisdiction",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/m6nh-ye6v/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 3,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 164,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Referrals to Internal Affairs Bureau",
+        "Referrals to Other Agencies",
+        "Year",
+        "Complaints within CCRB Jurisdiction",
+        "Referrals to Office of the Chief Of Department"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/m6nh-ye6v",
+    "last_updated": "2014-09-05 17:09:06+00:00",
+    "protocol": "https",
+    "created": "2013-02-25 21:24:45+00:00"
+}

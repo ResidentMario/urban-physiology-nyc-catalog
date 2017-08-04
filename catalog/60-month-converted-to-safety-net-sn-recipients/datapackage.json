@@ -1,0 +1,50 @@
+{
+    "name": "60-month-converted-to-safety-net-sn-recipients",
+    "datapackage_version": "1.0-beta",
+    "title": "60 Month Converted to Safety Net (SN) recipients",
+    "version": "N/A",
+    "keywords": [
+        "human resource",
+        "60 month converted to safety net (sn) recipients",
+        "trend",
+        "hra"
+    ],
+    "description": "Trend chart showing 60 Month Converted to Safety Net (SN) recipients",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/nstm-kb7u/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 250,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 232,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Month",
+        "60-Month Converted to Safety Net Recipients"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/nstm-kb7u",
+    "last_updated": "2016-11-04 14:06:34+00:00",
+    "protocol": "https",
+    "created": "2013-05-20 21:45:01+00:00"
+}

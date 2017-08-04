@@ -1,0 +1,78 @@
+{
+    "name": "dycd-after-school-programs-runaway-and-homeless-youth",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD after-school programs: Runaway And Homeless Youth",
+    "version": "N/A",
+    "keywords": [
+        "child",
+        "street outreach",
+        "street",
+        "education",
+        "community",
+        "after-school programs",
+        "runaway",
+        "community development",
+        "children",
+        "crisis",
+        "outreach",
+        "youth",
+        "crisis shelters",
+        "school",
+        "young adult",
+        "itil",
+        "transitional independent living",
+        "programs",
+        "services",
+        "jobs and economic mobility",
+        "homeless",
+        "lifelong learning",
+        "shelters",
+        "drop-in centers",
+        "development",
+        "after-school"
+    ],
+    "description": "Facilities in New York City, by agency and site,  that offer after-school programs for runaway and homeless youth, including street outreach programs, drop-in centers, crisis shelters, and transitional independent living (TIL) programs.\r\nUpdate Frequency: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ujsc-un6m/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 23,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 793,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "AGENCY",
+        "BOROUGH / COMMUNITY",
+        "PROGRAM",
+        "Contact Number",
+        "Grade Level / Age Group ",
+        "PROGRAM TYPE",
+        "Location 1",
+        "SITE NAME"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ujsc-un6m",
+    "last_updated": "2014-09-05 17:02:15+00:00",
+    "protocol": "https",
+    "created": "2011-09-02 19:21:30+00:00"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "after-school-programs",
+    "datapackage_version": "1.0-beta",
+    "title": "After-School Programs",
+    "version": "N/A",
+    "keywords": [
+        "geographic",
+        "education",
+        "map",
+        "school",
+        "services",
+        "after school",
+        "after-school",
+        "program",
+        "cartography",
+        "location",
+        "jobs and economic mobility"
+    ],
+    "description": "After-School Programs",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/6ej9-7qyi?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 1147.70703125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 5039,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/6ej9-7qyi",
+    "last_updated": "2016-08-27 18:24:34+00:00",
+    "protocol": "https",
+    "created": "2013-04-05 15:26:04+00:00"
+}

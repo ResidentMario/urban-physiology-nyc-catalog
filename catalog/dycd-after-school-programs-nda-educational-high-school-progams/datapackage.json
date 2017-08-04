@@ -1,0 +1,68 @@
+{
+    "name": "dycd-after-school-programs-nda-educational-high-school-progams",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD after-school programs: NDA Educational High School Progams",
+    "version": "N/A",
+    "keywords": [
+        "neighborhood development area",
+        "youth",
+        "services",
+        "school",
+        "neighborhood",
+        "nda",
+        "lifelong learning",
+        "jobs and economic mobility",
+        "high school",
+        "after-school",
+        "child",
+        "children",
+        "community",
+        "community development",
+        "development",
+        "education"
+    ],
+    "description": "Facilities in New York City, by agency and site, that offer \u201cNeighborhood Development Area (NDA) Educational High School Programs\u201d after-school  programs for children in High",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ut9y-2ptp/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 160,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 745,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Location 1",
+        "Grade Level / Age Group ",
+        "Contact Number",
+        "PROGRAM",
+        "SITE NAME",
+        "AGENCY",
+        "BOROUGH / COMMUNITY",
+        "PROGRAM TYPE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ut9y-2ptp",
+    "last_updated": "2014-09-05 17:43:48+00:00",
+    "protocol": "https",
+    "created": "2011-09-01 16:51:52+00:00"
+}

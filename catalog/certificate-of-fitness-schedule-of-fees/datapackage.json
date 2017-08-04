@@ -1,0 +1,56 @@
+{
+    "name": "certificate-of-fitness-schedule-of-fees",
+    "datapackage_version": "1.0-beta",
+    "title": "Certificate of Fitness Schedule of Fees",
+    "version": "N/A",
+    "keywords": [
+        "certificate of fitness",
+        "cof",
+        "fdny",
+        "fire department",
+        "fire safety",
+        "safety",
+        "training"
+    ],
+    "description": "Certificate of Fitness Schedule of Fees",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Fire Department of New York City (FDNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/2ghx-qqsj/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 322,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 335,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "ORIG_FEE",
+        " COFTYPE",
+        "PREMISE_FLG",
+        "DESCRIPTION",
+        "RENEWAL_FEE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/2ghx-qqsj",
+    "last_updated": "2014-09-05 17:26:04+00:00",
+    "protocol": "https",
+    "created": "2013-01-31 20:36:31+00:00"
+}

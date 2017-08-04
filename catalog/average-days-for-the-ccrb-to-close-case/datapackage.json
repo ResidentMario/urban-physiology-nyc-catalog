@@ -1,0 +1,53 @@
+{
+    "name": "average-days-for-the-ccrb-to-close-case",
+    "datapackage_version": "1.0-beta",
+    "title": "Average days for the CCRB to close case",
+    "version": "N/A",
+    "keywords": [
+        "investigations",
+        "average",
+        "ccrb",
+        "days"
+    ],
+    "description": "This table represents average days for the CCRB to close a case measured from the date of report",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/sd9s-b3hd/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 3,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 112,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Mediation Attempted",
+        "Full Investigations",
+        "Truncated Investigations",
+        "Mediations",
+        "Year"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/sd9s-b3hd",
+    "last_updated": "2014-09-05 17:11:12+00:00",
+    "protocol": "https",
+    "created": "2013-02-25 21:42:13+00:00"
+}

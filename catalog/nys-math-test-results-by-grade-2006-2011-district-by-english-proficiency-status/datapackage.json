@@ -1,0 +1,61 @@
+{
+    "name": "nys-math-test-results-by-grade-2006-2011-district-by-english-proficiency-status",
+    "datapackage_version": "1.0-beta",
+    "title": "NYS Math Test Results By Grade 2006-2011 - District - By English Proficiency Status",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning"
+    ],
+    "description": "New York City Results on the New York State Mathematics Tests, Grades 3 - 8\r\nNotes:\r\nAs of 2006, the New York State Education Department expanded the ELA and mathematics testing programs to Grades 3-8. Previously, state tests were administered in Grades 4 and 8 and citywide tests were administered in Grades 3, 5, 6, and 7.\r\nIn 2006, NYSED treated District 75 students as a distinct geographic district. For 2007-2011, District 75 students are represented in their home districts and boroughs. Spreadsheets for District and Borough do not include District 75 students in 2006.\r\nStarting in 2010, NYSED changed the scale score required to meet each of the proficiency levels, increasing the number of questions students needed to answer correctly to meet proficiency.\r\n\r\nRows are suppressed (noted with \u2018s\u2019) if the number of tested students was 5 or fewer.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/h2mm-eazk/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2688,
+    "columns": 16,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 197,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "District",
+        "Level 3 %",
+        "Level 2 #",
+        "Level 3+4 #",
+        "Number Tested",
+        "Category",
+        "Level 1 %",
+        "Level 1 #",
+        "Level 2 %",
+        "Level 3 #",
+        "Mean Scale Score",
+        "Year",
+        "Level 4 #",
+        "Level 4 %",
+        "Grade",
+        "Level 3+4 %"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/h2mm-eazk",
+    "last_updated": "2014-09-05 17:41:25+00:00",
+    "protocol": "https",
+    "created": "2011-10-05 22:45:07+00:00"
+}

@@ -1,0 +1,45 @@
+{
+    "name": "preferred-source-procurements-fy15",
+    "datapackage_version": "1.0-beta",
+    "title": "Preferred Source Procurements FY15",
+    "version": "N/A",
+    "keywords": [],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Contract Services (MOCS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/5jwd-xj5z/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 21,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 96,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Contract Value",
+        "Reason/Commodity/Service"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/5jwd-xj5z",
+    "last_updated": "2015-12-18 22:39:44+00:00",
+    "protocol": "https",
+    "created": "2015-12-17 16:45:46+00:00"
+}

@@ -1,0 +1,46 @@
+{
+    "name": "beaches",
+    "datapackage_version": "1.0-beta",
+    "title": "Beaches",
+    "version": "N/A",
+    "keywords": [
+        "parks",
+        "beaches",
+        "dpr"
+    ],
+    "description": "Directory of Department of Parks and Recreation (DPR) beaches.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/qvtg-k2hn?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 417.869140625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 418,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/qvtg-k2hn",
+    "last_updated": "2016-08-27 18:19:39+00:00",
+    "protocol": "https",
+    "created": "2013-11-25 17:44:16+00:00"
+}

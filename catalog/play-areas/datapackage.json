@@ -1,0 +1,46 @@
+{
+    "name": "play-areas",
+    "datapackage_version": "1.0-beta",
+    "title": "Play Areas",
+    "version": "N/A",
+    "keywords": [
+        "dpr",
+        "play areas",
+        "parks"
+    ],
+    "description": "Directory of Play Areas",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/8fhn-c4v3?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 1867.705078125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 434,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/8fhn-c4v3",
+    "last_updated": "2016-08-27 18:27:26+00:00",
+    "protocol": "https",
+    "created": "2013-11-25 18:39:52+00:00"
+}

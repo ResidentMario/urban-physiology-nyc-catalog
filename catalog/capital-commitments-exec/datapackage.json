@@ -1,0 +1,55 @@
+{
+    "name": "capital-commitments-exec",
+    "datapackage_version": "1.0-beta",
+    "title": "Capital Commitments -- Exec",
+    "version": "N/A",
+    "keywords": [],
+    "description": "This file contains capital commitment data by project type, budget line and source of funds.  The dollar values in this table are in thousands.  The data is created in Exective Budget to match commitment numbers in the Capital Commitment Plan publication .",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor\u2019s Office of Management & Budget (OMB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/tiex-dv5v/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 3853,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 279,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Project Type",
+        "Published Date",
+        "Project Type Description",
+        "Budget Line",
+        "Budget Line Description",
+        "Funding Type",
+        "First Fiscal Year",
+        "Fiscal Year 1 $ amount",
+        "Fiscal Year 2 $ amount",
+        "Fiscal Year 3 $ amount",
+        "Fiscal Year 4 $ amount",
+        "Fiscal Year 5 $ amount"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/tiex-dv5v",
+    "last_updated": "2017-05-02 16:26:22+00:00",
+    "protocol": "https",
+    "created": "2016-05-03 22:34:50+00:00"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "small-purchase-report",
+    "datapackage_version": "1.0-beta",
+    "title": "Small Purchase Report",
+    "version": "N/A",
+    "keywords": [
+        "small purchase report"
+    ],
+    "description": "On or before September thirtieth, two thousand and three, and on or before the last day of every quarter thereafter, the mayor or his or her designee shall submit to the council and the comptroller a report detailing each small purchase award made pursuant to this section during the quarter that ended three months before such report is due and for which information is required to be contained in the computerized data base maintained pursuant to subdivision a of section 6-116.2 of the administrative code.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of the mayor (OTM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/3ups-txji/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 323,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 87,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Acronym",
+        "CTTYP_NM",
+        "Amount",
+        "Description",
+        "Date",
+        "VendorName",
+        "AWD_METH_NM",
+        "ContractID"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/3ups-txji",
+    "last_updated": "2016-04-22 21:15:06+00:00",
+    "protocol": "https",
+    "created": "2016-04-22 17:18:45+00:00"
+}

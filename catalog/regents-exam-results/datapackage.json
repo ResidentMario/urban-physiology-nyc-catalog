@@ -1,0 +1,70 @@
+{
+    "name": "regents-exam-results",
+    "datapackage_version": "1.0-beta",
+    "title": "Regents Exam Results",
+    "version": "N/A",
+    "keywords": [
+        "graduation",
+        "exams",
+        "regents",
+        "schools"
+    ],
+    "description": "Regents results by School for all subjects, by year.\r\n\r\nCohorts of 2001 through 2011 (Classes of 2005 through 2015)\r\nGraduation Outcomes as Calculated by the New York State Education Department\r\nThe New York State calculation method was first adopted for the Cohort of 2001 (Class of 2005).  The cohort consists of all students who first entered 9th grade in a given school year (e.g., the Cohort of 2006 entered 9th grade in the 2006-2007 school year).  Graduates are defined as those students earning either a Local or Regents diploma and exclude those earning either a special education (IEP) diploma or GED. \r\n\r\nIn order to comply with FERPA regulations on public reporting of education outcomes, rows with a cohort of 20 or fewer students are suppressed.\r\nDue to the small number of students identified as Native American or Multi-Racial, these ethnicities are not reported on the Ethnicity tab; however, these students are included in the counts on all other tabs.\r\n4 Year August outcomes are available for the 2004-2011 cohorts at the citywide level and for the 2005-2011 cohorts at the borough, district and school level. 5 Year August outcomes are available for the 2006-2010 cohorts. Cells are blank when data is not available.\r\nCharter schools are not included in the NYSED calculation of graduation rates for NYC.\r\nSchool level results are not presented for District 79 and District 75 schools, but their outcomes are included in citywide totals.\r\nStarting with the 2009 cohort (Class of 2013), students with IEPs could use the compensatory score option (CSO) to meet graduation requirements, which contributed to an increase in the graduation rate. \r\nStudents are considered English Language Learners by NY State if classified as an ELL as of graduation.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/qk7d-gecv/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 430,
+    "columns": 22,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 357,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "# of grads  Regents w/o Advanced",
+        "% of cohort  Regents w/o Advanced",
+        "% of cohort Total Grads",
+        "# of cohort Total Grads",
+        "% of grads  Advanced Regents",
+        "% of cohort Still Enrolled",
+        "Cohort Year",
+        "# Total Cohort",
+        "% of cohort  Advanced Regents",
+        "# of grads  Total Regents",
+        "% of cohort Dropped Out",
+        "% of grads  Total Regents",
+        "# Still Enrolled",
+        "% of grads Local",
+        "% of grads  Regents w/o Advanced",
+        "# Total Grads",
+        "% of cohort Local",
+        "% of cohort Total Regents",
+        "# Dropped Out",
+        "Cohort Category",
+        "# of grads  Advanced Regents",
+        "Demographic"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/qk7d-gecv",
+    "last_updated": "2016-03-08 21:59:37+00:00",
+    "protocol": "https",
+    "created": "2016-03-08 21:53:08+00:00"
+}

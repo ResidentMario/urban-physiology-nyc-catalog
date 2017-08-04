@@ -1,0 +1,49 @@
+{
+    "name": "family-assistance-fa-recipients",
+    "datapackage_version": "1.0-beta",
+    "title": "Family Assistance (FA) Recipients",
+    "version": "N/A",
+    "keywords": [
+        "odra family assistance",
+        "human resources",
+        "hra"
+    ],
+    "description": "Statistics from HRA on family assistance.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hjnm-89hx/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 251,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 207,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Family Assistance Recipients",
+        "Month"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hjnm-89hx",
+    "last_updated": "2016-11-04 14:08:42+00:00",
+    "protocol": "https",
+    "created": "2013-05-21 12:22:16+00:00"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "directory-of-city-resources",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of City Resources",
+    "version": "N/A",
+    "keywords": [
+        "jobs",
+        "jobs and economic mobility",
+        "domestic violence",
+        "ocdv",
+        "city services",
+        "combat",
+        "economic mobility"
+    ],
+    "description": "List of resources that address the domestic violence issues",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office to Combat Domestic Violence (OCDV)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/yc6c-pk2a/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 4,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 218,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Facility Name",
+        "Website Address",
+        "Phone Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/yc6c-pk2a",
+    "last_updated": "2014-09-05 17:52:44+00:00",
+    "protocol": "https",
+    "created": "2013-03-19 18:37:20+00:00"
+}

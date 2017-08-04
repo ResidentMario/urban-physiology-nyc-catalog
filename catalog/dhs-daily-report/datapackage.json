@@ -1,0 +1,61 @@
+{
+    "name": "dhs-daily-report",
+    "datapackage_version": "1.0-beta",
+    "title": "DHS Daily Report",
+    "version": "N/A",
+    "keywords": [
+        "daily",
+        "homeless",
+        "report",
+        "dhs"
+    ],
+    "description": "This dataset includes the daily number of families and individuals residing in the Department of Homeless Services (DHS) shelter system and the daily number of families applying to the DHS shelter system.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Homeless Services (DHS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/k46n-sa2m/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1361,
+    "columns": 13,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 8500,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Single Adult Women in Shelter",
+        "Total Single Adults in Shelter",
+        "Total Individuals in Families with Children in Shelter ",
+        "Total Adults in Shelter",
+        "Date of Census",
+        "Individuals in Adult Families in Shelter",
+        "Adults in Families with Children in Shelter",
+        "Single Adult Men in Shelter",
+        "Total Individuals in Shelter",
+        "Families with Children in Shelter",
+        "Adult Families in Shelter",
+        "Children in Families with Children in Shelter",
+        "Total Children in Shelter"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/k46n-sa2m",
+    "last_updated": "2017-05-31 19:40:08+00:00",
+    "protocol": "https",
+    "created": "2013-08-22 19:20:30+00:00"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "street-weekly-resurfacing-schedule-staten-island-staten-island-milling-and-paving",
+    "datapackage_version": "1.0-beta",
+    "title": "Street Weekly Resurfacing Schedule Staten Island (Staten Island milling and paving)",
+    "version": "N/A",
+    "keywords": [
+        "resurfacing schedule",
+        "staten island",
+        "dot",
+        "street resurfacing"
+    ],
+    "description": "Staten Island Milling and Paving Schedule",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/cu8c-kkz7/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 20,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 250,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Day & Date",
+        "Sa#",
+        "Location",
+        "CB",
+        "Area"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/cu8c-kkz7",
+    "last_updated": "2017-01-26 17:58:53+00:00",
+    "protocol": "https",
+    "created": "2014-10-22 16:42:05+00:00"
+}

@@ -1,0 +1,43 @@
+{
+    "name": "yellow-medallion-taxicabs-brokers",
+    "datapackage_version": "1.0-beta",
+    "title": "Yellow Medallion Taxicabs - Brokers",
+    "version": "N/A",
+    "keywords": [
+        "transportation",
+        "business",
+        "license",
+        "taxi",
+        "vehicle"
+    ],
+    "description": "Yellow Medallion Taxicabs are the official taxis of New York City. There are currently about 13,000 licensed taxicabs and they provide transportation for passengers via street hails. This lists licensed Medallion Taxi Brokers, including their license numbers, names, addresses, and phone numbers.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 42.5322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 416,
+    "preferred_mimetype": "application/vnd.ms-office",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "xls",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/5j86-5vbn",
+    "last_updated": "2014-09-05 17:21:44+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 22:06:33+00:00"
+}

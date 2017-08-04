@@ -1,0 +1,91 @@
+{
+    "name": "dof-condominium-comparable-rental-income-manhattan-fy-20092010",
+    "datapackage_version": "1.0-beta",
+    "title": "DOF: Condominium Comparable Rental Income \u2013 Manhattan \u2013 FY 2009/2010",
+    "version": "N/A",
+    "keywords": [
+        "rental properties. manhattan",
+        "borough",
+        "buildings",
+        "condominiums",
+        "cooperatives",
+        "department of finance",
+        "residential",
+        "rental property",
+        "apartment",
+        "finance",
+        "dof"
+    ],
+    "description": "The Department of Finance (DOF) is required by NY State law to value condominiums or cooperatives as if they were residential rental apartment buildings.   DOF uses income information from rental properties similar in physical features and location to the condominiums or cooperatives. DOF applies this income data to the condominium or cooperative and determine its value in the same way DOF values rental apartment buildings.\r\nUpdate Frequency: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ad4c-mphb/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1068,
+    "columns": 36,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 615,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "COMPARABLE RENTAL 1  Year Built",
+        "COMPARABLE RENTAL 1 Address",
+        "MANHATTAN CONDOMINIUM PROPERTY Gross SqFt",
+        "MANHATTAN CONDOMINIUM PROPERTY Full Market Value",
+        "COMPARABLE RENTAL 2  Year Built",
+        "COMPARABLE RENTAL 1  Building Classification",
+        "MANHATTAN CONDOMINIUM PROPERTY Boro-Block-Lot",
+        "COMPARABLE RENTAL 1  Gross Income per SqFt",
+        "COMPARABLE RENTAL 2  Gross SqFt",
+        "MANHATTAN CONDOMINIUM PROPERTY Est. Gross Income",
+        " COMPARABLE RENTAL 1 Boro-Block-Lot",
+        "MANHATTAN CONDOMINIUM PROPERTY Address",
+        "MANHATTAN CONDOMINIUM PROPERTY Condo Section",
+        "COMPARABLE RENTAL 2  Building Classification",
+        "COMPARABLE RENTAL 2  Total Units",
+        "COMPARABLE RENTAL 2  Address",
+        "COMPARABLE RENTAL 2  Neighborhood",
+        "COMPARABLE RENTAL 2  Gross Income per SqFt",
+        "COMPARABLE RENTAL 2  Boro-Block-Lot",
+        "COMPARABLE RENTAL 2  Dist. from Coop in miles",
+        "COMPARABLE RENTAL 2  Full Market Value",
+        "COMPARABLE RENTAL 2  Market Value per SqFt",
+        "COMPARABLE RENTAL 2  Est. Gross Income",
+        "COMPARABLE RENTAL 1  Dist. from Coop in miles",
+        "COMPARABLE RENTAL 1  Market Value per SqFt",
+        "COMPARABLE RENTAL 1  Est. Gross Income",
+        "MANHATTAN CONDOMINIUM PROPERTY Gross Income per SqFt",
+        "MANHATTAN CONDOMINIUM PROPERTY Building Classification",
+        "MANHATTAN CONDOMINIUM PROPERTY Neighborhood",
+        "MANHATTAN CONDOMINIUM PROPERTY Year Built",
+        "MANHATTAN CONDOMINIUM PROPERTY Total Units",
+        "COMPARABLE RENTAL 1  Neighborhood",
+        "MANHATTAN CONDOMINIUM PROPERTY Market Value per SqFt",
+        "COMPARABLE RENTAL 1  Total Units",
+        "COMPARABLE RENTAL 1  Gross SqFt",
+        "COMPARABLE RENTAL 1 Full Market Value"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ad4c-mphb",
+    "last_updated": "2014-09-05 18:03:00+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 14:38:17+00:00"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "ged-plus-locations",
+    "datapackage_version": "1.0-beta",
+    "title": "GED Plus Locations",
+    "version": "N/A",
+    "keywords": [
+        "education",
+        "ged plus locations",
+        "jobs and economic mobility",
+        "doe"
+    ],
+    "description": "Listing of GED Plus locations.  GED plus helps students earn their GED and prepares them for college and career options.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/pd5h-92mc/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 63,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 3084,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Notes",
+        "Address",
+        "Program Site name",
+        "Contact Number",
+        "Borough"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/pd5h-92mc",
+    "last_updated": "2014-09-05 17:52:39+00:00",
+    "protocol": "https",
+    "created": "2013-03-19 20:38:38+00:00"
+}

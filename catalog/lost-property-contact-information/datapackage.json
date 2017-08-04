@@ -1,0 +1,62 @@
+{
+    "name": "lost-property-contact-information",
+    "datapackage_version": "1.0-beta",
+    "title": "Lost Property Contact Information",
+    "version": "N/A",
+    "keywords": [
+        "medallion",
+        "green cabs",
+        "green taxi",
+        "taxi",
+        "yellow cab",
+        "shl",
+        "boro taxi"
+    ],
+    "description": "This list contains lost item contact information on  bases that are affiliated with TLC SHL/Boro and Yellow Medallion Taxicabs. For inquiries about the contents of this dataset, please email licensinginquiries@tlc.nyc.gov.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/dg7a-jiz2/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 19900,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 3393,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Base License Number",
+        "Base Website",
+        "Last Updated Date",
+        "Last Updated Time",
+        "Name",
+        "License Number",
+        "Base Phone Number",
+        "Base Address",
+        "Type",
+        "DMV Plate Number",
+        "Base Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/dg7a-jiz2",
+    "last_updated": "2017-05-31 20:05:25+00:00",
+    "protocol": "https",
+    "created": "2014-01-09 20:43:07+00:00"
+}

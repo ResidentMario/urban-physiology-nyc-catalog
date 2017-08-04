@@ -1,0 +1,69 @@
+{
+    "name": "bus-breakdown-and-delays",
+    "datapackage_version": "1.0-beta",
+    "title": "Bus Breakdown and Delays",
+    "version": "N/A",
+    "keywords": [
+        "bus",
+        "transportation",
+        "doe",
+        "schools"
+    ],
+    "description": "The Bus Breakdown and Delay system collects information from school bus vendors operating out in the field in real time. Bus staff that encounter delays during the route are instructed to radio the dispatcher at the bus vendor\u2019s central office. The bus vendor staff are then instructed to log into the Bus Breakdown and Delay system to record the event and notify OPT. OPT customer service agents use this system to inform parents who call with questions regarding bus service. The Bus Breakdown and Delay system is publicly accessible and contains real time updates. All information in the system is entered by school bus vendor staff.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ez4e-fazm/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 142000,
+    "columns": 21,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1090,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Bus_No",
+        "Last_Updated_On",
+        "Have_You_Alerted_OPT",
+        "Route_Number",
+        "Has_Contractor_Notified_Parents",
+        "Boro",
+        "School_Age_or_PreK",
+        "Schools_Serviced",
+        "How_Long_Delayed",
+        "Has_Contractor_Notified_Schools",
+        "Occurred_On",
+        "Incident_Number",
+        "Reason",
+        "Busbreakdown_ID",
+        "School_Year",
+        "Run_Type",
+        "Informed_On",
+        "Number_Of_Students_On_The_Bus",
+        "Created_On",
+        "Bus_Company_Name",
+        "Breakdown_or_Running_Late"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ez4e-fazm",
+    "last_updated": "2017-05-31 10:51:08+00:00",
+    "protocol": "https",
+    "created": "2015-09-30 17:08:23+00:00"
+}

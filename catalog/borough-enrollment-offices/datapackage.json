@@ -1,0 +1,57 @@
+{
+    "name": "borough-enrollment-offices",
+    "datapackage_version": "1.0-beta",
+    "title": "Borough Enrollment Offices",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning",
+        "doe",
+        "education",
+        "enrollment",
+        "jobs and economic mobility",
+        "schools",
+        "borough"
+    ],
+    "description": "Department of Education borough enrollment offices",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/vz8c-29aj/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 13,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1755,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Districts Served",
+        "Phone",
+        "Location 1",
+        "Zip Code",
+        "Hours",
+        "Borough"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/vz8c-29aj",
+    "last_updated": "2014-09-05 17:39:06+00:00",
+    "protocol": "https",
+    "created": "2011-10-11 04:30:05+00:00"
+}

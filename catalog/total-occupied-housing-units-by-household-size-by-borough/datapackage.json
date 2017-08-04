@@ -1,0 +1,60 @@
+{
+    "name": "total-occupied-housing-units-by-household-size-by-borough",
+    "datapackage_version": "1.0-beta",
+    "title": "Total Occupied Housing Units By Household Size By Borough",
+    "version": "N/A",
+    "keywords": [
+        "dcp",
+        "growth",
+        "planning",
+        "household",
+        "population",
+        "city"
+    ],
+    "description": "Details of Occupied Housing Unit numbers by Household size by Borough",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/fmzx-suji/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 917,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Year",
+        "1 Person Households",
+        "2 Person Households",
+        "5 Person Households",
+        "Average Household Size",
+        "4 Person Households",
+        "6 Person Households",
+        "7 or more Person Households",
+        "3 Person Households",
+        "Borough"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/fmzx-suji",
+    "last_updated": "2014-09-05 17:14:41+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 14:57:42+00:00"
+}

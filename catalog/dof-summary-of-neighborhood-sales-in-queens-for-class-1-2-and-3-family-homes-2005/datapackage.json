@@ -1,0 +1,66 @@
+{
+    "name": "dof-summary-of-neighborhood-sales-in-queens-for-class-1-2-and-3-family-homes-2005",
+    "datapackage_version": "1.0-beta",
+    "title": "DOF: Summary of Neighborhood Sales in Queens for Class 1-, 2- and 3-Family homes - 2005",
+    "version": "N/A",
+    "keywords": [
+        "sales",
+        "queens",
+        "family homes",
+        "class-1",
+        "property",
+        "finance",
+        "class-2",
+        "neighborhoods",
+        "class-3",
+        "neighborhood sales",
+        "properties",
+        "borough",
+        "homes",
+        "department of finance",
+        "dof"
+    ],
+    "description": "The Department of Finance (DOF) maintains records for all property sales in New York City, including sales of family homes in each borough. This list is a summary of neighborhood sales for Class 1-, 2- and 3-Family homes in Queens in 2005.\r\n\r\nThis list includes all sales of 1-, 2-, and 3-Family Homes' from January 1st, 2005 to December 31, 2005, whose sale price is equal to or more than $150,000.  The Building Class Category for Sales is based on the Building Class at the time of the",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/7fnf-kyf4/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 163,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 487,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "NUMBER OF SALES",
+        "MEDIAN SALE PRICE",
+        "HIGHEST SALE PRICE",
+        "AVERAGE SALE PRICE",
+        "LOWEST SALE PRICE",
+        "TYPE OF HOME",
+        "NEIGHBORHOOD"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/7fnf-kyf4",
+    "last_updated": "2014-09-05 17:17:06+00:00",
+    "protocol": "https",
+    "created": "2011-10-05 20:57:46+00:00"
+}

@@ -1,0 +1,80 @@
+{
+    "name": "coursestraining-provider-listing",
+    "datapackage_version": "1.0-beta",
+    "title": "Courses/Training Provider Listing",
+    "version": "N/A",
+    "keywords": [
+        "courses",
+        "training",
+        "vocational",
+        "grants",
+        "small business"
+    ],
+    "description": "Listing of vocational training courses eligible for Individual Training Grants",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Small Business Services (SBS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/fgq8-am2v/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 882,
+    "columns": 31,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 506,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Cost Does Not Include",
+        "Cost Total",
+        "Keywords",
+        "CourseDescription",
+        "course name",
+        "Contact LastName",
+        "Contact FirstName",
+        "Financial Aid Services",
+        "Job Placement Services",
+        "Website",
+        "Fax",
+        "Phone1",
+        "Neighborhood",
+        "Borough",
+        "Zip Code",
+        "State",
+        "City",
+        "Address1",
+        "Organization Name",
+        "Is SBS",
+        "Is HRA",
+        "Schedule",
+        "Delivery Method",
+        "Instructor Credentials",
+        "Years Course Offered",
+        "Max Class Size",
+        "Prerequisites",
+        "NumHours",
+        "Duration Unit",
+        "Duration",
+        "Cost Includes"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/fgq8-am2v",
+    "last_updated": "2017-05-22 19:46:48+00:00",
+    "protocol": "https",
+    "created": "2015-05-22 19:55:25+00:00"
+}

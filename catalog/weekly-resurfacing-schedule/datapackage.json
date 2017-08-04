@@ -1,0 +1,45 @@
+{
+    "name": "weekly-resurfacing-schedule",
+    "datapackage_version": "1.0-beta",
+    "title": "Weekly resurfacing schedule",
+    "version": "N/A",
+    "keywords": [
+        "transportation",
+        "weekly",
+        "travel",
+        "condition",
+        "clean web",
+        "resurface",
+        "schedule"
+    ],
+    "description": "RSS Feed displaying the weekly resurfacing schedule",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 46.8876953125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 374,
+    "preferred_mimetype": "text/xml",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/4bg6-ub7f",
+    "last_updated": "2014-09-05 17:22:53+00:00",
+    "protocol": "https",
+    "created": "2011-10-10 21:12:04+00:00"
+}

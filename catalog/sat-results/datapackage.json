@@ -1,0 +1,54 @@
+{
+    "name": "sat-results",
+    "datapackage_version": "1.0-beta",
+    "title": "SAT Results",
+    "version": "N/A",
+    "keywords": [
+        "school",
+        "sat result",
+        "nyc",
+        "lifelong learning"
+    ],
+    "description": "The most recent school level results for New York City on the SAT. Results are available at the school level for the graduating seniors of 2012. Records contain 2012 College-bound seniors mean SAT scores taken during SY 2012.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/f9bf-2cp4/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 478,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 16461,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "SAT Critical Reading Avg. Score",
+        "Num of SAT Test Takers",
+        "SCHOOL NAME",
+        "SAT Math Avg. Score",
+        "SAT Writing Avg. Score",
+        "DBN"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/f9bf-2cp4",
+    "last_updated": "2014-09-05 17:42:09+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 03:28:53+00:00"
+}

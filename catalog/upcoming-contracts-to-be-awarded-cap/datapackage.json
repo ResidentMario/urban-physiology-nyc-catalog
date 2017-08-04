@@ -1,0 +1,66 @@
+{
+    "name": "upcoming-contracts-to-be-awarded-cap",
+    "datapackage_version": "1.0-beta",
+    "title": "Upcoming contracts to be awarded (CAP)",
+    "version": "N/A",
+    "keywords": [
+        "completion",
+        "bid",
+        "education",
+        "sca",
+        "design",
+        "capital",
+        "improvement",
+        "project",
+        "authority",
+        "construction",
+        "complete",
+        "school"
+    ],
+    "description": "New school projects (Capacity)  that will complete design within the next 6 months and will be available for bid.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/6m3u-8rbh/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 25,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 236,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Upcoming Project Seat Count",
+        "Upcoming Project Status ",
+        "Upcoming Project Name",
+        "Upcoming Project Geographic District",
+        "Upcoming Project Borough ",
+        "Upcoming Project Square Footage",
+        "Upcoming Project Design Completion Date",
+        "Upcoming Project Description",
+        "Upcoming Project Category",
+        "Upcoming Project Budget Range"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/6m3u-8rbh",
+    "last_updated": "2017-05-08 19:33:36+00:00",
+    "protocol": "https",
+    "created": "2013-08-22 19:00:41+00:00"
+}

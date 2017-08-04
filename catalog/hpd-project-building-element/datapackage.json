@@ -1,0 +1,59 @@
+{
+    "name": "hpd-project-building-element",
+    "datapackage_version": "1.0-beta",
+    "title": "HPD Project Building Element",
+    "version": "N/A",
+    "keywords": [
+        "department of housing preservation and development",
+        "project building",
+        "hpd"
+    ],
+    "description": "Building-level information for each building in the project such as address, other location identifiers, stories, and square footage at base.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Housing Preservation and Development (HPD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/dhri-72kk/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2312,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 616,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Building ID",
+        "Base Square Footage",
+        "Boro ID",
+        "Street Name",
+        "House Number",
+        "BIN",
+        "Stories",
+        "Project ID",
+        "Block",
+        "Total Building Units",
+        "Lot",
+        "Project Building DW ID"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/dhri-72kk",
+    "last_updated": "2016-03-22 18:26:16+00:00",
+    "protocol": "https",
+    "created": "2014-02-26 21:30:24+00:00"
+}

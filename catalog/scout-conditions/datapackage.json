@@ -1,0 +1,55 @@
+{
+    "name": "scout-conditions",
+    "datapackage_version": "1.0-beta",
+    "title": "SCOUT Conditions",
+    "version": "N/A",
+    "keywords": [
+        "otm",
+        "inspector",
+        "office of the mayor",
+        "scout conditions"
+    ],
+    "description": "Quality of life conditions reported by city inspectors.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of the Mayor (OTM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/kjxa-7ccf/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 251,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 265,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Borough",
+        "Descriptor 1",
+        "# of SRs",
+        "Created Month",
+        "Agency",
+        "Complaint Type",
+        "Community Board"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/kjxa-7ccf",
+    "last_updated": "2014-09-05 17:01:39+00:00",
+    "protocol": "https",
+    "created": "2014-03-06 16:04:56+00:00"
+}

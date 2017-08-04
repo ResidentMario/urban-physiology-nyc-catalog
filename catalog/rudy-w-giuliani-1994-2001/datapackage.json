@@ -1,0 +1,54 @@
+{
+    "name": "rudy-w-giuliani-1994-2001",
+    "datapackage_version": "1.0-beta",
+    "title": "Rudy W. Giuliani, 1994-2001",
+    "version": "N/A",
+    "keywords": [
+        "1994",
+        "2001",
+        "2000",
+        "1999",
+        "1997",
+        "1996",
+        "1995",
+        "records",
+        "mayoral",
+        "mayor",
+        "library",
+        "inventory",
+        "1998",
+        "catalogue",
+        "catalog",
+        "administration"
+    ],
+    "description": "\"This inventory provides folder-level access to the records of the mayoral administration of Rudy W. Giuliani, 1994-2001.\r\n\"",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Records and Information Services (RECORDS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 70024.0322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 245,
+    "preferred_mimetype": "application/x-msaccess",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "mdb",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/wchz-a6hh",
+    "last_updated": "2014-09-05 17:31:24+00:00",
+    "protocol": "https",
+    "created": "2011-10-08 22:53:29+00:00"
+}

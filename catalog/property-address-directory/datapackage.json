@@ -1,0 +1,47 @@
+{
+    "name": "property-address-directory",
+    "datapackage_version": "1.0-beta",
+    "title": "Property Address Directory",
+    "version": "N/A",
+    "keywords": [
+        "tax lot",
+        "lot",
+        "dcp",
+        "pad",
+        "property address directory",
+        "block",
+        "planning",
+        "city planning",
+        "building"
+    ],
+    "description": "The PAD (Property Address Directory) file contains additional geographic information at the tax lot level not found in the PLUTO files.  This data includes alias addresses and Building Identification Numbers (BINs).  It consists of two ASCII, comma delimited files: a tax lot file and an address file.\r\n\r\nNote To Users: A new field (ZIP Code) has been added to the bobaadrx (Address) file.  Please check your procedures to make sure this does not cause any problems.  For earlier versions, see PAD releases on the BYTES of the BIG APPLE archive page.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 79.962890625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 1477,
+    "preferred_mimetype": "application/pdf",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "pdf",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/bc8t-ecyu",
+    "last_updated": "2017-03-09 15:55:23+00:00",
+    "protocol": "https",
+    "created": "2015-06-08 18:32:17+00:00"
+}

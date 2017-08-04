@@ -1,0 +1,50 @@
+{
+    "name": "administrative-code-18-144-park-maintenance-report-payroll-data-fiscal-year-2016",
+    "datapackage_version": "1.0-beta",
+    "title": "Administrative Code 18-144 Park Maintenance Report Payroll Data, Fiscal Year 2016",
+    "version": "N/A",
+    "keywords": [],
+    "description": "This data contains the payroll information for a subset of the NYC Parks responsible for park cleaning & maintenance, and was used to produce the FY2016 report on Park Maintenance as required by Adminstrative Code 18-144. This report can be accessed at https://www.nycgovparks.org/news/archive. Data accuracy is limited by the scale and accuracy of the original sources, which are owned by the Office of Payroll Administration/Financial Information Services Agency (OPA/FISA).",
+    "licenses": [],
+    "sources": [
+        {
+            "title": null
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/caav-grv8/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 11600,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 15,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "borough",
+        "rel_week",
+        "title",
+        "fiscal_qtr",
+        "sector_name",
+        "totalcost",
+        "sector_desc"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/caav-grv8",
+    "last_updated": "2017-04-04 20:55:06+00:00",
+    "protocol": "https",
+    "created": "2017-04-03 14:34:08+00:00"
+}

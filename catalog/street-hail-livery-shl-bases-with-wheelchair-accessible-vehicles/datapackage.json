@@ -1,0 +1,59 @@
+{
+    "name": "street-hail-livery-shl-bases-with-wheelchair-accessible-vehicles",
+    "datapackage_version": "1.0-beta",
+    "title": "Street Hail Livery (SHL) Bases with Wheelchair Accessible Vehicles",
+    "version": "N/A",
+    "keywords": [],
+    "description": "This is a list of Street Hail Livery bases that can dispatch wheelchair accessible vehicles to passengers in their service area. Passengers living in the Bronx, Brooklyn, northern Manhattan, Queens, and Staten Island can call these bases for a wheelchair-accessible Boro Taxi. Information is organized by the borough in which the base is located.\r\n\r\nAll bases on this list have confirmed by phone with the TLC, as of late 2016, that they have at least one affiliated wheelchair accessible TLC-licensed vehicle regularly available for dispatch service, and that they can provide service either on-demand or with a reservation time of less than 24 hours. These bases provide fare quotes with no additional costs for wheelchair accessible service, and have agreed to be part of this list.\r\n\r\nPlease direct dataset content error and/or corrections to cohenr@tlc.nyc.gov.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/9ae4-niad/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 45,
+    "columns": 16,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 38,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Latitude",
+        "NTA",
+        "Longitude",
+        "Council_District",
+        "Community_Board",
+        "Phone",
+        "Location 1",
+        "Address",
+        "Base_Name",
+        "BBL",
+        "BIN",
+        "CENSUS_TRACT",
+        "Last_Updated_Date",
+        "Last_Updated_Time",
+        "Borough",
+        "TLC_License"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/9ae4-niad",
+    "last_updated": "2017-04-11 21:15:52+00:00",
+    "protocol": "https",
+    "created": "2017-03-22 15:41:27+00:00"
+}

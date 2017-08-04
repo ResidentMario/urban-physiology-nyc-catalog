@@ -1,0 +1,66 @@
+{
+    "name": "hpd-development-team-element",
+    "datapackage_version": "1.0-beta",
+    "title": "HPD Development Team  Element",
+    "version": "N/A",
+    "keywords": [
+        "department of housing preservation and development",
+        "hpd",
+        "development team"
+    ],
+    "description": "Development team information for the developer (Borrower Legal Entity), GC, and subcontractors for each project.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Housing Preservation and Development (HPD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/wt5z-2wyg/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 20600,
+    "columns": 19,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 424,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Trade Type",
+        "Individual Role",
+        "Care Of",
+        "Entity Name",
+        "Development Team DW ID",
+        "First Name",
+        "Project ID",
+        "Apartment/Suite/Floor",
+        "Individual Title",
+        "Individual Officer Equivalence",
+        "Zip",
+        "Street Name",
+        "State",
+        "City",
+        "Entity Individual Indicator",
+        "House Number",
+        "Type",
+        "Last Name",
+        "Parent Entity Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/wt5z-2wyg",
+    "last_updated": "2016-03-22 18:19:21+00:00",
+    "protocol": "https",
+    "created": "2014-02-26 21:30:07+00:00"
+}

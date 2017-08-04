@@ -1,0 +1,48 @@
+{
+    "name": "neighborhood-tabulation-areas",
+    "datapackage_version": "1.0-beta",
+    "title": "Neighborhood Tabulation Areas",
+    "version": "N/A",
+    "keywords": [
+        "neighborhood tabulation areas",
+        "city planning",
+        "community",
+        "dcp",
+        "area"
+    ],
+    "description": "data: Boundaries of Neighborhood Tabulation Areas as created by the NYC Department of City Planning using whole census tracts from the 2010 Census as building blocks.  These aggregations of census tracts are subsets of New York City's 55 Public Use Microdata Areas (PUMAs).",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/cpf4-rkhq?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 4074.0224609375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 9849,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/cpf4-rkhq",
+    "last_updated": "2017-03-09 15:31:06+00:00",
+    "protocol": "https",
+    "created": "2013-01-29 23:22:02+00:00"
+}

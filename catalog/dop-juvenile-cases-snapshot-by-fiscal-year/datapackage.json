@@ -1,0 +1,52 @@
+{
+    "name": "dop-juvenile-cases-snapshot-by-fiscal-year",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Juvenile Cases Snapshot by Fiscal Year",
+    "version": "N/A",
+    "keywords": [
+        "snapshot",
+        "fiscal year",
+        "juvenile cases",
+        "probation",
+        "dop"
+    ],
+    "description": "The number of active juvenile probation supervision cases on the last day of the reporting period (June 30)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/4epu-t832/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 55,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 202,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Fiscal Year (ending in June)",
+        "Borough",
+        "Supervision Caseload  Count"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/4epu-t832",
+    "last_updated": "2016-09-16 01:01:18+00:00",
+    "protocol": "https",
+    "created": "2014-06-17 16:46:56+00:00"
+}

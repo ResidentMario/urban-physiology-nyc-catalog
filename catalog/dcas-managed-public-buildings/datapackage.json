@@ -1,0 +1,59 @@
+{
+    "name": "dcas-managed-public-buildings",
+    "datapackage_version": "1.0-beta",
+    "title": "DCAS Managed Public Buildings",
+    "version": "N/A",
+    "keywords": [
+        "building",
+        "department of citywide administrative services (dcas)",
+        "buildings",
+        "building permits",
+        "permit",
+        "permits"
+    ],
+    "description": "This is the list (directory) of Department of Citywide Administrative Services (DCAS) managed public buildings along with the information that the building is DCAS secured or not.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Citywide Administrative Services (DCAS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/xx2p-4jnq/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 55,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 857,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Security",
+        "Custodial Borough Supervisor Phone ",
+        "Building ",
+        "Address",
+        "Custodial Borough Supervisor Name",
+        "Custodial ",
+        "Engineering",
+        "Borough",
+        "DCAS Security ? "
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/xx2p-4jnq",
+    "last_updated": "2014-09-05 17:09:38+00:00",
+    "protocol": "https",
+    "created": "2013-03-06 17:43:44+00:00"
+}

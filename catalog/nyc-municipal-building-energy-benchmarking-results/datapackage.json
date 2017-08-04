@@ -1,0 +1,75 @@
+{
+    "name": "nyc-municipal-building-energy-benchmarking-results",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Municipal Building Energy Benchmarking Results",
+    "version": "N/A",
+    "keywords": [
+        "dcas",
+        "emissions",
+        "energy",
+        "benchmark",
+        "energy intensity",
+        "lot",
+        "municipal building",
+        "block",
+        "nyc",
+        "nyc municipal building energy benchmarking results",
+        "department of citywide administrative services (dcas)"
+    ],
+    "description": "This is a list of New York City municipal buildings over 10,000 square feet by borough, block, lot, and agency, identifying each building\u2019s energy intensity (kBtu/sq. ft.), Portfolio Manager benchmarking rating, where available, and the total GHG emissions for the calendar years 2010 - 2013.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Citywide Administrative Services (DCAS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/vvj6-d5qx/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 3388,
+    "columns": 20,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2814,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2010 GHG Emissions Intensity (kgCO2e/ft\u00b2) \u2020",
+        "2011 Rating * ",
+        "2013 GHG Emissions Intensity (kgCO2e/ft\u00b2) \u2020",
+        "EPAPMBenchmarkedAs",
+        "2012 Rating *",
+        "2011 GHG Emissions Intensity (kgCO2e/ft\u00b2) \u2020",
+        "2010 Rating *",
+        "Lot",
+        "Block",
+        "2013 Rating *",
+        "2013 Source EUI (kBtu/sq.ft.)",
+        "2012 GHG Emissions Intensity (kgCO2e/ft\u00b2) \u2020",
+        "Agency",
+        "Borough",
+        "Campus Name",
+        "BIN",
+        "2010 Source EUI (kBtu/sq.ft.)",
+        "Building",
+        "2011 Source EUI (kBtu/sq.ft.)",
+        "2012 Source EUI (kBtu/sq.ft.)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/vvj6-d5qx",
+    "last_updated": "2015-04-09 20:05:21+00:00",
+    "protocol": "https",
+    "created": "2012-02-14 16:29:21+00:00"
+}

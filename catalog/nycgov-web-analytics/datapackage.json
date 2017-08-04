@@ -1,0 +1,49 @@
+{
+    "name": "nycgov-web-analytics",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC.gov Web Analytics",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Web traffic statistics for the top 2000 most visited pages on nyc.gov by month.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/d5zb-ragj/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 32000,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 685,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Time Period",
+        "Page",
+        "Title",
+        "Visits",
+        "Views",
+        "Average Time Viewed (seconds)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/d5zb-ragj",
+    "last_updated": "2016-11-30 23:20:35+00:00",
+    "protocol": "https",
+    "created": "2015-08-06 14:56:56+00:00"
+}

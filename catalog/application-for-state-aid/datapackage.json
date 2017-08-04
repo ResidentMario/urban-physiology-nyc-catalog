@@ -1,0 +1,49 @@
+{
+    "name": "application-for-state-aid",
+    "datapackage_version": "1.0-beta",
+    "title": "Application for State Aid",
+    "version": "N/A",
+    "keywords": [],
+    "description": "List of project in construction that SCA is applying for aid - these dollars are estimated.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8gpu-s594/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2573,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 137,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "PROJECT NUMBER",
+        "SCHOOL ADDRESS",
+        "PROJECT DESCRIPTION",
+        "BUILDING ID",
+        "SCHOOL NAME",
+        "SED APPROVED ESTIMATE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8gpu-s594",
+    "last_updated": "2016-02-01 15:49:42+00:00",
+    "protocol": "https",
+    "created": "2016-02-01 15:43:55+00:00"
+}

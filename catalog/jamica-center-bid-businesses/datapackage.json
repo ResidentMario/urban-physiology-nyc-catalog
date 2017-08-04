@@ -1,0 +1,58 @@
+{
+    "name": "jamica-center-bid-businesses",
+    "datapackage_version": "1.0-beta",
+    "title": "Jamica Center BID businesses",
+    "version": "N/A",
+    "keywords": [
+        "retail",
+        "stores",
+        "directory",
+        "businesses",
+        "jamaica",
+        "queens"
+    ],
+    "description": "Directory of businesses in the Jamaica Center business district",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Jamaica Center BID"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/x84u-rirx/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 292,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 515,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Store",
+        "Business Phone",
+        "Category",
+        "Bus Zip",
+        "Location 1",
+        "Year Opened",
+        "Bus City",
+        "Business Size"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/x84u-rirx",
+    "last_updated": "2014-09-06 00:11:55+00:00",
+    "protocol": "https",
+    "created": "2011-10-06 17:46:47+00:00"
+}

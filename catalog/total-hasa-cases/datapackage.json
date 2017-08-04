@@ -1,0 +1,45 @@
+{
+    "name": "total-hasa-cases",
+    "datapackage_version": "1.0-beta",
+    "title": "Total HASA Cases",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Total number of HASA cases.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/j7wp-ax4x/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 116,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 184,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Month",
+        "HASA Cases"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/j7wp-ax4x",
+    "last_updated": "2016-11-04 14:10:14+00:00",
+    "protocol": "https",
+    "created": "2016-02-01 17:48:18+00:00"
+}

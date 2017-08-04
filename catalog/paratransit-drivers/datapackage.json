@@ -1,0 +1,58 @@
+{
+    "name": "paratransit-drivers",
+    "datapackage_version": "1.0-beta",
+    "title": "Paratransit Drivers",
+    "version": "N/A",
+    "keywords": [
+        "taxi",
+        "vehicle",
+        "transit",
+        "driver",
+        "transportation",
+        "drive",
+        "travel",
+        "limousine",
+        "paratransit",
+        "van"
+    ],
+    "description": "Lists all TLC paratransit drivers",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8bqd-u9ta/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 3370,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 372,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "License Expiration Date",
+        "License Type",
+        "Name of Licensee",
+        "License Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8bqd-u9ta",
+    "last_updated": "2014-09-05 18:07:56+00:00",
+    "protocol": "https",
+    "created": "2011-08-29 18:19:33+00:00"
+}

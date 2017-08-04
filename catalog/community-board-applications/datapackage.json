@@ -1,0 +1,49 @@
+{
+    "name": "community-board-applications",
+    "datapackage_version": "1.0-beta",
+    "title": "Community Board Applications",
+    "version": "N/A",
+    "keywords": [
+        "community board applications",
+        "manhattan borough president (mbp)",
+        "mbp"
+    ],
+    "description": "This list contains information on community board applications.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Manhattan Borough President (MBP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/a2rn-4ju4/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 8,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 235,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Community Board Topic",
+        "URL"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/a2rn-4ju4",
+    "last_updated": "2014-09-06 00:18:23+00:00",
+    "protocol": "https",
+    "created": "2014-03-06 17:42:43+00:00"
+}

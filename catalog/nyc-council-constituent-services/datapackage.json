@@ -1,0 +1,61 @@
+{
+    "name": "nyc-council-constituent-services",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Council Constituent Services",
+    "version": "N/A",
+    "keywords": [
+        "city countil",
+        "stat",
+        "council",
+        "constituent",
+        "complaints",
+        "requests"
+    ],
+    "description": "The dataset comes from CouncilStat, which is used by many NYC Council district offices to enter and track constituent cases that can range from issues around affordable housing, to potholes and pedestrian safety. This dataset aggregates the information that individual staff have input. However, district staffs handle a wide range of complex issues. Each offices uses the program differently, and thus records cases, differently and so comparisons between accounts may be difficult. Not all offices use the program. For more info - http://labs.council.nyc/districts/data/",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York City Council (NYCC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/b9km-gdpy/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 123000,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1106,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "COUNCIL_DIST",
+        "CITY",
+        "BOROUGH",
+        "ZIP",
+        "DESCRIPTOR",
+        "COMPLAINT_TYPE",
+        "OPENDATE",
+        "ACCOUNT",
+        "UNIQUE_KEY",
+        "CLOSEDATE",
+        "COMMUNITY_BOARD"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/b9km-gdpy",
+    "last_updated": "2017-05-31 18:06:27+00:00",
+    "protocol": "https",
+    "created": "2016-02-24 21:17:54+00:00"
+}

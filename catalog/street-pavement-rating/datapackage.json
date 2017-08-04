@@ -1,0 +1,49 @@
+{
+    "name": "street-pavement-rating",
+    "datapackage_version": "1.0-beta",
+    "title": "Street Pavement Rating",
+    "version": "N/A",
+    "keywords": [
+        "street assessment",
+        "dot",
+        "five boroughs",
+        "transportation",
+        "conditions",
+        "street pavement rating"
+    ],
+    "description": "Current ratings of the conditions of streets throughout the 5 boroughs.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/2cav-chmn?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 32638.3310546875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1361,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/2cav-chmn",
+    "last_updated": "2017-05-31 16:03:30+00:00",
+    "protocol": "https",
+    "created": "2015-07-14 22:54:37+00:00"
+}

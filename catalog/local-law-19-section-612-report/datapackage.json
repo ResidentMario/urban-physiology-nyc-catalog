@@ -1,0 +1,37 @@
+{
+    "name": "local-law-19-section-612-report",
+    "datapackage_version": "1.0-beta",
+    "title": "Local Law 19, Section 612 Report",
+    "version": "N/A",
+    "keywords": [],
+    "description": "The DHS Local Law 19, Section 612 report provides aggregate data on outreach services, permanent housing placements and shelter length of stay",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Homeless Services (DHS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 32.333984375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 264,
+    "preferred_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "xlsx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/29i8-bmct",
+    "last_updated": "2015-03-05 17:11:55+00:00",
+    "protocol": "https",
+    "created": "2015-03-05 17:08:04+00:00"
+}

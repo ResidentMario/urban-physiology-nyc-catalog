@@ -1,0 +1,50 @@
+{
+    "name": "theaters",
+    "datapackage_version": "1.0-beta",
+    "title": "Theaters",
+    "version": "N/A",
+    "keywords": [
+        "entertainment",
+        "show",
+        "theater",
+        "play",
+        "cinema",
+        "movie",
+        "screen"
+    ],
+    "description": "Listing of NYC theaters",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Broadway Theater"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/kdu2-865w?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 34.1865234375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 5163,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/kdu2-865w",
+    "last_updated": "2016-08-27 18:22:38+00:00",
+    "protocol": "https",
+    "created": "2013-04-10 17:54:42+00:00"
+}

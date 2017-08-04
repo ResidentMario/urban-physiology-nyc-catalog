@@ -1,0 +1,66 @@
+{
+    "name": "fy16-pmmr-agency-performance-indicators",
+    "datapackage_version": "1.0-beta",
+    "title": "FY16 PMMR Agency Performance Indicators",
+    "version": "N/A",
+    "keywords": [
+        "management",
+        "operations",
+        "mmr",
+        "metrics",
+        "indicators",
+        "performance",
+        "fy16",
+        "2016",
+        "report",
+        "pmmr",
+        "ops"
+    ],
+    "description": "NYC agency performance indicators from the FY16 Preliminary Mayor's Management Report (PMMR)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Operations (OPS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/q5za-zqz7/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1649,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 264,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Agency",
+        "Critical",
+        "Performance Indicator",
+        "4-Month Actual FY16",
+        "PMMR Goal",
+        "FY14",
+        "TGT16",
+        "4-Month Actual FY15",
+        "FY13",
+        "FY15",
+        "TGT17"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/q5za-zqz7",
+    "last_updated": "2016-02-08 14:59:44+00:00",
+    "protocol": "https",
+    "created": "2016-02-05 22:41:12+00:00"
+}

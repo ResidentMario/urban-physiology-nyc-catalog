@@ -1,0 +1,74 @@
+{
+    "name": "disposition-of-force-allegations-2005",
+    "datapackage_version": "1.0-beta",
+    "title": "Disposition Of Force Allegations 2005",
+    "version": "N/A",
+    "keywords": [
+        "civilian complaint review board",
+        "statistics",
+        "review",
+        "misconduct",
+        "disciplinary recommendation",
+        "complaint activity",
+        "complaint",
+        "civilian",
+        "ccrb",
+        "board",
+        "allegation",
+        "activity",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2005"
+    ],
+    "description": "CCRB: Disposition of Force Allegations 2005",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/9tth-ctyd/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 19,
+    "columns": 13,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 128,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Unfounded rate",
+        "Miscellaneous",
+        "Type of Abuse of Authority Allegation",
+        "Substantiated Number",
+        "Unfounded number",
+        "Exonerated rate",
+        "Miscellaneous rate",
+        "Unsubstantiated rate",
+        "Officer Unidentified rate",
+        "Exonerated number",
+        "Sunstantiated rate",
+        "Officer Unidentified number",
+        "Unsubstantiated number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/9tth-ctyd",
+    "last_updated": "2014-09-05 17:06:30+00:00",
+    "protocol": "https",
+    "created": "2011-09-28 22:42:13+00:00"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "observations-and-statuses-for-inspections",
+    "datapackage_version": "1.0-beta",
+    "title": "Observations And Statuses For Inspections",
+    "version": "N/A",
+    "keywords": [],
+    "description": "List of observations and status for construction project inspections",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/6246-94tp/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2582,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 245,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Inspection Stage Description",
+        "Observation Description",
+        "Inspection Category",
+        "Inspection Date",
+        "TCO Obtained Date",
+        "Borough Name",
+        "School Code"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/6246-94tp",
+    "last_updated": "2017-05-01 20:34:40+00:00",
+    "protocol": "https",
+    "created": "2015-08-12 13:46:01+00:00"
+}

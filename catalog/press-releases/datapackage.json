@@ -1,0 +1,43 @@
+{
+    "name": "press-releases",
+    "datapackage_version": "1.0-beta",
+    "title": "Press Releases",
+    "version": "N/A",
+    "keywords": [
+        "doitt",
+        "press releases",
+        "parks",
+        "dpr",
+        "healthy living"
+    ],
+    "description": "Official New York City Department of Parks & Recreation Press Releases",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 4364.9970703125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 276,
+    "preferred_mimetype": "application/xml",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/y8tr-23bj",
+    "last_updated": "2017-04-11 16:06:39+00:00",
+    "protocol": "https",
+    "created": "2011-08-16 20:24:25+00:00"
+}

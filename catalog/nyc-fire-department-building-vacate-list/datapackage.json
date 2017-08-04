@@ -1,0 +1,60 @@
+{
+    "name": "nyc-fire-department-building-vacate-list",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Fire Department Building Vacate List",
+    "version": "N/A",
+    "keywords": [
+        "fire safety",
+        "vacate",
+        "fire department",
+        "unsafe",
+        "safety",
+        "fdny"
+    ],
+    "description": "List of Buildings declared unsafe and off-limits",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Fire Department of New York City (FDNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/n5xc-7jfa/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 93,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1672,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "street",
+        "area_vac",
+        "typ",
+        "num",
+        "bor",
+        "div",
+        "pf",
+        "sf",
+        "vac_date",
+        "date_of_lif"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/n5xc-7jfa",
+    "last_updated": "2014-09-05 17:25:57+00:00",
+    "protocol": "https",
+    "created": "2013-01-31 20:31:39+00:00"
+}

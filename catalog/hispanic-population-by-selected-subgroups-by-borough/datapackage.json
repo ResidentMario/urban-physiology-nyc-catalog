@@ -1,0 +1,79 @@
+{
+    "name": "hispanic-population-by-selected-subgroups-by-borough",
+    "datapackage_version": "1.0-beta",
+    "title": "Hispanic Population By Selected Subgroups By Borough",
+    "version": "N/A",
+    "keywords": [
+        "race",
+        "borough",
+        "population",
+        "planning",
+        "hispanic",
+        "growth",
+        "dcp",
+        "city"
+    ],
+    "description": "Population details of selected Hispanic groups in New York City Boroughs",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/w9du-8cu6/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5,
+    "columns": 27,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 498,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Puerto Rican",
+        "Borough",
+        "Census Year",
+        "Mexican",
+        "Dominican Republic",
+        " Central American - Honduran",
+        "Central American - CostaRican",
+        "South American - Argentinean",
+        "South American - Chilean",
+        "South American - Peruvian",
+        "South American - Venezuelan",
+        " Central American -  Nicaraguan",
+        " South American - Uruguayan",
+        " South American - Bolivian",
+        "South American - Ecuadorian",
+        " Other South American",
+        "Cuban",
+        " Central American - Guatemalan",
+        "  Central American - Panamanian",
+        " Other Central American",
+        "  Central American - Salvadoran",
+        "South American - Colombian",
+        "South American - Paraguayan",
+        " Other Hispanic - Spanish",
+        " Other Hispanic - Other Spaniard",
+        " All Other Hispanic or Latino",
+        " Other Hispanic - Spanish American"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/w9du-8cu6",
+    "last_updated": "2014-09-05 18:04:11+00:00",
+    "protocol": "https",
+    "created": "2013-02-20 22:12:49+00:00"
+}

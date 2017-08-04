@@ -1,0 +1,70 @@
+{
+    "name": "new-york-citys-school-age-and-65-and-over-populations-by-borough-1950-2040",
+    "datapackage_version": "1.0-beta",
+    "title": "New York City\u2019s School-Age and 65 and Over Populations by Borough, 1950 \u2013 2040",
+    "version": "N/A",
+    "keywords": [
+        "projected population 1950-2040 -\u0080\u0093 school- age-- elderly-- total by borough",
+        "2040",
+        "2000",
+        "dcp"
+    ],
+    "description": "Unadjusted decennial census data from 1950-2000 and projected figures from 2010-2040: summary table of New York City population numbers and percentage share by Borough, including school-age (5 to 17), 65 and Over, and total population.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/xgse-vmv6/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 12,
+    "columns": 22,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 260,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "1990 - Percent of Total Population by Boro",
+        "1950",
+        "1980 - Percent of Total Population by Boro",
+        "Borough",
+        "Age Group",
+        "2040 - Percent of Total Population by Boro",
+        "2000",
+        "2000 - Percent of Total Population by Boro",
+        "2010 - Percent of Total Population by Boro",
+        "2010",
+        "1950 - Percent of Total Population by Boro",
+        "2040",
+        "2020 - Percent of Total Population by Boro",
+        "1960",
+        "2020",
+        "2030 - Percent of Total Population by Boro",
+        "2030",
+        "1960 - Percent of Total Population by Boro",
+        "1970",
+        "1990",
+        "1970 - Percent of Total Population by Boro",
+        "1980"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/xgse-vmv6",
+    "last_updated": "2014-09-05 17:00:12+00:00",
+    "protocol": "https",
+    "created": "2014-04-29 14:30:15+00:00"
+}

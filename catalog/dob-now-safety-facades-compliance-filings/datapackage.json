@@ -1,0 +1,86 @@
+{
+    "name": "dob-now-safety-facades-compliance-filings",
+    "datapackage_version": "1.0-beta",
+    "title": "DOB NOW: Safety \u2013 Facades Compliance Filings",
+    "version": "N/A",
+    "keywords": [
+        "dob",
+        "filings",
+        "facades",
+        "now",
+        "buildings",
+        "compliance"
+    ],
+    "description": "List of all Facades compliance filings submitted in DOB NOW.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Buildings (DOB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/xubg-57si/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 39100,
+    "columns": 36,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1213,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "OWNER_BUS_STREET_NAME",
+        "OWNER_BUS_NAME",
+        "OWNER_CITY",
+        "OWNER_ZIP",
+        "OWNER_STATE",
+        "QEWI_ZIP",
+        "QEWI_STATE",
+        "QEWI_CITY",
+        "QEWI_BUS_STREET_NAME",
+        "QEWI_BUS_NAME",
+        "QEWI_NAME",
+        "CURRENT_STATUS",
+        "SUBMITTED_ON",
+        "COMMENTS",
+        "FAILURE_TO_COLLECT_AMT",
+        "FAILURE_TO_FILE_AMT",
+        "LATE_FILING_AMT",
+        "QEWI_SIGNED_DATE",
+        "FIELD_INSPECTION_COMPLETED_DATE",
+        "PRIOR_STATUS",
+        "PRIOR_CYCLE_FILING_DATE",
+        "SEQUENCE_NO",
+        "LOT",
+        "BLOCK",
+        "TR6_NO",
+        "CONTROL_NO",
+        "FILING_TYPE",
+        "CYCLE",
+        "BIN",
+        "HOUSE_NO",
+        "STREET_NAME",
+        "BOROUGH",
+        "FILING_STATUS",
+        "FILING_DATE",
+        "QEWI_NYS_LIC_NO",
+        "OWNER_NAME"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/xubg-57si",
+    "last_updated": "2017-05-22 19:44:53+00:00",
+    "protocol": "https",
+    "created": "2016-09-09 15:34:48+00:00"
+}

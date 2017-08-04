@@ -1,0 +1,60 @@
+{
+    "name": "facilities-database-shapefile",
+    "datapackage_version": "1.0-beta",
+    "title": "Facilities Database - Shapefile",
+    "version": "N/A",
+    "keywords": [
+        "park",
+        "service",
+        "services",
+        "property",
+        "facility",
+        "selected facilities and program sites: text",
+        "dcp",
+        "facilities",
+        "community",
+        "program",
+        "school",
+        "library",
+        "day care",
+        "foster care",
+        "special needs",
+        "mental health",
+        "housing"
+    ],
+    "description": "The City Planning Facilities Database (FacDB) aggregates information about 35,000+ public and private facilities and program sites that are owned, operated, funded, licensed or certified by a City, State, or Federal agency in the City of New York. It captures facilities that generally help to shape quality of life in the city\u2019s neighborhoods, including schools, day cares, parks, libraries, public safety services, youth programs, community centers, health clinics, workforce development programs, transitional housing, and solid waste and transportation infrastructure sites. To facilitate analysis and mapping, the data is available in coma-separated values (CSV) file format, ESRI Shapefile, and GeoJSon. The data is also complemented with a new interactive web map that enables users to easily filter the data for their needs. Users are strongly encouraged to read the database documentation, particularly with regard to analytical limitations.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/2fpa-bnsx?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 47638.314453125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2058,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/2fpa-bnsx",
+    "last_updated": "2017-05-24 16:03:25+00:00",
+    "protocol": "https",
+    "created": "2015-07-14 17:30:29+00:00"
+}

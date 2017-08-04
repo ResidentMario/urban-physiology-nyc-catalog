@@ -1,0 +1,44 @@
+{
+    "name": "real-time-traffic-speed-data",
+    "datapackage_version": "1.0-beta",
+    "title": "Real-Time Traffic Speed Data",
+    "version": "N/A",
+    "keywords": [
+        "clean web",
+        "vehicles",
+        "automobile",
+        "bus",
+        "car",
+        "truck"
+    ],
+    "description": "NYCDOT's Traffic Management Center (TMC) maintains a map of traffic speed detectors throughout the City. The speed detector themselves belong to various city and state agencies. The Traffic Speeds Map is available on the DOT's website (http://nyctmc.org/ ). This data feed contains 'real-time' traffic information from locations where NYCDOT picks up sensor feeds within the five boroughs, mostly on major arterials and highways. NYCDOT uses this information for emergency response and management.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 67.9638671875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 24906,
+    "preferred_mimetype": "text/plain",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "pl",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/xsat-x5sa",
+    "last_updated": "2016-08-05 21:51:41+00:00",
+    "protocol": "https",
+    "created": "2011-10-10 23:32:56+00:00"
+}

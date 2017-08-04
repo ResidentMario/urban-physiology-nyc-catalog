@@ -1,0 +1,60 @@
+{
+    "name": "capital-commitments-preladpt",
+    "datapackage_version": "1.0-beta",
+    "title": "Capital Commitments--Prel\\Adpt",
+    "version": "N/A",
+    "keywords": [
+        "management",
+        "budget",
+        "capital",
+        "omb",
+        "funds"
+    ],
+    "description": "This dataset contains capital commitment data for project type, budget line and managing agency by city and non-City funds.   The dollar values in this table are rounded to thousands and are exclusive of IFA to match the commitment numbers published in the Preliminary and  Adopted Budget Capital Commitment Plan publication.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Management and Budget (OMB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/svqu-rx2s/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 3770,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 48,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Fiscal Year 4 $ amount",
+        "Funding Type",
+        "Fiscal Year 2 $ amount",
+        "Budget Line Description",
+        "Project Type",
+        "Project Type Description",
+        "Budget Line",
+        "Published Date",
+        "Fiscal Year 1 $ amount",
+        "Fiscal Year 3 $ amount",
+        "First Fiscal Year"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/svqu-rx2s",
+    "last_updated": "2017-02-09 15:17:01+00:00",
+    "protocol": "https",
+    "created": "2016-11-29 23:00:21+00:00"
+}

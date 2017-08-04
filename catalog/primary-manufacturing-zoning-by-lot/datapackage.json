@@ -1,0 +1,59 @@
+{
+    "name": "primary-manufacturing-zoning-by-lot",
+    "datapackage_version": "1.0-beta",
+    "title": "Primary Manufacturing Zoning by lot",
+    "version": "N/A",
+    "keywords": [
+        "lot",
+        "manufacture",
+        "business",
+        "economic development",
+        "cartography",
+        "manufacturing",
+        "map",
+        "pluto",
+        "property",
+        "zone",
+        "zoning",
+        "2005",
+        "economic development corporation",
+        "edc",
+        "geographic",
+        "location"
+    ],
+    "description": "Primary Zoning by lot Based on PLUTO 2005",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Economic Development Corporation (EDC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/kxg8-856s?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 5365.9873046875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1066,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/kxg8-856s",
+    "last_updated": "2016-08-27 18:24:08+00:00",
+    "protocol": "https",
+    "created": "2013-04-10 15:22:02+00:00"
+}

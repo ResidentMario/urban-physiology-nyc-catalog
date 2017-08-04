@@ -1,0 +1,55 @@
+{
+    "name": "current-medallion-drivers",
+    "datapackage_version": "1.0-beta",
+    "title": "Current Medallion Drivers",
+    "version": "N/A",
+    "keywords": [
+        "taxi",
+        "cab",
+        "tlc",
+        "medallion",
+        "license",
+        "driver"
+    ],
+    "description": "This dataset is no longer being updated by the New York City Taxi and Limousine Commission. Please update your links to the links listed below. Thank you.\r\n\r\nMedallion Drivers - Active:\r\nhttps://data.cityofnewyork.us/Transportation/Medallion-Drivers-Active/n776-dsqy",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/s22f-jsd4/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 8189999,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 3590,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Name of Licensee",
+        "Date Updated",
+        "License Number",
+        "License Type",
+        "License Expiration Date"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/s22f-jsd4",
+    "last_updated": "2014-09-05 17:24:26+00:00",
+    "protocol": "https",
+    "created": "2012-09-06 14:30:32+00:00"
+}

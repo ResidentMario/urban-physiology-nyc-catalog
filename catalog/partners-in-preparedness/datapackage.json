@@ -1,0 +1,50 @@
+{
+    "name": "partners-in-preparedness",
+    "datapackage_version": "1.0-beta",
+    "title": "Partners in Preparedness",
+    "version": "N/A",
+    "keywords": [
+        "preparedness",
+        "management",
+        "emergency",
+        "oem",
+        "services"
+    ],
+    "description": "List of orgarnizations who have completed the necessary Emergency Preparedness tasks",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of Emergency Management (OEM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/h4jn-x3ty/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 94,
+    "columns": 1,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 303,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Partners in Preparedness"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/h4jn-x3ty",
+    "last_updated": "2016-08-01 17:00:02+00:00",
+    "protocol": "https",
+    "created": "2013-02-26 19:48:20+00:00"
+}

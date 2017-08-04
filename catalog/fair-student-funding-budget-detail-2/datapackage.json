@@ -1,0 +1,67 @@
+{
+    "name": "fair-student-funding-budget-detail-2",
+    "datapackage_version": "1.0-beta",
+    "title": "Fair Student Funding Budget Detail 2",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Fair Student Funding Budget Detail FY 2015 - Part II This detail data contains one row for each school's data and calculations displayed on the Details screen starting from the \"TOTAL FAIR STUDENT FUNDING WEIGHTED REGISTER AND FORMULA\" to the bottom of the page.\r\nClick Here for further information- http://schools.nyc.gov/offices/d_chanc_oper/budget/dbor/allocationmemo/fy14_15/Fair_School_Funding_FY2015.html",
+    "licenses": [],
+    "sources": [
+        {
+            "title": null
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/nbgq-j9jt/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1577,
+    "columns": 24,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 218,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Label h: Foundation for New Schools",
+        "Total Column R: Register Dollar Change",
+        "Location",
+        "Weighted Register",
+        "Label d: Initial Fair Student Funding Allocations Total",
+        "Label a: FY14 Revised Based Allocations ",
+        "Total Column N: FY14 Actual Registers",
+        "Label w: Final School FSF Percent",
+        "Total Column Q: Register Change",
+        "Label j: FY15 Fair Student Formula at 100%",
+        "Label g: Teacher Salary Growth",
+        "System-wide Teacher Salary Growth",
+        "Calculation j: FSF Formula at 100%",
+        "As_Of_Date",
+        "Foundation",
+        "Label t: Change to Preliminary Fair Student Funding Percentage Capped at 100%",
+        "Calculation j:  Initial Fair Student Funding Allocations Total  ",
+        "Total Column O: Projected Register",
+        "Label f: Register Change Allocation Based on School's Percent of Formula",
+        "Label g: Teacher Salary Growth 2",
+        "Calculation j: Foundation ",
+        "Label s: Fair Student Funding Register Formula",
+        "Total Column P: Projected Formula",
+        "Fiscal_Year"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/nbgq-j9jt",
+    "last_updated": "2015-11-12 14:49:55+00:00",
+    "protocol": "https",
+    "created": "2015-10-19 19:23:23+00:00"
+}

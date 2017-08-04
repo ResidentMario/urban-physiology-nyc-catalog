@@ -1,0 +1,46 @@
+{
+    "name": "skateparks",
+    "datapackage_version": "1.0-beta",
+    "title": "Skateparks",
+    "version": "N/A",
+    "keywords": [
+        "parks",
+        "dpr",
+        "skateparks"
+    ],
+    "description": "Directory of Skateparks",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/kjtf-e6kp?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 37.5048828125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 611,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/kjtf-e6kp",
+    "last_updated": "2016-08-27 18:24:43+00:00",
+    "protocol": "https",
+    "created": "2013-11-25 18:46:01+00:00"
+}

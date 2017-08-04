@@ -1,0 +1,56 @@
+{
+    "name": "2000-census-tracts-water-areas-included",
+    "datapackage_version": "1.0-beta",
+    "title": "2000 Census Tracts (water areas included)",
+    "version": "N/A",
+    "keywords": [
+        "map",
+        "cartography",
+        "boundary",
+        "water",
+        "poll",
+        "survey",
+        "block",
+        "2000 census tracts (water areas included)",
+        "water area",
+        "geographic",
+        "location",
+        "census",
+        "dcp"
+    ],
+    "description": "GIS data: Boundaries of 2000 Census Tracts (water areas included)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/bmax-4kci?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 4369.974609375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 104,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/bmax-4kci",
+    "last_updated": "2017-03-09 15:39:37+00:00",
+    "protocol": "https",
+    "created": "2015-03-04 17:37:13+00:00"
+}

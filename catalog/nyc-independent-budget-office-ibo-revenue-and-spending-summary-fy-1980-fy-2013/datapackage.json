@@ -1,0 +1,89 @@
+{
+    "name": "nyc-independent-budget-office-ibo-revenue-and-spending-summary-fy-1980-fy-2013",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Independent Budget Office (IBO) Revenue And Spending Summary FY 1980 - FY 2013",
+    "version": "N/A",
+    "keywords": [
+        "state categorical aid",
+        "revenue",
+        "property",
+        "personal income",
+        "nyc independent budget office (ibo) revenue and spending summary fy 1980 - fy 2013",
+        "non-governmental grants",
+        "fund transfers and disallowances charges for services",
+        "fines",
+        "federal categorical aid",
+        "expenditure"
+    ],
+    "description": "Annual revenue and spending data by major areas of the budget from FY 1980 through FY 1963",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYC Independent Budget Office (IBO)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/7zhs-43jt/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 27,
+    "columns": 35,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 251,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "FY 2004",
+        "FY 1993",
+        "FY 1992",
+        "FY 1991",
+        "FY 1998",
+        "FY 1997",
+        "FY  1996",
+        "FY 2006",
+        "FY 1999",
+        "FY 1985",
+        "FY 2000",
+        "FY 2001",
+        "FY 2002",
+        "Revenue and Expenditure Summary (in millions)",
+        "FY 2013",
+        "FY 2012",
+        "FY 2011",
+        "FY 2010",
+        "FY 2009",
+        "FY 2008",
+        "FY 1986",
+        "FY 1983",
+        "FY 1984",
+        "FY 1989",
+        "FY 1990",
+        "FY 1995",
+        "FY 1987",
+        "FY 1988",
+        "FY 1981",
+        "FY 1982",
+        "FY 1980",
+        "FY 2007",
+        "FY 1994",
+        "FY 2003",
+        "FY 2005"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/7zhs-43jt",
+    "last_updated": "2014-10-27 14:03:46+00:00",
+    "protocol": "https",
+    "created": "2014-03-03 18:21:14+00:00"
+}

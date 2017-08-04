@@ -1,0 +1,54 @@
+{
+    "name": "directory-of-bronx-future-parks",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Of Bronx Future Parks",
+    "version": "N/A",
+    "keywords": [
+        "future",
+        "healthy living",
+        "park",
+        "recreation",
+        "dpr",
+        "bronx"
+    ],
+    "description": "List of Bronx Future Parks with their Categories and Nature of Activity",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ssk8-4egt/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 64,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 532,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Park Name",
+        "Category",
+        "Description of Work",
+        "Status"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ssk8-4egt",
+    "last_updated": "2014-09-05 17:11:18+00:00",
+    "protocol": "https",
+    "created": "2013-01-29 16:49:59+00:00"
+}

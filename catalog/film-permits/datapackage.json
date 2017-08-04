@@ -1,0 +1,61 @@
+{
+    "name": "film-permits",
+    "datapackage_version": "1.0-beta",
+    "title": "Film Permits",
+    "version": "N/A",
+    "keywords": [
+        "permits",
+        "mome",
+        "film"
+    ],
+    "description": "Permits are generally required when asserting the exclusive use of city property, like a sidewalk, a street, or a park. See http://www1.nyc.gov/site/mome/permits/when-permit-required.page",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor\u2019s Office of Media and Entertainment (MOME)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/tg4x-b46p/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 41400,
+    "columns": 14,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1444,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Category",
+        "EventType",
+        "StartDateTime",
+        "Borough",
+        "Country",
+        "EndDateTime",
+        "EnteredOn",
+        "EventID",
+        "SubCategoryName",
+        "EventAgency",
+        "CommunityBoard(s)",
+        "PolicePrecinct(s)",
+        "ParkingHeld",
+        "ZipCode(s)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/tg4x-b46p",
+    "last_updated": "2017-05-31 19:47:26+00:00",
+    "protocol": "https",
+    "created": "2015-07-27 16:07:21+00:00"
+}

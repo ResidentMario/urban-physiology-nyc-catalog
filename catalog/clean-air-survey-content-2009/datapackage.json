@@ -1,0 +1,49 @@
+{
+    "name": "clean-air-survey-content-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "Clean Air Survey Content (2009)",
+    "version": "N/A",
+    "keywords": [
+        "pollution",
+        "air",
+        "bigapps",
+        "big apps",
+        "clean air",
+        "clean air survey",
+        "#cleanweb",
+        "#education",
+        "nyccas",
+        "healthy living",
+        "#environment"
+    ],
+    "description": "The New York City (NYC) Community Air Survey (NYCCAS) is a study of street level air pollution across NYC neighborhoods. Measurements are taken at 150 locations throughout NYC each season of the year. This downloadable set contains CSV data, metadata, and reports from the survey",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Health and Mental Hygiene (DOHMH)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 86.5322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 1769,
+    "preferred_mimetype": "application/CDFV2-unknown",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "db",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/fmhd-mfkw",
+    "last_updated": "2014-09-05 17:50:14+00:00",
+    "protocol": "https",
+    "created": "2012-06-29 17:36:23+00:00"
+}

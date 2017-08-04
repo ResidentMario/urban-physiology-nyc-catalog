@@ -1,0 +1,63 @@
+{
+    "name": "fy2013-mmr-data-extract",
+    "datapackage_version": "1.0-beta",
+    "title": "FY2013 MMR Data Extract",
+    "version": "N/A",
+    "keywords": [],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": null
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/6xp4-c9qp/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 35900,
+    "columns": 20,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 528,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        ""
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Conditional Formatting",
+        "Indicator ID",
+        "Raw value",
+        "Format Type",
+        "Fiscal Year",
+        "Measure Type",
+        "Geography",
+        "Indicator Sequence",
+        "Sub-Indicator",
+        "Indicator Name",
+        "Agency",
+        "Record Type",
+        "Value Number FF",
+        "Value Percent FF",
+        "Value Time FF",
+        "Value Currency FF",
+        "SubIndicator Sequence",
+        "Desired Direction",
+        "Value Ratio FF",
+        "Critical Flag"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/6xp4-c9qp",
+    "last_updated": "2017-01-25 18:03:16+00:00",
+    "protocol": "https",
+    "created": "2013-09-13 02:29:40+00:00"
+}

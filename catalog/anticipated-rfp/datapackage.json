@@ -1,0 +1,51 @@
+{
+    "name": "anticipated-rfp",
+    "datapackage_version": "1.0-beta",
+    "title": "Anticipated RFP",
+    "version": "N/A",
+    "keywords": [
+        "sca",
+        "rfp"
+    ],
+    "description": "List of upcoming Requests for Proposals",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/p8e4-uwuv/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 123,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Services",
+        "Department",
+        "Estimated Cost of Service per Contract",
+        "Data as of Date",
+        "Anticipated number of Contracts"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/p8e4-uwuv",
+    "last_updated": "2015-02-17 22:20:39+00:00",
+    "protocol": "https",
+    "created": "2015-02-17 22:17:26+00:00"
+}

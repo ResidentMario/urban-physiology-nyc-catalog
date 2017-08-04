@@ -1,0 +1,53 @@
+{
+    "name": "2010-2011-class-size-citywide-distribution",
+    "datapackage_version": "1.0-beta",
+    "title": "2010-2011 Class Size - Citywide Distribution",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning"
+    ],
+    "description": "This file shows the range and distribution of class sizes within a particular grade and program type. For grades 5-9 (where available) and 9-12, the data are shown by program type and core subject.\r\nBased on January 28, 2011 data.\r\n* Grade 9 Official Class data is included for 0K-09 schools. Core Course information for these sections is not reported.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/4s7y-vm5x/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 513,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 242,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "GRADE LEVEL",
+        "NUMBER OF CLASSES",
+        "CLASS SIZE",
+        "PROGRAM TYPE",
+        "PERCENT OF STUDENTS IN PROGRAM / GRADE / SUBJECT",
+        "NUMBER OF STUDENTS",
+        "SERVICE CATEGORY",
+        "CORE SUBJECT"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/4s7y-vm5x",
+    "last_updated": "2014-09-05 17:40:57+00:00",
+    "protocol": "https",
+    "created": "2011-10-14 17:52:34+00:00"
+}

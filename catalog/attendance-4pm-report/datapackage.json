@@ -1,0 +1,53 @@
+{
+    "name": "attendance-4pm-report",
+    "datapackage_version": "1.0-beta",
+    "title": "Attendance 4PM Report",
+    "version": "N/A",
+    "keywords": [
+        "attendance",
+        "schools",
+        "doe",
+        "education"
+    ],
+    "description": "Statistical report that provides daily school wide attendance each day for all schools at 4:00pm. Attendance figures are \"accurate\" as of 4:00pm, but not final as schools continue to submit data after preliminary report is generated.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/madj-gkhr/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 501000,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 452,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "%_OF_ATTD_TAKEN",
+        "SCHOOL_YEAR",
+        "DATE",
+        "SCHOOL_DBN",
+        "REGISTER"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/madj-gkhr",
+    "last_updated": "2017-05-31 21:08:58+00:00",
+    "protocol": "https",
+    "created": "2015-12-31 18:03:16+00:00"
+}

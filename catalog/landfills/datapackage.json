@@ -1,0 +1,46 @@
+{
+    "name": "landfills",
+    "datapackage_version": "1.0-beta",
+    "title": "Landfills",
+    "version": "N/A",
+    "keywords": [
+        "dpr",
+        "landfills",
+        "parks"
+    ],
+    "description": "Directory of Landfills",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/6gvx-hydd?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 149.1337890625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 490,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/6gvx-hydd",
+    "last_updated": "2016-08-27 18:19:38+00:00",
+    "protocol": "https",
+    "created": "2013-11-25 18:07:33+00:00"
+}

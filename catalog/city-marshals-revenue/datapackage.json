@@ -1,0 +1,48 @@
+{
+    "name": "city-marshals-revenue",
+    "datapackage_version": "1.0-beta",
+    "title": "City Marshals Revenue",
+    "version": "N/A",
+    "keywords": [],
+    "description": "This dataset contains annual revenue statistics compiled by the Agency's Marshal's Unit (2010 - 2015).",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Investigation (DOI)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/7ewi-9cdf/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 274,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 34,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Adjusted Gross Fee & Poundage",
+        "Assessment Fee",
+        "Marshal Last Name",
+        "Net Income - Marshal's Office",
+        "Year"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/7ewi-9cdf",
+    "last_updated": "2017-02-06 15:00:08+00:00",
+    "protocol": "https",
+    "created": "2016-11-30 00:43:27+00:00"
+}

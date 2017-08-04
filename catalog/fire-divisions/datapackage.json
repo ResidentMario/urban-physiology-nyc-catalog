@@ -1,0 +1,56 @@
+{
+    "name": "fire-divisions",
+    "datapackage_version": "1.0-beta",
+    "title": "Fire Divisions",
+    "version": "N/A",
+    "keywords": [
+        "cartography",
+        "fire divisions",
+        "dcp",
+        "geographic",
+        "location",
+        "map",
+        "safety",
+        "fire",
+        "flame",
+        "boundary",
+        "fireman",
+        "firemen",
+        "division"
+    ],
+    "description": "GIS data: Boundaries of Fire Divisions",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/hkpx-aaxc?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 3113.8876953125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 388,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/hkpx-aaxc",
+    "last_updated": "2017-03-09 16:44:45+00:00",
+    "protocol": "https",
+    "created": "2013-01-29 21:12:49+00:00"
+}

@@ -1,0 +1,47 @@
+{
+    "name": "inmate-assault-on-staff",
+    "datapackage_version": "1.0-beta",
+    "title": "Inmate Assault on Staff",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Inmate assaults on staff (uniform staff only; incidents resulting in UOF only).",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Correction (DOC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/erra-pzy8/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1062,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 98,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "INCIDENT_TYPE",
+        "INCIDENT_ID",
+        "REASON",
+        "REPORTED_DT"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/erra-pzy8",
+    "last_updated": "2017-05-01 14:12:06+00:00",
+    "protocol": "https",
+    "created": "2016-03-23 18:29:41+00:00"
+}

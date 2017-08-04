@@ -1,0 +1,47 @@
+{
+    "name": "boardwalk",
+    "datapackage_version": "1.0-beta",
+    "title": "Boardwalk",
+    "version": "N/A",
+    "keywords": [
+        "planimetrics",
+        "doitt gis",
+        "doitt boardwalk",
+        "doittgis"
+    ],
+    "description": "Boardwalks along beachfront. Please see the following link for additional documentation- https://github.com/CityOfNewYork/nyc-planimetrics/blob/master/Capture_Rules.md.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/htur-iwux?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 1220.0146484375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 332,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/htur-iwux",
+    "last_updated": "2016-08-27 18:31:58+00:00",
+    "protocol": "https",
+    "created": "2014-11-17 23:34:02+00:00"
+}

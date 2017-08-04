@@ -1,0 +1,53 @@
+{
+    "name": "fdny-fire-rule",
+    "datapackage_version": "1.0-beta",
+    "title": "FDNY Fire Rule",
+    "version": "N/A",
+    "keywords": [
+        "fire safety",
+        "safety",
+        "fdny",
+        "fire department rule",
+        "fire department"
+    ],
+    "description": "RULES OF THE FIRE DEPARTMENT OF THE CITY OF NEW YORK \r\n(TITLE 3 OF THE RULES OF THE CITY OF NEW YORK)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Fire Department of New York City (FDNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/y6ih-4ijb/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 193,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 399,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Fire Department Rule Number",
+        "Fire Department Rule Description",
+        "Chapter Number",
+        "Chapter Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/y6ih-4ijb",
+    "last_updated": "2014-09-05 17:42:11+00:00",
+    "protocol": "https",
+    "created": "2013-01-23 20:17:16+00:00"
+}

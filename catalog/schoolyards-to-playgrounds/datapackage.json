@@ -1,0 +1,46 @@
+{
+    "name": "schoolyards-to-playgrounds",
+    "datapackage_version": "1.0-beta",
+    "title": "Schoolyards To Playgrounds",
+    "version": "N/A",
+    "keywords": [
+        "dpr",
+        "parks",
+        "schoolyards to playgrounds"
+    ],
+    "description": "Directory of Schoolyard to playground conversions",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/urxm-vzzk?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 203.83984375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 480,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/urxm-vzzk",
+    "last_updated": "2016-08-27 18:31:11+00:00",
+    "protocol": "https",
+    "created": "2013-11-25 18:44:37+00:00"
+}

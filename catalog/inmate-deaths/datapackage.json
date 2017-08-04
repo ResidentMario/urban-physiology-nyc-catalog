@@ -1,0 +1,46 @@
+{
+    "name": "inmate-deaths",
+    "datapackage_version": "1.0-beta",
+    "title": "Inmate Deaths",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Non-natural deaths of inmates in custody.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Correction (DOC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/f64t-5yiv/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 183,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "INCIDENT_ID",
+        "REPORTED_DT",
+        "INCIDENT_TYPE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/f64t-5yiv",
+    "last_updated": "2017-05-01 19:27:41+00:00",
+    "protocol": "https",
+    "created": "2016-03-23 18:29:28+00:00"
+}

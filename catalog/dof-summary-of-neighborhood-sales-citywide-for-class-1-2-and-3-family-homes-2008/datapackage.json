@@ -1,0 +1,66 @@
+{
+    "name": "dof-summary-of-neighborhood-sales-citywide-for-class-1-2-and-3-family-homes-2008",
+    "datapackage_version": "1.0-beta",
+    "title": "DOF: Summary of Neighborhood Sales Citywide for Class 1-, 2- and 3-Family homes - 2008",
+    "version": "N/A",
+    "keywords": [
+        "finance",
+        "borough",
+        "citywide",
+        "class-1",
+        "sales",
+        "class-2",
+        "class-3",
+        "department of finance",
+        "properties",
+        "property",
+        "dof",
+        "family homes",
+        "homes",
+        "neighborhoods",
+        "neighborhood sales"
+    ],
+    "description": "The Department of Finance (DOF) maintains records for all property sales in New York City, including sales of family homes in each borough. This list is a summary of all neighborhood sales for Class 1-, 2- and 3-Family homes Citywide in 2008.\r\n\r\nThis list includes all sales of 1-, 2-, and 3-Family Homes' from January 1st, 2008 to December 31, 2008, whose sale price is equal to or more than $150,000.  The Building Class Category for Sales is based on the Building Class at the time of the sale.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ugc2-6t2g/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 18,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 212,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "BOROUGH",
+        "BUILDING CLASS CATEGORY",
+        " MEDIAN SALE PRICE ",
+        " MAXIMUM SALE PRICE ",
+        " NUMBER OF SALES ",
+        " MINIMUM SALE PRICE ",
+        " AVERAGE SALE PRICE "
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ugc2-6t2g",
+    "last_updated": "2014-09-05 18:03:49+00:00",
+    "protocol": "https",
+    "created": "2011-10-05 18:37:16+00:00"
+}

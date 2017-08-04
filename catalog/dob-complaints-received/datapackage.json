@@ -1,0 +1,62 @@
+{
+    "name": "dob-complaints-received",
+    "datapackage_version": "1.0-beta",
+    "title": "DOB Complaints Received",
+    "version": "N/A",
+    "keywords": [
+        "complaints",
+        "buildings",
+        "dob"
+    ],
+    "description": "A list of complaints received and associated data. Prior monthly reports are archived at DOB and are not available on NYC Open Data.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Buildings (DOB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/eabe-havv/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1010000,
+    "columns": 15,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 10709,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Status",
+        "Complaint Number",
+        "DOBRunDate",
+        "Inspection Date",
+        "Disposition Code",
+        "Disposition Date",
+        "Unit",
+        "Complaint Category",
+        "Special District",
+        "Community Board",
+        "BIN",
+        "House Street",
+        "ZIP Code",
+        "House Number",
+        "Date Entered"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/eabe-havv",
+    "last_updated": "2017-05-31 20:27:06+00:00",
+    "protocol": "https",
+    "created": "2013-04-18 15:19:10+00:00"
+}

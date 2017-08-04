@@ -1,0 +1,52 @@
+{
+    "name": "nycha-application-priority-codes",
+    "datapackage_version": "1.0-beta",
+    "title": "NYCHA Application Priority Codes",
+    "version": "N/A",
+    "keywords": [
+        "subsidized housing",
+        "application",
+        "nycha",
+        "nyc housing",
+        "public housing"
+    ],
+    "description": "Priority codes assigned to applicants by NYCHA",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York City Housing Authority (NYCHA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/2ei9-vg68/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2857,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Title",
+        "Description",
+        "Priority Code"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/2ei9-vg68",
+    "last_updated": "2014-09-05 17:14:38+00:00",
+    "protocol": "https",
+    "created": "2013-03-28 19:11:16+00:00"
+}

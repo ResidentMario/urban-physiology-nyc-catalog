@@ -1,0 +1,51 @@
+{
+    "name": "2012-2013-school-zones",
+    "datapackage_version": "1.0-beta",
+    "title": "2012-2013 School Zones",
+    "version": "N/A",
+    "keywords": [
+        "student",
+        "zone",
+        "school zones",
+        "map",
+        "lifelong learning",
+        "gis",
+        "geodatabase",
+        "education",
+        "doe",
+        "board of ed",
+        "2013",
+        "2012-2013 school zones",
+        "2012"
+    ],
+    "description": "2012-2013 School Zones (as of July 1, 2012).  Files are in a GIS Shapefile format.  They are broken down by elementary school zones (NYC_E) and middle school zones (NYC_M)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 0.2607421875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 669,
+    "preferred_mimetype": "text/plain",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "log",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/4szu-rxzq",
+    "last_updated": "2014-09-05 17:56:48+00:00",
+    "protocol": "https",
+    "created": "2012-08-28 15:35:04+00:00"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "approved-licensees-and-registrants-for-trade-waste",
+    "datapackage_version": "1.0-beta",
+    "title": "Approved licensees and registrants for trade waste",
+    "version": "N/A",
+    "keywords": [
+        "wholesale",
+        "approved",
+        "registration",
+        "license",
+        "trade waste",
+        "vendor"
+    ],
+    "description": "Approved licensees and registrants for trade waste",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Business Integrity Commission (BIC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/tphb-2tdm/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2124,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1158,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "MAILING OFFICE",
+        "Location 1",
+        "MAIL CITY",
+        "MSTAT",
+        "BUS NAME",
+        "TYPE",
+        "COMP PHONE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/tphb-2tdm",
+    "last_updated": "2014-09-05 18:08:44+00:00",
+    "protocol": "https",
+    "created": "2011-10-08 21:33:33+00:00"
+}

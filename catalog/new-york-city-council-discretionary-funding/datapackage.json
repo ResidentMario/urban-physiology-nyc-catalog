@@ -1,0 +1,65 @@
+{
+    "name": "new-york-city-council-discretionary-funding",
+    "datapackage_version": "1.0-beta",
+    "title": "New York City Council Discretionary Funding",
+    "version": "N/A",
+    "keywords": [
+        "schedule c",
+        "city council",
+        "funding",
+        "discretionary"
+    ],
+    "description": "The dataset reflects applications for discretionary funding to be allocated by the New York City Council in the upcoming fiscal year (July 1 - June 30)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "City Council (NYCC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/q2ni-ztsb/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 19200,
+    "columns": 17,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2615,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Status",
+        "Agency",
+        "Fiscal Conduit Name",
+        "Fiscal Year",
+        "Legal Name of Organization",
+        "Purpose of Funds",
+        "FC EIN",
+        "EIN",
+        "Zip Code",
+        "City",
+        "Council Member",
+        "Street Address 1",
+        "Street Address 2",
+        "Program Name",
+        "Amount ($)",
+        "State",
+        "Source"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/q2ni-ztsb",
+    "last_updated": "2014-09-05 17:26:40+00:00",
+    "protocol": "https",
+    "created": "2012-06-08 19:12:57+00:00"
+}

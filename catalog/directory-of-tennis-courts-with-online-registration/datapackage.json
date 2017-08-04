@@ -1,0 +1,56 @@
+{
+    "name": "directory-of-tennis-courts-with-online-registration",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Of Tennis Courts With Online Registration",
+    "version": "N/A",
+    "keywords": [
+        "online",
+        "tennis",
+        "registration",
+        "dpr",
+        "healthy living",
+        "recreation",
+        "park"
+    ],
+    "description": "List of Tennis Courts with the facility of registering online",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/j6ik-kjbs/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 12,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 345,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Walk-on Courts",
+        "Last Reservation",
+        "First Reservation",
+        "Reservation Courts",
+        "Location"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/j6ik-kjbs",
+    "last_updated": "2014-09-05 17:13:27+00:00",
+    "protocol": "https",
+    "created": "2013-01-24 15:41:42+00:00"
+}

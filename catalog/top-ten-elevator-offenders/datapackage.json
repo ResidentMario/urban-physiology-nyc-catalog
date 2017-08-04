@@ -1,0 +1,62 @@
+{
+    "name": "top-ten-elevator-offenders",
+    "datapackage_version": "1.0-beta",
+    "title": "Top Ten Elevator Offenders",
+    "version": "N/A",
+    "keywords": [
+        "dob",
+        "clean web",
+        "buildings",
+        "master plumber",
+        "offender",
+        "plumber",
+        "surrender of privileges",
+        "2011",
+        "electrician",
+        "architect",
+        "disciplinary actions",
+        "2010",
+        "engineer",
+        "department of buildings",
+        "elevator"
+    ],
+    "description": "Top Ten Elevator Offenders",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Buildings (DOB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/u3bu-v2bf/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 10,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2968,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Street Address",
+        "Owner",
+        "Location 1"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/u3bu-v2bf",
+    "last_updated": "2014-09-05 18:11:40+00:00",
+    "protocol": "https",
+    "created": "2011-10-11 00:51:45+00:00"
+}

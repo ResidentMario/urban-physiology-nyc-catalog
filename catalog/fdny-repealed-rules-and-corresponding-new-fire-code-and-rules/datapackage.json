@@ -1,0 +1,55 @@
+{
+    "name": "fdny-repealed-rules-and-corresponding-new-fire-code-and-rules",
+    "datapackage_version": "1.0-beta",
+    "title": "FDNY Repealed  Rules And Corresponding New Fire Code And Rules",
+    "version": "N/A",
+    "keywords": [
+        "fire department",
+        "fire code",
+        "fdny",
+        "building standards",
+        "new fire code",
+        "safety",
+        "fire rule",
+        "fire safety"
+    ],
+    "description": "Repealed Rules and the replacement new codes and rules",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Fire Department of New York City (FDNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/isrj-349k/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 160,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 351,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Repealed Section Title",
+        "New Code (FC)/Rule (R) Section",
+        "Repealed Rule (RCNY) Section"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/isrj-349k",
+    "last_updated": "2014-09-05 17:26:29+00:00",
+    "protocol": "https",
+    "created": "2013-01-31 16:13:28+00:00"
+}

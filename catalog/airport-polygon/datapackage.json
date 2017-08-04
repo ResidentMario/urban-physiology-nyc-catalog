@@ -1,0 +1,46 @@
+{
+    "name": "airport-polygon",
+    "datapackage_version": "1.0-beta",
+    "title": "Airport Polygon",
+    "version": "N/A",
+    "keywords": [
+        "doitt gis",
+        "airport polygon",
+        "doittgis"
+    ],
+    "description": "Airport Polygon",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/xfhz-rhsk?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 45.9267578125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 459,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/xfhz-rhsk",
+    "last_updated": "2016-08-27 18:21:46+00:00",
+    "protocol": "https",
+    "created": "2014-11-18 00:36:00+00:00"
+}

@@ -1,0 +1,68 @@
+{
+    "name": "directory-of-nycha-community-facilities",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of NYCHA Community Facilities",
+    "version": "N/A",
+    "keywords": [
+        "nycha",
+        "head start",
+        "day care",
+        "community facility",
+        "lunch program",
+        "health clinic",
+        "community center",
+        "senior center",
+        "nyc housing"
+    ],
+    "description": "Community Facilities (Centers) that are on NYCHA property with programs either sponsored by NYCHA or by a non-NYCHA entity. All programs are open to the public. The file contains development name, address, city, state, zipcode, telephone #, sponsoring organization and contact person. \r\n\r\nThis file is updated on a need basis.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York City Housing Authority (NYCHA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/crns-fw6u/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 536,
+    "columns": 15,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1593,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "STATE",
+        "SPONSOR",
+        "YEAR",
+        "MONTH",
+        "PROGRAM TYPE",
+        "COUNT AS",
+        "TELEPHONE",
+        "ZIP",
+        "TYPE",
+        "FUNDING AGENCY",
+        "BOROUGH",
+        "CITY",
+        "DIRECTOR",
+        "DEVELOPMENT",
+        "ADDRESS"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/crns-fw6u",
+    "last_updated": "2014-09-05 17:49:01+00:00",
+    "protocol": "https",
+    "created": "2013-03-28 21:01:03+00:00"
+}

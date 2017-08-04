@@ -1,0 +1,72 @@
+{
+    "name": "graduation-outcomes-school-level-classes-of-2005-2011-ell",
+    "datapackage_version": "1.0-beta",
+    "title": "Graduation Outcomes - School Level Classes of 2005-2011 - ELL",
+    "version": "N/A",
+    "keywords": [
+        "ell",
+        "school",
+        "graduation outcome",
+        "lifelong learning"
+    ],
+    "description": "Latest available data and trends in graduation and dropout outcomes by school and ELL status.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/i37z-2ty9/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 14500,
+    "columns": 24,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 277,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Still Enrolled Num",
+        "Demographic",
+        "Cohort Category",
+        "Dropped Out Pct of cohort",
+        "Cohort Year",
+        "Dropped Out Num",
+        "Advanced Regents Num",
+        "Advanced Regents Pct of cohort",
+        "School Name",
+        "Total Grads Pct of cohort",
+        "Total Grads Num",
+        "Total Cohort Num",
+        "DBN",
+        "Local Pct of grads",
+        "Total Regents Num",
+        "Local Num",
+        "Local Pct of cohort",
+        "Still Enrolled Pct of cohort",
+        "Regents w/o Advanced Num",
+        "Total Regents Pct of cohort",
+        "Total Regents Pct of grads",
+        "Regents w/o Advanced Pct of cohort",
+        "Regents w/o Advanced Pct of grads",
+        "Advanced Regents Pct of grads"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/i37z-2ty9",
+    "last_updated": "2014-09-05 17:17:55+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 02:40:27+00:00"
+}

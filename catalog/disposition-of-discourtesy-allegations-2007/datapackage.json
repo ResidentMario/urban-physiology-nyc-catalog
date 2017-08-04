@@ -1,0 +1,74 @@
+{
+    "name": "disposition-of-discourtesy-allegations-2007",
+    "datapackage_version": "1.0-beta",
+    "title": "Disposition Of Discourtesy Allegations 2007",
+    "version": "N/A",
+    "keywords": [
+        "review",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "activity",
+        "allegation",
+        "board",
+        "ccrb",
+        "civilian",
+        "complaint",
+        "statistics",
+        "misconduct",
+        "civilian complaint review board",
+        "disciplinary recommendation",
+        "complaint activity"
+    ],
+    "description": "CCRB: Disposition of Discourtesy Allegations 2007",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/xnpc-vebg/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 6,
+    "columns": 13,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 100,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Unfounded number",
+        "Officer Unidentified rate",
+        "Substantiated Number",
+        "Miscellaneous",
+        "Type of Abuse of Authority Allegation",
+        "Unsubstantiated rate",
+        "Sunstantiated rate",
+        "Officer Unidentified number",
+        "Exonerated rate",
+        "Exonerated number",
+        "Unsubstantiated number",
+        "Miscellaneous rate",
+        "Unfounded rate"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/xnpc-vebg",
+    "last_updated": "2014-09-05 16:58:48+00:00",
+    "protocol": "https",
+    "created": "2011-09-28 22:15:29+00:00"
+}

@@ -1,0 +1,45 @@
+{
+    "name": "adopt-a-tree-inventory",
+    "datapackage_version": "1.0-beta",
+    "title": "Adopt-a-Tree Inventory",
+    "version": "N/A",
+    "keywords": [
+        "milliontreesnyc",
+        "healthy living",
+        "parks",
+        "adopt-a-tree",
+        "dpr",
+        "tree",
+        "inventory"
+    ],
+    "description": "This shapefile is the dataset that underlies the MillionTreesNYC Adopt-a-Tree web mapping application at http://stewardship.nycparks.org/",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 5103.4423828125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 777,
+    "preferred_mimetype": "application/octet-stream",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "shx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/sg2s-hjt6",
+    "last_updated": "2014-09-05 17:46:03+00:00",
+    "protocol": "https",
+    "created": "2012-06-28 16:09:51+00:00"
+}

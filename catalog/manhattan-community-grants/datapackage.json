@@ -1,0 +1,58 @@
+{
+    "name": "manhattan-community-grants",
+    "datapackage_version": "1.0-beta",
+    "title": "Manhattan Community Grants",
+    "version": "N/A",
+    "keywords": [
+        "manhattan borough president (mbp)",
+        "manhattan community grants",
+        "mbp"
+    ],
+    "description": "This list contains information on Manhattan Community Grants",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Manhattan Borough President (MBP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/rsnd-bbih/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 300,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 576,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "ZIP",
+        "Brief Program Description ",
+        "Agency",
+        "City",
+        "New Applicant?",
+        "PROGRAM NAME",
+        "State",
+        "Address",
+        "RECOMMENDED FUNDING",
+        "REQUESTED FUNDING",
+        " MBPO ORGANIZATION                     DFTA - FY 14"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/rsnd-bbih",
+    "last_updated": "2014-09-06 00:18:20+00:00",
+    "protocol": "https",
+    "created": "2014-03-06 17:40:35+00:00"
+}

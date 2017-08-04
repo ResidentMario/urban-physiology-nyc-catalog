@@ -1,0 +1,82 @@
+{
+    "name": "nyc-jobs",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Jobs",
+    "version": "N/A",
+    "keywords": [
+        "nycaps",
+        "career",
+        "vacancy",
+        "posting",
+        "job posting",
+        "employment",
+        "employment opportunities",
+        "jobs",
+        "nycaps careers",
+        "hiring",
+        "job search",
+        "nyc jobs"
+    ],
+    "description": "This dataset contains current job postings available on the  City of New York\u2019s official jobs site (http://www.nyc.gov/html/careers/html/search/search.shtml).  Internal postings available to city employees and external postings available to the general public are included.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Citywide Administrative Services (DCAS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/kpav-sd4t/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 3453,
+    "columns": 26,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 23312,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Salary Frequency",
+        "Salary Range From",
+        "Level",
+        "# Of Positions",
+        "Posting Type",
+        "Agency",
+        "Minimum Qual Requirements",
+        "Preferred Skills",
+        "Additional Information",
+        "Job ID",
+        "To Apply",
+        "Hours/Shift",
+        "Work Location 1",
+        "Recruitment Contact",
+        "Civil Service Title",
+        "Title Code No",
+        "Business Title",
+        "Residency Requirement",
+        "Posting Date",
+        "Post Until",
+        "Posting Updated",
+        "Process Date",
+        "Job Description",
+        "Division/Work Unit",
+        "Work Location",
+        "Salary Range To"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/kpav-sd4t",
+    "last_updated": "2017-05-30 19:50:58+00:00",
+    "protocol": "https",
+    "created": "2013-04-18 17:40:16+00:00"
+}

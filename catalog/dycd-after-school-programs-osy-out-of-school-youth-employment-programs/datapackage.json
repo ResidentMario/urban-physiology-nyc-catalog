@@ -1,0 +1,75 @@
+{
+    "name": "dycd-after-school-programs-osy-out-of-school-youth-employment-programs",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD after-school programs: OSY Out Of School Youth Employment Programs",
+    "version": "N/A",
+    "keywords": [
+        "after-school programs",
+        "youth",
+        "young adult",
+        "osy",
+        "jobs",
+        "development",
+        "education",
+        "employment",
+        "children",
+        "in-school",
+        "internship",
+        "community development",
+        "internships",
+        "services",
+        "community",
+        "jobs and economic mobility",
+        "child",
+        "programs",
+        "school",
+        "job",
+        "lifelong learning",
+        "after-school",
+        "youth employment"
+    ],
+    "description": "Facilities in New York City, by agency and site, that offer \u201cOut-Of -School Youth Employment (OSY) Program\u201d after-school  job and internship programs for young adults ages 16 to 21.\r\nUpdate Frequency: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/36hn-wea6/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 20,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1364,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "AGENCY",
+        "PROGRAM TYPE",
+        "PROGRAM",
+        "BOROUGH / COMMUNITY",
+        "Contact Number",
+        "Grade Level / Age Group ",
+        "Location 1",
+        "SITE NAME"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/36hn-wea6",
+    "last_updated": "2014-09-05 17:44:42+00:00",
+    "protocol": "https",
+    "created": "2011-09-01 20:39:32+00:00"
+}

@@ -1,0 +1,80 @@
+{
+    "name": "hiv-testing-locations",
+    "datapackage_version": "1.0-beta",
+    "title": "HIV Testing Locations",
+    "version": "N/A",
+    "keywords": [
+        "hiv",
+        "test",
+        "aids",
+        "dohmh",
+        "health"
+    ],
+    "description": "Location and facility information for places in New York City that provide HIV testing.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Health and Mental Hygiene (DOHMH)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/72ss-25qh/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 599,
+    "columns": 31,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 403,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Health"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Site ID",
+        "Other Insurances",
+        "Free",
+        "Sliding Fee",
+        "Zip Code",
+        "Medicare",
+        "Medicaid",
+        "Phone Number",
+        "Agency ID",
+        "Website",
+        "Genders Served",
+        "Low Cost",
+        "Ages Served",
+        "Intake",
+        "Required Documents",
+        "Borough",
+        "City",
+        "State",
+        "Building Floor Suite",
+        "Address",
+        "Hours Saturday",
+        "Hours Friday",
+        "Brief Description",
+        "Hours Sunday",
+        "Additional Information",
+        "Site Languages",
+        "Hours Tuesday",
+        "Hours Monday",
+        "Hours Thursday",
+        "Hours Wednesday",
+        "Site Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/72ss-25qh",
+    "last_updated": "2017-02-03 23:25:35+00:00",
+    "protocol": "https",
+    "created": "2016-03-10 20:03:33+00:00"
+}

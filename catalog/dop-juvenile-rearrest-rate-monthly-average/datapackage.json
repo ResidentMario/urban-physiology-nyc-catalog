@@ -1,0 +1,49 @@
+{
+    "name": "dop-juvenile-rearrest-rate-monthly-average",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Juvenile Rearrest Rate (Monthly Average)",
+    "version": "N/A",
+    "keywords": [
+        "dop"
+    ],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/c87b-2j3i/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 13,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 106,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Year",
+        "Region",
+        "Month",
+        "Rate"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/c87b-2j3i",
+    "last_updated": "2017-04-27 19:46:36+00:00",
+    "protocol": "https",
+    "created": "2016-08-02 17:52:37+00:00"
+}

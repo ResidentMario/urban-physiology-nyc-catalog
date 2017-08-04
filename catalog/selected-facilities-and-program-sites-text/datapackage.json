@@ -1,0 +1,55 @@
+{
+    "name": "selected-facilities-and-program-sites-text",
+    "datapackage_version": "1.0-beta",
+    "title": "Selected Facilities and Program Sites: Text",
+    "version": "N/A",
+    "keywords": [
+        "day care",
+        "foster care",
+        "dcp",
+        "selected facilities and program sites: text",
+        "housing",
+        "library",
+        "park",
+        "school",
+        "program",
+        "community",
+        "facilities",
+        "facility",
+        "property",
+        "services",
+        "service",
+        "mental health",
+        "special needs"
+    ],
+    "description": "Data providing the location, type and capacity of public and private community facilities in New York City, including schools, parks, libraries, public safety, day care, foster care, special needs housing, health and mental health facilities and programs.  Additional data included to provide location of transportation and waste management facilities.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 653.0576171875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 680,
+    "preferred_mimetype": "application/pdf",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "pdf",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/94qw-aaee",
+    "last_updated": "2017-01-20 19:37:15+00:00",
+    "protocol": "https",
+    "created": "2011-10-08 00:35:46+00:00"
+}

@@ -1,0 +1,47 @@
+{
+    "name": "vehicles",
+    "datapackage_version": "1.0-beta",
+    "title": "Vehicles",
+    "version": "N/A",
+    "keywords": [],
+    "description": "OPT maintains an inventory of all the vehicles used by contracted bus vendors in service to the Department of Education. The vehicles inventory can include school buses, ambulances or coach buses. This dataset details the active vehicle inventory for each bus vendor. \r\nThere are a variety of different vehicles used to serve students requiring curb-to-curb service because an Individualized Education Plan (IEP) indicates specific transportation needs. The standard bus is the only vehicle used for general education students eligible for bus service but who do not have an IEP.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/28rh-vpvr/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 355,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 407,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Active_Vehicles",
+        "Vehicle_TypeDescription",
+        "Vendor_Name",
+        "School_Year"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/28rh-vpvr",
+    "last_updated": "2017-05-01 10:40:43+00:00",
+    "protocol": "https",
+    "created": "2015-11-13 21:50:01+00:00"
+}

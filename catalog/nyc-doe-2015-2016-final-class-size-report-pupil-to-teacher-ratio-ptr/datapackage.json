@@ -1,0 +1,46 @@
+{
+    "name": "nyc-doe-2015-2016-final-class-size-report-pupil-to-teacher-ratio-ptr",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC DOE 2015-2016 Final Class Size Report Pupil-to-Teacher Ratio (PTR)",
+    "version": "N/A",
+    "keywords": [],
+    "description": "New York City Department of Education\r\n2015-16 Final Class Size Report\r\nSchool Pupil-to-Teacher Ratio (PTR)\r\nGeneral Education (Gen Ed) and Integrated Co-Teaching (ICT)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/rtws-c2ai/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1571,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 225,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "School Name",
+        "School Pupil-Teacher Ratio",
+        "DBN"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/rtws-c2ai",
+    "last_updated": "2016-03-14 20:15:27+00:00",
+    "protocol": "https",
+    "created": "2016-03-11 20:30:05+00:00"
+}

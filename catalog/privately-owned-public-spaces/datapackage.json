@@ -1,0 +1,47 @@
+{
+    "name": "privately-owned-public-spaces",
+    "datapackage_version": "1.0-beta",
+    "title": "Privately Owned Public Spaces",
+    "version": "N/A",
+    "keywords": [
+        "public",
+        "privately owned public spaces",
+        "private",
+        "incentive",
+        "dcp",
+        "database",
+        "zoning",
+        "zone",
+        "space"
+    ],
+    "description": "Database with detailed information about all public spaces in all boroughs that was created as a result of the City's incentive zoning program",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 268.0322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 4400,
+    "preferred_mimetype": "application/x-msaccess",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "mdb",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/fum3-ejky",
+    "last_updated": "2014-09-05 17:26:23+00:00",
+    "protocol": "https",
+    "created": "2011-10-08 00:44:03+00:00"
+}

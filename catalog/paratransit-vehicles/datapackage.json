@@ -1,0 +1,60 @@
+{
+    "name": "paratransit-vehicles",
+    "datapackage_version": "1.0-beta",
+    "title": "Paratransit Vehicles",
+    "version": "N/A",
+    "keywords": [
+        "transportation",
+        "paratransit",
+        "taxi",
+        "transit",
+        "travel",
+        "van",
+        "vehicle",
+        "limousine"
+    ],
+    "description": "Lists all TLC paratransit vehicles",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/v39y-4v3t/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2418,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 531,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "DMV License Plate",
+        "Affiliated Base License Number",
+        "Model Year",
+        "License Type",
+        "Name of Licensee",
+        "License Expiration Date",
+        "License Number",
+        "VIN"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/v39y-4v3t",
+    "last_updated": "2014-09-05 18:08:55+00:00",
+    "protocol": "https",
+    "created": "2011-08-29 18:24:36+00:00"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "dycd-rhy-runaway-and-homeless-youth-services",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD RHY (Runaway and Homeless Youth) Services",
+    "version": "N/A",
+    "keywords": [
+        "geographic",
+        "cartography",
+        "basemap",
+        "runaway",
+        "run",
+        "rhy",
+        "map",
+        "youth",
+        "location",
+        "homeless"
+    ],
+    "description": "Runaway and Homeless Youth Services",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/h682-ywyg?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 5.2080078125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 650,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/h682-ywyg",
+    "last_updated": "2016-08-27 18:29:51+00:00",
+    "protocol": "https",
+    "created": "2013-04-05 19:46:12+00:00"
+}

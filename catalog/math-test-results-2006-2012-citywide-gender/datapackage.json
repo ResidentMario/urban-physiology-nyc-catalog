@@ -1,0 +1,64 @@
+{
+    "name": "math-test-results-2006-2012-citywide-gender",
+    "datapackage_version": "1.0-beta",
+    "title": "Math Test Results 2006-2012 - Citywide - Gender",
+    "version": "N/A",
+    "keywords": [
+        "citywide",
+        "lifelong learning",
+        "gender",
+        "grade",
+        "math test result"
+    ],
+    "description": "Latest available data and trends in the state assessment results of math for grades 3 through 8. Data are disaggregated by gender.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/2bh6-qmgg/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 98,
+    "columns": 15,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 277,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Num Level 2",
+        "Number Tested",
+        "Year",
+        "Grade",
+        "Num Level 3 and 4",
+        "Pct Level 3 and 4",
+        "Pct Level 1",
+        "Pct Level 2",
+        "Pct Level 4",
+        "Demographic",
+        "Num Level 4",
+        "Pct Level 3",
+        "Num Level 3",
+        "Num Level 1",
+        "Mean Scale Score"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/2bh6-qmgg",
+    "last_updated": "2014-09-05 17:42:57+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 02:44:34+00:00"
+}

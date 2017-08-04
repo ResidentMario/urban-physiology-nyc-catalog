@@ -1,0 +1,66 @@
+{
+    "name": "taxi-improvement-fund-tif-medallion-payments",
+    "datapackage_version": "1.0-beta",
+    "title": "Taxi Improvement Fund (TIF) Medallion Payments",
+    "version": "N/A",
+    "keywords": [
+        "tif",
+        "wheelchair vehicle",
+        "medallion",
+        "taxi improvement fund",
+        "wheelchair grant",
+        "wheelchair accessible vehicle",
+        "taxi",
+        "tlc",
+        "wav",
+        "taxi improvement",
+        "$14",
+        "wav fund",
+        "wav grant",
+        "000"
+    ],
+    "description": "This is a list of monthly payments made to owners of Wheelchair Accessible Vehicles (WAVs) from the Taxi Improvement Fund (TIF). Information is listed by medallion and agent number, and is updated after each payment is distributed from the Taxi Improvement Fund, approximately once per month. For more information see the TIF Owner page (http://www.nyc.gov/html/tlc/html/industry/taxi_improvement_fund_owner.shtml).\r\n\r\nIf you have questions or comments on this data set, please contact the Taxi Improvement Fund Project Team at TIF@TLC.NYC.GOV or visit the TIF Frequently Asked Questions page: http://www.nyc.gov/html/tlc/html/industry/taxi_improvement_fund_faq.shtml/.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ht4t-wzcm/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2228,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 623,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Agent Number",
+        "Last Time Updated",
+        "Last Date Updated",
+        "Payment Date",
+        "Total Payment Amount",
+        "Operational Payment Amount",
+        "Hackup Payment Amount",
+        "License Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ht4t-wzcm",
+    "last_updated": "2017-05-05 16:45:48+00:00",
+    "protocol": "https",
+    "created": "2016-11-17 14:57:46+00:00"
+}

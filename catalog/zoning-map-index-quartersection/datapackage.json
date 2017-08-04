@@ -1,0 +1,47 @@
+{
+    "name": "zoning-map-index-quartersection",
+    "datapackage_version": "1.0-beta",
+    "title": "Zoning Map Index: Quartersection",
+    "version": "N/A",
+    "keywords": [
+        "city planning",
+        "dcp",
+        "map",
+        "zoning"
+    ],
+    "description": "Shapefile of zoning quartersection map index. Grid to determine which zoning quartersection map relates to specific areas of NYC.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/58k2-kgtb?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 81.6494140625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 100,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/58k2-kgtb",
+    "last_updated": "2016-09-12 21:46:34+00:00",
+    "protocol": "https",
+    "created": "2016-09-12 19:21:07+00:00"
+}

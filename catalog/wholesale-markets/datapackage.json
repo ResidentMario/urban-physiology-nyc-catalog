@@ -1,0 +1,74 @@
+{
+    "name": "wholesale-markets",
+    "datapackage_version": "1.0-beta",
+    "title": "Wholesale Markets",
+    "version": "N/A",
+    "keywords": [
+        "gansevoort",
+        "hunts point",
+        "fish",
+        "produce",
+        "business integrity commission",
+        "meat",
+        "brooklyn",
+        "bic",
+        "nycbic",
+        "wholesale markets"
+    ],
+    "description": "Dataset notating the approved wholesale market companies in the various markets BIC regulates.\r\nThis data is collected on the entities that apply with the Commission to operate as wholesale market companies throughout the City of New York\r\n\r\nEach record represents an entity that is approved to operate in the City of New York by the Commission. \r\n\r\nThe BIC Number field is unique to every company that applies to the Commission. For wholesale market companies, the beginning letters indicate the market for which the company is located:\r\n\r\nHPA - Hunts Point Adjacent Area\r\nHPP - Hunts Point Product Market\r\nHPM - Hunts Point Meat Market\r\nFFM - Hunts Point Fulton Fish Market \r\nGMM - Gansevoort Meat Market",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Business Integrity Commission (BIC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/87fx-28ei/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 10100,
+    "columns": 20,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 118,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "PHONE",
+        "LATITUDE",
+        "APPLICATION TYPE",
+        "CENSUS_TRACT",
+        "CITY",
+        "STATE",
+        "EXPORT DATE",
+        "BIN",
+        "BBL",
+        "POSTCODE",
+        "COUNCIL_DISTRICT",
+        "CREATED",
+        "ACCOUNT NAME",
+        "TRADE NAME",
+        "ADDRESS",
+        "COMMUNITY_BOARD",
+        "LONGITUDE",
+        "NTA",
+        "MARKET",
+        "BIC NUMBER"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/87fx-28ei",
+    "last_updated": "2017-05-31 20:05:54+00:00",
+    "protocol": "https",
+    "created": "2017-03-10 21:14:47+00:00"
+}

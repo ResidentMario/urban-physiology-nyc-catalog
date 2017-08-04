@@ -1,0 +1,68 @@
+{
+    "name": "dycd-after-school-programs-nda-educational-middle-school-programs",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD after-school programs: NDA Educational Middle School Programs",
+    "version": "N/A",
+    "keywords": [
+        "children",
+        "child",
+        "education",
+        "development",
+        "community development",
+        "community",
+        "youth",
+        "services",
+        "after-school",
+        "school",
+        "neighborhood development area",
+        "neighborhood",
+        "nda",
+        "middle school",
+        "lifelong learning",
+        "jobs and economic mobility"
+    ],
+    "description": "Facilities in New York City, by agency and site, that offer \u201cNeighborhood Development Area (NDA) Educational Middle School Programs\u201d after-school  programs for children in Middle School.\r\nUpdate Schedule: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/6rg9-pfbz/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 70,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 341,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "SITE NAME",
+        "PROGRAM",
+        "Location 1",
+        "AGENCY",
+        "BOROUGH / COMMUNITY",
+        "PROGRAM TYPE",
+        "Grade Level / Age Group ",
+        "Contact Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/6rg9-pfbz",
+    "last_updated": "2014-09-05 17:43:42+00:00",
+    "protocol": "https",
+    "created": "2011-09-01 16:42:10+00:00"
+}

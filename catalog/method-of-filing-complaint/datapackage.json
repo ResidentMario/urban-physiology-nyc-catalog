@@ -1,0 +1,56 @@
+{
+    "name": "method-of-filing-complaint",
+    "datapackage_version": "1.0-beta",
+    "title": "Method of Filing Complaint",
+    "version": "N/A",
+    "keywords": [
+        "electronically",
+        "fax",
+        "inperson",
+        "mail",
+        "nypd",
+        "telephone",
+        "ccrb"
+    ],
+    "description": "This table represents the method adopted to file a complaint",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/7iqe-jary/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 3,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 164,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "By Telephone",
+        "By Fax / Mail",
+        "In-person",
+        "Electronically",
+        "Year"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/7iqe-jary",
+    "last_updated": "2014-09-05 17:10:52+00:00",
+    "protocol": "https",
+    "created": "2013-02-25 21:41:54+00:00"
+}

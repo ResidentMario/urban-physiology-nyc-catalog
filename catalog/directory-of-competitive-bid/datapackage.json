@@ -1,0 +1,56 @@
+{
+    "name": "directory-of-competitive-bid",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Of Competitive Bid",
+    "version": "N/A",
+    "keywords": [
+        "department of design and construction",
+        "ddc",
+        "bids",
+        "competitive"
+    ],
+    "description": "This table displays currently advertised projects (type of work), estimated range ($) for project completion, bid date, time and projects description along with Project ID. It also provides link to plan holders information.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Design and Construction (DDC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/2eq2-trdu/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 43,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 424,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "#",
+        "BID DATE & TIME\u00a0\u00a0\u00a0",
+        "PIN\u00a0\u00a0\u00a0",
+        "TYPE OF WORK\u00a0\u00a0\u00a0",
+        "ESTIMATED $ RANGE\u00a0\u00a0\u00a0",
+        "DESCRIPTION\u00a0\u00a0\u00a0",
+        "PROJ ID\u00a0\u00a0\u00a0",
+        "PLAN HOLDERS"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/2eq2-trdu",
+    "last_updated": "2014-09-05 17:16:03+00:00",
+    "protocol": "https",
+    "created": "2013-03-06 13:33:35+00:00"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "nycha-psa-police-service-areas",
+    "datapackage_version": "1.0-beta",
+    "title": "NYCHA PSA (Police Service Areas)",
+    "version": "N/A",
+    "keywords": [
+        "location",
+        "cartography",
+        "basemap",
+        "map",
+        "police",
+        "police service area",
+        "public safety",
+        "safety",
+        "crime"
+    ],
+    "description": "Police Service Areas boundaries.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York City Housing Authority (NYCHA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/72wx-vdjr?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 3.5751953125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1648,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/72wx-vdjr",
+    "last_updated": "2016-09-15 21:58:46+00:00",
+    "protocol": "https",
+    "created": "2013-04-09 17:38:53+00:00"
+}

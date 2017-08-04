@@ -1,0 +1,51 @@
+{
+    "name": "empire-zones",
+    "datapackage_version": "1.0-beta",
+    "title": "Empire Zones",
+    "version": "N/A",
+    "keywords": [
+        "zone",
+        "location",
+        "map",
+        "empire",
+        "basemap",
+        "geographic",
+        "development",
+        "cartography"
+    ],
+    "description": "The polygons in this dataset represent boundaries of New York City business districts under\r\nThe New York State Empire Zone (EZ) Program which offers a wide array of incentives\r\nincluding tax credits and utility discounts.\r\nThis dataset originates from the NYS GIS clearinghouse and is processed for use within New\r\nYork City.\r\nhttps://gis.ny.gov/gisdata/inventories/details.cfm?DSID=895",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/3aim-ipk8?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 854.716796875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 701,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/3aim-ipk8",
+    "last_updated": "2017-02-06 15:22:02+00:00",
+    "protocol": "https",
+    "created": "2013-04-05 19:54:32+00:00"
+}

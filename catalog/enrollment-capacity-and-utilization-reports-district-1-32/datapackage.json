@@ -1,0 +1,79 @@
+{
+    "name": "enrollment-capacity-and-utilization-reports-district-1-32",
+    "datapackage_version": "1.0-beta",
+    "title": "Enrollment Capacity and Utilization Reports District 1-32",
+    "version": "N/A",
+    "keywords": [
+        "sca",
+        "facility",
+        "school",
+        "authority",
+        "utilization",
+        "capacity",
+        "construction",
+        "education",
+        "enrollment"
+    ],
+    "description": "This dataset is no longer maintained. Updated enrollment capacity and utilization data can be found at https://data.cityofnewyork.us/Education/Enrollment-Capacity-And-Utilization-Reports-Histor/hq56-zhrp\r\nhttps://data.cityofnewyork.us/Education/Enrollment-Capacity-And-Utilization-Reports-Histor/q9xk-w9iv\r\nhttps://data.cityofnewyork.us/Education/Enrollment-Capacity-And-Utilization-Reports-Target/gkd7-3vk7\r\nhttps://data.cityofnewyork.us/Education/Enrollment-Capacity-And-Utilization-Reports-Target/8b9a-pywy\r\n\r\nEnrollment, capacity and utilization data for every elementary and middle school building and schools in those buildings.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/my4g-bvvs/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2044,
+    "columns": 26,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 708,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Org Utilization\n(Target)",
+        "Org Over Under\n(Target)",
+        "District",
+        "Org Adjusted Capacity\n(Target)",
+        "Inclusionary",
+        "Bldg Over/Under\n(Historical)",
+        "Bldg Utilization\n(Target)",
+        "Bldg\nEnroll",
+        "Org Utilization\n(Historical)",
+        "Bldg Adjusted Capacity\n(Historical)",
+        "Org Over/Under\n(Historical)",
+        "Building Name",
+        "Org Adjusted Capacity (Historical)",
+        "Bldg\nI.D.",
+        "Bldg\nLevel",
+        "No. of \nSpecial Rms \nUsed",
+        "Bldg Capacity\n(Target)",
+        "Org\nEnroll",
+        "Bldg Over/Under\n(Target)",
+        "No. of Target \nMethod \nCluster Rms",
+        "No. of Actual Cluster Rms Used",
+        "No. of Historical Method Cluster Rms ",
+        "Pre K Cap",
+        "Bldg Utilization\n(Historical)",
+        "Org ID",
+        "Organization Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/my4g-bvvs",
+    "last_updated": "2015-05-12 21:02:08+00:00",
+    "protocol": "https",
+    "created": "2013-04-18 15:19:14+00:00"
+}

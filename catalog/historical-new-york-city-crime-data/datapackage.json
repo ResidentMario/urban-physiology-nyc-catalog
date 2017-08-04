@@ -1,0 +1,42 @@
+{
+    "name": "historical-new-york-city-crime-data",
+    "datapackage_version": "1.0-beta",
+    "title": "Historical New York City Crime Data",
+    "version": "N/A",
+    "keywords": [
+        "nypd",
+        "historical new york city crime data",
+        "crime",
+        "police department"
+    ],
+    "description": "The New York City Police Department records reported crime and offense data based upon the New York State Penal Law and other New York State laws. For statistical presentation purposes the numerous law categories and subsections are summarized by law class, Felony, Misdemeanor and Violation. The tabular data compiles reported crime and offense data recorded by the New York City Police Department. Separate tables are presented for the Seven Major Felonies, Non-Seven Major Felony Crimes, Misdemeanors and Violations.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Police Department (NYPD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 25.5322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 14466,
+    "preferred_mimetype": "application/vnd.ms-excel",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "xls",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/hqhv-9zeg",
+    "last_updated": "2014-09-05 17:56:04+00:00",
+    "protocol": "https",
+    "created": "2013-03-07 03:16:54+00:00"
+}

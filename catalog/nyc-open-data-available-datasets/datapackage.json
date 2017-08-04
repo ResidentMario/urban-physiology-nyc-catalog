@@ -1,0 +1,51 @@
+{
+    "name": "nyc-open-data-available-datasets",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Open Data Available Datasets",
+    "version": "N/A",
+    "keywords": [
+        "opendata",
+        "nyc open data plan dashboard values",
+        "dashboard"
+    ],
+    "description": "A listing of all available datasets.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYC Department of Information Technology and Telecommunications"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/fwt3-keqw/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1673,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1749,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        ""
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Dataset description",
+        "Agency",
+        "Link",
+        "Dataset"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/fwt3-keqw",
+    "last_updated": "2017-03-21 14:24:28+00:00",
+    "protocol": "https",
+    "created": "2013-11-20 04:06:57+00:00"
+}

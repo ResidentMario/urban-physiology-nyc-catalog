@@ -1,0 +1,54 @@
+{
+    "name": "law-speeches",
+    "datapackage_version": "1.0-beta",
+    "title": "LAW Speeches",
+    "version": "N/A",
+    "keywords": [
+        "legislation",
+        "law speeches",
+        "law journal",
+        "law",
+        "justice",
+        "lawyer"
+    ],
+    "description": "The Corporation Counsel is often invited to address bar associations, law students, and other organizations. Below are links to the text of speeches given by Corporation Counsel",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Law Department (LAW)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/g7ir-4pf8/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 11,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 154,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Law Speech Title",
+        "Speaker",
+        "Link to PDF File",
+        "Date of Speech"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/g7ir-4pf8",
+    "last_updated": "2014-09-05 17:10:43+00:00",
+    "protocol": "https",
+    "created": "2013-02-14 16:03:27+00:00"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "inspections",
+    "datapackage_version": "1.0-beta",
+    "title": "Inspections",
+    "version": "N/A",
+    "keywords": [
+        "department of consumer affairs",
+        "consumer",
+        "compliance",
+        "inspections",
+        "dca",
+        "business",
+        "city government"
+    ],
+    "description": "This data set features DCA inspections during the last and current calendar years to ensure compliance with local consumer protection and licensing laws, and State and federal regulations.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Consumer Affairs (DCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/jzhd-m6uv/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 192000,
+    "columns": 18,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1453,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Inspection Result",
+        "Inspection Date",
+        "Latitude",
+        "Description",
+        "State",
+        "Zip",
+        "City",
+        "Longitude",
+        "Certificate Number",
+        "Street",
+        "Business Name",
+        "Borough",
+        "Building Number",
+        "Industry",
+        "Unit",
+        "Record ID",
+        "Unit Type",
+        "Street 2"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/jzhd-m6uv",
+    "last_updated": "2017-05-05 18:37:15+00:00",
+    "protocol": "https",
+    "created": "2016-01-26 14:46:48+00:00"
+}

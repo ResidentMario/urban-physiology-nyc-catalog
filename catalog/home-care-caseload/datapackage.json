@@ -1,0 +1,51 @@
+{
+    "name": "home-care-caseload",
+    "datapackage_version": "1.0-beta",
+    "title": "Home Care Caseload",
+    "version": "N/A",
+    "keywords": [
+        "odra home care trends",
+        "hra"
+    ],
+    "description": "Monthly trend analysis on home care cases.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/xjur-zbxw/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 476,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 378,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Year",
+        "Month",
+        "Yearly Percent Change",
+        "Monthly Percent Change",
+        "Cases"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/xjur-zbxw",
+    "last_updated": "2016-11-04 14:12:31+00:00",
+    "protocol": "https",
+    "created": "2013-05-21 11:50:52+00:00"
+}

@@ -1,0 +1,51 @@
+{
+    "name": "nycha-application-frequently-asked-questions",
+    "datapackage_version": "1.0-beta",
+    "title": "NYCHA Application - Frequently Asked Questions",
+    "version": "N/A",
+    "keywords": [
+        "nycha",
+        "subsidized housing",
+        "public housing",
+        "nyc housing",
+        "application"
+    ],
+    "description": "FAQ about applying for housing at NYCHA",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York City Housing Authority (NYCHA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/nkn9-ge6x/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 22,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2324,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Answers",
+        "Frequentyly Asked Questions"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/nkn9-ge6x",
+    "last_updated": "2014-09-05 17:14:44+00:00",
+    "protocol": "https",
+    "created": "2013-03-28 19:31:07+00:00"
+}

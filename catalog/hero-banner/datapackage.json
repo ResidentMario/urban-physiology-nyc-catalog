@@ -1,0 +1,54 @@
+{
+    "name": "hero-banner",
+    "datapackage_version": "1.0-beta",
+    "title": "Hero Banner",
+    "version": "N/A",
+    "keywords": [
+        "test"
+    ],
+    "description": "Story for the Hero Banner",
+    "licenses": [],
+    "sources": [
+        {
+            "title": null
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/jr3e-jwne/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 8,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 450,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        ""
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "title",
+        "stagingOrder",
+        "Image",
+        "staging",
+        "homepageOrder",
+        "homepage",
+        "fulltext",
+        "imageurl",
+        "description"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/jr3e-jwne",
+    "last_updated": "2016-12-13 22:23:32+00:00",
+    "protocol": "https",
+    "created": "2013-09-14 21:19:26+00:00"
+}

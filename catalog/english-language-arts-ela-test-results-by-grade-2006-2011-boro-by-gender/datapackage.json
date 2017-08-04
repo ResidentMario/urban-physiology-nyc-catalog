@@ -1,0 +1,61 @@
+{
+    "name": "english-language-arts-ela-test-results-by-grade-2006-2011-boro-by-gender",
+    "datapackage_version": "1.0-beta",
+    "title": "English Language Arts (ELA) Test Results by Grade 2006-2011 - Boro - by Gender",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning"
+    ],
+    "description": "New York City Results on the New York State English Language Arts (ELA) Tests, Grades 3 - 8\r\nNotes:\r\nAs of 2006, the New York State Education Department expanded the ELA and mathematics testing programs to Grades 3-8. Previously, state tests were administered in Grades 4 and 8 and citywide tests were administered in Grades 3, 5, 6, and 7.\r\nStarting in 2010, NYSED changed the scale score required to meet each of the proficiency levels, increasing the number of questions students needed to answer correctly to meet proficiency.\r\nIn 2007, the New York State Education Department updated its testing policy for English Language Learners: ELLs in an English Language School System for more than one year are required to take the ELA exam. Previously, ELLs in an English Language School System for less than 3 years were exempt from taking the ELA exam.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ny8v-zzzb/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 420,
+    "columns": 16,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 135,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Year",
+        "Level 2 #",
+        "Number Tested",
+        "Grade",
+        "Borough",
+        "Level 3+4 %",
+        "Level 1 #",
+        "Level 2 %",
+        "Level 3 #",
+        "Level 1 %",
+        "Level 4 %",
+        "Level 3+4 #",
+        "Level 3 %",
+        "Level 4 #",
+        "Mean Scale Score",
+        "Category"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ny8v-zzzb",
+    "last_updated": "2014-09-05 17:42:25+00:00",
+    "protocol": "https",
+    "created": "2011-10-05 20:11:28+00:00"
+}

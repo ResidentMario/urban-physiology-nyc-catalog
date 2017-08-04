@@ -1,0 +1,52 @@
+{
+    "name": "dcla-programs-funding-for-fy2010",
+    "datapackage_version": "1.0-beta",
+    "title": "DCLA: Programs Funding for FY2010",
+    "version": "N/A",
+    "keywords": [
+        "funding",
+        "culture",
+        "cultural",
+        "fund",
+        "program"
+    ],
+    "description": "Department of Cultural Affairs (DCLA)\r\nThis data set is the Programs funding award amount for FY10.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Cultural Affairs (DCLA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/j8p3-8ufc/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 889,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 458,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "FY10 Programs $",
+        "Orgname",
+        "Application Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/j8p3-8ufc",
+    "last_updated": "2014-09-05 16:59:38+00:00",
+    "protocol": "https",
+    "created": "2011-07-27 14:23:34+00:00"
+}

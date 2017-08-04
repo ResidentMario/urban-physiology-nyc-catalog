@@ -1,0 +1,55 @@
+{
+    "name": "tax-lien-sale-lists",
+    "datapackage_version": "1.0-beta",
+    "title": "Tax Lien Sale Lists",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Properties with tax and/or water liens that are potentially eligible to be included in the next lien sale.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/9rz4-mjek/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 50700,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 413,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "House Number",
+        "Building Class",
+        "Water Debt Only",
+        "Lot",
+        "Month",
+        "Block ",
+        "Tax Class Code",
+        "Community Board",
+        "Council District",
+        "Street Name",
+        "Borough",
+        "Zip Code"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/9rz4-mjek",
+    "last_updated": "2016-11-22 14:50:51+00:00",
+    "protocol": "https",
+    "created": "2016-03-04 23:32:00+00:00"
+}

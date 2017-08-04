@@ -1,0 +1,72 @@
+{
+    "name": "graduation-outcomes-borough-classes-of-2005-2011-gender",
+    "datapackage_version": "1.0-beta",
+    "title": "Graduation Outcomes - Borough - Classes of 2005-2011 - Gender",
+    "version": "N/A",
+    "keywords": [
+        "school",
+        "graduation outcome",
+        "lifelong learning",
+        "borough",
+        "gender"
+    ],
+    "description": "Latest available data and trends in graduation and dropout outcomes disaggregated by borough and gender",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/sqb7-p8nz/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 220,
+    "columns": 23,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 280,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Still Enrolled Pct of cohort",
+        "Still Enrolled Num",
+        "Total Grads Num",
+        "Advanced Regents Num",
+        "Demographic",
+        "Local Num",
+        "Advanced Regents Pct of cohort",
+        "Total Regents Pct of grads",
+        "Borough",
+        "Total Grads Pct of cohort",
+        "Regents w/o Advanced Pct of cohort",
+        "Dropped Out Num",
+        "Local Pct of grads",
+        "Local Pct of cohort",
+        "Regents w/o Advanced Pct of grads",
+        "Total Regents Pct of cohort",
+        "Cohort Year",
+        "Total Regents Num",
+        "Dropped Out Pct of cohort",
+        "Regents w/o Advanced Num",
+        "Advanced Regents Pct of grads",
+        "Cohort Category",
+        "Total Cohort Num"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/sqb7-p8nz",
+    "last_updated": "2014-09-05 17:36:51+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 02:31:13+00:00"
+}

@@ -1,0 +1,67 @@
+{
+    "name": "rate-at-which-the-ccrb-made-findings-on-the-merits-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "Rate At Which The CCRB Made Findings On The Merits  2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "ccrb",
+        "complaint activity",
+        "2007",
+        "civilian complaint review board",
+        "2009",
+        "activity",
+        "review",
+        "board",
+        "misconduct",
+        "disciplinary recommendation",
+        "statistics",
+        "2008",
+        "2005",
+        "complaint",
+        "2006",
+        "civilian",
+        "allegation"
+    ],
+    "description": "CCRB: Rate at Which the CCRB Made Findings on the Merits  2005 - 2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/6wkw-kjx4/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 6,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 127,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2007",
+        "2006",
+        "2005",
+        "Category",
+        "2009",
+        "2008"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/6wkw-kjx4",
+    "last_updated": "2014-09-05 17:08:17+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 19:17:46+00:00"
+}

@@ -1,0 +1,84 @@
+{
+    "name": "2009-campaign-expenditures",
+    "datapackage_version": "1.0-beta",
+    "title": "2009 Campaign Expenditures",
+    "version": "N/A",
+    "keywords": [
+        "elections",
+        "funding",
+        "nyccfb",
+        "campaign finance board",
+        "campaign finance",
+        "politics",
+        "campaign",
+        "finance",
+        "contributions",
+        "cfb"
+    ],
+    "description": "A listing of campaign expenditures for candidates for City office during the 2009 election cycle",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Campaign Finance Board (CFB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/vg63-xw6u/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 33300,
+    "columns": 30,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 649,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "CANDMI",
+        "OFFICECD",
+        "PAY_METHOD",
+        "AMNT",
+        "APARTMENT",
+        "STRNO",
+        "COMMITTEE",
+        "FILING",
+        "CANDFIRST",
+        "CANCLASS",
+        "CANDLAST",
+        "SEG_IND",
+        "ELECTION",
+        "DATE",
+        "PAGENO",
+        "PURPOSECD",
+        "SEQUENCENO",
+        "RR_IND",
+        "EXEMPTCD",
+        "EXPLAIN",
+        "Location 1",
+        "CANDID",
+        "PURPOSE",
+        "SCHEDULE",
+        "STRNAME",
+        "INV_DATE",
+        "REFNO",
+        "ORG_IND",
+        "C_CODE",
+        "NAME"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/vg63-xw6u",
+    "last_updated": "2014-09-05 17:08:59+00:00",
+    "protocol": "https",
+    "created": "2011-09-13 23:07:46+00:00"
+}

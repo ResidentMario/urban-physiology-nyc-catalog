@@ -1,0 +1,61 @@
+{
+    "name": "doe-high-school-performance-directory-2014-2015",
+    "datapackage_version": "1.0-beta",
+    "title": "DOE High School Performance-Directory 2014-2015",
+    "version": "N/A",
+    "keywords": [
+        "doe high school performance-directory 2014-2015",
+        "education"
+    ],
+    "description": "Performance of NYC High Schools",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/xahu-rkwn/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 436,
+    "columns": 15,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 600,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "student_satisfaction_historic_avg_similar_schls",
+        "ontrack_year1_2012",
+        "student_satisfaction_2012",
+        "ontrack_year1_historic_avg_similar_schls",
+        "college_career_rate_2012",
+        "dbn",
+        "graduation_rate_2013",
+        "graduation_rate_2012",
+        "college_career_rate_2013",
+        "student_satisfaction_2013",
+        "ontrack_year1_2013",
+        "quality_review_rating",
+        "quality_review_year",
+        "college_career_rate_historic_avg_similar_schls",
+        "graduation_rate_historic_avg_similar_schls"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/xahu-rkwn",
+    "last_updated": "2014-10-29 21:24:22+00:00",
+    "protocol": "https",
+    "created": "2014-10-29 21:18:06+00:00"
+}

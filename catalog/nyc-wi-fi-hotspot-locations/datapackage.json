@@ -1,0 +1,71 @@
+{
+    "name": "nyc-wi-fi-hotspot-locations",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Wi-Fi Hotspot Locations",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Location of wifi hotspots in the city with basic descriptive information.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/yjub-udmw/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2095,
+    "columns": 28,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1315,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Borough",
+        "NTACode",
+        "Location (Lat, Long)",
+        "BBL",
+        "BIN",
+        "X",
+        "Provider",
+        "Type",
+        "Activated",
+        "SourceID",
+        "SSID",
+        "City",
+        "Location_T",
+        "BCTCB2010",
+        "CT2010",
+        "BoroCD",
+        "ZIP",
+        "CounDist",
+        "NTAName",
+        "OBJECTID",
+        "BoroName",
+        "Y",
+        "Remarks",
+        "BoroCode",
+        "Longitude",
+        "Latitude",
+        "Location",
+        "Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/yjub-udmw",
+    "last_updated": "2017-05-15 20:10:56+00:00",
+    "protocol": "https",
+    "created": "2015-07-14 18:14:19+00:00"
+}

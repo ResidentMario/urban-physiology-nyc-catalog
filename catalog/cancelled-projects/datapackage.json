@@ -1,0 +1,53 @@
+{
+    "name": "cancelled-projects",
+    "datapackage_version": "1.0-beta",
+    "title": "Cancelled Projects",
+    "version": "N/A",
+    "keywords": [
+        "sca",
+        "projects",
+        "constructions"
+    ],
+    "description": "Projects removed from the plan.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYC School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/cwqt-nvfg/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 101,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 70,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "District",
+        "Reason",
+        "Program Category",
+        "School",
+        "Boro",
+        "Bld ID"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/cwqt-nvfg",
+    "last_updated": "2017-05-01 20:37:11+00:00",
+    "protocol": "https",
+    "created": "2016-05-31 21:48:27+00:00"
+}

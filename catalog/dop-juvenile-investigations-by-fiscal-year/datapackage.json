@@ -1,0 +1,51 @@
+{
+    "name": "dop-juvenile-investigations-by-fiscal-year",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Juvenile Investigations by Fiscal Year",
+    "version": "N/A",
+    "keywords": [
+        "fiscal year",
+        "investigations",
+        "dop",
+        "juvenile"
+    ],
+    "description": "The number of presentence investigation reports completed for juveniles during the reporting period.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/3mji-gpg5/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 55,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 197,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Fiscal Year (ending in June)",
+        "Borough",
+        "Investigation Count"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/3mji-gpg5",
+    "last_updated": "2016-09-16 01:04:03+00:00",
+    "protocol": "https",
+    "created": "2014-02-26 21:30:43+00:00"
+}

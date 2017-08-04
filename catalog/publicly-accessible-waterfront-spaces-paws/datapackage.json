@@ -1,0 +1,62 @@
+{
+    "name": "publicly-accessible-waterfront-spaces-paws",
+    "datapackage_version": "1.0-beta",
+    "title": "Publicly Accessible Waterfront Spaces (PAWS)",
+    "version": "N/A",
+    "keywords": [
+        "zoning",
+        "land use",
+        "land",
+        "ulurp",
+        "zone",
+        "private",
+        "status",
+        "construction",
+        "dcp",
+        "jurisdiction",
+        "paws",
+        "accessible",
+        "public",
+        "waterfront",
+        "water",
+        "cartography",
+        "map",
+        "location",
+        "geographic"
+    ],
+    "description": "This is a polygon shapefile of publicly accessible waterfront spaces in NYC containing jurisdictional and construction status information. The majority of these spaces were constructed in conjunction with private waterfront developments, pursuant to the NYC Zoning Resolution.\u00a0 This feature class also includes spaces that are under construction (in progress), or have been approved through ULURP (Uniform Land Use Review Procedure) but construction of the waterfront spaces has not commenced.\u00a0 The publicly owned spaces in this database do not include parks or open spaces under the jurisdiction of NYC Department of Parks and Recreation, NYS Office of Parks, Recreation & Historic Preservation, or the National Park Service.\u00a0 This shapefile was used to create the City Waterfront Interactive Maps at http://www.nyc.gov/html/dcp/html/cwp/cw.shtml .",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/388s-pnvc?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 248.7587890625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1337,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/388s-pnvc",
+    "last_updated": "2017-01-20 16:39:40+00:00",
+    "protocol": "https",
+    "created": "2013-04-10 15:31:45+00:00"
+}

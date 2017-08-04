@@ -1,0 +1,62 @@
+{
+    "name": "times-square-hotels",
+    "datapackage_version": "1.0-beta",
+    "title": "Times Square Hotels",
+    "version": "N/A",
+    "keywords": [
+        "new york",
+        "new york city",
+        "nyc",
+        "pedestrian",
+        "screens",
+        "theater",
+        "crossroads",
+        "times square",
+        "times square alliance",
+        "tourism",
+        "crossroads of the world",
+        "entertainment",
+        "food",
+        "manhattan"
+    ],
+    "description": "Directory of hotels in the Times Square area\r\n\r\nUpdate schedule: As required",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Times Square Alliance (TSA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/v8qe-fx6p/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 41,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1976,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Phone",
+        "Website",
+        "Company Name",
+        "Location 1"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/v8qe-fx6p",
+    "last_updated": "2014-09-06 00:12:51+00:00",
+    "protocol": "https",
+    "created": "2011-07-26 20:42:05+00:00"
+}

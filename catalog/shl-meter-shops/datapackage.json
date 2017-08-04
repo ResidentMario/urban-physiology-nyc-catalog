@@ -1,0 +1,59 @@
+{
+    "name": "shl-meter-shops",
+    "datapackage_version": "1.0-beta",
+    "title": "SHL - Meter Shops",
+    "version": "N/A",
+    "keywords": [
+        "tlc",
+        "shl",
+        "meter",
+        "taxi"
+    ],
+    "description": "This list contains information on authorized SHL meter-shops.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/56e3-rp8d/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 32,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 335,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Phone",
+        "Time",
+        "Type",
+        "License Number",
+        "Name",
+        "Zip",
+        "Date",
+        "Status",
+        "Address",
+        "City",
+        "State"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/56e3-rp8d",
+    "last_updated": "2017-05-24 19:11:27+00:00",
+    "protocol": "https",
+    "created": "2015-10-07 15:21:36+00:00"
+}

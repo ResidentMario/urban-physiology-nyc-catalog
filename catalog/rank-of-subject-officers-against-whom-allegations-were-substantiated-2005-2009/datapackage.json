@@ -1,0 +1,77 @@
+{
+    "name": "rank-of-subject-officers-against-whom-allegations-were-substantiated-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "Rank Of Subject Officers Against Whom Allegations Were Substantiated 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "statistics",
+        "misconduct",
+        "disciplinary recommendation",
+        "civilian complaint review board",
+        "complaint activity",
+        "complaint",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "activity",
+        "allegation",
+        "board",
+        "ccrb",
+        "civilian",
+        "review"
+    ],
+    "description": "CCRB: Rank of Subject Officers against Whom Allegations Were Substantiated 2005 - 2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/mnqg-rcee/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 15,
+    "columns": 16,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 160,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2009 Percent of Subtotal",
+        "2009 Number of Officers",
+        "2008 NYPD Population 2008",
+        "2009 NYPD Population 2009",
+        "2007 NYPD Population 2007",
+        "2007 Number of Officers",
+        "2006 Percent of Subtotal",
+        "2006 Number of Officers",
+        "2005 NYPD Population 2005",
+        "2005 Percent of Subtotal",
+        "2005 Number of Officers",
+        "Rank",
+        "2006 NYPD Population 2006",
+        "2007 Percent of Subtotal",
+        "2008 Percent of Subtotal",
+        "2008 Number of Officers"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/mnqg-rcee",
+    "last_updated": "2014-09-05 16:58:25+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 19:14:09+00:00"
+}

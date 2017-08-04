@@ -1,0 +1,49 @@
+{
+    "name": "sea-level-rise-maps-2050s-100-year-floodplain",
+    "datapackage_version": "1.0-beta",
+    "title": "Sea Level Rise Maps (2050s 100-year Floodplain)",
+    "version": "N/A",
+    "keywords": [
+        "sea",
+        "sea level",
+        "sea level rise maps (2025s 100-year floodplain)",
+        "flood",
+        "ocean",
+        "oltps"
+    ],
+    "description": "This is the 100-Year Floodplain for the 2050s based on FEMA's Preliminary Work Map data and the New York Panel on Climate Change's 90th Percentile Projects for Sea-Level Rise (31 inches).  Please see the Disclaimer PDF for more information. Data Provided by the Mayor's Office of Long-Term Planning and Sustainability (OLTPS) on behalf of CUNY Institute for Sustainable Cities (CISC) and the New York Panel on Climate Change (NPCC).",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Long-Term Planning and Sustainability (OLTPS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/hbw8-2bah?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 43646.66015625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1943,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/hbw8-2bah",
+    "last_updated": "2016-08-27 18:26:41+00:00",
+    "protocol": "https",
+    "created": "2013-07-23 21:49:33+00:00"
+}

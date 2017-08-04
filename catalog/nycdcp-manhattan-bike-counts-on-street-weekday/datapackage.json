@@ -1,0 +1,69 @@
+{
+    "name": "nycdcp-manhattan-bike-counts-on-street-weekday",
+    "datapackage_version": "1.0-beta",
+    "title": "NYCDCP Manhattan Bike Counts - On Street Weekday",
+    "version": "N/A",
+    "keywords": [],
+    "description": "The Transportation Division of the New York City Department of City Planning (NYCDCP) has performed annual bike counts in Manhattan since 1999. The counts have been conducted along designated bicycle routes at 10 on-street and 5 off-street locations during the fall season. These locations have remained generally consistent. The data collected includes cyclist/user volumes, helmet usage, use of bike lane, gender, etc. The bike counts data can offer insights into the overall trends in user demographics and travel patterns over time.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/qfs9-xn8t/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 108,
+    "columns": 26,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 358,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "LocationType",
+        "Female_Cyc_Helmet",
+        "FemaleCyc_Total",
+        "TypeOfTime",
+        "MaleCyc_Total",
+        "Location",
+        "Location_Lat",
+        "CyclistVolume",
+        "Male_Cyc_Helmet",
+        "CycSidewalk",
+        "CyclOtherLane",
+        "CycCounterFlowInLane",
+        "TotalUsers",
+        "NonCyc_OtherUser",
+        "Location_Long",
+        "CycBikeLane",
+        "LocationID",
+        "CycCnterFlowOutOfLane",
+        "Citibike_All",
+        "Non_citibikeCyc",
+        "CycAdjacentLane",
+        "Citibike_female",
+        "Citibike_Male",
+        "Cyc_Under16",
+        "Year",
+        "Cycl_Helmet_all"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/qfs9-xn8t",
+    "last_updated": "2016-09-12 21:57:55+00:00",
+    "protocol": "https",
+    "created": "2016-09-12 20:51:49+00:00"
+}

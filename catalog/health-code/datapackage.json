@@ -1,0 +1,52 @@
+{
+    "name": "health-code",
+    "datapackage_version": "1.0-beta",
+    "title": "Health Code",
+    "version": "N/A",
+    "keywords": [
+        "dohmh",
+        "healthy living",
+        "health code",
+        "department of health and mental hygiene",
+        "health"
+    ],
+    "description": "Health Codes as per the Department of Health and Mental Hygiene. The material included on is intended for informational purposes only and is not the official version of the New York City Administrative Code and Rules of the City of New York.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Health and Mental Hygiene (DOHMH)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/3v48-95hb/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 37,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1360,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Health"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "URL",
+        "Health Code Article Number",
+        "Health Code Description"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/3v48-95hb",
+    "last_updated": "2014-09-05 17:48:19+00:00",
+    "protocol": "https",
+    "created": "2013-03-06 03:55:21+00:00"
+}

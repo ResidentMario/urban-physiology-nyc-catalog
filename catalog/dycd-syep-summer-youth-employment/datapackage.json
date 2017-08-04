@@ -1,0 +1,60 @@
+{
+    "name": "dycd-syep-summer-youth-employment",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD SYEP (Summer Youth Employment)",
+    "version": "N/A",
+    "keywords": [
+        "syep",
+        "youth",
+        "young",
+        "work",
+        "basemap",
+        "bigapps",
+        "big apps",
+        "cartography",
+        "#centerfordebtoreducation",
+        "#education",
+        "employ",
+        "employment",
+        "geographic",
+        "job",
+        "location",
+        "map",
+        "#socialservices"
+    ],
+    "description": "Summer Youth Employment",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/yqz9-aduk?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 40.6953125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 783,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/yqz9-aduk",
+    "last_updated": "2016-08-27 18:30:11+00:00",
+    "protocol": "https",
+    "created": "2013-04-05 19:48:05+00:00"
+}

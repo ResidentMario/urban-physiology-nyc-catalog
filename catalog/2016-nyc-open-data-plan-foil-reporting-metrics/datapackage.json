@@ -1,0 +1,50 @@
+{
+    "name": "2016-nyc-open-data-plan-foil-reporting-metrics",
+    "datapackage_version": "1.0-beta",
+    "title": "2016 NYC Open Data Plan - FOIL Reporting Metrics",
+    "version": "N/A",
+    "keywords": [
+        "compliance plan",
+        "2016 nyc open data plan - foil reporting metrics"
+    ],
+    "description": "Agency FOIL reporting as per Local 7 of 2016.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/a5ru-ygsr/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 40,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 261,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        ""
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Agency Name",
+        "The total number of FOIL responses that resulted in data being posted voluntarily on the open data portal",
+        "The total number of FOIL responses that included the release of data",
+        "The total number of FOIL responses that included a public data set that had not yet been included on the open data portal"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/a5ru-ygsr",
+    "last_updated": "2017-02-06 14:57:30+00:00",
+    "protocol": "https",
+    "created": "2016-07-14 22:42:01+00:00"
+}

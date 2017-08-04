@@ -1,0 +1,58 @@
+{
+    "name": "idnyc-locations",
+    "datapackage_version": "1.0-beta",
+    "title": "IDNYC Locations",
+    "version": "N/A",
+    "keywords": [
+        "idnyc locations",
+        "identification",
+        "application",
+        "enrollment",
+        "apply"
+    ],
+    "description": "Locations where people can apply for IDNYC (Not including pop-up enrollment centers).",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/5pbr-mxtd/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 25,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 999,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "city",
+        "name",
+        "address1",
+        "hours",
+        "zip",
+        "Location 1",
+        "ID",
+        "type",
+        "address2"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/5pbr-mxtd",
+    "last_updated": "2017-02-03 21:36:00+00:00",
+    "protocol": "https",
+    "created": "2016-04-07 16:27:03+00:00"
+}

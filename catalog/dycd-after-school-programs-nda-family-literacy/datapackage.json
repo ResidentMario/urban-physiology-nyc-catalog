@@ -1,0 +1,77 @@
+{
+    "name": "dycd-after-school-programs-nda-family-literacy",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD after-school programs: NDA Family Literacy",
+    "version": "N/A",
+    "keywords": [
+        "after-school",
+        "child",
+        "children",
+        "civics",
+        "community",
+        "community development",
+        "development",
+        "education",
+        "english language program",
+        "family",
+        "jobs and economic mobility",
+        "lifelong learning",
+        "literacy",
+        "nda",
+        "neighborhood",
+        "neighborhood development area",
+        "programs",
+        "reading",
+        "school",
+        "services",
+        "writing",
+        "young adult",
+        "youth",
+        "adult literacy",
+        "after-school programs"
+    ],
+    "description": "Facilities in New York City, by agency and site, that offer \u201cNDA (Neighborhood Development Area) Reading and Writing Program\u201d after-school  family literacy programs.  - Department of Youth and Community Development (DYCD).",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/k3qa-jvkc/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 17,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 273,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Location 1",
+        "BOROUGH / COMMUNITY",
+        "PROGRAM TYPE",
+        "Contact Number",
+        "Grade Level / Age Group ",
+        "PROGRAM",
+        "AGENCY",
+        "SITE NAME"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/k3qa-jvkc",
+    "last_updated": "2014-09-05 17:44:43+00:00",
+    "protocol": "https",
+    "created": "2011-09-02 19:12:58+00:00"
+}

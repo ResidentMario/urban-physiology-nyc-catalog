@@ -1,0 +1,42 @@
+{
+    "name": "bi-annual-pedestrian-counts",
+    "datapackage_version": "1.0-beta",
+    "title": "Bi-Annual Pedestrian Counts",
+    "version": "N/A",
+    "keywords": [],
+    "description": "An index of pedestrian volumes tracking the long-term trends of neighborhood commercial corridors. Data is collected at 114 locations, including 100 on-street locations (primarily retail corridors), 13 East River and Harlem River bridge locations, and the Hudson River Greenway. Screenline sampling is conducted during May and September on the sidewalk, mid-block (or mid-bridge) on both sides of street where applicable. Pedestrian volumes at 50 sample locations around the City are combined to create the Pedestrian Volume Index for the Mayor\u2019s Management Report.\r\n\r\n\r\nClick here for metadata - http://www.nyc.gov/html/dot/downloads/pdf/bi-annual-ped-count-readme.pdf",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/2de2-6x2h?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 226.4404296875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1333,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/2de2-6x2h",
+    "last_updated": "2017-01-20 22:17:37+00:00",
+    "protocol": "https",
+    "created": "2015-12-29 22:44:36+00:00"
+}

@@ -1,0 +1,47 @@
+{
+    "name": "zoning-gis-data-geodatabase",
+    "datapackage_version": "1.0-beta",
+    "title": "Zoning GIS Data: Geodatabase",
+    "version": "N/A",
+    "keywords": [
+        "map",
+        "district",
+        "zone",
+        "zoning",
+        "commercial",
+        "cartography",
+        "dcp",
+        "geographic",
+        "location"
+    ],
+    "description": "GIS data: This data set consists of 6 classes of zoning features: zoning districts, special purpose districts, special purpose district subdistricts, limited height districts, commercial overlay districts,  and zoning map amendments.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 0.4228515625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 1202,
+    "preferred_mimetype": "application/octet-stream",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "gdb/timestamps",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/mm69-vrje",
+    "last_updated": "2017-05-08 21:11:01+00:00",
+    "protocol": "https",
+    "created": "2013-01-29 18:09:10+00:00"
+}

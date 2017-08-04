@@ -1,0 +1,78 @@
+{
+    "name": "revised-notice-of-property-value-rnopv",
+    "datapackage_version": "1.0-beta",
+    "title": "Revised Notice of Property Value (RNOPV)",
+    "version": "N/A",
+    "keywords": [
+        "property",
+        "rnopv",
+        "finance",
+        "dof"
+    ],
+    "description": "Every January, Finance mails New York City property owners a Notice of Property Value (NOPV). This important notice has information about your property\u2019s market and assessed values. Finance determines your property\u2019s value every year, according to State law. The City\u02bcs property tax rates are applied to the assessed value to calculate your property taxes for the next tax year. You get your first tax bill for the year in June. If you believe the values or property descriptions on the NOPV are not correct.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8vgb-zm6e/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 27300,
+    "columns": 30,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 698,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "BLD Class",
+        "City, State, Zip ",
+        "Address 3 ",
+        "BLOCK",
+        "RC5",
+        "REVISED  EXEMPTION",
+        "Address 2 ",
+        "REVISED TRANSITIONAL EXEMPTION",
+        "REVISED ASSESSED VALUE",
+        "BORO",
+        "MAILED DATE",
+        "EASE",
+        "LOT",
+        "RC3",
+        "Country ",
+        "RC4",
+        "RC2",
+        "REVISED MARKET VALUE",
+        "ORIGINAL TAXABLE VALUE",
+        "ORIGINAL TRANSITIONAL EXEMPTION",
+        "ORIGINAL TRANSITIONAL  ASSESSED VALUE ",
+        "NAME  ",
+        "Address 1",
+        "ORIGINAL ASSESSED VALUE",
+        "REVISED TAXABLE VALUE",
+        "REVISED TRANSITIONAL ASSESSED VALUE",
+        "RC 1",
+        "TAX CLASS",
+        "ORIGINAL EXEMPTION",
+        "ORIGINAL MARKET VALUE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8vgb-zm6e",
+    "last_updated": "2017-02-03 23:09:31+00:00",
+    "protocol": "https",
+    "created": "2016-04-05 17:56:45+00:00"
+}

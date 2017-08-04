@@ -1,0 +1,42 @@
+{
+    "name": "black-car-services-vehicles",
+    "datapackage_version": "1.0-beta",
+    "title": "Black Car Services - Vehicles",
+    "version": "N/A",
+    "keywords": [
+        "tlc",
+        "vehicles",
+        "services",
+        "black car"
+    ],
+    "description": "Black Car bases provide pre-arranged transportation to clients, usually based on contracts. This lists the current status of Black Car Vehicle Licenses, including license number, name(s) of licensee, affiliated base license, DMV license plate and VIN numbers, expiration date, model year, and whether the vehicle is a hybrid or stretch limousine.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 8305.0322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 462,
+    "preferred_mimetype": "application/vnd.ms-office",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "xls",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/8f3b-vtv6",
+    "last_updated": "2014-10-10 20:27:26+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 19:56:43+00:00"
+}

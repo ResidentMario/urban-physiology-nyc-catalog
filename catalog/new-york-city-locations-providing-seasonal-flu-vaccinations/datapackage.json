@@ -1,0 +1,75 @@
+{
+    "name": "new-york-city-locations-providing-seasonal-flu-vaccinations",
+    "datapackage_version": "1.0-beta",
+    "title": "New York City Locations Providing Seasonal Flu Vaccinations",
+    "version": "N/A",
+    "keywords": [
+        "health",
+        "flu",
+        "vaccine",
+        "location",
+        "influenza"
+    ],
+    "description": "Location and facility information for places in New York City providing seasonal flu vaccinations.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Health and Mental Hygiene (DOHMH)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/w9ei-idxz/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 885,
+    "columns": 26,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2059,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Health"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Longitude",
+        "Borough",
+        "City",
+        "Facility Name ",
+        "Service Category",
+        "OBJECTID",
+        "DOHMH Website",
+        "Sunday",
+        "Saturday",
+        "Friday",
+        "Wednesday",
+        "Tuesday",
+        "Phone",
+        "Address",
+        "Children",
+        "Insurance",
+        "Walk-in",
+        "Service Type",
+        "A",
+        "Location",
+        "More Information",
+        "Thursday",
+        "Monday",
+        "Website",
+        "ZIP Code",
+        "Latitude"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/w9ei-idxz",
+    "last_updated": "2016-11-29 00:12:23+00:00",
+    "protocol": "https",
+    "created": "2014-01-15 15:53:39+00:00"
+}

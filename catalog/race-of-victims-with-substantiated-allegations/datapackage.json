@@ -1,0 +1,56 @@
+{
+    "name": "race-of-victims-with-substantiated-allegations",
+    "datapackage_version": "1.0-beta",
+    "title": "Race of Victims with Substantiated Allegations",
+    "version": "N/A",
+    "keywords": [
+        "allegation",
+        "race",
+        "ccrb",
+        "victims",
+        "substantiated"
+    ],
+    "description": "This table represents the race of Victims whose allegations were substantiated",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/mvhn-ypfv/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 3,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 226,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Black",
+        "White",
+        "Other",
+        "Latino",
+        "Year",
+        "Asain",
+        "Unknown"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/mvhn-ypfv",
+    "last_updated": "2014-09-05 17:09:26+00:00",
+    "protocol": "https",
+    "created": "2013-02-25 21:42:22+00:00"
+}

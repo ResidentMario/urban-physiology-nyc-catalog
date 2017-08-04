@@ -1,0 +1,74 @@
+{
+    "name": "ccrb-disposition-of-abuse-of-authority-allegations-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "CCRB: Disposition Of Abuse Of Authority Allegations 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "statistics",
+        "complaint",
+        "complaint activity",
+        "disciplinary recommendation",
+        "misconduct",
+        "review",
+        "civilian complaint review board",
+        "civilian",
+        "ccrb",
+        "board",
+        "allegation",
+        "activity",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2005"
+    ],
+    "description": "Disposition Of Abuse Of Authority Allegations 2005 - 2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/mtfg-8ayp/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 31,
+    "columns": 13,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 575,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Number Exonerated",
+        "Unsubstaniated Number",
+        "Exoneration Rate",
+        "Miscellaneous Number",
+        "Rate (Officer unidentified)",
+        "Substantiated Number",
+        "Miscellaneous Rate",
+        "Unfounded Number",
+        "Rate unsubstantiated",
+        "Number that were Officer unidentified",
+        "Rate unfounded",
+        "Type of Abuse of Authority Allegation",
+        "Substantiated RateRate"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/mtfg-8ayp",
+    "last_updated": "2014-09-05 17:01:07+00:00",
+    "protocol": "https",
+    "created": "2011-09-27 21:13:53+00:00"
+}

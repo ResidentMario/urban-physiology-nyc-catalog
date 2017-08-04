@@ -1,0 +1,74 @@
+{
+    "name": "energy-and-water-data-disclosure-for-local-law-2014",
+    "datapackage_version": "1.0-beta",
+    "title": "Energy and Water Data Disclosure for Local Law (2014)",
+    "version": "N/A",
+    "keywords": [
+        "mayor's office of long term planning and sustainability (oltps)",
+        "water",
+        "energy",
+        "benchmarking"
+    ],
+    "description": "In December 2015, New York City released the 2014 energy and water use data for all properties required to annually benchmark under Local Law 84.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Long Term Planning and Sustainability (OLTPS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/jzst-u7j8/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 14000,
+    "columns": 26,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 3071,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Municipally Supplied Potable Water - Indoor Intensity (gal/ft\u00b2)",
+        "ENERGY STAR Score",
+        "Site EUI(kBtu/ft2)",
+        "Total GHG Emissions(MtCO2e)",
+        "Indirect GHG Emissions(MtCO2e)",
+        "Record Number",
+        "Borough",
+        "Co-reported BBL Status",
+        "BBL on the Covered Buildings List",
+        "DOF Benchmarking Submission Status",
+        "DOF Property Floor Area (Buildngs and Parking)(ft2)",
+        "BBLs Co-reported",
+        "Reported NYC Building Identification Numbers (BINs)",
+        "Street Number",
+        "Reported Water Method",
+        "Primary Property Type - Self Selected",
+        "NYC Borough, Block, and Lot (BBL)",
+        "Street Name",
+        "Weather Normalized Source EUI(kBtu/ft2)",
+        "DOF Number of Buildings",
+        "Source EUI(kBtu/ft2)",
+        "Direct GHG Emissions(MtCO2e)",
+        "Reported Property Floor Area (Building(s)) (ft\u00b2)",
+        "Automatic Water Benchmarking Eligible",
+        "Zip Code",
+        "Weather Normalized Site EUI(kBtu/ft2)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/jzst-u7j8",
+    "last_updated": "2015-12-08 22:26:15+00:00",
+    "protocol": "https",
+    "created": "2015-12-07 16:30:38+00:00"
+}

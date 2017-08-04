@@ -1,0 +1,53 @@
+{
+    "name": "dop-adult-early-discharges-by-calendar-year",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Adult Early Discharges by Calendar Year",
+    "version": "N/A",
+    "keywords": [
+        "dop",
+        "early discharges",
+        "calendar year",
+        "probation",
+        "adult"
+    ],
+    "description": "Adult supervision cases that have had an early discharge request filed with a local court during the reporting period. Categorized by: new early discharge (ED) requests submitted; ED requests approved; ED requests disapproved. Based on carryover of pending early discharge requests from month-to-month, the number of approvals plus disapprovals may not equal the number of requests per year.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/jmr8-fdbz/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 165,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 225,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Early Discharge Request Status",
+        "Borough",
+        "Calendar Year",
+        "Early Discharge Count"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/jmr8-fdbz",
+    "last_updated": "2017-03-08 19:46:06+00:00",
+    "protocol": "https",
+    "created": "2014-06-17 16:45:13+00:00"
+}

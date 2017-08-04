@@ -1,0 +1,60 @@
+{
+    "name": "directory-of-approved-tree-species-list",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Of Approved Tree Species List",
+    "version": "N/A",
+    "keywords": [
+        "dpr",
+        "park",
+        "recreation",
+        "species",
+        "tree",
+        "healthy living"
+    ],
+    "description": "Tree species  that are approved to be planted in NY City",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/99wq-x9cr/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 57,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1050,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Environmental Tolerances",
+        "Fall Color",
+        "Notes/Suggested Cultivars",
+        "Tree Size",
+        "Species Common Name",
+        "Form",
+        "Comments",
+        "Growth Rate",
+        "Species Scientific Name",
+        "Location Tolerances"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/99wq-x9cr",
+    "last_updated": "2014-09-05 17:11:33+00:00",
+    "protocol": "https",
+    "created": "2013-01-24 23:14:31+00:00"
+}

@@ -1,0 +1,72 @@
+{
+    "name": "fy17-pmmr-spending-and-budget-information-by-units-of-appropriation",
+    "datapackage_version": "1.0-beta",
+    "title": "FY17 PMMR Spending and Budget Information by Units of Appropriation",
+    "version": "N/A",
+    "keywords": [
+        "otps",
+        "spending",
+        "expenses",
+        "omb",
+        "fiscal 2017",
+        "preliminary mayor\u2019s management report",
+        "comprehensive annual financial report",
+        "cafr",
+        "key performance indicators",
+        "adopted budget",
+        "kpi",
+        "kpis",
+        "mmr",
+        "fiscal 2017 preliminary mayor\u2019s management report",
+        "budget",
+        "units of appropriation",
+        "pmmr additional tables",
+        "pmmr spending and budget information by units of appropriation",
+        "appropriation",
+        "personal services",
+        "nyc office of management and budget"
+    ],
+    "description": "NYC agency spending and budget information by units of appropriation data from the Preliminary Mayor's Management Report (PMMR)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor\u2019s Office of Operations (OPS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/jjvq-4t2v/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 270,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 25,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "UA",
+        "Agy",
+        "Agy_Name",
+        "FY 17 Adopted",
+        "FY 16 Exp",
+        "PS_OTPS_Ind",
+        "UA_Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/jjvq-4t2v",
+    "last_updated": "2017-02-06 23:47:13+00:00",
+    "protocol": "https",
+    "created": "2017-02-06 22:42:51+00:00"
+}

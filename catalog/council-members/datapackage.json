@@ -1,0 +1,51 @@
+{
+    "name": "council-members",
+    "datapackage_version": "1.0-beta",
+    "title": "Council Members",
+    "version": "N/A",
+    "keywords": [
+        "city council",
+        "council members",
+        "districts"
+    ],
+    "description": "This list contains information on Council Members",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "City Council (NYCC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/uvw5-9znb/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 51,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 430,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "NAME",
+        "BOROUGH",
+        "POLITICAL PARTY",
+        "DISTRICT"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/uvw5-9znb",
+    "last_updated": "2015-02-17 18:12:32+00:00",
+    "protocol": "https",
+    "created": "2015-02-17 18:05:20+00:00"
+}

@@ -1,0 +1,67 @@
+{
+    "name": "dof-summary-of-neighborhood-sales-for-queens-for-class-1-2-and-3-family-homes-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "DOF: Summary of Neighborhood Sales for Queens for Class 1-, 2- and 3-Family homes - 2009",
+    "version": "N/A",
+    "keywords": [
+        "properties",
+        "department of finance",
+        "class-3",
+        "neighborhoods",
+        "neighborhood sales",
+        "property",
+        "queens",
+        "sales",
+        "class-1",
+        "borough",
+        "finance",
+        "homes",
+        "class-2",
+        "family homes",
+        "dof"
+    ],
+    "description": "The Department of Finance (DOF) maintains records for all property sales in New York City, including sales of family homes in each borough. This list is a summary of neighborhood sales for Class 1-, 2- and 3-Family homes in Queens in 2009.\r\nUpdate Schedule: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/948r-3ads/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 157,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 296,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "TOTAL NO. OF PROPERTIES",
+        "TYPE OF HOME",
+        "LOWEST SALE PRICE",
+        "NEIGHBORHOOD",
+        "HIGHEST SALE PRICE",
+        "AVERAGE SALE PRICE",
+        "MEDIAN SALE PRICE",
+        "NUMBER OF SALES"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/948r-3ads",
+    "last_updated": "2014-09-05 17:14:43+00:00",
+    "protocol": "https",
+    "created": "2011-10-05 17:58:12+00:00"
+}

@@ -1,0 +1,63 @@
+{
+    "name": "completed-percent-for-art-projects-with-artist-information",
+    "datapackage_version": "1.0-beta",
+    "title": "Completed Percent for Art projects with artist information",
+    "version": "N/A",
+    "keywords": [
+        "cultural",
+        "art",
+        "artist",
+        "culture",
+        "project",
+        "program",
+        "percent for art",
+        "percent",
+        "funding",
+        "fund",
+        "dcla",
+        "cultural affairs"
+    ],
+    "description": "This data set contains the current listing of Department of Cultural Affairs completed Percent for Art projects.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Cultural Affairs (DCLA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/gzdv-qiga/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 318,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 753,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Artist",
+        "Council District",
+        "Address",
+        "Community Board",
+        "Percent Project",
+        "City",
+        "Borough"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/gzdv-qiga",
+    "last_updated": "2016-03-22 18:17:34+00:00",
+    "protocol": "https",
+    "created": "2013-03-01 20:26:47+00:00"
+}

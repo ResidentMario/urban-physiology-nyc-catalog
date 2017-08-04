@@ -1,0 +1,56 @@
+{
+    "name": "emergency-food-assistance-program-quarterly-report",
+    "datapackage_version": "1.0-beta",
+    "title": "Emergency Food Assistance Program (Quarterly Report)",
+    "version": "N/A",
+    "keywords": [
+        "hra",
+        "human resources",
+        "reporting",
+        "services",
+        "food",
+        "emergency food assistance program (quarterly report)"
+    ],
+    "description": "Quarterly report showing the number of individuals served meals in food pantries and soup kitchens.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/mpqk-skis/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 422,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Oct-Dec 2012",
+        "Facility",
+        "Jul-Sep 2012",
+        "Quarterly Change",
+        "Oct-Dec 2011",
+        "Yearly Change"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/mpqk-skis",
+    "last_updated": "2014-09-05 17:37:20+00:00",
+    "protocol": "https",
+    "created": "2013-05-17 17:13:31+00:00"
+}

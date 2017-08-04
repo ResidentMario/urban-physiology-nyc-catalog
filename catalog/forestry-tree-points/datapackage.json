@@ -1,0 +1,59 @@
+{
+    "name": "forestry-tree-points",
+    "datapackage_version": "1.0-beta",
+    "title": "Forestry Tree Points",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Record of Forestry tree points as of March 8th, 2017.\r\n\r\nThis dataset can be joined to the Forestry Planting Spaces dataset by joining PlantingSpaceGlobalID from Forestry Tree Points to GLOBALID from Forestry Planting Spaces.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hn5i-inap/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 741000,
+    "columns": 16,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 54,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "TPStructure",
+        "RiskRatingDate",
+        "RiskRating",
+        "UpdatedByName",
+        "UpdatedDate",
+        "CreatedByName",
+        "CreatedDate",
+        "GenusSpecies",
+        "GlobalID",
+        "SHAPE",
+        "PlantingSpaceGlobalID",
+        "StumpDiameter",
+        "TPCondition",
+        "DBH",
+        "OBJECTID",
+        "PlantedDate"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hn5i-inap",
+    "last_updated": "2017-05-25 16:44:04+00:00",
+    "protocol": "https",
+    "created": "2017-03-06 15:29:21+00:00"
+}

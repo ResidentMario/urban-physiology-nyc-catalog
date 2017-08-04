@@ -1,0 +1,56 @@
+{
+    "name": "census-demographics-at-the-neighborhood-tabulation-area-nta-level",
+    "datapackage_version": "1.0-beta",
+    "title": "Census Demographics at the Neighborhood Tabulation Area (NTA) level",
+    "version": "N/A",
+    "keywords": [
+        "demographics",
+        "pumas",
+        "neighborhood",
+        "census"
+    ],
+    "description": "Table of Census Demographics\nrepresented at the NTA level. NTAs\nare aggregations of census tracts that\nare subsets of New York City's 55\nPublic Use Micro data Areas (PUMAs)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/rnsn-acs2/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 197,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1255,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Geographic Area - 2010 Census FIPS County Code",
+        "Geographic Area - Neighborhood Tabulation Area (NTA)* Code",
+        "Geographic Area - Borough",
+        "Total Population Change 2000-2010 Percent",
+        "Geographic Area - Neighborhood Tabulation Area (NTA)* Name",
+        "Total Population Change 2000-2010 Number",
+        "Total Population 2000 Number",
+        "Total Population 2010 Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/rnsn-acs2",
+    "last_updated": "2015-02-17 16:44:02+00:00",
+    "protocol": "https",
+    "created": "2015-02-17 16:42:19+00:00"
+}

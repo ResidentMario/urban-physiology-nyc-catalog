@@ -1,0 +1,45 @@
+{
+    "name": "swimming-pools",
+    "datapackage_version": "1.0-beta",
+    "title": "Swimming Pools",
+    "version": "N/A",
+    "keywords": [
+        "planimetrics",
+        "doitt gis"
+    ],
+    "description": "Please see the following link for additional documentation- https://github.com/CityOfNewYork/nyc-planimetrics/blob/master/Capture_Rules.md.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/j7ww-5ipv?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 13675.9013671875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 203,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/j7ww-5ipv",
+    "last_updated": "2016-08-27 18:39:44+00:00",
+    "protocol": "https",
+    "created": "2016-03-14 21:09:34+00:00"
+}

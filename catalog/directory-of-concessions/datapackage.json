@@ -1,0 +1,41 @@
+{
+    "name": "directory-of-concessions",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of Concessions",
+    "version": "N/A",
+    "keywords": [
+        "business",
+        "license",
+        "healthy living"
+    ],
+    "description": "Approximately 500 concessions currently operate in parks. They generally fall into two categories: food service and recreation. The food service concessions range from pushcarts selling hot dogs and pretzels to full restaurants. Recreational concessions include ice rinks, indoor tennis bubbles, stables, marinas, and much more.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 131.4833984375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 486,
+    "preferred_mimetype": "application/xml",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/ac9y-je94",
+    "last_updated": "2017-04-11 16:12:06+00:00",
+    "protocol": "https",
+    "created": "2011-09-28 20:42:03+00:00"
+}

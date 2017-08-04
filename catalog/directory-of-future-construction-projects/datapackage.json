@@ -1,0 +1,54 @@
+{
+    "name": "directory-of-future-construction-projects",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Of Future Construction Projects",
+    "version": "N/A",
+    "keywords": [
+        "future",
+        "department of design and construction",
+        "ddc"
+    ],
+    "description": "This table displays future construction projects which is based on the city's April approved budget. The fiscal year starts July 1 and ends June 30.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Design and Construction (DDC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/k2zs-b24z/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 158,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1320,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "FISCAL YEAR\u00a0\u00a0\u00a0",
+        "No.(#)",
+        "EST. BID PERIOD\u00a0\u00a0\u00a0",
+        "BUDGET RANGE (X $1000)\u00a0\u00a0\u00a0",
+        "TRADE\u00a0\u00a0\u00a0",
+        "DESCRIPTION\u00a0\u00a0\u00a0",
+        "FMS ID\u00a0\u00a0\u00a0"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/k2zs-b24z",
+    "last_updated": "2014-09-05 17:10:23+00:00",
+    "protocol": "https",
+    "created": "2013-03-06 13:41:08+00:00"
+}

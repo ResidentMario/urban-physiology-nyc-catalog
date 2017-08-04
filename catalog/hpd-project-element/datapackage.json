@@ -1,0 +1,61 @@
+{
+    "name": "hpd-project-element",
+    "datapackage_version": "1.0-beta",
+    "title": "HPD Project Element",
+    "version": "N/A",
+    "keywords": [
+        "project element",
+        "department of housing preservation and development",
+        "hpd"
+    ],
+    "description": "Information on a Housing Development Project about which HPD is required to report. This includes general project information such as start and completion dates, units, Borrower Legal Entity, general contractor (GC), and prevailing wage information.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Housing Preservation and Development (HPD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/wig2-3fvs/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 834,
+    "columns": 14,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 714,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Project Name",
+        "Borrower Legal Entity Name",
+        "General Contractor Name",
+        "Projected Completion Date",
+        "Program Name",
+        "Start Date",
+        "Is Section 220 NYS Labor Law?",
+        "Project DWID",
+        "Final Outcome",
+        "Actual Completion Date",
+        "Is DavisBacon?",
+        "Project ID",
+        "Total Project Units",
+        "Commercial Square Footage"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/wig2-3fvs",
+    "last_updated": "2016-03-22 18:26:21+00:00",
+    "protocol": "https",
+    "created": "2014-02-26 21:30:07+00:00"
+}

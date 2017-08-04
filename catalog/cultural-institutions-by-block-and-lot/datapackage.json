@@ -1,0 +1,69 @@
+{
+    "name": "cultural-institutions-by-block-and-lot",
+    "datapackage_version": "1.0-beta",
+    "title": "Cultural Institutions by block and lot",
+    "version": "N/A",
+    "keywords": [
+        "lot",
+        "institution",
+        "theatre",
+        "theater",
+        "statue",
+        "sculpture",
+        "performance",
+        "painting",
+        "museum",
+        "history",
+        "historical",
+        "gallery",
+        "drawing",
+        "dancing",
+        "dance",
+        "culture",
+        "cultural",
+        "block",
+        "art",
+        "museo"
+    ],
+    "description": "Listing of cultural institutions by block and lot",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Downtown Alliance"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/733r-da8r/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 71,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1929,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Preferred Block-Lot Number",
+        "Constituency Code",
+        "Organization Name",
+        "Constituent Specific Attributes R-Secondary Type Description",
+        "Preferred Address Line 1"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/733r-da8r",
+    "last_updated": "2014-09-06 00:41:00+00:00",
+    "protocol": "https",
+    "created": "2011-08-30 22:07:45+00:00"
+}

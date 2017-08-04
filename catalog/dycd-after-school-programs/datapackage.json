@@ -1,0 +1,62 @@
+{
+    "name": "dycd-after-school-programs",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD after-school programs",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning",
+        "services",
+        "youth",
+        "child",
+        "children",
+        "community",
+        "development",
+        "education",
+        "jobs and economic mobility",
+        "school"
+    ],
+    "description": "After-school programs in New York City, organized by various categories and for various audiences.\r\nUpdate Frequency: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/mbd7-jfnc/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1600,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2528,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "AGENCY",
+        "Contact Number",
+        "Grade Level / Age Group ",
+        "Location 1",
+        "PROGRAM",
+        "PROGRAM TYPE",
+        "BOROUGH / COMMUNITY",
+        "SITE NAME"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/mbd7-jfnc",
+    "last_updated": "2014-09-05 17:44:07+00:00",
+    "protocol": "https",
+    "created": "2011-08-31 18:20:25+00:00"
+}

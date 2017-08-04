@@ -1,0 +1,50 @@
+{
+    "name": "inmate-admissions",
+    "datapackage_version": "1.0-beta",
+    "title": "Inmate Admissions",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Inmate admissions with attributes (race, gender, legal status, top charge). This data set excludes Sealed Cases. Resulting summaries may differ slightly from other published statistics.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Correction (DOC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/6teu-xtgp/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 30100,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 190,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "ADMITTED_DT",
+        "INMATE_STATUS_CODE",
+        "INMATEID",
+        "GENDER",
+        "DISCHARGED_DT",
+        "TOP_CHARGE",
+        "RACE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/6teu-xtgp",
+    "last_updated": "2017-05-01 19:43:28+00:00",
+    "protocol": "https",
+    "created": "2016-03-23 18:28:55+00:00"
+}

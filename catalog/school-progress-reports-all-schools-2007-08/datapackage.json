@@ -1,0 +1,65 @@
+{
+    "name": "school-progress-reports-all-schools-2007-08",
+    "datapackage_version": "1.0-beta",
+    "title": "School Progress Reports - All Schools - 2007-08",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning"
+    ],
+    "description": "2007/08 Progress Report results for all schools (data as of 1/13/09)\r\n\r\nPeer indices are calculated differently depending on School Level.  Schools are only compared to other schools in the same School Level (e.g., Elementary, K-8, Middle, High)\r\n\r\n1) Elementary & K-8 - peer index is a value from 0-100.  We use a composite demographic statistic based on % ELL, % SpEd, % Title I free lunch, and % Black/Hispanic.  Higher values indicate student populations with higher need.\r\n\r\n2) Middle & High - peer index is a value from 1.00-4.50.  For middle schools, we use the average 4th grade proficiency ratings in ELA and Math for all their students that have 4th grade test scores.  For high schools, we use the average 8th grade proficiency ratings in ELA and Math for all their students that have 8th grade test scores, % SpEd, and % Overage.  Lower values indicate student populations with higher need.\r\n\r\n3) Schools for Transfer Students - peer index is a value from 1.00-4.50.  We use the average 8th grade proficiency ratings in ELA and Math for all their students that have 8th grade test scores and the % Overage/Under credited.  Lower values indicate student populations with higher need.  Unlike Elementary, Middle, and High School Progress Reports, the Environment Category is only composed of Survey Results.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/dj4e-3xrn/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1683,
+    "columns": 20,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 347,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "DISTRICT",
+        "OVERALL GRADE",
+        "2006-07 PROGRESS REPORT GRADE",
+        "PROGRESS REPORT TYPE",
+        "ENVIRONMENT GRADE",
+        "PERFORMANCE CATEGORY SCORE",
+        "PROGRESS GRADE",
+        "SCHOOL",
+        "PRINCIPAL",
+        "ADDITIONAL CREDIT",
+        "2007-08 QUALITY REVIEW SCORE",
+        "2006-07 FEDERAL ACCOUNTABILITY STATUS",
+        "PERFORMANCE GRADE",
+        "PROGRESS CATEGORY SCORE",
+        "DBN",
+        "SCHOOL LEVEL*",
+        "PEER INDEX*",
+        "2007-08 SCHOOL SUPPORT ORGANIZATION",
+        "ENVIRONMENT CATEGORY SCORE",
+        "OVERALL SCORE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/dj4e-3xrn",
+    "last_updated": "2014-09-05 17:39:59+00:00",
+    "protocol": "https",
+    "created": "2011-10-06 20:28:33+00:00"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "luxury-limousine-services-bases",
+    "datapackage_version": "1.0-beta",
+    "title": "Luxury Limousine Services - Bases",
+    "version": "N/A",
+    "keywords": [
+        "tlc",
+        "luxury limousine services - bases"
+    ],
+    "description": "Luxury Limousine Bases provide pre-arranged premium transportation to clients throughout New York City. This list includes license numbers, names(s) of licensees, addresses, phones, and license types.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 87.5322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 200,
+    "preferred_mimetype": "application/vnd.ms-office",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "xls",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/pr6u-akpp",
+    "last_updated": "2014-10-10 19:40:45+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 20:21:18+00:00"
+}

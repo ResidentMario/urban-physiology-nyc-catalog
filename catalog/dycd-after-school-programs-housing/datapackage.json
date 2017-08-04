@@ -1,0 +1,67 @@
+{
+    "name": "dycd-after-school-programs-housing",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD after-school-programs: Housing",
+    "version": "N/A",
+    "keywords": [
+        "jobs and economic mobility",
+        "lifelong learning",
+        "programs",
+        "school",
+        "housing assistance & advocacy",
+        "adults",
+        "after-school",
+        "after-school programs",
+        "community",
+        "community development",
+        "development",
+        "family",
+        "family support",
+        "18 and up",
+        "housing assistance and advocacy"
+    ],
+    "description": "Facilities in New York City, by agency and site, that offer Family Support after-school \u201cHousing Assistance and Advocacy Programs\u201d for adults and young adults ages 18 and up - Department of Youth and Community Development (DYCD).\r\nUpdate Frequency: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/fqcv-e9sg/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 33,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 363,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Grade Level / Age Group ",
+        "SITE NAME",
+        "PROGRAM TYPE",
+        "BOROUGH / COMMUNITY",
+        "PROGRAM",
+        "Location 1",
+        "Contact Number",
+        "AGENCY"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/fqcv-e9sg",
+    "last_updated": "2014-09-05 17:03:18+00:00",
+    "protocol": "https",
+    "created": "2011-09-06 20:28:38+00:00"
+}

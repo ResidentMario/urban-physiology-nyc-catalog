@@ -1,0 +1,71 @@
+{
+    "name": "watershed-statistics",
+    "datapackage_version": "1.0-beta",
+    "title": "Watershed statistics",
+    "version": "N/A",
+    "keywords": [
+        "agua",
+        "water system",
+        "water supply",
+        "tap water",
+        "water",
+        "department of environmental protection",
+        "dep",
+        "ecosystem",
+        "reservoir",
+        "tap",
+        "conservation",
+        "nyc",
+        "healthy living",
+        "health",
+        "watershrd",
+        "environment",
+        "eco-system"
+    ],
+    "description": "NYC West-of-Hudson Watershed Impervious Surface Percentages by Basin",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/rh4g-pmh8/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 11,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 969,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Impervious as % of Total Basin Area",
+        "Basin Area minus Water Bodies (acres)",
+        "WOH Basin",
+        "Total Reservoir Area (acres)",
+        "Total Water Bodies** incl. Reservoirs (acres)",
+        "References ****",
+        "Population Density**** (persons/ sq. mi)",
+        "Total Impervious Surface (acres)",
+        "Total Basin Area (acres)",
+        "Impervious as % of Basin Excluding Water Body Areas***"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/rh4g-pmh8",
+    "last_updated": "2014-09-05 17:06:25+00:00",
+    "protocol": "https",
+    "created": "2011-09-09 21:40:29+00:00"
+}

@@ -1,0 +1,68 @@
+{
+    "name": "votingpoll-sites",
+    "datapackage_version": "1.0-beta",
+    "title": "Voting/Poll Sites",
+    "version": "N/A",
+    "keywords": [
+        "polling",
+        "polls",
+        "poll",
+        "voting",
+        "votes",
+        "vote",
+        "poll site",
+        "poll sites",
+        "site",
+        "sites",
+        "election",
+        "elections"
+    ],
+    "description": "Locations of voting/poll sites through the city. This data is correct as of 10/19/16. Please note that this information may not be up-to-date.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Board of Elections (BOENY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/mifw-tguq/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1205,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1061,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "STREET_SUFFIX",
+        "STREET_NUMBER",
+        "SITE_STATUS",
+        "BOROUGH",
+        "SITE_NAME",
+        "SITE_NUMBER",
+        "STREET_NAME",
+        "ZIP_CODE",
+        "CITY",
+        "VOTER_ENTRANCE",
+        "LOCATION",
+        "HANDICAP_ENTRANCE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/mifw-tguq",
+    "last_updated": "2016-11-01 16:06:14+00:00",
+    "protocol": "https",
+    "created": "2012-10-18 18:15:30+00:00"
+}

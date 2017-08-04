@@ -1,0 +1,90 @@
+{
+    "name": "dof-cooperative-comparable-rental-income-queens-fy-20082009",
+    "datapackage_version": "1.0-beta",
+    "title": "DOF: Cooperative Comparable Rental Income \u2013 Queens \u2013 FY 2008/2009",
+    "version": "N/A",
+    "keywords": [
+        "buildings",
+        "apartment",
+        "borough",
+        "cooperatives",
+        "department of finance",
+        "dof",
+        "finance",
+        "queens",
+        "rental properties",
+        "rental property",
+        "residential"
+    ],
+    "description": "The Department of Finance (DOF) is required by NY State law to value condominiums or cooperatives as if they were residential rental apartment buildings.   DOF uses income information from rental properties similar in physical features and location to the condominiums or cooperatives. DOF applies this income data to the condominium or cooperative and determine its value in the same way DOF values rental apartment buildings.\r\nUpdate Schedule: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/cwg5-cqkm/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 975,
+    "columns": 35,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 122,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "COMPARABLE RENTAL \u2013 2 \u2013Total Units",
+        "COMPARABLE RENTAL \u2013 1 \u2013Dist. from Coop in miles",
+        "QUEENS \u2013 COOPERATIVES COMPARABLE PROPERTIES \u2013 Building Classification",
+        "QUEENS \u2013 COOPERATIVES COMPARABLE PROPERTIES \u2013 Address",
+        "QUEENS \u2013 COOPERATIVES COMPARABLE PROPERTIES \u2013 Neighborhood",
+        "QUEENS \u2013 COOPERATIVES COMPARABLE PROPERTIES \u2013 Gross SqFt",
+        "QUEENS \u2013 COOPERATIVES COMPARABLE PROPERTIES \u2013 Market Value per SqFt",
+        "QUEENS \u2013 COOPERATIVES COMPARABLE PROPERTIES \u2013 Full Market Value",
+        "COMPARABLE RENTAL \u2013 1 \u2013Address",
+        "COMPARABLE RENTAL \u2013 1 \u2013Boro-Block-Lot",
+        "COMPARABLE RENTAL \u2013 1 \u2013Building Classification",
+        "COMPARABLE RENTAL \u2013 1 \u2013Neighborhood",
+        "COMPARABLE RENTAL \u2013 1 \u2013Year Built",
+        "COMPARABLE RENTAL \u2013 1 \u2013Gross SqFt",
+        "COMPARABLE RENTAL \u2013 1 \u2013Total Units",
+        "COMPARABLE RENTAL \u2013 1 \u2013Est. Gross Income",
+        "COMPARABLE RENTAL \u2013 1 \u2013Market Value per SqFt",
+        "COMPARABLE RENTAL \u2013 1 \u2013Full Market Value",
+        "COMPARABLE RENTAL \u2013 2 \u2013Boro-Block-Lot",
+        "COMPARABLE RENTAL \u2013 2 \u2013Address",
+        "COMPARABLE RENTAL \u2013 2 \u2013Market Value per SqFt",
+        "COMPARABLE RENTAL \u2013 2 \u2013Dist. from Coop in miles",
+        "COMPARABLE RENTAL \u2013 2 \u2013Gross Income per SqFt",
+        "COMPARABLE RENTAL \u2013 2 \u2013Full Market Value",
+        "COMPARABLE RENTAL \u2013 2 \u2013Building Classification",
+        "COMPARABLE RENTAL \u2013 2 \u2013Year Built",
+        "COMPARABLE RENTAL \u2013 2 \u2013Gross SqFt",
+        "QUEENS \u2013 COOPERATIVES COMPARABLE PROPERTIES \u2013 Est. Gross Income",
+        "COMPARABLE RENTAL \u2013 1 \u2013Gross Income per SqFt",
+        "QUEENS \u2013 COOPERATIVES COMPARABLE PROPERTIES \u2013 Year Built",
+        "QUEENS \u2013 COOPERATIVES COMPARABLE PROPERTIES \u2013 Total Units",
+        "QUEENS \u2013 COOPERATIVES COMPARABLE PROPERTIES \u2013 Gross Income per SqFt",
+        "QUEENS \u2013 COOPERATIVES COMPARABLE PROPERTIES \u2013 Boro-Block-Lot",
+        "COMPARABLE RENTAL \u2013 2 \u2013Neighborhood",
+        "COMPARABLE RENTAL \u2013 2 \u2013Est. Gross Income"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/cwg5-cqkm",
+    "last_updated": "2014-09-05 17:17:32+00:00",
+    "protocol": "https",
+    "created": "2011-10-04 21:27:20+00:00"
+}

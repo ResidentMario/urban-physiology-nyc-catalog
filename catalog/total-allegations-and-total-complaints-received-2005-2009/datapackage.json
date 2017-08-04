@@ -1,0 +1,72 @@
+{
+    "name": "total-allegations-and-total-complaints-received-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "Total Allegations And Total Complaints Received 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "statistics",
+        "activity",
+        "allegation",
+        "board",
+        "ccrb",
+        "civilian",
+        "civilian complaint review board",
+        "2005",
+        "2006",
+        "2007",
+        "complaint",
+        "complaint activity",
+        "2008",
+        "2009",
+        "disciplinary recommendation",
+        "misconduct",
+        "review"
+    ],
+    "description": "CCRB: Total Allegations and Total Complaints Received 2005 - 2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/bbvw-ivc8/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 6,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 390,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2007 Percent of Total",
+        "2009 Number",
+        "2007 Number",
+        "2008 Number",
+        "2006 Number",
+        "2005 Number",
+        "2006 Percent of Total",
+        "2005 Percent of Total",
+        "2008 Percent of Total",
+        "2009 Percent of Total",
+        "Category"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/bbvw-ivc8",
+    "last_updated": "2014-09-05 16:58:14+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 19:53:30+00:00"
+}

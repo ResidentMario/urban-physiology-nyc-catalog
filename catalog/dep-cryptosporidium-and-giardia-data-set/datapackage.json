@@ -1,0 +1,61 @@
+{
+    "name": "dep-cryptosporidium-and-giardia-data-set",
+    "datapackage_version": "1.0-beta",
+    "title": "DEP - Cryptosporidium And Giardia Data Set",
+    "version": "N/A",
+    "keywords": [
+        "upstream reservoir  keypoints",
+        "environment",
+        "dep - cryptosporidium and giardia data set",
+        "sample",
+        "test",
+        "epa",
+        "kensico perennial streams",
+        "giardia",
+        "environmental protection",
+        "cryptosporidium",
+        "pathogen source origin objective sites",
+        "sampling",
+        "tests"
+    ],
+    "description": "Cryptosporidium and Giardia Background Information and Monitoring Program\r\n\r\nSince July 2002, all Cryptosporidium and Giardia samples (50 L volumes, unless specified) have  been collected and analyzed by DEP following EPA Method 1623HV (USEPA 2005). Human  enteric virus sampling and analyses follow general procedures listed in the Information Collection Rule (ICR) Microbial Laboratory Manual (USEPA 1996) and have been processed by Environmental Laboratory Associates Ltd. While references may be made to historical data, previous semi-annual reports or the DEP website should be reviewed to assess historical data. This table displays the mean concentrations of protozoa per liter in order to simplify a comparison of data among the non-WWTP sites.\r\n\r\nMean concentrations per liter for Cryptosporidium and Giardia at upstream reservoir  Keypoints, Kensico perennial streams, and pathogen source origin objective sites during the sampling period July 1\u2013December 31 2011.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/x2s6-6d2j/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 48,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 329,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Site",
+        "Mean L-1",
+        "Objective",
+        "Pathogen"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/x2s6-6d2j",
+    "last_updated": "2014-09-05 17:38:30+00:00",
+    "protocol": "https",
+    "created": "2014-03-04 22:28:23+00:00"
+}

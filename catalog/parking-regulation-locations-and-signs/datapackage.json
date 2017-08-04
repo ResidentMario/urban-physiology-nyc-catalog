@@ -1,0 +1,44 @@
+{
+    "name": "parking-regulation-locations-and-signs",
+    "datapackage_version": "1.0-beta",
+    "title": "Parking Regulation Locations and Signs",
+    "version": "N/A",
+    "keywords": [
+        "regulation",
+        "parking",
+        "dot",
+        "transportation",
+        "streets",
+        "signs"
+    ],
+    "description": "The Parking Regulations are drawn from DOT\u2019s traffic sign database, STATUS, which is used by DOT in managing its inventory of over one million traffic signs in New York City. The database keeps track of the description, location and installation dates for DOT traffic signs. The Locations and Signs datasets need to be used in combination. The data in files can be linked, to find an applicable regulation, using the 'StatusOrderNumber' value. This process is automated at our  DOT Parking Regulation website: http://a841-dotvweb01.nyc.gov/ParkingRegs/ViewController/LocationValidation.aspx\r\n\r\nClick here for metadata - http://a841-dotweb01.nyc.gov/datafeeds/ParkingReg/File%20description.pdf",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 116.9716796875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 1466,
+    "preferred_mimetype": "application/pdf",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "pdf",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/xswq-wnv9",
+    "last_updated": "2016-08-18 18:34:58+00:00",
+    "protocol": "https",
+    "created": "2015-03-13 20:45:54+00:00"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "neighborhood-names-gis",
+    "datapackage_version": "1.0-beta",
+    "title": "Neighborhood Names GIS",
+    "version": "N/A",
+    "keywords": [
+        "cartography",
+        "dcp",
+        "location",
+        "geographic",
+        "area of interest",
+        "gis",
+        "interest",
+        "scenic",
+        "historic",
+        "neighborhood",
+        "city planning",
+        "neighborhood names",
+        "map",
+        "areas of interest"
+    ],
+    "description": "GIS data: neighborhood labels as depicted in New York City: A City of Neighborhoods",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/99bc-9p23?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 76.525390625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 7732,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/99bc-9p23",
+    "last_updated": "2017-01-20 19:52:25+00:00",
+    "protocol": "https",
+    "created": "2013-04-09 17:20:10+00:00"
+}

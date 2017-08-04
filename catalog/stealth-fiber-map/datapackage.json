@@ -1,0 +1,48 @@
+{
+    "name": "stealth-fiber-map",
+    "datapackage_version": "1.0-beta",
+    "title": "Stealth Fiber Map",
+    "version": "N/A",
+    "keywords": [
+        "broadband",
+        "broadband data dig",
+        "cable franchise areas",
+        "digital divide",
+        "internet"
+    ],
+    "description": "Visual display of the Stealth Fiber Map kmz file found in the Broadband Data Dig dataset.\n\n(https://data.cityofnewyork.us/dataset/Broadband-Data-Dig-Datasets/ft4n-yqee)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": null
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/u6su-4fpt?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 26.390625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 83,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        ""
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/u6su-4fpt",
+    "last_updated": "2016-11-19 14:00:11+00:00",
+    "protocol": "https",
+    "created": "2016-11-18 23:29:09+00:00"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "citizen-emergency-response-team-cert",
+    "datapackage_version": "1.0-beta",
+    "title": "Citizen Emergency Response Team (CERT)",
+    "version": "N/A",
+    "keywords": [
+        "citizen emergency response team (cert)",
+        "oem",
+        "citizen",
+        "emergency management"
+    ],
+    "description": "List of Citizen Emergency Response Teams (CERT)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of Emergency Management (OEM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/b2gb-nkrq/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 47,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 290,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "CERT_STATUS",
+        "UPDATED",
+        "CD_Name",
+        "TEAM_NAME",
+        "Team_Total",
+        "CD_Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/b2gb-nkrq",
+    "last_updated": "2016-01-25 16:17:20+00:00",
+    "protocol": "https",
+    "created": "2014-06-02 16:19:32+00:00"
+}

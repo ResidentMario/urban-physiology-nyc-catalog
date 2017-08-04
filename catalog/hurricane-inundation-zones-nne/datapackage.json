@@ -1,0 +1,42 @@
+{
+    "name": "hurricane-inundation-zones-nne",
+    "datapackage_version": "1.0-beta",
+    "title": "Hurricane Inundation Zones NNE",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Worst case hurricane surge inundation areas for category 1 through 4 hurricanes, based on the bearing of the storm. The bearing is the direction towards which the storm is moving. These inundation areas are based on the National Hurricane Center's 2010 SLOSH (Sea Lake and Overland Surge from Hurricanes) Model for the NY3 basin.  The zones are created with the assumption that the storm surge will hit at high tide, which is assumed to be 2 feet for the entire region.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of Emergency Management (OEM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/uhb2-uqfs?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 159132.0078125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 71,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/uhb2-uqfs",
+    "last_updated": "2016-08-27 18:33:33+00:00",
+    "protocol": "https",
+    "created": "2016-01-15 15:38:15+00:00"
+}

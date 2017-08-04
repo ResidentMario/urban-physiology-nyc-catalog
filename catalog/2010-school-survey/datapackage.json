@@ -1,0 +1,52 @@
+{
+    "name": "2010-school-survey",
+    "datapackage_version": "1.0-beta",
+    "title": "2010 School Survey",
+    "version": "N/A",
+    "keywords": [
+        "learning",
+        "junior high school",
+        "jhs",
+        "survey",
+        "high school",
+        "elementary",
+        "education",
+        "department of education",
+        "p.s.",
+        "school",
+        "lifelong learning",
+        "schools",
+        "board of ed",
+        "is"
+    ],
+    "description": "2010 school survey with ratings in categories such as parental academic expectations, teacher academic expectations, student engagement, safety, and other categories",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 12986.720703125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 1286,
+    "preferred_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "xlsx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/qirg-qbv8",
+    "last_updated": "2014-09-05 17:34:23+00:00",
+    "protocol": "https",
+    "created": "2011-08-30 17:25:24+00:00"
+}

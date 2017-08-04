@@ -1,0 +1,47 @@
+{
+    "name": "2016-nyc-open-data-plan-list-of-datasets-removed",
+    "datapackage_version": "1.0-beta",
+    "title": "2016 NYC Open Data Plan - List of Datasets Removed",
+    "version": "N/A",
+    "keywords": [],
+    "description": "An inventory of data sets removed in the 2016 update to the Open Data Plan.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/eivx-q94q/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 20,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 171,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        ""
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Data Set Title",
+        "Data Set Description",
+        "Agency Comment",
+        "Agency"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/eivx-q94q",
+    "last_updated": "2017-02-16 23:20:08+00:00",
+    "protocol": "https",
+    "created": "2016-07-15 13:52:18+00:00"
+}

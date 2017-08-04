@@ -1,0 +1,49 @@
+{
+    "name": "acris-country-codes",
+    "datapackage_version": "1.0-beta",
+    "title": "ACRIS - Country Codes",
+    "version": "N/A",
+    "keywords": [
+        "acris land records",
+        "dof"
+    ],
+    "description": "ACRIS Countries mapping for Codes in the ACRIS Real and Personal Parties Property Datasets",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/j2iz-mwzu/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 250,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 522,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "COUNTRY CODE",
+        "DESCRIPTION",
+        "RECORD TYPE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/j2iz-mwzu",
+    "last_updated": "2017-05-08 20:13:32+00:00",
+    "protocol": "https",
+    "created": "2013-09-16 18:17:14+00:00"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "dop-juvenile-violations-of-probation-disposed-by-calendar-year",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Juvenile Violations of Probation Disposed by Calendar Year",
+    "version": "N/A",
+    "keywords": [
+        "calendar year",
+        "disposed",
+        "probation",
+        "violation",
+        "juvenile",
+        "dop"
+    ],
+    "description": "The number of dispositions issued by local courts for \"violation of probation\" proceedings during the reporting period.  Categorized by type of disposition: dismissed; probation continued; probation revoked; discharged (probation sentence ended).",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/qf92-qkjm/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 220,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 188,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Calendar Year",
+        "Borough",
+        "Violation Type",
+        "Disposed Violation Count"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/qf92-qkjm",
+    "last_updated": "2017-03-08 21:20:48+00:00",
+    "protocol": "https",
+    "created": "2014-04-07 16:23:11+00:00"
+}

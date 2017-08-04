@@ -1,0 +1,51 @@
+{
+    "name": "dop-juvenile-intakes-by-fiscal-year",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Juvenile Intakes by Fiscal Year",
+    "version": "N/A",
+    "keywords": [
+        "juvenile",
+        "dop",
+        "fiscal year",
+        "intakes"
+    ],
+    "description": "The number of youth received in probation intake (pre-adjudication services) during the reporting period.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ff9v-9yzg/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 55,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 173,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Client Total",
+        "Borough",
+        "Fiscal Year (ending in June)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ff9v-9yzg",
+    "last_updated": "2016-09-16 01:03:13+00:00",
+    "protocol": "https",
+    "created": "2014-04-07 16:21:18+00:00"
+}

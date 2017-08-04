@@ -1,0 +1,55 @@
+{
+    "name": "licensing-center-customer-information",
+    "datapackage_version": "1.0-beta",
+    "title": "Licensing Center Customer Information",
+    "version": "N/A",
+    "keywords": [
+        "dca",
+        "department of consumer affairs",
+        "city government",
+        "license",
+        "business"
+    ],
+    "description": "This data set features a monthly snapshot of customer service information at the DCA Licensing Center.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Consumer Affairs (DCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/azp6-hepu/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 16,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 267,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Customers Served",
+        "Average Satisfaction Rating",
+        "Month",
+        "Average Transaction Time",
+        "Average Wait Time",
+        "Licensing Office"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/azp6-hepu",
+    "last_updated": "2017-02-03 19:30:43+00:00",
+    "protocol": "https",
+    "created": "2016-01-26 19:10:03+00:00"
+}

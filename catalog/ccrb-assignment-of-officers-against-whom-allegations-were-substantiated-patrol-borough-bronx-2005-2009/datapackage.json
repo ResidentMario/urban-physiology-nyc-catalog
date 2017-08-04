@@ -1,0 +1,65 @@
+{
+    "name": "ccrb-assignment-of-officers-against-whom-allegations-were-substantiated-patrol-borough-bronx-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "CCRB: Assignment of Officers against Whom Allegations Were Substantiated - Patrol Borough Bronx 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "statistics",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "activity",
+        "board",
+        "ccrb",
+        "civilian",
+        "civilian complaint review board",
+        "complaint",
+        "complaint activity",
+        "review"
+    ],
+    "description": "CCRB complaint activity data, 2005-2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/scqk-i7ht/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 18,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 110,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2008",
+        "2007",
+        "2006",
+        "2005",
+        "Bronx",
+        "Total",
+        "2009"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/scqk-i7ht",
+    "last_updated": "2014-09-05 17:11:50+00:00",
+    "protocol": "https",
+    "created": "2011-09-13 19:39:38+00:00"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "detention-and-placement-incident-reports",
+    "datapackage_version": "1.0-beta",
+    "title": "Detention and Placement Incident Reports",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Detention and Placement incident statistics reported in compliance with Introduction 153-A and 37-A passed by the New York City Council.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Administration for Children's Services (ACS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 30.1513671875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 91,
+    "preferred_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "xlsx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/2jnq-tef6",
+    "last_updated": "2016-11-04 19:05:58+00:00",
+    "protocol": "https",
+    "created": "2015-10-08 20:36:03+00:00"
+}

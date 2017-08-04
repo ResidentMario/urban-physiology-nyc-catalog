@@ -1,0 +1,49 @@
+{
+    "name": "sidewalk-caf\u00e9-regulations-gis-shapefile",
+    "datapackage_version": "1.0-beta",
+    "title": "Sidewalk Caf\u00e9 Regulations GIS: Shapefile",
+    "version": "N/A",
+    "keywords": [
+        "department of city planning (dcp)",
+        "dcp",
+        "sidewalk caf\u00e9 regulations gis: shapefile",
+        "cafe",
+        "restaurant",
+        "food"
+    ],
+    "description": "This feature class is a spatial representation of the Sidewalk Cafe regulations in the New York City Zoning Resolution, Chapter 1, Article 4.\u201d",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/qsuf-mgjh?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 11620.9345703125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 504,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/qsuf-mgjh",
+    "last_updated": "2017-05-08 21:04:24+00:00",
+    "protocol": "https",
+    "created": "2015-03-04 17:32:37+00:00"
+}

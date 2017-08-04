@@ -1,0 +1,77 @@
+{
+    "name": "gender-of-subject-officers-compared-to-new-york-city-police-department-demographics-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "Gender Of Subject Officers Compared To New York City Police Department Demographics 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "2006",
+        "civilian complaint review board",
+        "complaint",
+        "complaint activity",
+        "disciplinary recommendation",
+        "misconduct",
+        "review",
+        "statistics",
+        "ccrb",
+        "board",
+        "allegation",
+        "activity",
+        "2009",
+        "2008",
+        "2007",
+        "civilian",
+        "2005"
+    ],
+    "description": "CCRB: Gender of Subject Officers Compared to New York City Police Department Demographics 2005 - 2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/jhq9-vaec/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5,
+    "columns": 16,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 190,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Gender",
+        "2005 NYPD Population 2005",
+        "2006 Number of Officers",
+        "2006 NYPD Population 2006",
+        "2007 Number of Officers",
+        "2008 Percent of Subtotal",
+        "2005 Percent of Subtotal",
+        "2007 NYPD Population 2007",
+        "2007 Percent of Subtotal",
+        "2008 NYPD Population 2008",
+        "2009 NYPD Population 2009",
+        "2006 Percent of Subtotal",
+        "2008 Number of Officers",
+        "2009 Percent of Subtotal",
+        "2005 Number of Officers",
+        "2009 Number of Officers"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/jhq9-vaec",
+    "last_updated": "2014-09-05 16:57:56+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 16:56:37+00:00"
+}

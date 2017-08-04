@@ -1,0 +1,50 @@
+{
+    "name": "quality-review-2005-2012",
+    "datapackage_version": "1.0-beta",
+    "title": "Quality Review 2005-2012",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning",
+        "school",
+        "quaility review score"
+    ],
+    "description": "The Quality Review is a two- or three-day school visit by experienced educators to each New York City school. During the review, the external evaluator visits classrooms, talks with school leaders, and uses a rubric to evaluate how well the school is organized to support student achievement. This dataset includes all of the Quality Review scores from 2005-2011.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/piri-jns7/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 4794,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 469,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "DBN",
+        "Overall Rating",
+        "School Year"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/piri-jns7",
+    "last_updated": "2014-09-05 17:42:56+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 05:16:58+00:00"
+}

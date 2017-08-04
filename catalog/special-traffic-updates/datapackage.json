@@ -1,0 +1,44 @@
+{
+    "name": "special-traffic-updates",
+    "datapackage_version": "1.0-beta",
+    "title": "Special Traffic Updates",
+    "version": "N/A",
+    "keywords": [
+        "update",
+        "clean web",
+        "special traffic update",
+        "traffic",
+        "travel",
+        "transportation"
+    ],
+    "description": "RSS Feed displaying special traffic updates",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 5.7685546875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 817,
+    "preferred_mimetype": "text/xml",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/t4s6-khpm",
+    "last_updated": "2014-09-05 17:45:39+00:00",
+    "protocol": "https",
+    "created": "2011-07-30 01:07:39+00:00"
+}

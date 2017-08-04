@@ -1,0 +1,60 @@
+{
+    "name": "dep-bureau-of-wastewater-treatment-bwt-2011-nuisance-complaints",
+    "datapackage_version": "1.0-beta",
+    "title": "DEP -  Bureau of Wastewater Treatment (BWT) \u2013 2011 Nuisance Complaints",
+    "version": "N/A",
+    "keywords": [
+        "nuisance",
+        "nuisance complaints",
+        "2011",
+        "wastewater",
+        "bureau of wastewater treatment",
+        "complaints",
+        "dep",
+        "department of environmental protection",
+        "environment",
+        "environmental protection",
+        "healthy living"
+    ],
+    "description": "A database of Department of Environmental Protection (DEP) nuisance complaints, by wastewater treatment plants and by monthly totals in the year 2011, assembled by the Bureau of Wastewater Treatment (BWT)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/qiku-f5v3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 87,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 874,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "# COMPLAINT RESPONDED",
+        "# COMPLAINT NOT RESPONDED W/IN 24",
+        "MONTH",
+        "PLANT",
+        "# COMPLAINT REC'D"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/qiku-f5v3",
+    "last_updated": "2014-09-05 17:06:21+00:00",
+    "protocol": "https",
+    "created": "2011-09-09 18:21:58+00:00"
+}

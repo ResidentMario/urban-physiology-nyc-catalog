@@ -1,0 +1,54 @@
+{
+    "name": "current-commuter-van-drivers",
+    "datapackage_version": "1.0-beta",
+    "title": "Current Commuter Van Drivers",
+    "version": "N/A",
+    "keywords": [
+        "van",
+        "transportation",
+        "taxi",
+        "commuter",
+        "limousine",
+        "driver"
+    ],
+    "description": "Spreadsheet of all TLC commuter van drivers",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/mf6v-bdzr/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 301,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 436,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "License Type",
+        "Name of Licensee",
+        "License Expiration Date",
+        "License Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/mf6v-bdzr",
+    "last_updated": "2014-09-05 18:10:10+00:00",
+    "protocol": "https",
+    "created": "2011-08-26 20:44:51+00:00"
+}

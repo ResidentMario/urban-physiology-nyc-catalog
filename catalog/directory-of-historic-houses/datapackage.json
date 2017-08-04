@@ -1,0 +1,43 @@
+{
+    "name": "directory-of-historic-houses",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of Historic Houses",
+    "version": "N/A",
+    "keywords": [
+        "parks",
+        "directory of historic houses",
+        "healthy living",
+        "historic",
+        "dpr"
+    ],
+    "description": "Historic Houses in New York City Department of Parks & Recreation properties.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 28.720703125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 761,
+    "preferred_mimetype": "application/xml",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/un72-4nix",
+    "last_updated": "2017-04-11 15:36:15+00:00",
+    "protocol": "https",
+    "created": "2011-08-16 18:44:17+00:00"
+}

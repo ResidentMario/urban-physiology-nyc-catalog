@@ -1,0 +1,52 @@
+{
+    "name": "doing-business-search-people",
+    "datapackage_version": "1.0-beta",
+    "title": "Doing Business Search - People",
+    "version": "N/A",
+    "keywords": [],
+    "description": "The Doing Business Search provides access to information on entities and individuals that do business with the City of New York.\r\n\r\nhttp://www.nyc.gov/portal/site/DBusinessSite",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of the Mayor (OTM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/2sps-j9st/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 49000,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 104,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "DOING BUSINESS END DATE",
+        "ORGANIZATION NAME",
+        "RELATIONSHIP TYPE CODE",
+        "PERSON LAST NAME",
+        "MOCS PEOPLE ID",
+        "DOING BUSINESS START DATE",
+        "PERSON_NAME_SUFFIX",
+        "PERSON FIRST NAME",
+        "PERSON MIDDLE NAME"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/2sps-j9st",
+    "last_updated": "2017-03-18 19:13:25+00:00",
+    "protocol": "https",
+    "created": "2015-12-23 17:34:14+00:00"
+}

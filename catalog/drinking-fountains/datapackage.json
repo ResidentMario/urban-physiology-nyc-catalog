@@ -1,0 +1,56 @@
+{
+    "name": "drinking-fountains",
+    "datapackage_version": "1.0-beta",
+    "title": "Drinking Fountains",
+    "version": "N/A",
+    "keywords": [
+        "water",
+        "parks",
+        "fountains",
+        "dpr",
+        "drinking"
+    ],
+    "description": "This data contains the record of drinking fountain counts in NYC Parks sites. Drinking fountain counts are observed and recorded during park inspections at the site level. A site is a discreet area that is inspected/maintained, that may be equivalent to an entire small property, or a subdivision of a larger property. This data release includes drinking fountain counts from inspections through 4/26/17.\r\n\r\nTo obtain spatial data for each property refer to the Parks Properties data also posted on the Open Data Portal. Since that data set contains spatial information at the park property level, drinking fountain data will have to be aggregated to the park property level (Property Number) as well.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ph76-k6qa/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1375,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 308,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Borough",
+        "Community Board",
+        "Drinking Fountains",
+        "Property Number",
+        "Site Name",
+        "Site ID",
+        "Property Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ph76-k6qa",
+    "last_updated": "2017-05-04 14:42:16+00:00",
+    "protocol": "https",
+    "created": "2016-08-23 21:25:36+00:00"
+}

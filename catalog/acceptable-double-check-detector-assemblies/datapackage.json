@@ -1,0 +1,49 @@
+{
+    "name": "acceptable-double-check-detector-assemblies",
+    "datapackage_version": "1.0-beta",
+    "title": "Acceptable Double Check Detector Assemblies",
+    "version": "N/A",
+    "keywords": [
+        "department of environmental protection (dep)",
+        "dep",
+        "acceptable double check detector assemblies"
+    ],
+    "description": "List of acceptable double detector assemblies.  Refer to the following report for more details http://www.nyc.gov/html/dep/pdf/water_sewer/42_doh_supplement.pdf",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/muaz-gc29/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 28,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 182,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Company",
+        "Model Series"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/muaz-gc29",
+    "last_updated": "2014-09-05 18:05:24+00:00",
+    "protocol": "https",
+    "created": "2014-03-06 03:13:22+00:00"
+}

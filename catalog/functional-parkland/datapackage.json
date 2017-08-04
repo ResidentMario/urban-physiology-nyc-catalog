@@ -1,0 +1,46 @@
+{
+    "name": "functional-parkland",
+    "datapackage_version": "1.0-beta",
+    "title": "Functional Parkland",
+    "version": "N/A",
+    "keywords": [
+        "functional parkland",
+        "dpr",
+        "parks"
+    ],
+    "description": "Directory of Functional Parkland",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/e3uq-vht9?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 25217.203125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 461,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/e3uq-vht9",
+    "last_updated": "2016-08-27 18:19:29+00:00",
+    "protocol": "https",
+    "created": "2013-11-25 17:50:46+00:00"
+}

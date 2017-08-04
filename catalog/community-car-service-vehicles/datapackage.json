@@ -1,0 +1,61 @@
+{
+    "name": "community-car-service-vehicles",
+    "datapackage_version": "1.0-beta",
+    "title": "Community Car Service Vehicles",
+    "version": "N/A",
+    "keywords": [
+        "vehicle",
+        "transportation",
+        "taxi",
+        "service",
+        "limousine",
+        "community",
+        "car"
+    ],
+    "description": "All TLC community car service vehicles",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/scwj-eyn6/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 23000,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 721,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "License Type",
+        "License Number",
+        "Hybrid_Accessible_CNG_OR_Stretch_Limousine_Vehicle",
+        "License Expiration Date",
+        "Name of Licensee",
+        "VIN",
+        "DMV License Plate",
+        "Affiliated Base License Number",
+        "Affiliated Base Name",
+        "Model Year"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/scwj-eyn6",
+    "last_updated": "2014-09-05 18:08:56+00:00",
+    "protocol": "https",
+    "created": "2011-08-29 17:53:48+00:00"
+}

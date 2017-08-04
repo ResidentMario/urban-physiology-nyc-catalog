@@ -1,0 +1,65 @@
+{
+    "name": "pmmr-fy-2015-data-extract",
+    "datapackage_version": "1.0-beta",
+    "title": "PMMR FY 2015 Data Extract",
+    "version": "N/A",
+    "keywords": [],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ruce-cnp6/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 23400,
+    "columns": 22,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1023,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Value Ratio",
+        "Sub-Indicator",
+        "Value Currency",
+        "Measure Type",
+        "Indicator ID",
+        "Agency",
+        "Indicator Sequence",
+        "Geography",
+        "Critical Flag",
+        "Subindicator Sequence",
+        "Fiscal Year",
+        "Raw Value",
+        "Conditional Format",
+        "Format Type",
+        "Desired Direction",
+        "Goal Sequence",
+        "Value Percent",
+        "Service Sequence",
+        "Record Type",
+        "Indicator Name",
+        "Value Number",
+        "Value Time"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ruce-cnp6",
+    "last_updated": "2015-07-15 01:42:09+00:00",
+    "protocol": "https",
+    "created": "2015-02-25 03:18:50+00:00"
+}

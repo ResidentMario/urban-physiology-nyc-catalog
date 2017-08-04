@@ -1,0 +1,81 @@
+{
+    "name": "water-resevoir-levels",
+    "datapackage_version": "1.0-beta",
+    "title": "Water Resevoir Levels",
+    "version": "N/A",
+    "keywords": [
+        "dep",
+        "reservoir",
+        "nyc",
+        "healthy living",
+        "health",
+        "department of environmental protection",
+        "agua",
+        "ecosystem",
+        "eco-system",
+        "environment",
+        "water system",
+        "water supply",
+        "water",
+        "tap water",
+        "tap",
+        "conservation"
+    ],
+    "description": "New York City water supply system reservoir levels",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/zkky-n5j3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2035,
+    "columns": 21,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1898,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Cannonsville Storage",
+        "Pepacton Date              ",
+        "Pepacton Elevation",
+        "Ashokan West Elevation",
+        "Pepacton Storage",
+        "Ashokan West Storage",
+        "Neversink Elevation",
+        "Neversink Storage",
+        "Neversink Date              ",
+        "Ashokan East Date             ",
+        "Rondout Storage",
+        "Ashokan East Elevation",
+        "Schoharie Date             ",
+        "Rondout Date             ",
+        "Rondout Elevation",
+        "Ashokan East Storage",
+        "Ashokan West Date             ",
+        "Schoharie Elevation",
+        "Schoharie Storage",
+        "Cannonsville Date             ",
+        "Cannonsville Elevation"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/zkky-n5j3",
+    "last_updated": "2014-09-05 17:06:09+00:00",
+    "protocol": "https",
+    "created": "2011-08-30 21:44:25+00:00"
+}

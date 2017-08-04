@@ -1,0 +1,65 @@
+{
+    "name": "nycdcp-manhattan-bike-counts-off-street",
+    "datapackage_version": "1.0-beta",
+    "title": "NYCDCP Manhattan Bike Counts - Off Street",
+    "version": "N/A",
+    "keywords": [],
+    "description": "The Transportation Division of the New York City Department of City Planning (NYCDCP) has performed annual bike counts in Manhattan since 1999. The counts have been conducted along designated bicycle routes at 10 on-street and 5 off-street locations during the fall season. These locations have remained generally consistent. The data collected includes cyclist/user volumes, helmet usage, use of bike lane, gender, etc. The bike counts data can offer insights into the overall trends in user demographics and travel patterns over time.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/mfmf-gtvc/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 89,
+    "columns": 22,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 111,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Location",
+        "Cyc_Helmet_Greenwy",
+        "LocationType",
+        "LocationID",
+        "CycMaleHel_greenwy",
+        "Location_Lat",
+        "Non_citibikeCyc",
+        "Jogger",
+        "CycMale_greenwy",
+        "Walker",
+        "Cyclists_Male",
+        "CycFemaleHell_greenwy",
+        "Location_Long",
+        "Cyc_Greenway_only",
+        "Cyclists_all",
+        "Year",
+        "AllUserVolume",
+        "TypeOfTime",
+        "Cyclists_Female",
+        "CycFemale_greenwy",
+        "Citibike_All",
+        "RllrBld_Scootr"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/mfmf-gtvc",
+    "last_updated": "2016-09-12 21:57:42+00:00",
+    "protocol": "https",
+    "created": "2016-09-12 20:51:52+00:00"
+}

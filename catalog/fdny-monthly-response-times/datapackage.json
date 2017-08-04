@@ -1,0 +1,57 @@
+{
+    "name": "fdny-monthly-response-times",
+    "datapackage_version": "1.0-beta",
+    "title": "FDNY Monthly Response Times",
+    "version": "N/A",
+    "keywords": [
+        "health",
+        "time",
+        "safety",
+        "response",
+        "medical",
+        "fire",
+        "emergency",
+        "emergencies"
+    ],
+    "description": "Average response times to incidents by Year, Month, Incident classification and borough.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Fire Department of New York City (FDNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/j34j-vqvt/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 547,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1621,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "INCIDENTCOUNT",
+        "INCIDENTBOROUGH",
+        "YEARMONTH",
+        "INCIDENTCLASSIFICATION",
+        "AVERAGERESPONSETIME"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/j34j-vqvt",
+    "last_updated": "2014-09-05 18:08:18+00:00",
+    "protocol": "https",
+    "created": "2011-08-29 18:48:44+00:00"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "2000-census-blocks",
+    "datapackage_version": "1.0-beta",
+    "title": "2000 Census Blocks",
+    "version": "N/A",
+    "keywords": [
+        "block",
+        "survey",
+        "cartography",
+        "map",
+        "location",
+        "geographic",
+        "census",
+        "dcp",
+        "2000 census blocks",
+        "poll",
+        "2000 census blocks & tracts gis: 2000 census blocks",
+        "boundary"
+    ],
+    "description": "GIS data: Boundaries of 2000 Census Blocks",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/xphm-ebrs?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 26052.03515625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 383,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/xphm-ebrs",
+    "last_updated": "2017-03-09 15:44:10+00:00",
+    "protocol": "https",
+    "created": "2013-01-28 20:18:14+00:00"
+}

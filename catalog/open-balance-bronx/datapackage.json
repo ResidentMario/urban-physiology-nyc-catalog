@@ -1,0 +1,44 @@
+{
+    "name": "open-balance-bronx",
+    "datapackage_version": "1.0-beta",
+    "title": "Open Balance (Bronx)",
+    "version": "N/A",
+    "keywords": [
+        "department of finance",
+        "borough",
+        "statement of account",
+        "finance",
+        "dof",
+        "bronx"
+    ],
+    "description": "Property tax balance and payment information for all active properties",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 476603.6064453125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 298,
+    "preferred_mimetype": "text/plain",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "txt",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/eznj-hdma",
+    "last_updated": "2014-09-05 16:58:22+00:00",
+    "protocol": "https",
+    "created": "2011-10-09 01:39:36+00:00"
+}

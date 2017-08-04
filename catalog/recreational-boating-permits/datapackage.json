@@ -1,0 +1,57 @@
+{
+    "name": "recreational-boating-permits",
+    "datapackage_version": "1.0-beta",
+    "title": "Recreational Boating Permits",
+    "version": "N/A",
+    "keywords": [
+        "dep",
+        "recreational boating permits",
+        "boating"
+    ],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/idfb-y78n/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 19,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 154,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        ""
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Rowboats",
+        "Year",
+        "Permits Issued",
+        "Seasonal Tags",
+        "Temporary Tags",
+        "Canoes",
+        "Kayaks",
+        "Sculls",
+        "Sailboats",
+        "Basin"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/idfb-y78n",
+    "last_updated": "2016-11-14 22:20:48+00:00",
+    "protocol": "https",
+    "created": "2014-01-08 18:18:03+00:00"
+}

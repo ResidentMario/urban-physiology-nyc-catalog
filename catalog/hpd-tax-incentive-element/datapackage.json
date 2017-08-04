@@ -1,0 +1,51 @@
+{
+    "name": "hpd-tax-incentive-element",
+    "datapackage_version": "1.0-beta",
+    "title": "HPD Tax Incentive Element",
+    "version": "N/A",
+    "keywords": [
+        "tax incentive",
+        "hpd",
+        "department of housing preservation and development"
+    ],
+    "description": "Information on tax incentive Year 1 amounts, name and type for those tax exemptions or abatements that meet the definition of City Financial Assistance for each project.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Housing Preservation and Development (HPD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hpqs-rwfp/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 212,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 469,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Project ID",
+        "TaxIncentive DW ID",
+        "Year1 Amount",
+        "Tax Incentive Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hpqs-rwfp",
+    "last_updated": "2016-03-22 18:26:02+00:00",
+    "protocol": "https",
+    "created": "2014-02-26 21:30:07+00:00"
+}

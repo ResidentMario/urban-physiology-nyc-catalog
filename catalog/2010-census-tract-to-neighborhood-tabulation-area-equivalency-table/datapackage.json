@@ -1,0 +1,53 @@
+{
+    "name": "2010-census-tract-to-neighborhood-tabulation-area-equivalency-table",
+    "datapackage_version": "1.0-beta",
+    "title": "2010 Census Tract to Neighborhood Tabulation Area Equivalency table",
+    "version": "N/A",
+    "keywords": [
+        "census",
+        "planyc"
+    ],
+    "description": "Excel table of census data created to project populations at the Neighborhood Tabulation Area, a small area level, from 2000 to 2030 for PlaNYC, the long-term sustainability plan for New York City",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8ius-dhrr/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2168,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 563,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Neighborhood Tabulation Area (NTA) Name",
+        "2010 Census Tract",
+        "2010 Census Bureau FIPS County Code",
+        "Neighborhood Tabulation Area (NTA)Code",
+        "PUMA",
+        "Borough",
+        "2010 NYC Borough Code"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8ius-dhrr",
+    "last_updated": "2015-07-15 01:44:16+00:00",
+    "protocol": "https",
+    "created": "2015-02-17 16:34:48+00:00"
+}

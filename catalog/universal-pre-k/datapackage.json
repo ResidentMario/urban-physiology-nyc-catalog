@@ -1,0 +1,42 @@
+{
+    "name": "universal-pre-k",
+    "datapackage_version": "1.0-beta",
+    "title": "Universal Pre-K",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Universal Pre-K",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/rm4p-5usz?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 574.7333984375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 303,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/rm4p-5usz",
+    "last_updated": "2016-08-27 18:28:26+00:00",
+    "protocol": "https",
+    "created": "2014-11-18 00:53:53+00:00"
+}

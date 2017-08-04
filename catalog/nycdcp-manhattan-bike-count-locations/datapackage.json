@@ -1,0 +1,46 @@
+{
+    "name": "nycdcp-manhattan-bike-count-locations",
+    "datapackage_version": "1.0-beta",
+    "title": "NYCDCP Manhattan Bike Count Locations",
+    "version": "N/A",
+    "keywords": [
+        "bicycle",
+        "dcp",
+        "bike"
+    ],
+    "description": "The Transportation Division of the New York City Department of City Planning (NYCDCP) has performed annual bike counts in Manhattan since 1999. The counts have been conducted along designated bicycle routes at 10 on-street and 5 off-street locations during the fall season. These locations have remained generally consistent. The data collected includes cyclist/user volumes, helmet usage, use of bike lane, gender, etc. The bike counts data can offer insights into the overall trends in user demographics and travel patterns over time.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/xiyt-f6tz?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 3.318359375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 284,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/xiyt-f6tz",
+    "last_updated": "2017-01-20 19:43:43+00:00",
+    "protocol": "https",
+    "created": "2016-09-12 19:47:13+00:00"
+}

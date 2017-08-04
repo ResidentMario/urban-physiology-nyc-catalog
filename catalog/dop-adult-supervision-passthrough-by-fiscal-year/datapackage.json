@@ -1,0 +1,52 @@
+{
+    "name": "dop-adult-supervision-passthrough-by-fiscal-year",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Adult Supervision Passthrough by Fiscal Year",
+    "version": "N/A",
+    "keywords": [
+        "dop",
+        "adult supervision",
+        "probation",
+        "passthrough",
+        "fiscal year"
+    ],
+    "description": "The sum of: the number of cases on the first day of the reporting period, plus all cases added during the reporting period.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/9ev8-8rz6/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 50,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 156,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Passthrough Count",
+        "Fiscal Year (ending in June)",
+        "Borough"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/9ev8-8rz6",
+    "last_updated": "2015-09-15 16:53:17+00:00",
+    "protocol": "https",
+    "created": "2014-06-17 16:45:54+00:00"
+}

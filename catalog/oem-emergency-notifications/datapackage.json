@@ -1,0 +1,52 @@
+{
+    "name": "oem-emergency-notifications",
+    "datapackage_version": "1.0-beta",
+    "title": "OEM Emergency Notifications",
+    "version": "N/A",
+    "keywords": [
+        "oem",
+        "emergency",
+        "notifications"
+    ],
+    "description": "Messages sent with information about emergency events and important City services",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of Emergency Management (OEM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8vv7-7wx3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 8946,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1780,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Record ID",
+        "Email Body",
+        "Notification Title",
+        "NotificationType",
+        "Date and Time"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8vv7-7wx3",
+    "last_updated": "2017-05-31 20:07:48+00:00",
+    "protocol": "https",
+    "created": "2014-10-29 18:20:32+00:00"
+}

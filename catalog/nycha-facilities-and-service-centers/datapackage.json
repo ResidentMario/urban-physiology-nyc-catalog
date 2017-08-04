@@ -1,0 +1,59 @@
+{
+    "name": "nycha-facilities-and-service-centers",
+    "datapackage_version": "1.0-beta",
+    "title": "NYCHA Facilities and Service Centers",
+    "version": "N/A",
+    "keywords": [
+        "buildings",
+        "community centers",
+        "day care centers",
+        "developments",
+        "nycha",
+        "nyc housing",
+        "senior centers",
+        "5 boroughs"
+    ],
+    "description": "Contains all occupied and vacant facilities portfolio from Facility Planning (commercial spaces) and Community Operations (community centers, senior centers, day care centers, health centers, etc) It includes the 5 Community Operations borough offices.  The source data is our latest Property Directory as December 2012.  The field \u201cComments\u201d contains summary codes to distinguish the type of facility (BO \u2013 NYCHA Community Operations Borough Offices, CO \u2013 Community Operations, FP \u2013 Facility Planning).  Please note that there are two commercial spaces (not coded under field \u201ccomments\u201d)recorded in our property directory which are not part of the portfolio for Facility Planning.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York City Housing Authority (NYCHA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/d4iy-9uh7/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 536,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2424,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "ZIP CODE",
+        "BOROUGH_CODE",
+        "ADDRESS",
+        "SPONSOR",
+        "STATUS",
+        "DEVELOPMENT NAME",
+        "TYPE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/d4iy-9uh7",
+    "last_updated": "2016-09-16 00:00:09+00:00",
+    "protocol": "https",
+    "created": "2013-03-20 14:50:48+00:00"
+}

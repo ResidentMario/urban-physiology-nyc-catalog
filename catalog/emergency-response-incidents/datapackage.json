@@ -1,0 +1,53 @@
+{
+    "name": "emergency-response-incidents",
+    "datapackage_version": "1.0-beta",
+    "title": "Emergency Response Incidents",
+    "version": "N/A",
+    "keywords": [
+        "oem",
+        "emergency response incidents"
+    ],
+    "description": "Type and address of emergency incident to which OEM responded",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of Emergency Management (OEM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/pasr-j7fb/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5643,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 5757,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Longitude",
+        "Creation Date",
+        "Closed Date",
+        "Incident Type",
+        "Borough",
+        "Location",
+        "Latitude"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/pasr-j7fb",
+    "last_updated": "2017-05-31 11:40:16+00:00",
+    "protocol": "https",
+    "created": "2014-03-05 21:56:00+00:00"
+}

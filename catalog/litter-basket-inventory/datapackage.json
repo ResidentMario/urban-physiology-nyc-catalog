@@ -1,0 +1,46 @@
+{
+    "name": "litter-basket-inventory",
+    "datapackage_version": "1.0-beta",
+    "title": "Litter Basket Inventory",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Locations and types of litter baskets and public space recycling baskets as of November 2015.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Sanitation (DSNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/es7t-6u8y/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 26700,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 591,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "BasketType",
+        "y",
+        "x"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/es7t-6u8y",
+    "last_updated": "2015-12-14 21:43:58+00:00",
+    "protocol": "https",
+    "created": "2015-12-11 19:50:21+00:00"
+}

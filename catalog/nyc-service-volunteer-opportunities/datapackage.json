@@ -1,0 +1,78 @@
+{
+    "name": "nyc-service-volunteer-opportunities",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Service: Volunteer Opportunities",
+    "version": "N/A",
+    "keywords": [
+        "jobs and economic mobility",
+        "lifelong learning",
+        "volunteer opportunities",
+        "volunteering",
+        "volunteers",
+        "events",
+        "volunteer organizations"
+    ],
+    "description": "A list of volunteer opportunities, organized by event, category of event type, organization and location.\r\nUpdate Frequency: As needed",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYC Service (NYCSERVICE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/bquu-z2ht/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 665,
+    "columns": 27,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2522,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "amsl_unit",
+        "addresses_count",
+        "region",
+        "primary_loc",
+        "org_title",
+        "locality",
+        "category_desc",
+        "start_date_date",
+        "end_date_date",
+        "hits",
+        "title",
+        "postalcode",
+        "last_modified_date",
+        "created_date",
+        "is_priority",
+        "summary",
+        "display_url",
+        "hours",
+        "vol_requests",
+        "content_id",
+        "opportunity_id",
+        "event_time",
+        "status",
+        "recurrence_type",
+        "org_content_id",
+        "category_id",
+        "amsl"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/bquu-z2ht",
+    "last_updated": "2014-09-05 17:03:14+00:00",
+    "protocol": "https",
+    "created": "2011-09-30 19:21:53+00:00"
+}

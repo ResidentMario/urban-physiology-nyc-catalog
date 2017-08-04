@@ -1,0 +1,52 @@
+{
+    "name": "wic-income-eligibility",
+    "datapackage_version": "1.0-beta",
+    "title": "WIC Income eligibility",
+    "version": "N/A",
+    "keywords": [
+        "human resources administration",
+        "jobs and economic mobility",
+        "hra",
+        "wic income eligibility"
+    ],
+    "description": "The Women, Infants and Children (WIC) Program is a special supplemental food program that provides nutritious foods, milk, juice, formula and other items to low income pregnant or breastfeeding women, infants and children up to age 5.This chart is only a guide. Individuals should see a WIC enrollment counselor for eligibility screening. Eligibility requirements include certain criteria and income levels as listed here. \n* Pregnant women count as two individuals.\nNOTE: Chart effective July 1, 2012 to June 30, 2013; subject to annual income updates.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/366m-74zg/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 9,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1081,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Health"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Yearly Income",
+        "Household Size *",
+        "Weekly Income",
+        "Monthly Income"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/366m-74zg",
+    "last_updated": "2014-09-05 17:48:52+00:00",
+    "protocol": "https",
+    "created": "2013-03-19 17:24:31+00:00"
+}

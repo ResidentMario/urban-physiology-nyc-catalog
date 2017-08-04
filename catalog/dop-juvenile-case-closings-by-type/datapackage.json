@@ -1,0 +1,52 @@
+{
+    "name": "dop-juvenile-case-closings-by-type",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Juvenile Case Closings By Type",
+    "version": "N/A",
+    "keywords": [
+        "probation",
+        "dop",
+        "case"
+    ],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/sefr-5pmx/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 48,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 28,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Year",
+        "Supervision Closing Type",
+        "Month",
+        "Supervision Closing Count",
+        "Region"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/sefr-5pmx",
+    "last_updated": "2017-04-27 19:26:03+00:00",
+    "protocol": "https",
+    "created": "2016-11-21 15:48:17+00:00"
+}

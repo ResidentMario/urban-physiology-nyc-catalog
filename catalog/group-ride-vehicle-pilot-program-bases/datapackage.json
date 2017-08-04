@@ -1,0 +1,41 @@
+{
+    "name": "group-ride-vehicle-pilot-program-bases",
+    "datapackage_version": "1.0-beta",
+    "title": "Group Ride Vehicle Pilot Program - Bases",
+    "version": "N/A",
+    "keywords": [
+        "group ride vehicle pilot program - bases",
+        "group ride",
+        "tlc"
+    ],
+    "description": "The New York City Taxi and Limousine Commission (TLC) has approved a new Group Ride Vehicle pilot program to provide an alternative transportation option for New Yorkers in neighborhoods with reduced or eliminated bus service. This new service will allow point to point, shared-rides among specified pick-up and drop-off locations. This pilot program will run for one year. All licenses issued under this pilot will expire one-year from date of issuance. This lists affiliated base license numbers, names, and contact information.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 6.0322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 181,
+    "preferred_mimetype": "application/vnd.ms-office",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "xls",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/sqyt-f78v",
+    "last_updated": "2014-10-10 19:24:39+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 22:32:19+00:00"
+}

@@ -1,0 +1,51 @@
+{
+    "name": "directory-of-awarded-construction-contracts",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Of Awarded Construction Contracts",
+    "version": "N/A",
+    "keywords": [
+        "department of design and construction",
+        "ddc",
+        "firm"
+    ],
+    "description": "This table displays the construction contracts that Department of Design and Construction has recently awarded to selected firms along with its value.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Design and Construction (DDC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/j7gw-gcxi/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 9,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 550,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "PIN\u00a0\u00a0\u00a0",
+        "$Value",
+        "DESCRIPTION\u00a0\u00a0\u00a0",
+        "SELECTED FIRM"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/j7gw-gcxi",
+    "last_updated": "2014-09-05 17:15:18+00:00",
+    "protocol": "https",
+    "created": "2013-03-06 13:00:16+00:00"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "nyc-zoning-tax-lot-database",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Zoning Tax Lot Database",
+    "version": "N/A",
+    "keywords": [
+        "city planning",
+        "zoning",
+        "nyc zoning tax lot database",
+        "dcp",
+        "property"
+    ],
+    "description": "The Zoning Tax Lot Database is a comma\u2013separated values (CSV) file format that contains up-to-date zoning by parcel. The Database includes the zoning designations and zoning map associated with a specific tax block and lot. The Database is updated on a monthly basis to reflect rezoning and corrections to the file.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/fdkv-4t4z/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 859000,
+    "columns": 15,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2232,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Zoning District 3",
+        "Zoning District 4",
+        "Commercial Overlay 1",
+        "Commercial Overlay 2",
+        "Special District 1",
+        "Zoning Map Number",
+        "Special District 2",
+        "Special District 3",
+        "Zoning District 1",
+        "Tax Block",
+        "Borough Code",
+        "Zoning District 2",
+        "Limited Height District",
+        "Tax Lot",
+        "Zoning Map Code"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/fdkv-4t4z",
+    "last_updated": "2017-05-02 19:18:51+00:00",
+    "protocol": "https",
+    "created": "2013-07-29 17:55:31+00:00"
+}

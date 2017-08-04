@@ -1,0 +1,59 @@
+{
+    "name": "tlc-commuter-van-authorizations",
+    "datapackage_version": "1.0-beta",
+    "title": "TLC Commuter Van Authorizations",
+    "version": "N/A",
+    "keywords": [
+        "taxi",
+        "transportation",
+        "authorization",
+        "commuter",
+        "authorize",
+        "van",
+        "limousine"
+    ],
+    "description": "Spreadsheet of all TLC commuter van authorizations",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/yksz-5xaj/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 46,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 443,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Name of Licensee",
+        "Street_Address",
+        "Telephone",
+        "Location 1",
+        "License Type",
+        "Alternative Name of Licensee",
+        "Zip_Code",
+        "License Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/yksz-5xaj",
+    "last_updated": "2014-09-05 17:01:25+00:00",
+    "protocol": "https",
+    "created": "2011-08-26 19:59:10+00:00"
+}

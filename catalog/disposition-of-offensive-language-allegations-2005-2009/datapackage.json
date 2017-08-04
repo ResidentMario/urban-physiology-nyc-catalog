@@ -1,0 +1,74 @@
+{
+    "name": "disposition-of-offensive-language-allegations-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "Disposition Of Offensive Language Allegations 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "ccrb",
+        "civilian complaint review board",
+        "complaint",
+        "complaint activity",
+        "disciplinary recommendation",
+        "2005",
+        "2007",
+        "misconduct",
+        "2009",
+        "activity",
+        "allegation",
+        "board",
+        "2006",
+        "2008",
+        "civilian",
+        "statistics",
+        "review"
+    ],
+    "description": "CCRB: Disposition of Offensive Language Allegations 2005 - 2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/sxh6-h6ph/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 8,
+    "columns": 13,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 401,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Unfounded rate",
+        "Unsubstantiated rate",
+        "Exonerated rate",
+        "Sunstantiated rate",
+        "Unfounded number",
+        "Officer Unidentified rate",
+        "Miscellaneous rate",
+        "Miscellaneous",
+        "Officer Unidentified number",
+        "Exonerated number",
+        "Unsubstantiated number",
+        "Type of Abuse of Authority Allegation",
+        "Substantiated Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/sxh6-h6ph",
+    "last_updated": "2014-09-05 17:06:53+00:00",
+    "protocol": "https",
+    "created": "2011-09-28 23:01:29+00:00"
+}

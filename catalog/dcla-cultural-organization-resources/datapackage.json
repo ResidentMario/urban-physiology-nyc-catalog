@@ -1,0 +1,54 @@
+{
+    "name": "dcla-cultural-organization-resources",
+    "datapackage_version": "1.0-beta",
+    "title": "DCLA Cultural Organization Resources",
+    "version": "N/A",
+    "keywords": [
+        "culture",
+        "cultural affairs",
+        "resources",
+        "listing",
+        "directory",
+        "dcla"
+    ],
+    "description": "A list of organizations that provide services and/or information useful to artists and cultural organizations",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Cultural Affairs (DCLA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/rb2h-bgai/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 38,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 537,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Website",
+        "Area",
+        "Description",
+        "Organization"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/rb2h-bgai",
+    "last_updated": "2014-09-05 16:58:35+00:00",
+    "protocol": "https",
+    "created": "2011-10-27 20:49:20+00:00"
+}

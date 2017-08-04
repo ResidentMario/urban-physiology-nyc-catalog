@@ -1,0 +1,46 @@
+{
+    "name": "green-project-checklist",
+    "datapackage_version": "1.0-beta",
+    "title": "Green Project Checklist",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning",
+        "sca",
+        "environment",
+        "construction",
+        "green",
+        "school",
+        "authority",
+        "sustainability"
+    ],
+    "description": "The School Construction Authority's rating system for environmentally friendly buildings.\r\n\r\nUpdate Schedule: As required",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 73.5322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 604,
+    "preferred_mimetype": "application/vnd.ms-excel",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "xls",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/my58-k6an",
+    "last_updated": "2014-09-05 17:00:58+00:00",
+    "protocol": "https",
+    "created": "2011-10-11 14:03:30+00:00"
+}

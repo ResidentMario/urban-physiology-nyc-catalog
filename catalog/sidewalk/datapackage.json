@@ -1,0 +1,50 @@
+{
+    "name": "sidewalk",
+    "datapackage_version": "1.0-beta",
+    "title": "Sidewalk",
+    "version": "N/A",
+    "keywords": [
+        "map",
+        "cartography",
+        "location",
+        "geographic",
+        "planimetrics",
+        "sidewalk",
+        "doitt gis"
+    ],
+    "description": "Planimetric basemap polygon layer containing sidewalk features. Please see the following link for additional documentation- https://github.com/CityOfNewYork/nyc-planimetrics/blob/master/Capture_Rules.md.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/vfx9-tbb6?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 469754.953125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2552,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/vfx9-tbb6",
+    "last_updated": "2016-08-27 18:32:51+00:00",
+    "protocol": "https",
+    "created": "2014-07-07 19:06:07+00:00"
+}

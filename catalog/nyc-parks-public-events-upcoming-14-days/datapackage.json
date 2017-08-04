@@ -1,0 +1,41 @@
+{
+    "name": "nyc-parks-public-events-upcoming-14-days",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Parks Public Events \u2013 Upcoming 14 Days",
+    "version": "N/A",
+    "keywords": [
+        "dpr",
+        "calendar of special events",
+        "nyc parks public events \u2013 upcoming 14 days"
+    ],
+    "description": "A listing of the next two weeks of events taking place on NYC Parks properties that are open to the public.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 936.96875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 1905,
+    "preferred_mimetype": "application/xml",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/w3wp-dpdi",
+    "last_updated": "2017-04-11 17:42:34+00:00",
+    "protocol": "https",
+    "created": "2011-08-11 20:46:38+00:00"
+}

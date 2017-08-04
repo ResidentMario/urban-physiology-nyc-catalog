@@ -1,0 +1,56 @@
+{
+    "name": "congressional-districts",
+    "datapackage_version": "1.0-beta",
+    "title": "Congressional Districts",
+    "version": "N/A",
+    "keywords": [
+        "voting",
+        "congress",
+        "district",
+        "cartography",
+        "map",
+        "location",
+        "geographic",
+        "dcp",
+        "congressional districts",
+        "election",
+        "elect",
+        "boundary",
+        "congressional"
+    ],
+    "description": "GIS data: Boundaries of Congressional Districts",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/qd3c-zuu7?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 3190.0244140625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 445,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/qd3c-zuu7",
+    "last_updated": "2017-03-09 17:04:14+00:00",
+    "protocol": "https",
+    "created": "2013-01-29 22:28:05+00:00"
+}

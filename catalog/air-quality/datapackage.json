@@ -1,0 +1,57 @@
+{
+    "name": "air-quality",
+    "datapackage_version": "1.0-beta",
+    "title": "Air Quality",
+    "version": "N/A",
+    "keywords": [
+        "surveillance",
+        "air quality",
+        "health",
+        "dohmh"
+    ],
+    "description": "Dataset contains information on New York City air quality surveillance data",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Health and Mental Hygiene (DOHMH)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/c3uy-2p5r/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2769,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 5504,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "indicator_id",
+        "geo_entity_id",
+        "name",
+        "Measure",
+        "geo_entity_name",
+        "year_description",
+        "geo_type_name",
+        "data_valuemessage",
+        "indicator_data_id"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/c3uy-2p5r",
+    "last_updated": "2014-10-24 00:55:18+00:00",
+    "protocol": "https",
+    "created": "2014-10-24 00:53:47+00:00"
+}

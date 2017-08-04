@@ -1,0 +1,73 @@
+{
+    "name": "forestry-planting-spaces",
+    "datapackage_version": "1.0-beta",
+    "title": "Forestry Planting Spaces",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Record of Forestry planting spaces as of March 8th, 2017.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": null
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/82zj-84is/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 765000,
+    "columns": 30,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 38,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "BoroughCode",
+        "StreetName",
+        "TreeGuard",
+        "OverheadUtilities",
+        "Jurisdiction",
+        "UpdatedByName",
+        "UpdatedDate",
+        "CreatedByName",
+        "CreatedDate",
+        "GlobalID",
+        "SHAPE",
+        "PhysicalID",
+        "Congressional",
+        "StateAssembly",
+        "StateSenate",
+        "CityCouncil",
+        "Zipcode",
+        "SanitationZone",
+        "CommunityBoard",
+        "CrossStreet2",
+        "CrossStreet1",
+        "ParkName",
+        "ParkZone",
+        "Length",
+        "PlantingSpaceOnStreet",
+        "PSSite",
+        "BuildingNumber",
+        "OBJECTID",
+        "Width",
+        "PSStatus"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/82zj-84is",
+    "last_updated": "2017-05-25 16:12:56+00:00",
+    "protocol": "https",
+    "created": "2017-03-06 23:04:21+00:00"
+}

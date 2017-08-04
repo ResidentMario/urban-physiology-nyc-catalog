@@ -1,0 +1,71 @@
+{
+    "name": "doe-high-school-programs-2016",
+    "datapackage_version": "1.0-beta",
+    "title": "DOE High School Programs 2016",
+    "version": "N/A",
+    "keywords": [
+        "programs",
+        "doe",
+        "education"
+    ],
+    "description": "Directory of High School programs",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ge8j-uqbf/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 769,
+    "columns": 24,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 481,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "code",
+        "math",
+        "eng",
+        "method",
+        "soc",
+        "interest",
+        "req5",
+        "req3",
+        "req4",
+        "req1",
+        "req2",
+        "app_gr10",
+        "apps_per_seat_gr10",
+        "apps_per_seat_gr9",
+        "seat_gr10",
+        "seat_gr09",
+        "app_gr09",
+        "ela",
+        "sci",
+        "stm",
+        "program",
+        "dbn",
+        "prgdesc",
+        "aud"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ge8j-uqbf",
+    "last_updated": "2015-09-23 14:57:37+00:00",
+    "protocol": "https",
+    "created": "2015-07-23 15:54:49+00:00"
+}

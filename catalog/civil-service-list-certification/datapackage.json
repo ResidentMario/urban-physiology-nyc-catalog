@@ -1,0 +1,70 @@
+{
+    "name": "civil-service-list-certification",
+    "datapackage_version": "1.0-beta",
+    "title": "Civil Service List Certification",
+    "version": "N/A",
+    "keywords": [
+        "civil",
+        "service",
+        "title",
+        "list",
+        "dcas"
+    ],
+    "description": "A List Certification includes the names of eligible candidates on an Active Civil Service List that has been established.  The Certification may contain part of a list, the whole list, or multiple lists at the request of an appointing agency, to fill vacancies and/or replace provisionals.  Eligible candidates on a Certification may be considered for probable appointment at the appointing Agency.  For more information visit DCAS\u2019 \u201cWork for the City\u201d webpage at: http://www.nyc.gov/html/dcas/html/work/work.shtml",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Citywide Administrative Services (DCAS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/a9md-ynri/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 184000,
+    "columns": 21,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2460,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "List No",
+        "Exam No",
+        "Last Name",
+        "List Agency Code",
+        "List Agency Desc",
+        "List Title Desc",
+        "Cert Seq No",
+        "Request Date",
+        "Salary",
+        "Cert Issue No",
+        "Cert Date",
+        "Reissue Date",
+        "Cert Expiration Date",
+        "No Certified",
+        "No Requested",
+        "Provisional Replacement",
+        "No Vacancies",
+        "List Title Code",
+        "Sel Cert Description",
+        "MI",
+        "First Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/a9md-ynri",
+    "last_updated": "2017-05-31 13:42:05+00:00",
+    "protocol": "https",
+    "created": "2016-11-16 19:24:56+00:00"
+}

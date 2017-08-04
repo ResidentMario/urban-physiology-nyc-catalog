@@ -1,0 +1,58 @@
+{
+    "name": "directory-of-homebase-locations",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Of Homebase Locations",
+    "version": "N/A",
+    "keywords": [
+        "location",
+        "office",
+        "prevention",
+        "service",
+        "contact",
+        "dhs",
+        "homebase",
+        "homeless"
+    ],
+    "description": "Locations of Homebase (Homeless Prevention Network) offices",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Homeless Services (DHS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ntcm-2w4k/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 22,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 8331,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Homebase Office",
+        "Neighborhood",
+        "Community District",
+        "Borough",
+        "Phone Number",
+        "Address"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ntcm-2w4k",
+    "last_updated": "2015-11-23 20:09:32+00:00",
+    "protocol": "https",
+    "created": "2013-01-31 16:01:05+00:00"
+}

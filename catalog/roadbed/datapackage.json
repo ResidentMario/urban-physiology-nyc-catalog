@@ -1,0 +1,48 @@
+{
+    "name": "roadbed",
+    "datapackage_version": "1.0-beta",
+    "title": "Roadbed",
+    "version": "N/A",
+    "keywords": [
+        "planimetrics",
+        "nyc",
+        "doitt",
+        "gis",
+        "roadbed"
+    ],
+    "description": "Planimetric basemap layer containing the roadbed. Please see the following link for additional documentation- https://github.com/CityOfNewYork/nyc-planimetrics/blob/master/Capture_Rules.md.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/xgwd-7vhd?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 499967.23046875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1887,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/xgwd-7vhd",
+    "last_updated": "2016-08-27 18:29:24+00:00",
+    "protocol": "https",
+    "created": "2014-06-25 18:43:35+00:00"
+}

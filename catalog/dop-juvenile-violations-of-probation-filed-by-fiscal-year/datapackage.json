@@ -1,0 +1,53 @@
+{
+    "name": "dop-juvenile-violations-of-probation-filed-by-fiscal-year",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Juvenile Violations of Probation Filed by Fiscal Year",
+    "version": "N/A",
+    "keywords": [
+        "filed",
+        "dop",
+        "violation",
+        "probation",
+        "fiscal year",
+        "juvenile"
+    ],
+    "description": "The number of \u201cviolation of probation\u201d filings sent by the Department to local courts, in response to misconduct by the probation client, during the reporting period",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/mzy5-smmw/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 55,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 206,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Fiscal Year (ending in June)",
+        "Borough",
+        "Filed Violation Count"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/mzy5-smmw",
+    "last_updated": "2016-09-16 01:05:57+00:00",
+    "protocol": "https",
+    "created": "2014-04-07 16:22:19+00:00"
+}

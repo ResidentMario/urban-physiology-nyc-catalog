@@ -1,0 +1,47 @@
+{
+    "name": "city-council-districts-water-areas-included",
+    "datapackage_version": "1.0-beta",
+    "title": "City Council Districts (water areas included)",
+    "version": "N/A",
+    "keywords": [
+        "gis",
+        "map",
+        "dcp",
+        "city council districts (water areas included)"
+    ],
+    "description": "GIS data: Boundaries of City Council Districts (water areas included)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/jgqm-ccbd?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 806.3779296875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 387,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/jgqm-ccbd",
+    "last_updated": "2017-03-09 17:01:55+00:00",
+    "protocol": "https",
+    "created": "2013-04-18 18:26:44+00:00"
+}

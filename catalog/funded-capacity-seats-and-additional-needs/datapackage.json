@@ -1,0 +1,54 @@
+{
+    "name": "funded-capacity-seats-and-additional-needs",
+    "datapackage_version": "1.0-beta",
+    "title": "Funded Capacity Seats and Additional Needs",
+    "version": "N/A",
+    "keywords": [
+        "capacity",
+        "schools",
+        "education",
+        "sca"
+    ],
+    "description": "Funded capacity seats and additional needs by district for elementary, middle school, by borough for high school.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ujdf-5byz/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 49,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 73,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "District",
+        "Additional Need (Unfunded)",
+        "January 2016 Funded Need",
+        "Total January 2016 Identified Need",
+        "Sub-District",
+        "Number of Seats in Scope / Design"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ujdf-5byz",
+    "last_updated": "2016-06-02 17:09:52+00:00",
+    "protocol": "https",
+    "created": "2016-06-02 14:47:03+00:00"
+}

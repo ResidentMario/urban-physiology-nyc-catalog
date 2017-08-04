@@ -1,0 +1,50 @@
+{
+    "name": "transportable-classroom-units-buildings-only",
+    "datapackage_version": "1.0-beta",
+    "title": "Transportable Classroom Units- Buildings Only",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Transportable Classroom Units- Buildings Only",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/3spy-rjpw/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 109,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 150,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "COUNCIL DIST",
+        "BLDG ID",
+        "JUR DIST",
+        "BUILDING ADDRESS",
+        "BUILDING NAME",
+        "ENROLLMENT",
+        "NO OF TCUS"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/3spy-rjpw",
+    "last_updated": "2015-03-02 22:11:28+00:00",
+    "protocol": "https",
+    "created": "2015-03-02 22:08:56+00:00"
+}

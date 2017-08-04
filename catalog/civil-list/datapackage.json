@@ -1,0 +1,54 @@
+{
+    "name": "civil-list",
+    "datapackage_version": "1.0-beta",
+    "title": "Civil List",
+    "version": "N/A",
+    "keywords": [
+        "payroll",
+        "pay",
+        "salary"
+    ],
+    "description": "The Civil List reports the agency code (DPT), first initial and last name (NAME), agency name (ADDRESS), title code (TTL #), pay class (PC), and salary (SAL-RATE) of individuals who were employed by the City of New York at any given time during the indicated year.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Citywide Administrative Services (DCAS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ye3c-m4ga/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 570000,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 5596,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "PC      ",
+        "SAL-RATE",
+        "DPT     ",
+        "TTL #   ",
+        "ADDRESS ",
+        "CALENDAR YEAR",
+        "NAME    "
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ye3c-m4ga",
+    "last_updated": "2017-02-03 21:37:05+00:00",
+    "protocol": "https",
+    "created": "2015-07-01 18:39:33+00:00"
+}

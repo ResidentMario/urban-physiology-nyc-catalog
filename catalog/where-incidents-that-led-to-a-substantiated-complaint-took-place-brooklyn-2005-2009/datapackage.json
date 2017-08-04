@@ -1,0 +1,68 @@
+{
+    "name": "where-incidents-that-led-to-a-substantiated-complaint-took-place-brooklyn-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "Where Incidents That Led To A Substantiated Complaint Took Place - Brooklyn 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "ccrb",
+        "statistics",
+        "allegation",
+        "review",
+        "activity",
+        "misconduct",
+        "disciplinary recommendation",
+        "complaint activity",
+        "board",
+        "2009",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "complaint",
+        "civilian complaint review board",
+        "civilian"
+    ],
+    "description": "Where Incidents that Led to a Substantiated Complaint Took Place - Brooklyn 2005 - 2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/u4uz-edhr/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 29,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 214,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2007",
+        "2005",
+        "2008",
+        "Total",
+        "Brooklyn South",
+        "2009",
+        "2006"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/u4uz-edhr",
+    "last_updated": "2014-09-05 17:01:27+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 21:03:40+00:00"
+}

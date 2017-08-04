@@ -1,0 +1,67 @@
+{
+    "name": "leaks-and-their-costs",
+    "datapackage_version": "1.0-beta",
+    "title": "Leaks And Their Costs",
+    "version": "N/A",
+    "keywords": [
+        "costs",
+        "dep",
+        "environment",
+        "leaks and their costs",
+        "healthy living",
+        "leakage",
+        "cost",
+        "water",
+        "water wastage",
+        "department of environmental protection",
+        "drips",
+        "drip",
+        "leak",
+        "leaks"
+    ],
+    "description": "Leaks and Their Cost Fact Sheet",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/3nm4-g97k/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 8,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 584,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Sewer Charge(Per Year)",
+        "Water Wasted (Gallons)",
+        "Water Charge (Per Day)",
+        "Sewer Charge(Per Day)",
+        "Leaking Fixture",
+        "Total Cost(Per Year)",
+        "Leak Type",
+        "Total Cost(Per Day)",
+        "Water Charge (Per Year)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/3nm4-g97k",
+    "last_updated": "2017-05-22 18:48:54+00:00",
+    "protocol": "https",
+    "created": "2013-01-31 15:35:53+00:00"
+}

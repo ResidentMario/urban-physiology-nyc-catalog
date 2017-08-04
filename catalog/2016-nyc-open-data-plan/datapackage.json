@@ -1,0 +1,55 @@
+{
+    "name": "2016-nyc-open-data-plan",
+    "datapackage_version": "1.0-beta",
+    "title": "2016 NYC Open Data Plan",
+    "version": "N/A",
+    "keywords": [
+        "compliance",
+        "july 15",
+        "2016 nyc open data plan",
+        "local law 11 of 2012"
+    ],
+    "description": "This inventory includes all data sets scheduled for release between July 2016 and December 31, 2018.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/vdem-2i66/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 212,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1598,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Dataset Description",
+        "Agency",
+        "Release Date",
+        "Data Set Title",
+        "Agency Comment",
+        "Date Status",
+        "Update Frequency"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/vdem-2i66",
+    "last_updated": "2017-02-16 23:19:52+00:00",
+    "protocol": "https",
+    "created": "2016-07-15 15:27:29+00:00"
+}

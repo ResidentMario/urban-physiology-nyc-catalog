@@ -1,0 +1,41 @@
+{
+    "name": "sustainability-indicators-2012",
+    "datapackage_version": "1.0-beta",
+    "title": "Sustainability Indicators (2012)",
+    "version": "N/A",
+    "keywords": [
+        "planyc",
+        "sustainability",
+        "oltps"
+    ],
+    "description": "The sustainability indicators are used by the Mayor's Office of Long-Term Planning and Sustainability to track the progress of the PlaNYC program.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Long-Term Planning and Sustainability (OLTPS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 291.8955078125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 1456,
+    "preferred_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "xlsx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/vnwz-ihnf",
+    "last_updated": "2014-09-05 17:13:20+00:00",
+    "protocol": "https",
+    "created": "2012-06-29 17:48:54+00:00"
+}

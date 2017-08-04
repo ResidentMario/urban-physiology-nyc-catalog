@@ -1,0 +1,66 @@
+{
+    "name": "fy16-pmmr-agency-resources",
+    "datapackage_version": "1.0-beta",
+    "title": "FY16 PMMR Agency Resources",
+    "version": "N/A",
+    "keywords": [
+        "management",
+        "indicators",
+        "mmr",
+        "report",
+        "pmmr",
+        "operations",
+        "ops",
+        "metrics",
+        "performance",
+        "2016",
+        "fy16"
+    ],
+    "description": "NYC agency resources from the FY16 Preliminary Mayor's Management Report (PMMR), including expenditures (includes all funds), personnel, revenue and paid overtime",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Operations (OPS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/7ceq-6nwu/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 209,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 154,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "FY15 4-Month Actual",
+        "Resource Indicators",
+        "FY13 Actual",
+        "Agency",
+        "FY16 4-Month Actual",
+        "Notes",
+        "FY15 Actual",
+        "FY16 (Sept. 2015 MMR Plan)",
+        "FY16 Updated Plan from Jan. 2016 Financial Plan",
+        "FY17 Plan from Jan. 2016 Financial  Plan",
+        "FY14 Actual"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/7ceq-6nwu",
+    "last_updated": "2016-02-08 14:59:46+00:00",
+    "protocol": "https",
+    "created": "2016-02-05 22:41:17+00:00"
+}

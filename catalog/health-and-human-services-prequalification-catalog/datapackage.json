@@ -1,0 +1,58 @@
+{
+    "name": "health-and-human-services-prequalification-catalog",
+    "datapackage_version": "1.0-beta",
+    "title": "Health and Human Services Prequalification Catalog",
+    "version": "N/A",
+    "keywords": [
+        "social service",
+        "accelerator",
+        "hhs",
+        "health",
+        "human service",
+        "rfp",
+        "definition",
+        "procurement",
+        "request for proposal",
+        "community service",
+        "catalog",
+        "client service"
+    ],
+    "description": "The services and definitions used by HHS Accelerator, the City's system for procuring health and human services, to prequalify providers and describe services procured through RFPs.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "HHS Accelerator"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/68rr-d3jr/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 59,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 177,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Service Area",
+        "Service Description"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/68rr-d3jr",
+    "last_updated": "2014-12-08 19:40:54+00:00",
+    "protocol": "https",
+    "created": "2014-11-26 21:32:03+00:00"
+}

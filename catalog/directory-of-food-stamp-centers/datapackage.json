@@ -1,0 +1,58 @@
+{
+    "name": "directory-of-food-stamp-centers",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of Food Stamp Centers",
+    "version": "N/A",
+    "keywords": [
+        "jobs",
+        "economic mobility",
+        "food stamps",
+        "hra",
+        "human resources",
+        "jobs and economic mobility"
+    ],
+    "description": "List of Food Stamp Centers in New York City by Borough",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/tc6u-8rnp/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 17,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 566,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "City",
+        "Borough",
+        "Comments",
+        "State",
+        "Phone Number(s)",
+        "Facility Name",
+        "Zip Code",
+        "Street Address"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/tc6u-8rnp",
+    "last_updated": "2014-09-05 17:51:57+00:00",
+    "protocol": "https",
+    "created": "2013-03-19 18:36:44+00:00"
+}

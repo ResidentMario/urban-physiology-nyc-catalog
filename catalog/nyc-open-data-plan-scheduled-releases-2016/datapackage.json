@@ -1,0 +1,53 @@
+{
+    "name": "nyc-open-data-plan-scheduled-releases-2016",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Open Data Plan - Scheduled Releases 2016",
+    "version": "N/A",
+    "keywords": [
+        "datasets",
+        "scheduled releases",
+        "open data"
+    ],
+    "description": "This inventory includes all datasets scheduled for release between July 2016 and December 31, 2018.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/tyjc-nqc2/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 212,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1139,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Agency",
+        "Dataset",
+        "Planned Release Date",
+        "Dataset Description",
+        "Update Frequency",
+        "Link"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/tyjc-nqc2",
+    "last_updated": "2016-09-21 15:29:56+00:00",
+    "protocol": "https",
+    "created": "2014-07-16 14:57:43+00:00"
+}

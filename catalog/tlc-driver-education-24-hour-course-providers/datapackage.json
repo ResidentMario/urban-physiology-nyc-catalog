@@ -1,0 +1,67 @@
+{
+    "name": "tlc-driver-education-24-hour-course-providers",
+    "datapackage_version": "1.0-beta",
+    "title": "TLC Driver Education 24 Hour Course Providers",
+    "version": "N/A",
+    "keywords": [
+        "tlc",
+        "driver",
+        "education",
+        "course"
+    ],
+    "description": "TLC Driver License applicants must complete a 24 hour TLC Driver Education Course and pass an 80-question multiple choice exam on a computer with a grade of 70% or higher (you must answer 56 out of 80 questions correctly in order to pass). The course covers the following topics: TLC rules and regulations; geography; safe driving skills; traffic rules; and customer service.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/wzur-rhz9/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 22,
+    "columns": 19,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1000,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Contact",
+        "time",
+        "Location 1",
+        "SchoolName",
+        "BuildingNumber",
+        "StreetName",
+        "SuiteApt",
+        "City",
+        "State",
+        "ZipCode",
+        "Latitude",
+        "Longitude",
+        "Web",
+        "LanguagesOffered",
+        "CoursePrice",
+        "Telephone",
+        "Email",
+        "ExamPrice",
+        "date"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/wzur-rhz9",
+    "last_updated": "2017-05-01 15:09:55+00:00",
+    "protocol": "https",
+    "created": "2016-10-20 17:23:38+00:00"
+}

@@ -1,0 +1,72 @@
+{
+    "name": "hydrostats",
+    "datapackage_version": "1.0-beta",
+    "title": "Hydrostats",
+    "version": "N/A",
+    "keywords": [
+        "eco-system",
+        "dep",
+        "water system",
+        "water supply",
+        "agua",
+        "conservation",
+        "watershed",
+        "water",
+        "tap water",
+        "tap",
+        "reservoir",
+        "nyc",
+        "hydrostats",
+        "hydro",
+        "healthy living",
+        "health",
+        "coverage",
+        "dam",
+        "environment",
+        "ecosystem",
+        "department of environmental protection"
+    ],
+    "description": "Reservoir areas and stream lengths",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/9vgt-yx2p/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 17,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 555,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Reservoir Acres",
+        "Basin Acres (land only)",
+        "Stream Miles",
+        "100 ft. Riparian Buffer*** Acres",
+        "Reservoir Shoreline Miles",
+        "Total Acres",
+        "Basin"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/9vgt-yx2p",
+    "last_updated": "2014-09-05 16:59:06+00:00",
+    "protocol": "https",
+    "created": "2011-08-30 22:19:19+00:00"
+}

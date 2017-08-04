@@ -1,0 +1,37 @@
+{
+    "name": "nyc-local-truck-routes",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Local Truck Routes",
+    "version": "N/A",
+    "keywords": [],
+    "description": "New York City has over 1,000 miles of truck routes. These data sets contain the centerlines of local truck routes, and were created from LION, the City's base map of streets.\r\n\r\nClick here for metadata - http://www.nyc.gov/html/dot/downloads/pdf/truck_route_nyc_metadata.pdf",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 0.1416015625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 375,
+    "preferred_mimetype": "application/octet-stream",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "shx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/wha9-m3tq",
+    "last_updated": "2017-01-20 22:46:59+00:00",
+    "protocol": "https",
+    "created": "2015-03-13 20:24:38+00:00"
+}

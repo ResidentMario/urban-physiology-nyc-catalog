@@ -1,0 +1,53 @@
+{
+    "name": "dsny-monthly-tonnage-data",
+    "datapackage_version": "1.0-beta",
+    "title": "DSNY Monthly Tonnage Data",
+    "version": "N/A",
+    "keywords": [
+        "dsny",
+        "dsny monthly tonnage data"
+    ],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Sanitation (DSNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ebb7-mvp5/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2478,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 3820,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "PAPERTONSCOLLECTED",
+        "MGPTONSCOLLECTED",
+        "REFUSETONSCOLLECTED",
+        "COMMUNITYDISTRICT",
+        "BOROUGH",
+        "MONTH",
+        "BOROUGH_ID"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ebb7-mvp5",
+    "last_updated": "2017-05-08 19:00:54+00:00",
+    "protocol": "https",
+    "created": "2013-11-22 16:41:29+00:00"
+}

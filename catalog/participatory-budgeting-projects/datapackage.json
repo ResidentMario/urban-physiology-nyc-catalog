@@ -1,0 +1,63 @@
+{
+    "name": "participatory-budgeting-projects",
+    "datapackage_version": "1.0-beta",
+    "title": "Participatory Budgeting Projects",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Participatory Budgeting is a democratic process in which community members directly decide how to spend part of a public budget. Council Members choose to join Participatory Budgeting New York City (PBNYC), giving at least $1 million from their budget for the whole community to participate in decision-making. It\u2019s a yearlong process of public meetings, to ensure that people have the time and resources to make informed decisions. Community members discuss local needs and develop proposals to meet these needs. Through a public vote, residents then decide which proposals to fund.\r\n \r\nMore info can be found at http://council.nyc.gov/pb/",
+    "licenses": [],
+    "sources": [
+        {
+            "title": null
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/wwhr-5ven/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1491,
+    "columns": 20,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 118,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Category",
+        "Description",
+        "Address",
+        "Votes",
+        "Winner",
+        "Council District",
+        "Title",
+        "Project Number",
+        "BIN",
+        "BBL",
+        "NTA",
+        "Longitude",
+        "Postcode",
+        "Community Board",
+        "Census Tract",
+        "Vote Year",
+        "Cost",
+        "BP Funding",
+        "Borough Code",
+        "Latitude"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/wwhr-5ven",
+    "last_updated": "2017-05-12 18:59:02+00:00",
+    "protocol": "https",
+    "created": "2017-05-10 17:38:24+00:00"
+}

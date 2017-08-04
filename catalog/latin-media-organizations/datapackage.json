@@ -1,0 +1,67 @@
+{
+    "name": "latin-media-organizations",
+    "datapackage_version": "1.0-beta",
+    "title": "Latin Media Organizations",
+    "version": "N/A",
+    "keywords": [
+        "hispanic",
+        "resource",
+        "organization",
+        "media",
+        "cultural",
+        "culture",
+        "entertainment",
+        "event",
+        "latin"
+    ],
+    "description": "Listing of Latin media organizations",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Latin Media & Entertainment Commission (LMEC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/9z9b-6hvk/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 91,
+    "columns": 14,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 576,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Company Description",
+        "Contact Name",
+        "Contact Fax",
+        "Location 1",
+        "Business Phone",
+        "Contact Title",
+        "Contact Phone",
+        "Apt  Number",
+        "Borough",
+        "Postal Code",
+        "Business Type Other",
+        "Street Address",
+        "Type of Business",
+        "Company Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/9z9b-6hvk",
+    "last_updated": "2014-09-05 18:09:56+00:00",
+    "protocol": "https",
+    "created": "2011-10-24 18:14:07+00:00"
+}

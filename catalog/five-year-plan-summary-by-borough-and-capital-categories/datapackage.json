@@ -1,0 +1,55 @@
+{
+    "name": "five-year-plan-summary-by-borough-and-capital-categories",
+    "datapackage_version": "1.0-beta",
+    "title": "Five Year Plan Summary by Borough and Capital Categories",
+    "version": "N/A",
+    "keywords": [
+        "sca",
+        "education"
+    ],
+    "description": "Five year plan summary cost by borough and  capital category.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYC School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/24nr-gahi/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 87,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 63,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Total",
+        "FY18",
+        "FY19",
+        "FY17",
+        "FY16",
+        "FY15",
+        "Work Type",
+        "Subcategory",
+        "Category"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/24nr-gahi",
+    "last_updated": "2017-05-02 15:36:00+00:00",
+    "protocol": "https",
+    "created": "2016-06-02 14:46:59+00:00"
+}

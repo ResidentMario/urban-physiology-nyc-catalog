@@ -1,0 +1,58 @@
+{
+    "name": "nycdep-recreation-area-maps",
+    "datapackage_version": "1.0-beta",
+    "title": "NYCDEP Recreation Area Maps",
+    "version": "N/A",
+    "keywords": [
+        "department of environmental protection",
+        "environment",
+        "healthy living",
+        "recreation",
+        "recreation area maps",
+        "area maps",
+        "maps",
+        "dep"
+    ],
+    "description": "NYCDEP Recreation Area Maps\r\n\r\nNote:\r\nWMU = New York State Department of Environmental Conservation Wildlife Management Unit. Hunters should verify the WMU is correct.\r\n** Hunting by Bow only.    \r\n*** Hunting by Bow or Shotgun only.    \r\n**** Hunting for Deer only, and by Bow only.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8qgy-ka3v/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 276,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 877,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Town",
+        "Recreation Unit",
+        "WMU",
+        "Acres",
+        "Map",
+        "County"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8qgy-ka3v",
+    "last_updated": "2014-09-05 17:07:48+00:00",
+    "protocol": "https",
+    "created": "2013-02-01 03:13:13+00:00"
+}

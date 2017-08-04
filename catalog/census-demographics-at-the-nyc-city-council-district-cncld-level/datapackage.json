@@ -1,0 +1,40 @@
+{
+    "name": "census-demographics-at-the-nyc-city-council-district-cncld-level",
+    "datapackage_version": "1.0-beta",
+    "title": "Census Demographics at the NYC City Council district (CNCLD) level",
+    "version": "N/A",
+    "keywords": [
+        "city council district",
+        "census"
+    ],
+    "description": "Table of Census Demographics\nrepresented at the NYC City Council\ndistrict level",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 345.1982421875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 734,
+    "preferred_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "xlsx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/ye4r-qpmp",
+    "last_updated": "2015-02-17 16:46:51+00:00",
+    "protocol": "https",
+    "created": "2015-02-17 16:45:57+00:00"
+}

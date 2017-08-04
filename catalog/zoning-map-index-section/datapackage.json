@@ -1,0 +1,42 @@
+{
+    "name": "zoning-map-index-section",
+    "datapackage_version": "1.0-beta",
+    "title": "Zoning Map Index: Section",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Shapefile of zoning section map index, grid to determine which zoning section map relates to specific areas of NYC.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/bpt7-i8t8?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 20.1982421875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 84,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        ""
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/bpt7-i8t8",
+    "last_updated": "2016-09-12 21:46:38+00:00",
+    "protocol": "https",
+    "created": "2016-09-12 19:21:09+00:00"
+}

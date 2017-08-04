@@ -1,0 +1,48 @@
+{
+    "name": "milliontreesnyc-block-planting-locations",
+    "datapackage_version": "1.0-beta",
+    "title": "MillionTreesNYC Block Planting Locations",
+    "version": "N/A",
+    "keywords": [
+        "nycopendata",
+        "trees",
+        "parks",
+        "nature",
+        "milliontreesnyc"
+    ],
+    "description": "This data tracks the blocks that have been planted through NYC Parks\u2019 street tree block planting program, a major component of the MillionTreesNYC initiative.  When a block planting is completed for specific street segment, all available and appropriate locations for street tree installation have been planted.  This dataset is based on the Citywide Street Centerline data.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/vr8g-vfny?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 6978.8046875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 540,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/vr8g-vfny",
+    "last_updated": "2016-12-20 22:32:07+00:00",
+    "protocol": "https",
+    "created": "2015-10-20 13:56:11+00:00"
+}

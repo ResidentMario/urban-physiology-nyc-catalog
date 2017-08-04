@@ -1,0 +1,6 @@
+import requests
+r = requests.get("https://data.cityofnewyork.us/api/views/dj4e-3xrn/rows.csv?accessType=DOWNLOAD")
+with open("/home/alex/Desktop/urban-physiology-nyc-catalog/catalog/school-progress-reports-all-schools-2007-08/data.csv", "wb") as f:
+    f.write(r.content)
+
+outputs = ["/home/alex/Desktop/urban-physiology-nyc-catalog/catalog/school-progress-reports-all-schools-2007-08/data.csv"]

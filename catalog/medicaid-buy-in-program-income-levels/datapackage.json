@@ -1,0 +1,53 @@
+{
+    "name": "medicaid-buy-in-program-income-levels",
+    "datapackage_version": "1.0-beta",
+    "title": "Medicaid buy in program income levels",
+    "version": "N/A",
+    "keywords": [
+        "jobs and economic mobility",
+        "hra",
+        "human resources administration",
+        "medicaid buy in program income levels"
+    ],
+    "description": "The Medicaid Buy-In Program for Working People with Disabilities offers people with disabilities who are working, and earning more than the allowable limits for regular Medicaid, the opportunity to keep their health care coverage through Medicaid. Eligibility requirements include certain criteria and income levels as listed here. This chart is only a guide. Individuals should see an enrollment counselor for eligibility screening. NOTE: Chart effective January 1, 2012; subject to annual income updates.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/qt67-786k/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 3,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 656,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Health"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Family Size 2  Annual Income",
+        "Premium Categories",
+        "Family Size 1 Annual Income",
+        "Family Size 2 Monthly Income",
+        "Family Size 1 Monthly Income"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/qt67-786k",
+    "last_updated": "2016-03-02 20:32:07+00:00",
+    "protocol": "https",
+    "created": "2013-03-19 17:24:21+00:00"
+}

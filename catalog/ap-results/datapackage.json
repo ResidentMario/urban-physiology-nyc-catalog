@@ -1,0 +1,52 @@
+{
+    "name": "ap-results",
+    "datapackage_version": "1.0-beta",
+    "title": "AP Results",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning",
+        "nyc",
+        "ap result"
+    ],
+    "description": "The most recent school level results for New York City on AP exams. Results are available at the school level for the 2012 school year. Records contain AP Test Taking and Passing Rates.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/9ct9-prf9/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 478,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 850,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Num of AP Total Exams Taken",
+        "Num of AP Test Takers",
+        "SCHOOL NAME",
+        "DBN",
+        "Num of AP Exams Passed"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/9ct9-prf9",
+    "last_updated": "2014-09-05 17:07:45+00:00",
+    "protocol": "https",
+    "created": "2013-02-20 22:01:14+00:00"
+}

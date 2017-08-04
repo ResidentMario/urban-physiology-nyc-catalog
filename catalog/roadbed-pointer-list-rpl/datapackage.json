@@ -1,0 +1,37 @@
+{
+    "name": "roadbed-pointer-list-rpl",
+    "datapackage_version": "1.0-beta",
+    "title": "Roadbed Pointer List (RPL)",
+    "version": "N/A",
+    "keywords": [],
+    "description": "A text file representing the relationships between generic and roadbed segments (or roadbed terminators \u2013 segments that represent the merging of divided roadbeds back into each other as a single roadbed or undivided street) by segment ID.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 1641.015625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 93,
+    "preferred_mimetype": "text/plain",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "txt",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/qs4p-vs2w",
+    "last_updated": "2017-03-08 22:25:50+00:00",
+    "protocol": "https",
+    "created": "2015-07-14 17:26:48+00:00"
+}

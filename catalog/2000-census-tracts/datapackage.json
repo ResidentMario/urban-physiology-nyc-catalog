@@ -1,0 +1,54 @@
+{
+    "name": "2000-census-tracts",
+    "datapackage_version": "1.0-beta",
+    "title": "2000 Census Tracts",
+    "version": "N/A",
+    "keywords": [
+        "geographic",
+        "2000 census tracts",
+        "dcp",
+        "census",
+        "location",
+        "map",
+        "cartography",
+        "boundary",
+        "tract",
+        "survey",
+        "poll"
+    ],
+    "description": "GIS data: Boundaries of 2000 Census Tracts",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/ysjj-vb9j?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 6893.5732421875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 418,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/ysjj-vb9j",
+    "last_updated": "2017-03-09 15:36:11+00:00",
+    "protocol": "https",
+    "created": "2013-01-28 17:14:17+00:00"
+}

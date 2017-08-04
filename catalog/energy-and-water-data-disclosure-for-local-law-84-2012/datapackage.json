@@ -1,0 +1,65 @@
+{
+    "name": "energy-and-water-data-disclosure-for-local-law-84-2012",
+    "datapackage_version": "1.0-beta",
+    "title": "Energy and Water Data Disclosure for Local Law 84 (2012)",
+    "version": "N/A",
+    "keywords": [
+        "mayor's office of long term planning and sustainability (oltps)",
+        "energy",
+        "water",
+        "benchmarking"
+    ],
+    "description": "On September 25, 2013, New York City released the 2012 energy and water use data for all properties required to annually benchmark under Local Law 84. New York City is the first in the nation to publicly disclose data for large multifamily buildings. Approximately a million New Yorkers can now see how much energy and water their apartment buildings consumed in 2012.\r\n\r\nThe new data set includes more than 9,000 self-reported multifamily properties, effectively more than tripling the size of the first year's list. The data also represents the first year's results of both manual and automatic water benchmarking, with more than 6,800 properties reporting water data.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Long Term Planning and Sustainability (OLTPS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/5gde-fmj3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 14100,
+    "columns": 17,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 5469,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Reported BINs",
+        "Entry Number",
+        "BBL",
+        "Indoor Water Intensity (All Water Sources)(gal/ft2)",
+        "Street Name",
+        "Number of Buildings",
+        "Zip",
+        "Street Number",
+        "Total GHG Emissions(MtCO2e)",
+        "Primary Property Type - Self Selected",
+        "ENERGY STAR Score",
+        "Property Floor Area (Buildngs and Parking)(ft2)",
+        "Borough",
+        "Weather Normalized Source EUI(kBtu/ft2)",
+        "Reported Water Method",
+        "Site EUI(kBtu/ft2)",
+        "Benchmarking Submission"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/5gde-fmj3",
+    "last_updated": "2015-06-27 00:57:26+00:00",
+    "protocol": "https",
+    "created": "2013-12-05 16:53:25+00:00"
+}

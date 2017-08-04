@@ -1,0 +1,44 @@
+{
+    "name": "directory-of-barbecuing-areas",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of Barbecuing Areas",
+    "version": "N/A",
+    "keywords": [
+        "directory of barbecuing areas",
+        "dpr",
+        "parks",
+        "barbecque",
+        "healthy living",
+        "bbq"
+    ],
+    "description": "Designated barbecuing areas in New York City Department of Parks & Recreation properties.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 9.6962890625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 367,
+    "preferred_mimetype": "application/xml",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/v3zf-nci8",
+    "last_updated": "2017-04-11 16:08:16+00:00",
+    "protocol": "https",
+    "created": "2011-08-11 20:51:34+00:00"
+}

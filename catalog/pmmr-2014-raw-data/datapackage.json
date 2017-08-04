@@ -1,0 +1,66 @@
+{
+    "name": "pmmr-2014-raw-data",
+    "datapackage_version": "1.0-beta",
+    "title": "PMMR 2014 Raw Data",
+    "version": "N/A",
+    "keywords": [
+        "pmmer 2014 raw data",
+        "pmmr"
+    ],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/vuae-w6cg/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 21500,
+    "columns": 20,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1438,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Value Currency",
+        "Conditional Format",
+        "Record Type",
+        "Indicator Sequence",
+        "Sub-Indicator",
+        "Value Time",
+        "Value Percent",
+        "Value Ratio",
+        "Indicator Name",
+        "Indicator ID",
+        "Geography",
+        "Measure Type",
+        "Desired Direction",
+        "Critical Flag",
+        "Subindicator Sequence",
+        "Value Number",
+        "Raw Value",
+        "Format Type",
+        "Fiscal Year",
+        "Agency"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/vuae-w6cg",
+    "last_updated": "2015-07-15 01:42:38+00:00",
+    "protocol": "https",
+    "created": "2014-02-20 18:40:59+00:00"
+}

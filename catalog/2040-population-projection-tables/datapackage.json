@@ -1,0 +1,42 @@
+{
+    "name": "2040-population-projection-tables",
+    "datapackage_version": "1.0-beta",
+    "title": "2040 Population Projection Tables",
+    "version": "N/A",
+    "keywords": [
+        "2040 projection tables",
+        "dcp",
+        "city planning",
+        "population"
+    ],
+    "description": "DCP 2040 population projection tables.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 62.5126953125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 1389,
+    "preferred_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "xlsx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/kjk4-7tzy",
+    "last_updated": "2014-09-05 17:20:22+00:00",
+    "protocol": "https",
+    "created": "2014-04-17 19:46:08+00:00"
+}

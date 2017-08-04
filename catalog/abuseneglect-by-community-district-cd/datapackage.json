@@ -1,0 +1,40 @@
+{
+    "name": "abuseneglect-by-community-district-cd",
+    "datapackage_version": "1.0-beta",
+    "title": "Abuse/Neglect by Community District (CD)",
+    "version": "N/A",
+    "keywords": [
+        "acs",
+        "abuse/neglect by cd"
+    ],
+    "description": "Abuse/neglect investigations by CD of family",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Administration for Children's Services (ACS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 29.82421875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 442,
+    "preferred_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "xlsx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/rnjn-x48k",
+    "last_updated": "2015-04-17 21:03:05+00:00",
+    "protocol": "https",
+    "created": "2014-05-23 19:23:51+00:00"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "school-progress-reports-all-schools-2011-multiyear-summary",
+    "datapackage_version": "1.0-beta",
+    "title": "School Progress Reports - All Schools - 2011 Multiyear Summary",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning"
+    ],
+    "description": "2006-07 to 2009-10 Progress Report results summary for all schools\r\n\r\nSummary Progress Report grades for school years 2006-2007 through 2009-2011.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/rwa3-b3wr/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1726,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 712,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "SCHOOL NAME",
+        "2007-08 PROGRESS REPORT GRADE",
+        "2008-09 PROGRESS REPORT GRADE",
+        "2009-10 PROGRESS REPORT GRADE",
+        "PROGRESS REPORT TYPE",
+        "2006-07 PROGRESS REPORT GRADE",
+        "BN"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/rwa3-b3wr",
+    "last_updated": "2014-09-05 17:37:07+00:00",
+    "protocol": "https",
+    "created": "2011-10-06 20:38:58+00:00"
+}

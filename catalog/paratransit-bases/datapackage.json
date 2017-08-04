@@ -1,0 +1,61 @@
+{
+    "name": "paratransit-bases",
+    "datapackage_version": "1.0-beta",
+    "title": "Paratransit Bases",
+    "version": "N/A",
+    "keywords": [
+        "travel",
+        "limousine",
+        "base",
+        "paratransit",
+        "taxi",
+        "transit",
+        "vehicle",
+        "van",
+        "transportation"
+    ],
+    "description": "All TLC paratransit bases",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/r247-45ub/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 177,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 602,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Zip_Code",
+        "Name of Licensee",
+        "Street_Address",
+        "Telephone",
+        "License Type",
+        "Location 1",
+        "License Number",
+        "Alternative Name of Licensee"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/r247-45ub",
+    "last_updated": "2014-09-05 18:08:44+00:00",
+    "protocol": "https",
+    "created": "2011-08-29 17:55:19+00:00"
+}

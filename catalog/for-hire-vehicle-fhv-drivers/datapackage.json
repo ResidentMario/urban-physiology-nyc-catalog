@@ -1,0 +1,45 @@
+{
+    "name": "for-hire-vehicle-fhv-drivers",
+    "datapackage_version": "1.0-beta",
+    "title": "For-Hire-Vehicle (FHV) Drivers",
+    "version": "N/A",
+    "keywords": [
+        "dot",
+        "vehicle",
+        "tlc",
+        "black car",
+        "for-hire",
+        "fhv",
+        "drivers"
+    ],
+    "description": "FHV Drivers are those individuals licensed by the TLC to operate black car, community car service, and luxury limousine vehicles.\r\n\r\nThis lists information on the current status of FHV Driver Licenses, including TLC License Number, name of licensee, license type and expiration date.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 2683.5322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 3277,
+    "preferred_mimetype": "application/vnd.ms-office",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "xls",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/c8wu-fxqw",
+    "last_updated": "2014-10-10 20:14:30+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 19:36:51+00:00"
+}

@@ -1,0 +1,82 @@
+{
+    "name": "watershed-statistics",
+    "datapackage_version": "1.0-beta",
+    "title": "Watershed statistics",
+    "version": "N/A",
+    "keywords": [
+        "nyc",
+        "agua",
+        "tap",
+        "tap water",
+        "water",
+        "water supply",
+        "water system",
+        "reservoir",
+        "healthy living",
+        "health",
+        "environment",
+        "eco-system",
+        "ecosystem",
+        "department of environmental protection",
+        "dep",
+        "conservation",
+        "basin town",
+        "basin"
+    ],
+    "description": "County and Town Area Statistics for the NYC East-of-Hudson Watershed (including towns within a watershed county that are completely outside watershed)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/z4kf-gt4n/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 158,
+    "columns": 20,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 386,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Middle Branch",
+        "Amawalk",
+        "TOWN**",
+        "Boyds Corner",
+        "Bog Brook",
+        "Croton Falls",
+        "Diverting",
+        "East Branch",
+        "Kensico",
+        "Lake Gilead",
+        "Muscoot",
+        "New Croton",
+        "Titicus",
+        "Lake Gleneida",
+        "West Branch",
+        "Sub-total Town Acres Inside NYC Watershed",
+        "Town Acres Outside NYC Watershed",
+        "Total Town Acreage",
+        "% of each Town in NYC Watershed",
+        "Cross River"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/z4kf-gt4n",
+    "last_updated": "2014-09-05 18:09:00+00:00",
+    "protocol": "https",
+    "created": "2011-09-12 19:01:43+00:00"
+}

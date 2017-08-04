@@ -1,0 +1,74 @@
+{
+    "name": "charges",
+    "datapackage_version": "1.0-beta",
+    "title": "Charges",
+    "version": "N/A",
+    "keywords": [
+        "charges",
+        "license",
+        "department of consumer affairs",
+        "consumer",
+        "business",
+        "city government",
+        "dca"
+    ],
+    "description": "This data set features DCA-issued charges during the last and current calendar years to ensure compliance with local consumer protection and licensing laws, and State and federal regulations.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Consumer Affairs (DCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/5fn4-dr26/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 55900,
+    "columns": 23,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 848,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "State",
+        "Street 2",
+        "Unit",
+        "Counts Settled",
+        "Outcome",
+        "Violation Date",
+        "Street",
+        "Charge Count",
+        "Certificate Number",
+        "Record ID",
+        "City",
+        "Latitude",
+        "Business Name",
+        "Borough",
+        "Counts Guilty",
+        "Counts Not Guilty",
+        "Description",
+        "Zip",
+        "Charge",
+        "Building Number",
+        "Longitude",
+        "Unit Type",
+        "Industry"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/5fn4-dr26",
+    "last_updated": "2017-05-05 19:53:45+00:00",
+    "protocol": "https",
+    "created": "2016-01-26 18:13:07+00:00"
+}

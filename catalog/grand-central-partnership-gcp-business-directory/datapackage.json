@@ -1,0 +1,55 @@
+{
+    "name": "grand-central-partnership-gcp-business-directory",
+    "datapackage_version": "1.0-beta",
+    "title": "Grand Central Partnership (GCP) Business Directory",
+    "version": "N/A",
+    "keywords": [
+        "business",
+        "grand central partnership",
+        "address",
+        "directory"
+    ],
+    "description": "Businesses in the GCP district",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Grand Central Partnership (GCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/k26i-s5bd/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 907,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 836,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Business Name",
+        "Location 1",
+        "Industry Group",
+        "Cross Streets",
+        "Telephone",
+        "Zip Code",
+        "Type"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/k26i-s5bd",
+    "last_updated": "2014-09-06 00:12:21+00:00",
+    "protocol": "https",
+    "created": "2011-10-11 04:13:23+00:00"
+}

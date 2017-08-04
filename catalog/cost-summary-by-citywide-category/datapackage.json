@@ -1,0 +1,57 @@
+{
+    "name": "cost-summary-by-citywide-category",
+    "datapackage_version": "1.0-beta",
+    "title": "Cost Summary By Citywide Category",
+    "version": "N/A",
+    "keywords": [
+        "summary",
+        "plan",
+        "school",
+        "construction",
+        "sca",
+        "cost"
+    ],
+    "description": "Five year plan summary cost by citywide category.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/9ddq-vbjj/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 27,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 25,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "FY18",
+        "FY15",
+        "Program Category",
+        "Code",
+        "FY16",
+        "FY19",
+        "FY17"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/9ddq-vbjj",
+    "last_updated": "2017-01-31 15:02:56+00:00",
+    "protocol": "https",
+    "created": "2017-01-31 14:54:32+00:00"
+}

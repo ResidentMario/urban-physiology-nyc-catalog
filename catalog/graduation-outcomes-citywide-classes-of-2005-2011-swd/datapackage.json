@@ -1,0 +1,71 @@
+{
+    "name": "graduation-outcomes-citywide-classes-of-2005-2011-swd",
+    "datapackage_version": "1.0-beta",
+    "title": "Graduation Outcomes - Citywide - Classes of 2005-2011 - SWD",
+    "version": "N/A",
+    "keywords": [
+        "swd",
+        "school",
+        "lifelong learning",
+        "graduation outcome",
+        "citywide"
+    ],
+    "description": "Latest available data and trends in graduation and dropout outcomes disaggregated by students with disabilities",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/jkiz-wt49/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 46,
+    "columns": 22,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 164,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Total Regents Pct of cohort",
+        "Still Enrolled Num",
+        "Dropped Out Pct of cohort",
+        "Total Grads Pct of cohort",
+        "Demographic",
+        "Still Enrolled Pct of cohort",
+        "Cohort Category",
+        "Local Pct of cohort",
+        "Local Pct of grads",
+        "Dropped Out Num",
+        "Total Grads Num",
+        "Regents w/o Advanced Pct of cohort",
+        "Regents w/o Advanced Num",
+        "Cohort Year",
+        "Regents w/o Advanced Pct of grads",
+        "Local Num",
+        "Advanced Regents Pct of cohort",
+        "Advanced Regents Pct of grads",
+        "Total Regents Pct of grads",
+        "Advanced Regents Num",
+        "Total Cohort Num",
+        "Total Regents Num"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/jkiz-wt49",
+    "last_updated": "2014-09-05 17:22:50+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 02:32:31+00:00"
+}

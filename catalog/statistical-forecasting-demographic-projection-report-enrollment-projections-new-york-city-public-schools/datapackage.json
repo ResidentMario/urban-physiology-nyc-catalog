@@ -1,0 +1,70 @@
+{
+    "name": "statistical-forecasting-demographic-projection-report-enrollment-projections-new-york-city-public-schools",
+    "datapackage_version": "1.0-beta",
+    "title": "Statistical Forecasting Demographic Projection Report - Enrollment Projections - New York City Public Schools",
+    "version": "N/A",
+    "keywords": [
+        "enrollment",
+        "education",
+        "construction",
+        "authority",
+        "school",
+        "sca",
+        "forecast"
+    ],
+    "description": "Demographic projections performed by the Statistics Forecasting for elementary, middle and high school level students.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/e649-r223/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 462,
+    "columns": 19,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 564,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Grade 7",
+        "Grade 6",
+        "Year",
+        "Borough or District",
+        "SE1",
+        "GED",
+        "Data Type",
+        "Grade 2",
+        "Grade 12",
+        "Grade 11",
+        "Grade 10",
+        "Grade 1",
+        "Grade 9",
+        "Grade 3",
+        "Grade 4",
+        "Grade 8",
+        "K",
+        "PK",
+        "Grade 5"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/e649-r223",
+    "last_updated": "2014-09-05 17:39:30+00:00",
+    "protocol": "https",
+    "created": "2013-07-02 19:03:29+00:00"
+}

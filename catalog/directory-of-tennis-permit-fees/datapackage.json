@@ -1,0 +1,54 @@
+{
+    "name": "directory-of-tennis-permit-fees",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of Tennis Permit Fees",
+    "version": "N/A",
+    "keywords": [
+        "dpr",
+        "fee",
+        "healthy living",
+        "park",
+        "permit",
+        "recreation",
+        "tennis"
+    ],
+    "description": "Fee details for obtaining Tennis Permits",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/9n2n-hkug/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 4,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 311,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Fee",
+        "Age",
+        "Duplicate Permit Fee"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/9n2n-hkug",
+    "last_updated": "2014-09-05 17:12:50+00:00",
+    "protocol": "https",
+    "created": "2013-01-24 19:03:36+00:00"
+}

@@ -1,0 +1,61 @@
+{
+    "name": "tlc-community-car-service-bases",
+    "datapackage_version": "1.0-beta",
+    "title": "TLC Community Car Service Bases",
+    "version": "N/A",
+    "keywords": [
+        "community",
+        "vehicle",
+        "transportation",
+        "taxi",
+        "service",
+        "limousine",
+        "jobs and economic mobility",
+        "car",
+        "base"
+    ],
+    "description": "Spreadsheet of all TLC community car service bases",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/nadh-kjkc/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 472,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1821,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "License Number",
+        "Name of Licensee",
+        "Alternative Name of Licensee",
+        "Location 1",
+        "Zip_Code",
+        "Telephone",
+        "License Type",
+        "Street_Address"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/nadh-kjkc",
+    "last_updated": "2014-09-05 17:52:53+00:00",
+    "protocol": "https",
+    "created": "2011-08-26 20:04:57+00:00"
+}

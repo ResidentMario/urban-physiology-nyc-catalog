@@ -1,0 +1,77 @@
+{
+    "name": "expense-city-funds",
+    "datapackage_version": "1.0-beta",
+    "title": "Expense City Funds",
+    "version": "N/A",
+    "keywords": [
+        "future",
+        "finance",
+        "actual",
+        "agency",
+        "fiscal",
+        "expense",
+        "fund",
+        "budget",
+        "omb",
+        "plan",
+        "year"
+    ],
+    "description": "Expense City Funds ($ IN THOUSANDS)\r\nFY 2002 - FY 2016 are actuals; FY 2017 - FY 2021 plan data as of the April 2017 Financial Plan",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Management and Budget (OMB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/kzk6-y58k/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 92,
+    "columns": 22,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 674,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "AGN",
+        "AGENCY NAME",
+        " FY 2021 Plan ",
+        " FY 2014 Actual ",
+        " FY 2015 Actual",
+        " FY 2013 Actual ",
+        " FY 2018 Plan ",
+        " FY 2017 Plan ",
+        " FY 2006 Actual ",
+        " FY 2007 Actual ",
+        " FY 2004 Actual ",
+        " FY 2019 Plan ",
+        "FY 2016 Actual",
+        " FY 2009 Actual ",
+        " FY 2008 Actual ",
+        " FY 2005 Actual ",
+        " FY 2011 Actual ",
+        " FY 2010 Actual ",
+        " FY 2012 Actual ",
+        "FY 2020 Plan",
+        " FY 2002 Actual ",
+        " FY 2003 Actual "
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/kzk6-y58k",
+    "last_updated": "2017-05-02 16:21:47+00:00",
+    "protocol": "https",
+    "created": "2015-08-06 21:17:07+00:00"
+}

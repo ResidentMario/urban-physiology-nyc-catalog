@@ -1,0 +1,52 @@
+{
+    "name": "patient-population-at-world-trade-center-wtc-environmental-health-center",
+    "datapackage_version": "1.0-beta",
+    "title": "Patient Population at World Trade Center (WTC) Environmental Health Center",
+    "version": "N/A",
+    "keywords": [
+        "9/11",
+        "health",
+        "patient",
+        "healthy living",
+        "wtc",
+        "world trade center"
+    ],
+    "description": "HHC's WTC Environmental Health Center program, one of three Centers of Excellence in New York City, provides medical and mental healthcare to residents, students, workers, and passersby who may still be sick from 9/11.  This data shows the patient population of the program from 2008 to 2011.\r\nUpdate Frequency: As needed",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Health and Hospitals Corporation (HHC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/y4yc-78a4/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 4,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 747,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Health"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Population",
+        "Year"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/y4yc-78a4",
+    "last_updated": "2014-09-05 17:32:42+00:00",
+    "protocol": "https",
+    "created": "2011-09-30 18:40:59+00:00"
+}

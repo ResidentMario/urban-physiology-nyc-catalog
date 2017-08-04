@@ -1,0 +1,56 @@
+{
+    "name": "drought-regulation-penalty-schedule",
+    "datapackage_version": "1.0-beta",
+    "title": "Drought Regulation Penalty Schedule",
+    "version": "N/A",
+    "keywords": [
+        "healthy living",
+        "penalty",
+        "department of environmental protection",
+        "drought",
+        "dep",
+        "drought regulation penalty schedule",
+        "environment"
+    ],
+    "description": "Schedule of penalties for violating the Drought Regulations during the stages of a drought emergency.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/yti5-bbws/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 53,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 275,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "RCNY",
+        "Section/Subdivision - DESCRIPTION",
+        "CODE",
+        "\u00a0PENALTY",
+        "\u00a0DEFAULT"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/yti5-bbws",
+    "last_updated": "2014-09-05 17:07:57+00:00",
+    "protocol": "https",
+    "created": "2013-02-01 03:58:50+00:00"
+}

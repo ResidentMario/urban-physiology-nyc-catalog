@@ -1,0 +1,42 @@
+{
+    "name": "transit-zones",
+    "datapackage_version": "1.0-beta",
+    "title": "Transit Zones",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Shapefile of Transit Zone boundaries where parking requirements are eliminated or reduced for a range of affordable and senior housing units.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/cpcf-tcxs?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 303.794921875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 331,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/cpcf-tcxs",
+    "last_updated": "2017-01-20 16:28:18+00:00",
+    "protocol": "https",
+    "created": "2016-07-05 18:24:30+00:00"
+}

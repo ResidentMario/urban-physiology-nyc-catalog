@@ -1,0 +1,70 @@
+{
+    "name": "graduation-outcomes-citywide-classes-of-2005-2011-total-cohort",
+    "datapackage_version": "1.0-beta",
+    "title": "Graduation Outcomes - Citywide - Classes of 2005-2011 - Total Cohort",
+    "version": "N/A",
+    "keywords": [
+        "total cohort",
+        "school",
+        "lifelong learning",
+        "citywide",
+        "graduation outcome"
+    ],
+    "description": "Latest available data and trends in graduation and dropout outcomes.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ubv8-6n5w/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 23,
+    "columns": 21,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 223,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Cohort Category",
+        "Total Grads Num",
+        "Regents w/o Advanced Num",
+        "Regents w/o Advanced Pct of cohort",
+        "Advanced Regents Pct of cohort",
+        "Advanced Regents Pct of grads",
+        "Total Regents Pct of grads",
+        "Advanced Regents Num",
+        "Total Regents Num",
+        "Total Regents Pct of cohort",
+        "Dropped Out Num",
+        "Dropped Out Pct of cohort",
+        "Still Enrolled Num",
+        "Still Enrolled Pct of cohort",
+        "Local Pct of cohort",
+        "Local Pct of grads",
+        "Regents w/o Advanced Pct of grads",
+        "Local Num",
+        "Total Grads Pct of cohort",
+        "Total Cohort Num",
+        "Cohort Year"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ubv8-6n5w",
+    "last_updated": "2014-09-05 17:43:25+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 02:32:44+00:00"
+}

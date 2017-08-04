@@ -1,0 +1,47 @@
+{
+    "name": "retaining-wall",
+    "datapackage_version": "1.0-beta",
+    "title": "Retaining Wall",
+    "version": "N/A",
+    "keywords": [
+        "retaining wall",
+        "doitgis",
+        "doitt gis",
+        "planimetrics"
+    ],
+    "description": "Retaining Wall. Please see the following link for additional documentation- https://github.com/CityOfNewYork/nyc-planimetrics/blob/master/Capture_Rules.md.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/uvgd-xsc8?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 2399.5361328125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 100,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/uvgd-xsc8",
+    "last_updated": "2016-08-27 18:34:42+00:00",
+    "protocol": "https",
+    "created": "2016-03-15 14:29:58+00:00"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "state-senate-districts",
+    "datapackage_version": "1.0-beta",
+    "title": "State Senate Districts",
+    "version": "N/A",
+    "keywords": [
+        "senate",
+        "state",
+        "cartography",
+        "district",
+        "map",
+        "location",
+        "voting",
+        "geographic",
+        "dcp",
+        "state senate districts",
+        "boundary"
+    ],
+    "description": "GIS data: Boundaries of State Senate Districts",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/h4i2-acfi?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 3671.95703125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 372,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/h4i2-acfi",
+    "last_updated": "2017-03-09 16:30:03+00:00",
+    "protocol": "https",
+    "created": "2013-01-29 22:52:40+00:00"
+}

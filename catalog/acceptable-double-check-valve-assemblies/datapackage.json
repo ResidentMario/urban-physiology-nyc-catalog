@@ -1,0 +1,48 @@
+{
+    "name": "acceptable-double-check-valve-assemblies",
+    "datapackage_version": "1.0-beta",
+    "title": "Acceptable Double Check Valve Assemblies",
+    "version": "N/A",
+    "keywords": [
+        "acceptable double check valve assemblies",
+        "dep"
+    ],
+    "description": "List of acceptable double check valve assemblies.  For more information refer to the manual located at the following link http://www.nyc.gov/html/dep/pdf/water_sewer/42_doh_supplement.pdf",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/5e35-afph/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 52,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 203,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Company",
+        "Model Series"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/5e35-afph",
+    "last_updated": "2014-09-05 18:01:59+00:00",
+    "protocol": "https",
+    "created": "2014-03-05 23:30:08+00:00"
+}

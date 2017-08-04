@@ -1,0 +1,74 @@
+{
+    "name": "gender-of-alleged-victims-compared-to-new-york-city-demographics-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "Gender Of Alleged Victims Compared To New York City Demographics 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "disciplinary recommendation",
+        "statistics",
+        "civilian complaint review board",
+        "ccrb",
+        "board",
+        "allegation",
+        "review",
+        "misconduct",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "activity",
+        "complaint activity",
+        "complaint",
+        "civilian"
+    ],
+    "description": "CCRB: Gender of Alleged Victims Compared to New York City Demographics 2005 - 2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/3bpc-wa5v/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5,
+    "columns": 13,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 307,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2007 Percent of Total",
+        "2007 Number",
+        "2005 Percent of Total",
+        "2006 Number",
+        "2006 Percent of Total",
+        "Gender",
+        "2005 Number",
+        "2008 Number",
+        "5 yr Percent of Subtotal",
+        "2009 Percent of Total",
+        "5 yr Number",
+        "2008 Percent of Total",
+        "2009 Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/3bpc-wa5v",
+    "last_updated": "2014-09-05 17:00:11+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 16:16:37+00:00"
+}

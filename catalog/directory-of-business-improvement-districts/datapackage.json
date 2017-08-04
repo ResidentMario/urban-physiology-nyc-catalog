@@ -1,0 +1,61 @@
+{
+    "name": "directory-of-business-improvement-districts",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Of Business Improvement Districts",
+    "version": "N/A",
+    "keywords": [],
+    "description": "This is the list of all the Business Improvement Districts in New York City. This data is up to date as of the date reflected in the \"About\" tab of this dataset.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Small Business Services (SBS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/qpm9-j523/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 74,
+    "columns": 18,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 404,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        ""
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "org_website",
+        "org_realestate",
+        "org_phone",
+        "org_boundary",
+        "org_address2",
+        "org_address",
+        "org_year",
+        "org_neighborhood",
+        "org_id",
+        "org_city",
+        "org_email",
+        "org_blocks",
+        "org_fax",
+        "org_businesses",
+        "org_state",
+        "boro_id",
+        "org_name",
+        "org_zip"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/qpm9-j523",
+    "last_updated": "2017-05-01 19:54:44+00:00",
+    "protocol": "https",
+    "created": "2015-06-10 21:27:31+00:00"
+}

@@ -1,0 +1,81 @@
+{
+    "name": "new-driver-application-status",
+    "datapackage_version": "1.0-beta",
+    "title": "New Driver Application Status",
+    "version": "N/A",
+    "keywords": [
+        "hack number",
+        "new application",
+        "fhv",
+        "medallion",
+        "green",
+        "shl",
+        "street hail livery",
+        "for-hire",
+        "exam",
+        "results",
+        "limousine",
+        "status",
+        "driver",
+        "exam fee",
+        "fingerprint",
+        "fru",
+        "drug test",
+        "wav",
+        "wheelchair accessible vehicle",
+        "defensive driver",
+        "driver exam",
+        "medical clearance",
+        "dmv",
+        "taxi",
+        "tlc"
+    ],
+    "description": "THIS DATASET IS UPDATED SEVERAL TIMES PER DAY.  TLC Driver application status check for applicants who had applied for a new TLC driver\u2019s license. For questions, please email newdriverapp@tlc.nyc.gov and visit www.nyc.gov/newdriver for more detailed information. \r\n\r\nFor historical/archived data of past application statuses, please see- https://data.cityofnewyork.us/Transportation/Historical-Driver-Application-Status/p32s-yqxq",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/dpec-ucu7/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 10300,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1054498,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "FRU Interview Scheduled",
+        "WAV Course",
+        "Status",
+        "Type",
+        "Other Requirements",
+        "Driver Exam",
+        "Defensive Driving",
+        "Last Updated",
+        "Drug Test",
+        "Medical Clearance Form",
+        "App No",
+        "App Date"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/dpec-ucu7",
+    "last_updated": "2017-05-31 22:16:27+00:00",
+    "protocol": "https",
+    "created": "2016-05-17 18:43:43+00:00"
+}

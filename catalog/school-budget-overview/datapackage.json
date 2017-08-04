@@ -1,0 +1,67 @@
+{
+    "name": "school-budget-overview",
+    "datapackage_version": "1.0-beta",
+    "title": "School Budget Overview",
+    "version": "N/A",
+    "keywords": [
+        "education",
+        "funding"
+    ],
+    "description": "This budget overview represents the New York City Fair Student Formula school budget allocation from July 2014 - June 2015.\r\nClick Here for further information- http://schools.nyc.gov/offices/d_chanc_oper/budget/dbor/allocationmemo/fy14_15/Fair_School_Funding_FY2015.html",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ven4-h25u/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1577,
+    "columns": 21,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 383,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "S2: Label g: Teacher Salary Growth",
+        "S5: TL SE Transitional Funding",
+        "S3: Label i - Foundation",
+        "S2: Label a: FY14 Revised Base",
+        "S4: AC Name: FSF (HS)",
+        "S4: AC Name: TL09 C4E CTT (HS)",
+        "S4: AC Name: Funds Over Formula",
+        "S2: Label h: New School Foundation",
+        "S3: Foundation  ",
+        "S3: Label d - Foundation",
+        "S3: Label j: FSF Final%",
+        "S4: Label d: FY14 FSF Initial",
+        "S2: Label d: FSF Preliminary",
+        "S3: Label i: FY14 FSF at 100%",
+        "S1: Label a: FY14 Revised Base ",
+        "As_Of_Date",
+        "Fiscal_Year",
+        "S1: Label b: FSF & TL 09 C4E CTT ",
+        "S1: Label c: FSF Over Formula",
+        "Location",
+        "S2: Label f: Register Change"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ven4-h25u",
+    "last_updated": "2015-11-12 14:50:22+00:00",
+    "protocol": "https",
+    "created": "2015-10-15 21:16:21+00:00"
+}

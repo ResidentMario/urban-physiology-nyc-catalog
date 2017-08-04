@@ -1,0 +1,68 @@
+{
+    "name": "medallion-vehicles-authorized",
+    "datapackage_version": "1.0-beta",
+    "title": "Medallion  Vehicles - Authorized",
+    "version": "N/A",
+    "keywords": [
+        "taxi license",
+        "driver",
+        "limousine",
+        "tlc",
+        "taxi driver",
+        "taxicab",
+        "taxi",
+        "medallion"
+    ],
+    "description": "This list contains information on the status of current medallion vehicles authorized to operate in New York City. This list is accurate to the date and time represented in the Last Date Updated and Last Time Updated fields. For inquiries about the contents of this dataset, please email licensinginquiries@tlc.nyc.gov.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/rhe8-mgbb/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 19200000,
+    "columns": 16,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 50195,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "DMV License Plate Number",
+        "Last Date Updated",
+        "Agent Telephone Number",
+        "Agent Name",
+        "Agent Number",
+        "Medallion Type",
+        "Model Year",
+        "Vehicle Type",
+        "Last Time Updated",
+        "Agent Address",
+        "Vehicle VIN Number",
+        "Current Status",
+        "Expiration Date",
+        "Name",
+        "License Number",
+        "Agent Website Address"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/rhe8-mgbb",
+    "last_updated": "2017-05-31 21:36:07+00:00",
+    "protocol": "https",
+    "created": "2013-03-01 19:27:08+00:00"
+}

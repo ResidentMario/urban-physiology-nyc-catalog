@@ -1,0 +1,52 @@
+{
+    "name": "citiwide-service-desk-statistics",
+    "datapackage_version": "1.0-beta",
+    "title": "Citiwide Service Desk Statistics",
+    "version": "N/A",
+    "keywords": [
+        "service",
+        "doitt",
+        "desk",
+        "citiwide",
+        "statistics"
+    ],
+    "description": "NYC Service Desk Statistics",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/vr2i-c3qq/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 6,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 224,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Number",
+        "Year",
+        "Citiwide Service Desk Tasks"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/vr2i-c3qq",
+    "last_updated": "2014-09-08 23:52:21+00:00",
+    "protocol": "https",
+    "created": "2013-02-08 14:45:01+00:00"
+}

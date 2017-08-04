@@ -1,0 +1,47 @@
+{
+    "name": "borough-boundaries",
+    "datapackage_version": "1.0-beta",
+    "title": "Borough Boundaries",
+    "version": "N/A",
+    "keywords": [
+        "water areas",
+        "borough boundaries",
+        "data",
+        "dcp"
+    ],
+    "description": "GIS data: Boundaries of Boroughs (water areas excluded)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/tqmj-j8zm?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 2904.369140625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 12880,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/tqmj-j8zm",
+    "last_updated": "2017-03-08 21:56:12+00:00",
+    "protocol": "https",
+    "created": "2013-01-29 23:04:59+00:00"
+}

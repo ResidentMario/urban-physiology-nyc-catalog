@@ -1,0 +1,54 @@
+{
+    "name": "denied-registrants-in-the-wholesale-markets",
+    "datapackage_version": "1.0-beta",
+    "title": "Denied registrants in the wholesale markets",
+    "version": "N/A",
+    "keywords": [
+        "market",
+        "registration",
+        "vendor",
+        "wholesale",
+        "denied"
+    ],
+    "description": "Denied registrants in the wholesale markets",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Business Integrity Commission (BIC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/35f6-8qd2/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 8,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 439,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Bullet",
+        "Location 1",
+        "CompTel",
+        "CompName",
+        "MTYPE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/35f6-8qd2",
+    "last_updated": "2014-09-05 17:00:17+00:00",
+    "protocol": "https",
+    "created": "2011-10-08 21:53:58+00:00"
+}

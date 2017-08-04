@@ -1,0 +1,52 @@
+{
+    "name": "city-store-the-official-store-of-the-city-of-new-york",
+    "datapackage_version": "1.0-beta",
+    "title": "City Store - The Official Store of the City of New York",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Information on City Store \u2013 the\r\nOfficial Story of the City of New York",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Citywide Administrative Services (DCAS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/mqdy-gu73/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1826,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 563,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Product Name",
+        "CityStore Exclusive",
+        "Description",
+        "Style",
+        "Category Name",
+        "Size",
+        "Color",
+        "Unit Price",
+        "Item Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/mqdy-gu73",
+    "last_updated": "2017-05-31 20:29:49+00:00",
+    "protocol": "https",
+    "created": "2015-05-07 14:03:53+00:00"
+}

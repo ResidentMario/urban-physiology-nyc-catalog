@@ -1,0 +1,37 @@
+{
+    "name": "local-law-44",
+    "datapackage_version": "1.0-beta",
+    "title": "Local Law 44",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Per Local Law 44 of 2013, HPD is required to publish building location, affordability, development team and cost information for all housing development projects. The data set includes all required elements of Local Law 44",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Housing Preservation and Development (HPD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 179.248046875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 276,
+    "preferred_mimetype": "text/plain",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "txt",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/igkv-8cju",
+    "last_updated": "2017-01-23 15:25:45+00:00",
+    "protocol": "https",
+    "created": "2015-06-08 19:27:56+00:00"
+}

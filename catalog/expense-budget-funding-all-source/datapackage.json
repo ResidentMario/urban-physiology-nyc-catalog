@@ -1,0 +1,74 @@
+{
+    "name": "expense-budget-funding-all-source",
+    "datapackage_version": "1.0-beta",
+    "title": "Expense Budget Funding - All Source",
+    "version": "N/A",
+    "keywords": [],
+    "description": "This dataset contains expense agency data by unit of appropriation for the Adopted, Financial Plan and Modified conditions by funding source.  The numbers within can be summarized to be consistent with data from either the Supporting Schedule, Departmental Estimate or the Expense, Revenue, Contact Budget.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor\u2019s Office of Management & Budget (OMB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/39g5-gbp3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2512,
+    "columns": 31,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 229,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Federal Funds Adopted Budget Amount",
+        "State Funds Current Budget Amount ",
+        "State Funds Adopted Budget Amount",
+        "Fiscal Year",
+        "Agency Name",
+        "Publication Date",
+        "Personal Service/Other Than Personal Service Indicator",
+        "Total Current Budget Amount",
+        "City Funds Financial Plan Amount",
+        "City Funds Adopted Budget Amount",
+        "Inter-Fund Agreement Funds Financial Plan Amount",
+        "Inter-Fund Agreement Funds Adopted Budget Amount",
+        "Total Financial Plan Amount",
+        "Unit Appropriation Number",
+        "Unit Appropriation Name",
+        "Federal Funds Financial Plan Amount",
+        "Other Categorical Funds Financial Plan Amount",
+        "Other Categorical Funds Adopted Budget Amount",
+        "Intra-City Sales Funds Adopted Budget Amount",
+        "Intra-City Sales Funds Current Budget Amount ",
+        "Community Development Funds Adopted Budget Amount ",
+        "Community Development Funds Current Budget Amount ",
+        "Other Categorical Funds Current Budget Amount ",
+        "Community Development Funds Financial Plan Amount ",
+        "Federal Funds Current Budget Amount",
+        "State  Funds Financial Plan Amount",
+        "Inter-Fund Agreement Funds Current Budget Amount ",
+        "Intra-City Sales Funds Financial Plan Amount",
+        "Agency Number",
+        "Total Adopted Budget Amount",
+        "City Funds Current Budget Amount"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/39g5-gbp3",
+    "last_updated": "2017-05-02 16:22:46+00:00",
+    "protocol": "https",
+    "created": "2016-05-04 14:45:28+00:00"
+}

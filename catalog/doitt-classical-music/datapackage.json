@@ -1,0 +1,57 @@
+{
+    "name": "doitt-classical-music",
+    "datapackage_version": "1.0-beta",
+    "title": "DOITT CLASSICAL MUSIC",
+    "version": "N/A",
+    "keywords": [
+        "map",
+        "music",
+        "classic",
+        "cartography",
+        "basemap",
+        "location",
+        "site",
+        "historic",
+        "geographic",
+        "doitt gis",
+        "history",
+        "doittgis",
+        "culture",
+        "classical"
+    ],
+    "description": "Classical Music",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/txxa-5nhg?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 6.08984375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1002,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/txxa-5nhg",
+    "last_updated": "2016-08-27 18:27:00+00:00",
+    "protocol": "https",
+    "created": "2013-04-05 18:08:33+00:00"
+}

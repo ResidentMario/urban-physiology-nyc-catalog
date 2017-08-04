@@ -1,0 +1,57 @@
+{
+    "name": "2011-2012-nyc-family-guides",
+    "datapackage_version": "1.0-beta",
+    "title": "2011-2012 NYC Family Guides",
+    "version": "N/A",
+    "keywords": [
+        "famil guide",
+        "info",
+        "language",
+        "url",
+        "doe",
+        "lifelong learning",
+        "program",
+        "school",
+        "education"
+    ],
+    "description": "2011-2012 NYC Family Guides\r\n\r\nUpdate schedule: As required",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/fuvx-wqd7/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 140,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1269,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Link",
+        "Family Guide Name",
+        "Grade",
+        "Language"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/fuvx-wqd7",
+    "last_updated": "2014-09-05 18:09:28+00:00",
+    "protocol": "https",
+    "created": "2011-10-11 04:34:52+00:00"
+}

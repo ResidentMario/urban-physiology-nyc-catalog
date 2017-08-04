@@ -1,0 +1,51 @@
+{
+    "name": "directory-of-homeless-population-by-year",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Of Homeless Population By Year",
+    "version": "N/A",
+    "keywords": [
+        "comparison",
+        "dhs",
+        "homeless",
+        "population"
+    ],
+    "description": "Table of homeless population by Year (for years 2009 through 2012)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Homeless Services (DHS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/5t4n-d72c/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 32,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2693,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Area",
+        "Year",
+        "Homeless Estimates"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/5t4n-d72c",
+    "last_updated": "2014-09-05 17:33:35+00:00",
+    "protocol": "https",
+    "created": "2013-01-31 14:22:55+00:00"
+}

@@ -1,0 +1,48 @@
+{
+    "name": "property-valuation-and-assessment-data",
+    "datapackage_version": "1.0-beta",
+    "title": "Property Valuation and Assessment Data",
+    "version": "N/A",
+    "keywords": [
+        "finance",
+        "value",
+        "condense",
+        "valuation",
+        "assessment",
+        "tax",
+        "roll",
+        "property",
+        "assess",
+        "condensed"
+    ],
+    "description": "Property valuation and assessment data (Condensed Assessed Value Roll)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 324472.0322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 7212,
+    "preferred_mimetype": "application/x-msaccess",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "mdb",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/rgy2-tti8",
+    "last_updated": "2014-09-05 17:15:05+00:00",
+    "protocol": "https",
+    "created": "2011-09-02 19:30:22+00:00"
+}

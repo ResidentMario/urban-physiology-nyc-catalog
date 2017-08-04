@@ -1,0 +1,45 @@
+{
+    "name": "inmate-incidents-inmate-fights",
+    "datapackage_version": "1.0-beta",
+    "title": "Inmate Incidents - Inmate Fights",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Violent inmate-on-inmate incidents (Fights).",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Correction (DOC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/k548-32d3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 7042,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 98,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "INCIDENT_ID",
+        "INCIDENT_DT"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/k548-32d3",
+    "last_updated": "2017-05-01 14:12:06+00:00",
+    "protocol": "https",
+    "created": "2016-03-23 18:28:17+00:00"
+}

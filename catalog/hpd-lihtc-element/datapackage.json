@@ -1,0 +1,51 @@
+{
+    "name": "hpd-lihtc-element",
+    "datapackage_version": "1.0-beta",
+    "title": "HPD LIHTC Element",
+    "version": "N/A",
+    "keywords": [
+        "hpd",
+        "department of housing preservation and development",
+        "lihtc"
+    ],
+    "description": "Information on Low Income Housing Tax Credit (LIHTC) allocation amounts and type for those LIHTC allocations that meet the definition of City Financial Assistance for each project.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Housing Preservation and Development (HPD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ujzq-562i/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 259,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 357,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Type",
+        "Project ID",
+        "Annual Allocation Amount",
+        "LIHTC DW ID"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ujzq-562i",
+    "last_updated": "2016-03-22 18:26:35+00:00",
+    "protocol": "https",
+    "created": "2014-02-26 21:30:57+00:00"
+}

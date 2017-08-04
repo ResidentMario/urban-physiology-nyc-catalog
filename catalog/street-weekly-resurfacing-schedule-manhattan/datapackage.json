@@ -1,0 +1,53 @@
+{
+    "name": "street-weekly-resurfacing-schedule-manhattan",
+    "datapackage_version": "1.0-beta",
+    "title": "Street Weekly Resurfacing Schedule - Manhattan",
+    "version": "N/A",
+    "keywords": [
+        "manhattan",
+        "dot",
+        "weekly schedule",
+        "street resurfacing"
+    ],
+    "description": "Manhattan Milling and Paving Schedule",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/9gzt-8w5q/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 12,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 272,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Area",
+        "Day & Date",
+        "Sa#",
+        "CB",
+        "Location"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/9gzt-8w5q",
+    "last_updated": "2017-01-26 17:58:03+00:00",
+    "protocol": "https",
+    "created": "2014-10-21 20:44:02+00:00"
+}

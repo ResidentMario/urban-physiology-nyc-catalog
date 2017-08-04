@@ -1,0 +1,77 @@
+{
+    "name": "columbus-avenue-bid-businesses",
+    "datapackage_version": "1.0-beta",
+    "title": "Columbus Avenue BID Businesses",
+    "version": "N/A",
+    "keywords": [
+        "clothing",
+        "wine",
+        "tea",
+        "shopping",
+        "shop",
+        "shoes",
+        "services",
+        "sales",
+        "restaurants",
+        "museums",
+        "merchant",
+        "merchandise",
+        "liquor",
+        "hotels",
+        "food",
+        "entertainment",
+        "drinking establishments",
+        "cultural institutions",
+        "columbus avenue",
+        "coffee",
+        "children\u2019s store",
+        "cafes",
+        "business improvement district",
+        "business",
+        "bid",
+        "bars"
+    ],
+    "description": "A listing of all the shops in the Columbus Avenue Business Improvement District (BID) which runs along Columbus Avenue from  W 82nd St to W 67th (only to 68th on the west side of the street).\r\nUpdate Frequency: As needed",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Columbus Avenue BID"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/h5nh-eqde/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 210,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 711,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Store Type (category 2)",
+        "Store Type (category 1)",
+        "website",
+        "Location 1",
+        "Telephone",
+        "Shop Name",
+        "Store Type (category 3)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/h5nh-eqde",
+    "last_updated": "2014-09-06 00:12:20+00:00",
+    "protocol": "https",
+    "created": "2011-09-09 20:29:29+00:00"
+}

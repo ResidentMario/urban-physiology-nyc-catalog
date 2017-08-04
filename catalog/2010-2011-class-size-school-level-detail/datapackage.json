@@ -1,0 +1,61 @@
+{
+    "name": "2010-2011-class-size-school-level-detail",
+    "datapackage_version": "1.0-beta",
+    "title": "2010-2011 Class Size - School-level detail",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning"
+    ],
+    "description": "Average class sizes for each school, by grade and program type (General Education, Self-Contained Special Education, Collaborative Team Teaching (CTT)) for grades K-9 (where grade 9 is not reported by subject area), and for grades 5-9 (where available) and 9-12, aggregated by program type (General Education, CTT, and Self-Contained Special Education) and core course (e.g. English 9, Integrated Algebra, US History, etc.).\r\n\r\nClass size data is based on January 28, 2011 data.\r\n\r\n*Grade 9 Official Class data is included for 0K-09 schools. Core Course information for these sections is not reported.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/urz7-pzb3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 27600,
+    "columns": 16,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 3090,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "SCHOOL CODE",
+        "SCHOOL NAME",
+        "GRADE ",
+        "CORE COURSE (MS CORE and 9-12 ONLY)",
+        "BOROUGH",
+        "NUMBER OF SECTIONS",
+        "AVERAGE CLASS SIZE",
+        "SIZE OF SMALLEST CLASS",
+        "SIZE OF LARGEST CLASS",
+        "CORE SUBJECT (MS CORE and 9-12 ONLY)",
+        "CSD",
+        "SCHOOLWIDE PUPIL-TEACHER RATIO",
+        "NUMBER OF STUDENTS / SEATS FILLED",
+        "PROGRAM TYPE",
+        "DATA SOURCE",
+        "SERVICE CATEGORY(K-9* ONLY)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/urz7-pzb3",
+    "last_updated": "2014-09-05 17:37:59+00:00",
+    "protocol": "https",
+    "created": "2011-10-13 16:26:44+00:00"
+}

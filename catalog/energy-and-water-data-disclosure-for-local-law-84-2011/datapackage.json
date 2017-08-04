@@ -1,0 +1,64 @@
+{
+    "name": "energy-and-water-data-disclosure-for-local-law-84-2011",
+    "datapackage_version": "1.0-beta",
+    "title": "Energy and Water Data Disclosure for Local Law 84 (2011)",
+    "version": "N/A",
+    "keywords": [
+        "water",
+        "mayor's office of long term planning and sustainability (oltps)",
+        "energy",
+        "benchmarking"
+    ],
+    "description": "In September 2012, New York City released the 2011 energy and water use data for all properties required to annually benchmark under Local Law 84.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Long-Term Planning and Sustainability (OLTPS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/q39e-7gbs/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 4081,
+    "columns": 16,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1917,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Street Number",
+        "Street Name",
+        "BBL",
+        "Entry Number",
+        "Borough",
+        "Zip",
+        "Water per Square Foot",
+        "ENERGY STAR Score",
+        "Site EUI",
+        "Reported Facility Type",
+        "Benchmarking Submission",
+        "Reported Building Square Footage",
+        "Number of Buildings",
+        "GHG",
+        "Reported BINs",
+        "Weather Normalized Source EUI"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/q39e-7gbs",
+    "last_updated": "2015-12-07 20:49:43+00:00",
+    "protocol": "https",
+    "created": "2013-12-11 17:57:17+00:00"
+}

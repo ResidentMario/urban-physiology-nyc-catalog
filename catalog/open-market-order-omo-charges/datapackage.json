@@ -1,0 +1,72 @@
+{
+    "name": "open-market-order-omo-charges",
+    "datapackage_version": "1.0-beta",
+    "title": "Open Market Order (OMO) Charges",
+    "version": "N/A",
+    "keywords": [
+        "department of housing preservation and development",
+        "open market order (omo) charges",
+        "charges",
+        "hpd"
+    ],
+    "description": "Contains information about work orders created to conduct emergency repair work when an owner fails to address a hazardous condition pursuant to the requirements of an HPD issued violation. HPD issues violations when an owner fails to address a condition pursuant New York City Housing Maintenance Code (HMC) or the New York State Multiple Dwelling Law (MDL), a Department of Buildings Declaration of Emergency, a Department of Health Commissioner's Order to Abate or an emergency violation issued by another City Agency. The work orders were issued to a private vendor following the City's Procurement Rules.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Housing Preservation and Development (HPD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/mdbu-nrqn/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 378000,
+    "columns": 24,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2355,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Lot",
+        "OMONumber",
+        "OMOID",
+        "Boro ID",
+        "Block",
+        "Zip",
+        "LifeCycle",
+        "OMOAwardAmount",
+        "OMOCreateDate",
+        "OMODescription",
+        "FEMAEvent",
+        "FEMAEventID",
+        "ServiceChargeFlag",
+        "WorkTypeGeneral",
+        "OMOStatusReason",
+        "OMOAwardDate",
+        "NetChangeOrders",
+        "StreetName",
+        "Apartment",
+        "IsCommercialDemolition",
+        "Boro",
+        "IsAEP",
+        "HouseNumber",
+        "BuildingID"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/mdbu-nrqn",
+    "last_updated": "2017-05-08 21:38:29+00:00",
+    "protocol": "https",
+    "created": "2013-11-19 15:58:14+00:00"
+}

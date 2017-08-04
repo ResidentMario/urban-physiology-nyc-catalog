@@ -1,0 +1,45 @@
+{
+    "name": "directory-of-boating-and-marinas",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of Boating and Marinas",
+    "version": "N/A",
+    "keywords": [
+        "boat",
+        "marina",
+        "dpr",
+        "healthy living",
+        "recreation",
+        "parks",
+        "directory of boating and marinas"
+    ],
+    "description": "Marinas in New York City Department of Parks & Recreation properties.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 15.3671875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 392,
+    "preferred_mimetype": "text/xml",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/nn83-afrt",
+    "last_updated": "2017-04-11 15:47:13+00:00",
+    "protocol": "https",
+    "created": "2011-08-16 18:38:59+00:00"
+}

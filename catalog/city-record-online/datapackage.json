@@ -1,0 +1,86 @@
+{
+    "name": "city-record-online",
+    "datapackage_version": "1.0-beta",
+    "title": "City Record Online",
+    "version": "N/A",
+    "keywords": [
+        "city record",
+        "nycopendata",
+        "bids",
+        "bid solicitations",
+        "awards"
+    ],
+    "description": "The City Record Online (CROL) is now a fully searchable database of notices published in the City Record newspaper which includes but is not limited to: public hearings and meetings, public auctions and sales, solicitations and awards and official rules proposed and adopted by city agencies.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Citywide Administrative Services (DCAS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/dg92-zbpx/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 351000,
+    "columns": 37,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 40749,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "ShortTitle",
+        "ContractAmount",
+        "EventZipCode",
+        "ContactName",
+        "EndDate",
+        "OtherInfo2",
+        "PIN",
+        "AdditionalDesctription2",
+        "AdditionalDescription1",
+        "RequestID",
+        "EventBuildingName",
+        "TypeOfNoticeDescription",
+        "DueDate",
+        "OtherInfo1",
+        "OtherInfo3",
+        "DocumentLinks",
+        "EventDate",
+        "VendorAddress",
+        "ContactPhone",
+        "AdditionalDescription3",
+        "Printout3",
+        "AddressToRequest",
+        "SelectionMethodDescription",
+        "EventStreetAddress1",
+        "Printout2",
+        "SectionName",
+        "SpecialCaseReasonDescription",
+        "EventStreetAddress2",
+        "EventCity",
+        "Email",
+        "StartDate",
+        "VendorName",
+        "ContactFax",
+        "CategoryDescription",
+        "AgencyName",
+        "EventStateCode",
+        "Printout1"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/dg92-zbpx",
+    "last_updated": "2017-05-31 09:57:45+00:00",
+    "protocol": "https",
+    "created": "2015-04-15 16:29:36+00:00"
+}

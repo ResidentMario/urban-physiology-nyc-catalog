@@ -1,0 +1,44 @@
+{
+    "name": "new-york-tech-ecosystem-report-data",
+    "datapackage_version": "1.0-beta",
+    "title": "New York Tech Ecosystem Report Data",
+    "version": "N/A",
+    "keywords": [
+        "big apps",
+        "tech ecosystem",
+        "tech",
+        "bigapps",
+        "association for a better new york",
+        "abny"
+    ],
+    "description": "Data from the Association for a Better New York's NYC Tech Ecosystem report.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Association for a Better New York"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 172.923828125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 412,
+    "preferred_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "topics_provided": [
+        "NYC BigApps"
+    ],
+    "preferred_format": "xlsx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/9p99-55bh",
+    "last_updated": "2014-09-06 00:11:46+00:00",
+    "protocol": "https",
+    "created": "2014-05-07 15:36:08+00:00"
+}

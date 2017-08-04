@@ -1,0 +1,41 @@
+{
+    "name": "paratransit-services-drivers",
+    "datapackage_version": "1.0-beta",
+    "title": "Paratransit Services - Drivers",
+    "version": "N/A",
+    "keywords": [
+        "paratransit services - drivers",
+        "paratransit driver licenses",
+        "tlc"
+    ],
+    "description": "Paratransit Bases provide pre-arranged transportation for passengers with disabilities. Most of the service takes individuals to and from health care facilities. This list includes current status of Paratransit Driver Licenses, including TLC License Number, name of licensee, license type and expiration date.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 376.0322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 252,
+    "preferred_mimetype": "application/vnd.ms-office",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "xls",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/5q5r-bu4w",
+    "last_updated": "2014-10-10 19:15:36+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 20:57:05+00:00"
+}

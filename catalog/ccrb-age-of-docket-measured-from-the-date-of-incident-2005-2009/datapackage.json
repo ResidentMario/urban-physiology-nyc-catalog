@@ -1,0 +1,70 @@
+{
+    "name": "ccrb-age-of-docket-measured-from-the-date-of-incident-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "CCRB: Age of Docket Measured from the Date of Incident 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "2009",
+        "2006",
+        "2007",
+        "2008",
+        "complaint",
+        "civilian",
+        "year",
+        "demographics 2005",
+        "review",
+        "board",
+        "age",
+        "crime",
+        "activity",
+        "incident",
+        "docket"
+    ],
+    "description": "A statistical breakdown of the age of Civilian Complaint Review Board (CCRB)dockets, by year, measured from the date of the incidents in the years 2205 through 2009.The age of the docket is measured by the number of open cases at the end of each reporting period.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/g8v5-qeu5/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 13,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 229,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2009 Number of Cases",
+        "2007 Percent of Docket",
+        "2007 Number of Cases",
+        "2006 Percent of Docket",
+        "2008 Number of Cases",
+        "2005 Percent of Docket",
+        "Age of Case in Months",
+        "2009 Percent of Docket",
+        "2006 Number of Cases",
+        "2005 Number of Cases",
+        "2008 Percent of Docket"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/g8v5-qeu5",
+    "last_updated": "2014-09-05 17:01:16+00:00",
+    "protocol": "https",
+    "created": "2011-09-12 18:15:21+00:00"
+}

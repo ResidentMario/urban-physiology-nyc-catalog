@@ -1,0 +1,68 @@
+{
+    "name": "doe-high-school-programs-2014-2015",
+    "datapackage_version": "1.0-beta",
+    "title": "DOE High School Programs 2014-2015",
+    "version": "N/A",
+    "keywords": [
+        "doe high school programs 2014-2015",
+        "education"
+    ],
+    "description": "Directory of NYC High School programs",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/by6m-6zpb/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 744,
+    "columns": 22,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 729,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "program",
+        "req3",
+        "aud",
+        "req5",
+        "sci",
+        "soc",
+        "app_gr09",
+        "ela",
+        "req1",
+        "seat_gr09",
+        "req2",
+        "stm",
+        "app_gr10",
+        "seat_gr10",
+        "dbn",
+        "interest",
+        "code",
+        "prgdesc",
+        "math",
+        "method",
+        "eng",
+        "req4"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/by6m-6zpb",
+    "last_updated": "2014-11-21 21:09:49+00:00",
+    "protocol": "https",
+    "created": "2014-10-29 21:08:45+00:00"
+}

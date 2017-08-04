@@ -1,0 +1,65 @@
+{
+    "name": "ccrb-assignment-of-officers-against-whom-allegations-were-substantiated-organized-crime-control-bureau-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "CCRB: Assignment Of Officers Against Whom Allegations Were Substantiated - Organized Crime Control Bureau 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "2006",
+        "civilian complaint review board",
+        "2009",
+        "2008",
+        "2007",
+        "2005",
+        "complaint",
+        "complaint activity",
+        "review",
+        "activity",
+        "board",
+        "ccrb",
+        "civilian",
+        "statistics"
+    ],
+    "description": "Civilian Complaint Review Board (CCRB) complaint activity data, 2005-2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/xt3u-h44z/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 14,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 182,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2005",
+        "2008",
+        "Organized Crime Control Bureau",
+        "2009",
+        "2006",
+        "2007",
+        "Total"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/xt3u-h44z",
+    "last_updated": "2014-09-05 17:10:13+00:00",
+    "protocol": "https",
+    "created": "2011-09-13 16:29:53+00:00"
+}

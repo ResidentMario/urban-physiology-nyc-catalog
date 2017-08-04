@@ -1,0 +1,53 @@
+{
+    "name": "approved-registrants-in-the-wholesale-markets",
+    "datapackage_version": "1.0-beta",
+    "title": "Approved registrants in the wholesale markets",
+    "version": "N/A",
+    "keywords": [
+        "market",
+        "vendor",
+        "wholesale",
+        "approved",
+        "registration"
+    ],
+    "description": "Approved registrants in the wholesale markets",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Business Integrity Commission (BIC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/sapz-4gsi/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 236,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 987,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "MTYPE",
+        "CompName",
+        "CompTel",
+        "Location 1"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/sapz-4gsi",
+    "last_updated": "2014-09-05 18:10:50+00:00",
+    "protocol": "https",
+    "created": "2011-10-08 21:28:53+00:00"
+}

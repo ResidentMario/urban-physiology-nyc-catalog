@@ -1,0 +1,51 @@
+{
+    "name": "law-divisions",
+    "datapackage_version": "1.0-beta",
+    "title": "LAW Divisions",
+    "version": "N/A",
+    "keywords": [
+        "law divisions",
+        "legislation",
+        "justice",
+        "law",
+        "lawyer"
+    ],
+    "description": "The Law Department is composed of 17 legal divisions. Three support divisions provide high quality services to the Law Department's 650 attorneys.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Law Department (LAW)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/4se9-mk53/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 20,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 205,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Division Name",
+        "Department Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/4se9-mk53",
+    "last_updated": "2014-09-05 17:10:28+00:00",
+    "protocol": "https",
+    "created": "2013-02-06 15:52:27+00:00"
+}

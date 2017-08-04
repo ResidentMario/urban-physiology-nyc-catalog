@@ -1,0 +1,40 @@
+{
+    "name": "census-demographics-at-the-nyc-community-district-cd-level",
+    "datapackage_version": "1.0-beta",
+    "title": "Census Demographics at the NYC Community District (CD) level",
+    "version": "N/A",
+    "keywords": [
+        "census",
+        "community district"
+    ],
+    "description": "Table of Census Demographics\nrepresented at the NYC Community\nDistrict level",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 395.3427734375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 557,
+    "preferred_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "xlsx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/5unr-w4sc",
+    "last_updated": "2015-02-17 16:48:13+00:00",
+    "protocol": "https",
+    "created": "2015-02-17 16:47:18+00:00"
+}

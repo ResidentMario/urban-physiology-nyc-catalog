@@ -1,0 +1,61 @@
+{
+    "name": "dob-license-fees",
+    "datapackage_version": "1.0-beta",
+    "title": "DOB License Fees",
+    "version": "N/A",
+    "keywords": [
+        "license",
+        "property",
+        "building",
+        "clean web",
+        "fee"
+    ],
+    "description": "List of fees charged for licenses issued by DOB",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Buildings (DOB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/vi6e-zw9u/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 27,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1914,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "License Type",
+        "Original",
+        "Replacement Seal",
+        "Replacement Plate",
+        "Original Plate",
+        "Plate & Seal Renewal",
+        "Original Seal",
+        "Certificate",
+        "Late Fee",
+        "License Term",
+        "Reissue",
+        "Renewal"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/vi6e-zw9u",
+    "last_updated": "2014-09-05 17:02:48+00:00",
+    "protocol": "https",
+    "created": "2011-09-02 18:32:42+00:00"
+}

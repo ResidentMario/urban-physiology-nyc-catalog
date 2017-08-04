@@ -1,0 +1,61 @@
+{
+    "name": "ccrb-age-of-substantiated-cases-measured-from-the-date-of-incident-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "CCRB: Age of Substantiated Cases Measured from the Date of Incident 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "report",
+        "substantiated",
+        "substantiation",
+        "incident",
+        "2009",
+        "docket"
+    ],
+    "description": "A statistical breakdown of the age of Civilian Complaint Review Board (CCRB) substantiated cases, by year, measured from the date of the incidents in the years 2205 through 2009.The age of the docket is measured by the number of open cases at the end of each reporting period.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/jgjk-h2bn/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 14,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 132,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2009 Number of Cases",
+        "Age of Case in Months",
+        "2005 Percent of Docket",
+        "2005 Number of Cases",
+        "2008 Number of Cases",
+        "2007 Number of Cases",
+        "2009 Percent of Docket",
+        "2008 Percent of Docket",
+        "2007 Percent of Docket",
+        "2006 Number of Cases",
+        "2006 Percent of Docket"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/jgjk-h2bn",
+    "last_updated": "2014-09-05 17:01:17+00:00",
+    "protocol": "https",
+    "created": "2011-09-12 18:32:24+00:00"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "city-council-districts",
+    "datapackage_version": "1.0-beta",
+    "title": "City Council Districts",
+    "version": "N/A",
+    "keywords": [
+        "boundary",
+        "cartography",
+        "map",
+        "location",
+        "voting",
+        "dcp",
+        "city council districts",
+        "election",
+        "geographic",
+        "city council",
+        "elect",
+        "council"
+    ],
+    "description": "GIS data: Boundaries of City Council Districts",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/yusd-j4xi?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 3552.318359375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2069,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/yusd-j4xi",
+    "last_updated": "2017-03-09 17:01:19+00:00",
+    "protocol": "https",
+    "created": "2013-01-29 22:33:42+00:00"
+}

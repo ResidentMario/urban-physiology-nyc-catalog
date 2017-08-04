@@ -1,0 +1,49 @@
+{
+    "name": "public-pay-telephone-locations",
+    "datapackage_version": "1.0-beta",
+    "title": "Public Pay Telephone Locations",
+    "version": "N/A",
+    "keywords": [
+        "reinvent payphones",
+        "ppt",
+        "payphones",
+        "nyc",
+        "public pay telephones",
+        "wifi hotspot"
+    ],
+    "description": "Public Pay Telephone NYC Free Public Wi-Fi locations, Advertising Locations and Zoning Information (the zoning information should be compared with the dates of most recent zoning changes found on the NYC Planning website)  http://www.nyc.gov/html/dcp/home.html\r\n\r\nDisclaimer\r\nThe Zoning Reference provides only general zoning information and is not meant to serve as a substitute for the actual regulations which are to be found in the Zoning Resolution.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/t7sx-id53?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 2481.2197265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 23513,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/t7sx-id53",
+    "last_updated": "2016-08-27 18:20:16+00:00",
+    "protocol": "https",
+    "created": "2013-01-29 18:57:33+00:00"
+}

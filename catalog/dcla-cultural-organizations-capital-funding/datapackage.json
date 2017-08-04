@@ -1,0 +1,54 @@
+{
+    "name": "dcla-cultural-organizations-capital-funding",
+    "datapackage_version": "1.0-beta",
+    "title": "DCLA Cultural Organizations Capital Funding",
+    "version": "N/A",
+    "keywords": [
+        "dcla capital projects",
+        "dcla cultural organizations capital funding",
+        "cultural affairs",
+        "dcla"
+    ],
+    "description": "Organizations awarded Capital Projects funding",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Cultural Affairs (DCLA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/7hgn-sgmk/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 439,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 38,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Total Funding",
+        "Organization",
+        " Borough President Funding",
+        "City Council Funding",
+        "DCLA Funding",
+        "Fiscal Year (FY)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/7hgn-sgmk",
+    "last_updated": "2017-05-03 18:14:19+00:00",
+    "protocol": "https",
+    "created": "2014-10-24 00:11:23+00:00"
+}

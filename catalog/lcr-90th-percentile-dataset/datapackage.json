@@ -1,0 +1,56 @@
+{
+    "name": "lcr-90th-percentile-dataset",
+    "datapackage_version": "1.0-beta",
+    "title": "LCR 90th percentile dataset",
+    "version": "N/A",
+    "keywords": [
+        "lcr"
+    ],
+    "description": "At-the-tap LCR compliance 1st draw 90th percentile data.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/kdqv-qs7p/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5276,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 252,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Date Collected",
+        "Date Recieved",
+        "Copper 5 minute Flush (mg/L)",
+        "Zipcode",
+        "Lead 5 Minute Flush (mg/L)",
+        "Borough",
+        "Kit ID",
+        "Lead First Draw (mg/L)",
+        "Copper First Draw (mg/L)",
+        "Lead 1-2 Minute Flush (mg/L)",
+        "Copper 1-2 Minute Flush (mg/L)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/kdqv-qs7p",
+    "last_updated": "2017-05-09 16:10:19+00:00",
+    "protocol": "https",
+    "created": "2015-02-19 19:22:08+00:00"
+}

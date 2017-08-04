@@ -1,0 +1,52 @@
+{
+    "name": "nycha-applicant-income-limits",
+    "datapackage_version": "1.0-beta",
+    "title": "NYCHA Applicant Income Limits",
+    "version": "N/A",
+    "keywords": [
+        "nycha",
+        "public housing",
+        "subsidized housing",
+        "nyc housing",
+        "application"
+    ],
+    "description": "Income limits by household size for public housing",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York City Housing Authority (NYCHA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/yizy-365y/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 15,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 446,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Person(s) in Family",
+        "Gross Family Income Limit",
+        "Year"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/yizy-365y",
+    "last_updated": "2014-09-05 17:34:05+00:00",
+    "protocol": "https",
+    "created": "2013-03-28 19:11:14+00:00"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "income-by-type-of-income-and-agi-range",
+    "datapackage_version": "1.0-beta",
+    "title": "Income By Type Of Income And AGI Range",
+    "version": "N/A",
+    "keywords": [
+        "income by type of income and agi range"
+    ],
+    "description": "Number of tax filers/payers and income from various types of income by income ranges",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYC Independent Budget Office (IBO)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/gffu-ps8j/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 11,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 957,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "%",
+        "Dividends and Interest (Dollars in millions)",
+        "Wages and Saleries (dollars in millions)",
+        "Income Group",
+        "Business Income",
+        "Percentage",
+        "Percent"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/gffu-ps8j",
+    "last_updated": "2014-09-05 17:00:30+00:00",
+    "protocol": "https",
+    "created": "2014-03-06 05:45:25+00:00"
+}

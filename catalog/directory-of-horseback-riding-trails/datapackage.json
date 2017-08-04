@@ -1,0 +1,39 @@
+{
+    "name": "directory-of-horseback-riding-trails",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of Horseback Riding Trails",
+    "version": "N/A",
+    "keywords": [
+        "healthy living"
+    ],
+    "description": "Horseback riding trails in New York City Department of Parks & Recreation properties.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 3.4775390625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 281,
+    "preferred_mimetype": "application/xml",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/sxe3-hucm",
+    "last_updated": "2017-04-11 16:07:02+00:00",
+    "protocol": "https",
+    "created": "2011-08-16 18:45:31+00:00"
+}

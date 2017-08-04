@@ -1,0 +1,50 @@
+{
+    "name": "map-of-nycha-community-facilities",
+    "datapackage_version": "1.0-beta",
+    "title": "Map of NYCHA Community Facilities",
+    "version": "N/A",
+    "keywords": [
+        "community center",
+        "building sizes",
+        "nycha",
+        "senior center",
+        "nyc housing",
+        "gis",
+        "facilities"
+    ],
+    "description": "Locations of the Community Operations facilities as of September 2015.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York City Housing Authority (NYCHA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/pv8j-5ywy?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 154.00390625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 648,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/pv8j-5ywy",
+    "last_updated": "2016-08-27 18:29:18+00:00",
+    "protocol": "https",
+    "created": "2013-03-29 13:52:38+00:00"
+}

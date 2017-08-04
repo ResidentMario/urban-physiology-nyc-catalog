@@ -1,0 +1,61 @@
+{
+    "name": "2009-10-class-size-school-level-detail",
+    "datapackage_version": "1.0-beta",
+    "title": "2009-10 Class Size - School-level Detail",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning"
+    ],
+    "description": "This file shows average class sizes, pupil-teacher ratio, and size of largest and smallest classes for each school, broken out by grade and program type (General Education, Self-Contained Special Education, Collaborative Team Teaching (CTT)) for grades K-9 (where grade 9 is not reported by subject area), and for grades 5-9 (where available) and 9-12, aggregated by program type (General Education, CTT, and Self-Contained Special Education) and core course (e.g. English 9, Math A, US History, etc.)\r\n\r\nBased on January 27, 2010 data.\r\n* Grade 9 Official Class data is included for 0K-09 schools. Core Course information for these sections is not reported.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/d3ge-anaz/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 25500,
+    "columns": 16,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 687,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "CSD",
+        "DATA SOURCE",
+        "SIZE OF LARGEST CLASS",
+        "SCHOOL CODE",
+        "BORO",
+        "SCHOOLWIDE PUPIL-TEACHER RATIO",
+        "CORE COURSE (MS CORE and 9-12 ONLY)",
+        "SERVICE CATEGORY(K-9* ONLY)",
+        "NUMBER OF CLASSES",
+        "TOTAL REGISTER",
+        "SCHOOL NAME",
+        "GRADE ",
+        "PROGRAM TYPE",
+        "CORE SUBJECT (MS CORE and 9-12 ONLY)",
+        "SIZE OF SMALLEST CLASS",
+        "AVERAGE CLASS SIZE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/d3ge-anaz",
+    "last_updated": "2014-09-05 17:34:38+00:00",
+    "protocol": "https",
+    "created": "2011-10-13 21:50:21+00:00"
+}

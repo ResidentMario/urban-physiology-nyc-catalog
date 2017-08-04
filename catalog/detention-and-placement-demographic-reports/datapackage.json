@@ -1,0 +1,37 @@
+{
+    "name": "detention-and-placement-demographic-reports",
+    "datapackage_version": "1.0-beta",
+    "title": "Detention and Placement  Demographic reports",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Detention demographic statistics reported in compliance with Introduction 153-A and 37-A passed by the New York City Council.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Administration for Children's Services (ACS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 38.884765625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 140,
+    "preferred_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "xlsx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/bhs9-p657",
+    "last_updated": "2016-11-04 21:21:31+00:00",
+    "protocol": "https",
+    "created": "2015-10-08 20:34:22+00:00"
+}

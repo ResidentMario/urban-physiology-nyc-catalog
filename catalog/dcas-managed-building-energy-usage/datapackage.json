@@ -1,0 +1,52 @@
+{
+    "name": "dcas-managed-building-energy-usage",
+    "datapackage_version": "1.0-beta",
+    "title": "DCAS Managed Building Energy Usage",
+    "version": "N/A",
+    "keywords": [],
+    "description": "City Building Energy Usage Data.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Citywide Administrative Services (DCAS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ubdi-jgw2/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 55,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 130,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Building Address",
+        "State",
+        "Borough",
+        "Building Name",
+        "Lot",
+        "Zip Code",
+        "Block",
+        "FY15 Energy Usage (MMBTU) [Utility energy, excluding Fuel Oil",
+        "Borough Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ubdi-jgw2",
+    "last_updated": "2015-12-29 22:10:28+00:00",
+    "protocol": "https",
+    "created": "2015-12-29 22:04:07+00:00"
+}

@@ -1,0 +1,47 @@
+{
+    "name": "community-districts",
+    "datapackage_version": "1.0-beta",
+    "title": "Community Districts",
+    "version": "N/A",
+    "keywords": [
+        "community districts",
+        "boundaries",
+        "dcp",
+        "gis"
+    ],
+    "description": "GIS data: Boundaries of Community Districts",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/yfnk-k7r4?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 3479.6201171875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 4499,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/yfnk-k7r4",
+    "last_updated": "2017-03-09 15:54:50+00:00",
+    "protocol": "https",
+    "created": "2013-01-29 23:18:58+00:00"
+}

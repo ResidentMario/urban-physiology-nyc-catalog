@@ -1,0 +1,41 @@
+{
+    "name": "new-preventive-cases-opened-by-borough-and-cd-cy-15",
+    "datapackage_version": "1.0-beta",
+    "title": "New Preventive Cases Opened By Borough And CD (CY 15)",
+    "version": "N/A",
+    "keywords": [
+        "new preventive cases opened by borough and cd (cy 15)",
+        "acs",
+        "administration for children's services"
+    ],
+    "description": "New Preventive Cases Opened By Borough And Community District",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Administration for Children's Services (ACS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 19.2177734375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 42,
+    "preferred_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "xlsx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/a2ju-qb9a",
+    "last_updated": "2016-06-06 16:53:41+00:00",
+    "protocol": "https",
+    "created": "2016-06-06 16:37:26+00:00"
+}

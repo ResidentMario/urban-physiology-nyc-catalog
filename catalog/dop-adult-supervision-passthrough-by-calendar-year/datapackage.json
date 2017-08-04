@@ -1,0 +1,52 @@
+{
+    "name": "dop-adult-supervision-passthrough-by-calendar-year",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Adult Supervision Passthrough by Calendar Year",
+    "version": "N/A",
+    "keywords": [
+        "calendar year",
+        "probation",
+        "dop",
+        "adult supervision",
+        "passthrough"
+    ],
+    "description": "The sum of: the number of cases on the first day of the reporting period, plus all cases added during the reporting period.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/3av7-txd8/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 55,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 177,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Region",
+        "Passthrough Count",
+        "Calendar Year"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/3av7-txd8",
+    "last_updated": "2017-03-28 19:33:14+00:00",
+    "protocol": "https",
+    "created": "2014-06-17 16:45:42+00:00"
+}

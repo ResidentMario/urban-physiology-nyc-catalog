@@ -1,0 +1,86 @@
+{
+    "name": "school-demographics-and-accountability-snapshot-2006-2012",
+    "datapackage_version": "1.0-beta",
+    "title": "School Demographics and Accountability Snapshot 2006-2012",
+    "version": "N/A",
+    "keywords": [
+        "school",
+        "lifelong learning",
+        "accountability",
+        "demographic"
+    ],
+    "description": "Annual school accounts of NYC public school student populations served by grade, special programs, ethnicity, gender and Title I funded programs.\u00a0",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ihfw-zy9j/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 10100,
+    "columns": 38,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2389,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "frl_percent",
+        "prek",
+        "total_enrollment",
+        "grade1",
+        "k",
+        "grade2",
+        "grade3",
+        "grade4",
+        "grade5",
+        "grade8",
+        "grade6",
+        "female_num",
+        "black_per",
+        "male_per",
+        "male_num",
+        "black_num",
+        "asian_per",
+        "asian_num",
+        "selfcontained_num",
+        "white_num",
+        "hispanic_per",
+        "hispanic_num",
+        "white_per",
+        "female_per",
+        "DBN",
+        "ctt_num",
+        "sped_percent",
+        "sped_num",
+        "ell_percent",
+        "ell_num",
+        "grade12",
+        "grade11",
+        "grade10",
+        "grade9",
+        "grade7",
+        "schoolyear",
+        "Name",
+        "fl_percent"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ihfw-zy9j",
+    "last_updated": "2014-09-05 17:42:33+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 05:15:19+00:00"
+}

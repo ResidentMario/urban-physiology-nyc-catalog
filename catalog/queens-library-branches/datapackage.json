@@ -1,0 +1,61 @@
+{
+    "name": "queens-library-branches",
+    "datapackage_version": "1.0-beta",
+    "title": "Queens Library Branches",
+    "version": "N/A",
+    "keywords": [
+        "qpl",
+        "library",
+        "hours",
+        "services",
+        "schedule",
+        "queens"
+    ],
+    "description": "Queens Public Library Hours and Locations",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Queens Library (QBPL)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/kh3d-xhq7/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 68,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 10400,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "phone",
+        "Location 1",
+        "Th",
+        "Fr",
+        "Sa",
+        "Mn",
+        "Tu",
+        "We",
+        "name",
+        "notification",
+        "Su"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/kh3d-xhq7",
+    "last_updated": "2014-09-05 18:10:31+00:00",
+    "protocol": "https",
+    "created": "2011-10-08 20:59:51+00:00"
+}

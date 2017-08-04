@@ -1,0 +1,66 @@
+{
+    "name": "dof-summary-of-neighborhood-sales-citywide-for-class-1-2-and-3-family-homes-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "DOF: Summary of Neighborhood Sales Citywide for Class 1-, 2- and 3-Family homes - 2009",
+    "version": "N/A",
+    "keywords": [
+        "family homes",
+        "neighborhood sales",
+        "neighborhoods",
+        "class-1",
+        "class-2",
+        "class-3",
+        "department of finance",
+        "dof",
+        "sales",
+        "property",
+        "properties",
+        "homes",
+        "finance",
+        "citywide",
+        "borough"
+    ],
+    "description": "The Department of Finance (DOF) maintains records for all property sales in New York City, including sales of family homes in each borough. This list is a summary of all neighborhood sales for Class 1-, 2- and 3-Family homes Citywide in 2009.\r\n\r\nThis list includes all sales of 1-, 2-, and 3-Family Homes' from January 1st, 2009 to December 31, 2009, whose sale price is equal to or more than $150,000.  The Building Class Category for Sales is based on the Building Class at the time of the sale.\r\nUpdate Schedule: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/5ps9-yuef/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 19,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 591,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        " NUMBER OF SALES ",
+        " MEDIAN SALE PRICE ",
+        " MINIMUM SALE PRICE ",
+        "BUILDING CLASS CATEGORY",
+        " AVERAGE SALE PRICE ",
+        " MAXIMUM SALE PRICE ",
+        "BOROUGH"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/5ps9-yuef",
+    "last_updated": "2014-09-05 17:15:59+00:00",
+    "protocol": "https",
+    "created": "2011-10-05 18:19:00+00:00"
+}

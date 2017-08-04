@@ -1,0 +1,54 @@
+{
+    "name": "residential-water-use",
+    "datapackage_version": "1.0-beta",
+    "title": "Residential Water Use",
+    "version": "N/A",
+    "keywords": [
+        "water use",
+        "dep",
+        "department of environmental protection",
+        "water",
+        "residential water use",
+        "residential",
+        "environment",
+        "healthy living"
+    ],
+    "description": "Residential Water Use Fact Sheet",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/xqzj-nd8g/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 16,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2063,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Water Use Details",
+        "Item Description"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/xqzj-nd8g",
+    "last_updated": "2014-09-05 17:07:42+00:00",
+    "protocol": "https",
+    "created": "2013-02-01 03:26:07+00:00"
+}

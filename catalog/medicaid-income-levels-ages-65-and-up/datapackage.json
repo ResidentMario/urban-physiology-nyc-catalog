@@ -1,0 +1,53 @@
+{
+    "name": "medicaid-income-levels-ages-65-and-up",
+    "datapackage_version": "1.0-beta",
+    "title": "Medicaid income levels (ages 65 and up)",
+    "version": "N/A",
+    "keywords": [
+        "jobs and economic mobility",
+        "hra",
+        "human resources administration",
+        "medicaid"
+    ],
+    "description": "This table represents details of Medicaid income levels (ages 65 and up). Medicaid provides free health insurance for low-income older adults. Eligible adults receive their medical care through a managed care plan or fee-for-service. While ones application is being processed, Medicaid may provide up to 90 days of retroactive coverage for unpaid medical bills, if the individual is eligible during those 90 days.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/dn64-92ub/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 6,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 187,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Resource Level ($)",
+        "Family Size",
+        "Yearly Income ($)",
+        "Monthly Income ($)",
+        "Weekly Income ($)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/dn64-92ub",
+    "last_updated": "2016-03-02 20:24:51+00:00",
+    "protocol": "https",
+    "created": "2013-03-19 18:07:34+00:00"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "permit-application-information",
+    "datapackage_version": "1.0-beta",
+    "title": "Permit Application Information",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Contains information pertaining to permit applications for work to landmark sites submitted to and processed by LPC.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Landmarks Preservation Commission (LPC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/nj5b-z2hw/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 164000,
+    "columns": 26,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 197,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "work_type",
+        "applicant_co",
+        "owner_state",
+        "owner_co",
+        "regulation_type",
+        "applicant_state",
+        "permit_no",
+        "owner_name",
+        "applicant_city",
+        "owner_zip",
+        "received_date",
+        "owner_city",
+        "issue_date",
+        "block",
+        "applicant_address_2",
+        "applicant_name",
+        "expiration_date",
+        "owner_address_1",
+        "applicant_zip",
+        "lot",
+        "Borough",
+        "owner_address_2",
+        "applicant_address_1",
+        "address",
+        "historic_district",
+        "docket"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/nj5b-z2hw",
+    "last_updated": "2016-09-20 14:12:35+00:00",
+    "protocol": "https",
+    "created": "2016-07-01 19:52:24+00:00"
+}

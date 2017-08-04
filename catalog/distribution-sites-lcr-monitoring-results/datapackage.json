@@ -1,0 +1,53 @@
+{
+    "name": "distribution-sites-lcr-monitoring-results",
+    "datapackage_version": "1.0-beta",
+    "title": "Distribution Sites LCR Monitoring Results",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Monthly results from the distribution sites for orthophosphate, pH, temperature, conductivity and monthly alkalinity, calcium, lead and copper - Bi annually updated",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/g63j-swsd/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 477,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 251,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Lead (\u00b5g/L)",
+        " Temperature \u2020 (\u00b0F)",
+        "Sample Date",
+        "Sample Site ",
+        "Copper (mg/L)",
+        "Calcium (mg/L)",
+        "Alkalinity (mg/L CaCO3)",
+        "ortho-Phosphate \u2020\u2020 (mg/L)",
+        "pH \u2020(Unit)",
+        "Specific Conductance (\u00b5S/cm)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/g63j-swsd",
+    "last_updated": "2016-08-18 17:57:42+00:00",
+    "protocol": "https",
+    "created": "2015-02-24 18:23:05+00:00"
+}

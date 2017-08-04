@@ -1,0 +1,47 @@
+{
+    "name": "open-space-other",
+    "datapackage_version": "1.0-beta",
+    "title": "Open Space (Other)",
+    "version": "N/A",
+    "keywords": [
+        "open spaces",
+        "planimetrics",
+        "doittgis",
+        "doitt gis"
+    ],
+    "description": "Planimetric basemap layer containing open spaces (Excluding Parks). Please see the following link for additional documentation- https://github.com/CityOfNewYork/nyc-planimetrics/blob/master/Capture_Rules.md.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/pckb-8r2z?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 5705.6494140625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1591,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/pckb-8r2z",
+    "last_updated": "2016-08-27 18:29:57+00:00",
+    "protocol": "https",
+    "created": "2014-06-17 20:15:46+00:00"
+}

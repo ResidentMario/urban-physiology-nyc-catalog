@@ -1,0 +1,55 @@
+{
+    "name": "new-york-city-farmers-markets",
+    "datapackage_version": "1.0-beta",
+    "title": "New York City Farmers Markets",
+    "version": "N/A",
+    "keywords": [
+        "location",
+        "health",
+        "farmers market"
+    ],
+    "description": "Location and facility information for New York City farmers markets.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Health and Mental Hygiene (DOHMH)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/j8gx-kc43/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 102,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 3777,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Health"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Latitude",
+        "Farmers Market Name",
+        "Additional Information",
+        "Street Address",
+        "Borough",
+        "State",
+        "Zip Code",
+        "Longitude"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/j8gx-kc43",
+    "last_updated": "2017-05-21 19:42:16+00:00",
+    "protocol": "https",
+    "created": "2013-10-25 16:21:22+00:00"
+}

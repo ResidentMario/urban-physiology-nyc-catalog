@@ -1,0 +1,71 @@
+{
+    "name": "incidents-responded-to-by-fire-companies",
+    "datapackage_version": "1.0-beta",
+    "title": "Incidents Responded to by Fire Companies",
+    "version": "N/A",
+    "keywords": [
+        "fdny",
+        "fire",
+        "emergency"
+    ],
+    "description": "This dataset contains detailed information on incidents handled by FDNY Fire (non-EMS) units and includes fire, medical and non-fire emergencies. The data is collected in the New York Fire Incident Reporting System (NYFIRS), which is structured by the FDNY to provide data to the National Fire Incident Reporting System (NFIRS).  NFIRS is a modular all-incident reporting system designed by the U.S. Fire Administration. After responding to an incident, FDNY officers complete one or more of the NFIRS modules, depending upon the type of incident. The information in these modules describes the kind of incident responded to, where it occurred, the resources used to mitigate it.  Although NFIRS was designed specifically to understand the nature and causes of fire, as well as civilian fire casualties and firefighter injuries, it has been expanded to collect basic information on all incidents to which fire units respond.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Fire Department of New York City (FDNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/tm6d-hbzd/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1330000,
+    "columns": 24,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 643,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "FIRE_BOX",
+        "STANDPIPE_SYS_PRESENT_FLAG",
+        "FLOOR",
+        "AES_PRESENCE_DESC",
+        "HIGHEST_LEVEL_DESC",
+        "PROPERTY_USE_DESC",
+        "FIRE_SPREAD_DESC",
+        "STORY_FIRE_ORIGIN_COUNT",
+        "INCIDENT_TYPE_DESC",
+        "DETECTOR_PRESENCE_DESC",
+        "ARRIVAL_DATE_TIME",
+        "INCIDENT_DATE_TIME",
+        "CO_DETECTOR_PRESENT_DESC",
+        "ACTION_TAKEN1_DESC",
+        "TOTAL_INCIDENT_DURATION",
+        "ACTION_TAKEN2_DESC",
+        "BOROUGH_DESC",
+        "ZIP_CODE",
+        "STREET_HIGHWAY",
+        "FIRE_ORIGIN_BELOW_GRADE_FLAG",
+        "LAST_UNIT_CLEARED_DATE_TIME",
+        "ACTION_TAKEN3_DESC",
+        "IM_INCIDENT_KEY",
+        "UNITS_ONSCENE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/tm6d-hbzd",
+    "last_updated": "2016-11-18 22:29:49+00:00",
+    "protocol": "https",
+    "created": "2016-07-27 21:11:43+00:00"
+}

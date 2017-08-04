@@ -1,0 +1,59 @@
+{
+    "name": "brooklyn-public-library-catalog",
+    "datapackage_version": "1.0-beta",
+    "title": "Brooklyn Public Library Catalog",
+    "version": "N/A",
+    "keywords": [
+        "edition",
+        "catalog",
+        "catalogue",
+        "library",
+        "author",
+        "book",
+        "brooklyn",
+        "publisher",
+        "title"
+    ],
+    "description": "Brooklyn Public Library Catalog, with Call #, Author, Title, Edition, Pub Info, Standard #.  Data delimiter is \u201c|\u201d.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Brooklyn Public Library (BPL)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ym2h-u9dt/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 825000,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2815,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "PUB INFO",
+        "EDITION",
+        "AUTHOR",
+        "CALL #(BIBLIO)",
+        "TITLE",
+        "STANDARD #"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ym2h-u9dt",
+    "last_updated": "2014-09-05 17:09:47+00:00",
+    "protocol": "https",
+    "created": "2011-10-04 21:42:50+00:00"
+}

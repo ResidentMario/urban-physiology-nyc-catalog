@@ -1,0 +1,42 @@
+{
+    "name": "2014-2015-school-quality-reports-results-for-high-schools",
+    "datapackage_version": "1.0-beta",
+    "title": "2014-2015 School Quality Reports Results For High Schools",
+    "version": "N/A",
+    "keywords": [
+        "doe",
+        "education",
+        "schools",
+        "high school"
+    ],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 2133.2060546875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 277,
+    "preferred_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "xlsx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/vrfr-9k4d",
+    "last_updated": "2016-03-14 20:14:57+00:00",
+    "protocol": "https",
+    "created": "2016-03-14 20:12:01+00:00"
+}

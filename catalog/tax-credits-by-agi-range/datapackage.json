@@ -1,0 +1,48 @@
+{
+    "name": "tax-credits-by-agi-range",
+    "datapackage_version": "1.0-beta",
+    "title": "Tax Credits By Agi Range",
+    "version": "N/A",
+    "keywords": [
+        "tax credits by agi range"
+    ],
+    "description": "Number of tax filers/payers using various tax credits and amount of credit, by income ranges",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYC Independent Budget Office (IBO)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/nwet-nc6h/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 8,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 61,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        ""
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Number of EITC Recipients",
+        "Income Group",
+        "Total EITC (dollars in millions)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/nwet-nc6h",
+    "last_updated": "2014-09-05 16:59:04+00:00",
+    "protocol": "https",
+    "created": "2014-03-06 05:47:36+00:00"
+}

@@ -1,0 +1,72 @@
+{
+    "name": "reasons-for-police-civilian-encounters-that-led-to-a-complaint-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "Reasons For Police- Civilian Encounters That Led To A Complaint 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "2005",
+        "2006",
+        "allegation",
+        "board",
+        "ccrb",
+        "2009",
+        "review",
+        "misconduct",
+        "civilian complaint review board",
+        "activity",
+        "disciplinary recommendation",
+        "complaint activity",
+        "complaint",
+        "2007",
+        "statistics",
+        "civilian",
+        "2008"
+    ],
+    "description": "CCRB: Reasons for Police-Civilian Encounters that Led to a Complaint 2005 - 2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/4vsa-fhnm/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 36,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2103,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2008 Number",
+        "2006 Number",
+        "2006 Percent of Total",
+        "2005 Percent of Total",
+        "2008 Percent of Total",
+        "2007 Number",
+        "2007 Percent of Total",
+        "2009 Number",
+        "Type of Encounter",
+        "2009 Percent of Total",
+        "2005 Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/4vsa-fhnm",
+    "last_updated": "2014-09-05 16:58:31+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 19:25:49+00:00"
+}

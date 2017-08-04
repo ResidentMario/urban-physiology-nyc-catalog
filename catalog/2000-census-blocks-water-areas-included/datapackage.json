@@ -1,0 +1,56 @@
+{
+    "name": "2000-census-blocks-water-areas-included",
+    "datapackage_version": "1.0-beta",
+    "title": "2000 Census Blocks (water areas included)",
+    "version": "N/A",
+    "keywords": [
+        "block",
+        "boundary",
+        "water",
+        "2000 census blocks (water areas included)",
+        "census",
+        "geographic",
+        "location",
+        "map",
+        "cartography",
+        "poll",
+        "water area",
+        "dcp",
+        "survey"
+    ],
+    "description": "GIS data: Boundaries of 2000 Census Blocks (water areas included)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/6cne-um3h?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 28086.0048828125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 189,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/6cne-um3h",
+    "last_updated": "2017-03-09 15:48:39+00:00",
+    "protocol": "https",
+    "created": "2013-01-28 20:37:42+00:00"
+}

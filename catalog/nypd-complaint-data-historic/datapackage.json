@@ -1,0 +1,72 @@
+{
+    "name": "nypd-complaint-data-historic",
+    "datapackage_version": "1.0-beta",
+    "title": "NYPD Complaint Data Historic",
+    "version": "N/A",
+    "keywords": [
+        "nypd",
+        "incident",
+        "nycopendata",
+        "crime"
+    ],
+    "description": "This dataset includes all valid felony, misdemeanor, and violation crimes reported to the New York City Police Department (NYPD) from 2006 to the end of last year (2015). For additional details, please see the attached data dictionary in the \u2018About\u2019 section.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Police Department (NYPD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/qgea-i56i/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5580000,
+    "columns": 24,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2300,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "CRM_ATPT_CPTD_CD",
+        "PD_CD",
+        "OFNS_DESC",
+        "RPT_DT",
+        "KY_CD",
+        "Lat_Lon",
+        "Longitude",
+        "Latitude",
+        "Y_COORD_CD",
+        "X_COORD_CD",
+        "HADEVELOPT",
+        "PARKS_NM",
+        "PREM_TYP_DESC",
+        "LOC_OF_OCCUR_DESC",
+        "CMPLNT_NUM",
+        "CMPLNT_FR_DT",
+        "CMPLNT_FR_TM",
+        "CMPLNT_TO_DT",
+        "CMPLNT_TO_TM",
+        "ADDR_PCT_CD",
+        "BORO_NM",
+        "JURIS_DESC",
+        "LAW_CAT_CD",
+        "PD_DESC"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/qgea-i56i",
+    "last_updated": "2017-05-01 18:24:16+00:00",
+    "protocol": "https",
+    "created": "2016-11-02 16:06:26+00:00"
+}

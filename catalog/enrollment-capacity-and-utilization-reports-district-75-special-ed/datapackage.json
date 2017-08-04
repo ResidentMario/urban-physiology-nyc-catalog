@@ -1,0 +1,69 @@
+{
+    "name": "enrollment-capacity-and-utilization-reports-district-75-special-ed",
+    "datapackage_version": "1.0-beta",
+    "title": "Enrollment Capacity and Utilization Reports District 75 Special Ed.",
+    "version": "N/A",
+    "keywords": [
+        "authority",
+        "utilization",
+        "school",
+        "sca",
+        "facility",
+        "enrollment",
+        "education",
+        "construction",
+        "capacity"
+    ],
+    "description": "This dataset is no longer maintained. Updated enrollment capacity and utilization data can be found at https://data.cityofnewyork.us/Education/Enrollment-Capacity-And-Utilization-Reports-Histor/hq56-zhrp\r\nhttps://data.cityofnewyork.us/Education/Enrollment-Capacity-And-Utilization-Reports-Histor/q9xk-w9iv\r\nhttps://data.cityofnewyork.us/Education/Enrollment-Capacity-And-Utilization-Reports-Target/gkd7-3vk7\r\nhttps://data.cityofnewyork.us/Education/Enrollment-Capacity-And-Utilization-Reports-Target/8b9a-pywy\r\n\r\nEnrollment, capacity and utilization data for every District 75 building and schools in those buildings.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/3cn8-i54i/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 72,
+    "columns": 16,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 277,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Bldg Over/Under",
+        "Bldg Utilization",
+        "Bldg Capacity",
+        "District",
+        "Borough",
+        "Inclusionary",
+        "Bldg\nEnroll",
+        "Building Name",
+        "Bldg\nI.D.",
+        "No. of Spec rooms used",
+        "Org Utilization",
+        "Org Over/Under",
+        "Org Capacity",
+        "Org\nEnroll",
+        "Organization Name",
+        "Org ID"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/3cn8-i54i",
+    "last_updated": "2015-05-12 21:01:54+00:00",
+    "protocol": "https",
+    "created": "2013-04-18 15:19:05+00:00"
+}

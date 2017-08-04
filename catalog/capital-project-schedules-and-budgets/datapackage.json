@@ -1,0 +1,67 @@
+{
+    "name": "capital-project-schedules-and-budgets",
+    "datapackage_version": "1.0-beta",
+    "title": "Capital Project Schedules and Budgets",
+    "version": "N/A",
+    "keywords": [
+        "improvement",
+        "capital",
+        "sca",
+        "education",
+        "current",
+        "school",
+        "project",
+        "authority",
+        "construction"
+    ],
+    "description": "List of capital projects with managing organization, phase status and project costs.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/2xh6-psuq/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 7796,
+    "columns": 14,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 727,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "DSF Number(s)",
+        "Project Status Name",
+        "Project Phase Name",
+        "Project Budget Amount",
+        "Project Phase Actual Start Date",
+        "Project Geographic District ",
+        "Project Building Identifier",
+        "Total Phase Actual Spending Amount",
+        "Project Phase Planned End Date",
+        "Project Phase Actual End Date",
+        "Project School Name",
+        "Project Type ",
+        "Project Description",
+        "Final Estimate of Actual Costs Through End of Phase Amount"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/2xh6-psuq",
+    "last_updated": "2017-05-30 14:23:44+00:00",
+    "protocol": "https",
+    "created": "2013-08-22 19:00:41+00:00"
+}

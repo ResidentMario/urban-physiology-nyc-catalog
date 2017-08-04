@@ -1,0 +1,58 @@
+{
+    "name": "nyc-wi-fi-hotspot-locations",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Wi-Fi Hotspot Locations",
+    "version": "N/A",
+    "keywords": [
+        "mifi",
+        "www",
+        "wifi",
+        "nyc wi-fi hotspot locations",
+        "wi-fi",
+        "world wide web",
+        "nycopendata",
+        "connectivity",
+        "websites",
+        "mobile",
+        "doitt",
+        "internet",
+        "web",
+        "parks",
+        "optics"
+    ],
+    "description": "NYC Wi-Fi Hotspot Locations\r\nWi-Fi Providers: \r\nCityBridge, LLC (Free Beta): LinkNYC 1 gigabyte (GB), Free Wi-Fi Internet Kiosks \r\nAT&T (Free): Wi-Fi access is free for all users at all times. \r\nPartners: In several parks, the NYC partner organizations provide publicly accessible Wi-Fi. Visit these parks to learn more information about their Wi-Fi service and how to connect. \r\nCable (Limited-Free): In NYC Parks provided by NYC DoITT Cable television franchisees. \r\nALTICEUSA previously known as \u201cCablevision\u201d and SPECTRUM previously known as \u201cTime Warner Cable\u201d (Limited Free) Connect for 3 free 10 minute sessions every 30 days or purchase a 99 cent day pass through midnight. Wi-Fi service is free at all times to Cablevision\u2019s Optimum Online and Time Warner Cable broadband subscribers. \r\nWi-Fi Provider: Chelsea Wi-Fi (Free) Wi-Fi access is free for all users at all times. \r\nChelsea Improvement Company has partnered with Google to provide Wi-Fi a free wireless Internet zone, a broadband region bounded by West 19th Street, Gansevoort Street, Eighth Avenue and the High Line Park. \r\nWi-Fi Provider: Downtown Brooklyn Wi-Fi (Free) \r\nThe Downtown Brooklyn Partnership - the New York City Economic Development Corporation to provide Wi-Fi to the area bordered by Schermerhorn Street, Cadman Plaza West, Flatbush Avenue, and Tillary Street, along with select public spaces in the NYCHA Ingersoll and Whitman Houses. \r\nWi-Fi Provider: Manhattan Downtown Alliance Wi-Fi (Free) \r\nLower Manhattan Several public spaces all along Water Street, Front Street and the East River Esplanade south of Fulton Street and in several other locations throughout Lower Manhattan. \r\nWi-Fi Provider: Harlem Wi-Fi (Free) \r\nNetwork will extend 95 city blocks, from 110th to 138th Streets between Frederick Douglass Boulevard and Madison Avenue is free outdoor public wireless network. \r\nWi-Fi Provider: Transit Wireless (Free) \r\nWi-Fi Services in the New York City subway system are available in certain underground stations. For more information visit http://www.transitwireless.com/stations/. \r\nWi-Fi Provider: Public Pay Telephone Franchisees (Free) \r\nUsing existing payphone infrastructure, the City of New York has teamed up with private partners to provide free Wi-Fi service at public payphone kiosks across the five boroughs at no cost to taxpayers. \r\nWi-Fi Provider: New York Public Library \r\nUsing Wireless Internet Access (Wi-Fi): All Library locations offer free wireless access (Wi-Fi) in public areas at all times the libraries are open. \r\nConnecting to the Library's Wireless Network \r\n\u2022You must have a computer or other device equipped with an 802.11b-compatible wireless card. \r\n\u2022Using your computer's network utilities, look for the wireless network named \"NYPL.\" \r\n\u2022The \"NYPL\" wireless network does not require a password to connect. \r\nLimitations and Disclaimers Regarding Wireless Access \r\n\u2022The Library's wireless network is not secure. Information sent from or to your laptop can be captured by anyone else with a wireless device and the appropriate software, within three hundred feet. \r\n\u2022Library staff is not able to provide technical assistance and no guarantee can be provided that you will be able to make a wireless connection. \r\n\u2022The Library assumes no responsibility for the safety of equipment or for laptop configurations, security, or data files resulting from connection to the Library's network.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/a9we-mtpn?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 1128.95703125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 15499,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/a9we-mtpn",
+    "last_updated": "2017-05-11 19:20:15+00:00",
+    "protocol": "https",
+    "created": "2014-09-12 19:01:12+00:00"
+}

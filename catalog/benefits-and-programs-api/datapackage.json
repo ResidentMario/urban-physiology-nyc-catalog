@@ -1,0 +1,90 @@
+{
+    "name": "benefits-and-programs-api",
+    "datapackage_version": "1.0-beta",
+    "title": "Benefits and Programs API",
+    "version": "N/A",
+    "keywords": [
+        "socialservices",
+        "health",
+        "growingupnyc",
+        "benefits",
+        "services",
+        "resources",
+        "accessnyc",
+        "ceo",
+        "programs",
+        "opportunity",
+        "eligibility"
+    ],
+    "description": "This dataset provides benefit, program, and resource information for over 40 health and human services available to NYC residents. The data is kept up-to-date, including the most recent applications, eligibility requirements, and application dates. Information in this dataset is used on <a href=\"http://access.nyc.gov\">ACCESS NYC</a> and <a href=\"http://www.nyc.gov/growingupnyc\">Growing Up NYC</a>.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor\u2019s Office of Operations (OPS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/2j8u-wtju/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1280,
+    "columns": 35,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 147,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Plain language eligibility",
+        "Date",
+        "Unique ID number",
+        "How to apply summary",
+        "URL of online application",
+        "URL of PDF application forms",
+        "How to apply or enroll in person?",
+        "Government agency",
+        "Get help by calling 311. Please provide what to ask for when calling 311",
+        "Brief excerpt",
+        "Get help by calling , other than 311.",
+        "Get help by email",
+        "Get help online",
+        "Office locations URL",
+        "Heads up",
+        "How to apply or enroll online?",
+        "Application forms",
+        "Apply in person call to action",
+        "Get help in person",
+        "How to apply or enroll by mail?",
+        "Apply by mail call to action",
+        "Get help summary",
+        "Apply online call to action",
+        "Program category",
+        "Page type",
+        "Program acronym, if any",
+        "Program name",
+        "Language",
+        "Program code",
+        "Population served",
+        "Age Group",
+        "Required documents summary",
+        "How to apply or enroll by phone?",
+        "Plain language program name",
+        "Program description"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/2j8u-wtju",
+    "last_updated": "2017-05-31 13:31:03+00:00",
+    "protocol": "https",
+    "created": "2017-03-21 16:11:24+00:00"
+}

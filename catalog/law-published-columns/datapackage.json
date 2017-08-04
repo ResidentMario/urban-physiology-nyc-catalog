@@ -1,0 +1,54 @@
+{
+    "name": "law-published-columns",
+    "datapackage_version": "1.0-beta",
+    "title": "LAW Published Columns",
+    "version": "N/A",
+    "keywords": [
+        "law",
+        "law articles",
+        "law columns",
+        "law journal",
+        "lawyer",
+        "legislation",
+        "justice"
+    ],
+    "description": "First Assistant Corporation Counsel Jeffrey D. Friedlander writes a bi-monthly column, \"Municipal Law,\" for the New York Law Journal on issues of importance relating to public affairs law. Mr. Friedlander is the Law Department's second-in-command and a member of its Executive Staff. The first column appeared in March 2003.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Law Department (LAW)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/d84z-5kap/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 19,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 158,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Columns Title",
+        "Link to PDF File",
+        "Column Date"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/d84z-5kap",
+    "last_updated": "2014-09-05 17:10:19+00:00",
+    "protocol": "https",
+    "created": "2013-02-14 15:59:53+00:00"
+}

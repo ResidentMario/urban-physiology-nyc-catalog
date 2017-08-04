@@ -1,0 +1,67 @@
+{
+    "name": "projected-population-2010-2040-summary",
+    "datapackage_version": "1.0-beta",
+    "title": "Projected Population 2010-2040 - Summary",
+    "version": "N/A",
+    "keywords": [
+        "population",
+        "2010",
+        "dcp",
+        "2040",
+        "projected population 2010-2040 - summary"
+    ],
+    "description": "Projected New York City population numbers and percentage changes from 2010 through 2040 by Borough, including school-age, 65 and Over, and total population.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ph5g-sr3v/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 18,
+    "columns": 18,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2364,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Change in Number - 2010-2020",
+        "Borough",
+        "2010",
+        "% of Total Borough Population - 2010",
+        "2020",
+        "% of Total Borough Population - 2030",
+        "% of Total Borough Population - 2020",
+        "2030",
+        "Change in Number - 2030-2040 ",
+        "Change in Percent - 2030-2040",
+        "Change in Number - 2020-2030 ",
+        "% of Total Borough Population - 2040",
+        "2040",
+        "Change in Number - 2010-2040 ",
+        "Change in Percent - 2010-2040",
+        "Change in Percent - 2020-2030",
+        "Change in Percent - 2010-2020",
+        "Age Group"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ph5g-sr3v",
+    "last_updated": "2014-09-05 17:07:04+00:00",
+    "protocol": "https",
+    "created": "2011-10-25 18:05:51+00:00"
+}

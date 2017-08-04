@@ -1,0 +1,85 @@
+{
+    "name": "nyc-independent-budget-office-ibo-agency-expenditures-fy-1980-2013",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Independent Budget Office (IBO) Agency Expenditures FY 1980 - 2013",
+    "version": "N/A",
+    "keywords": [
+        "otps",
+        "comptroller",
+        "financial reports",
+        "nyc independent budget office (ibo) agency expenditures fy 1980 - 2013",
+        "other than personal services",
+        "personal services"
+    ],
+    "description": "Annual spending for personal services and other than personal services(OTPS) within each city agency from FY 1980 through FY 2014. Source: Comprehensive Annual Financial Reports of the Comptroller",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYC Independent Budget Office (IBO)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/cwjy-rrh3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 604,
+    "columns": 35,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 251,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "FY 2013",
+        "FY 1981",
+        "FY 1983",
+        "FY 1985",
+        "FY 1986",
+        "FY 1987",
+        "FY 2006",
+        "FY 2010",
+        "FY 2011",
+        "FY 1988",
+        "FY 1989",
+        "FY 1980",
+        "FY 1996",
+        "FY 1995",
+        "FY 1994",
+        "FY 1997",
+        "FY 1999",
+        "FY 2012",
+        "AGENCY EXPENDITURES",
+        "FY 2009",
+        "FY 1991",
+        "FY 2005",
+        "FY 2002",
+        "FY 2008",
+        "FY 2007",
+        "FY 1982",
+        "FY 1990",
+        "FY 1984",
+        "FY 1998",
+        "FY 2003",
+        "FY 1993",
+        "FY 1992",
+        "FY 2000",
+        "FY 2001",
+        "FY  2004"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/cwjy-rrh3",
+    "last_updated": "2014-10-27 14:02:05+00:00",
+    "protocol": "https",
+    "created": "2014-03-03 18:36:21+00:00"
+}

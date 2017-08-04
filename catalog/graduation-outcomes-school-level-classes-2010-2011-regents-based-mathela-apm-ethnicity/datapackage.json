@@ -1,0 +1,58 @@
+{
+    "name": "graduation-outcomes-school-level-classes-2010-2011-regents-based-mathela-apm-ethnicity",
+    "datapackage_version": "1.0-beta",
+    "title": "Graduation Outcomes - School Level - Classes 2010-2011 - Regents-based Math/ELA APM - Ethnicity",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning",
+        "graduation outcome",
+        "ethnicity",
+        "school",
+        "apm"
+    ],
+    "description": "Latest available data and trends in NYSED's Regents-based Aspirational Performance Measure (APM) by school and Ethnicity.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/5fn2-n363/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2598,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 248,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Cohort Year",
+        "Pct of graduates achieving APM",
+        "Total Grads Num",
+        "Total Cohort Num",
+        "DBN",
+        "Pct of cohort achieving APM",
+        "Num achieving APM ",
+        "School Name",
+        "Demographic"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/5fn2-n363",
+    "last_updated": "2014-09-05 17:42:58+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 02:33:26+00:00"
+}

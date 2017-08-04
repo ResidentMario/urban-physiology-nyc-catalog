@@ -1,0 +1,52 @@
+{
+    "name": "nyc-doe-2015-2016-final-class-size-report-middle-high-school",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC DOE 2015-2016 Final Class Size Report Middle & High School",
+    "version": "N/A",
+    "keywords": [],
+    "description": "New York City Department of Education\r\n2015-16 Final Class Size Report\r\nSchool Middle School and High School Core Average Class Size\r\nGeneral Education (Gen Ed), Integrated Co-Teaching (ICT), Accelerated (Acc), Self-Contained (SC)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/icps-nwdu/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 18800,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 160,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "DBN",
+        "School Name",
+        "Grade Level",
+        "Program Type",
+        "Department",
+        "Subject",
+        "Number of Students",
+        "Number of Classes",
+        "Average Class Size"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/icps-nwdu",
+    "last_updated": "2016-03-14 20:15:32+00:00",
+    "protocol": "https",
+    "created": "2016-03-11 20:34:33+00:00"
+}

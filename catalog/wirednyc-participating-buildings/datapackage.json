@@ -1,0 +1,74 @@
+{
+    "name": "wirednyc-participating-buildings",
+    "datapackage_version": "1.0-beta",
+    "title": "WiredNYC \u2013 Participating Buildings",
+    "version": "N/A",
+    "keywords": [
+        "bigapps",
+        "wirednyc",
+        "nycedc",
+        "nyc bigapps",
+        "connectivity",
+        "buildings",
+        "broadband",
+        "access"
+    ],
+    "description": "This dataset contains information for certified and non-certified buildings that are participating in the WiredNYC program.  These buildings are all publicly viewable on the WiredNYC website.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYC EDC"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/cfzn-4iza/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 206,
+    "columns": 22,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 242,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "NYC BigApps"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Additional Telecom Space",
+        "Borough",
+        "Designated Telecom Utility Space",
+        "BBL",
+        "Multiple Points of Entry",
+        "# ISPs",
+        "Street Address",
+        "Certification Class",
+        "# of Carriers",
+        "Coax/Cable Connections",
+        "Fiber Connection",
+        "Satellite/Fixed Wireless Connection",
+        "Building Name",
+        "New Service Providers",
+        "ISPs",
+        "Diverse Riser Locations",
+        "Signed POEs",
+        "Agreements",
+        "Fiber Distribution",
+        "Riser Space for Current Providers",
+        "BBLE",
+        "Riser Space for Additional Providers"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/cfzn-4iza",
+    "last_updated": "2014-09-06 00:29:42+00:00",
+    "protocol": "https",
+    "created": "2014-06-13 14:58:42+00:00"
+}

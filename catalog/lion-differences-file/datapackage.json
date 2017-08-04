@@ -1,0 +1,46 @@
+{
+    "name": "lion-differences-file",
+    "datapackage_version": "1.0-beta",
+    "title": "LION Differences File",
+    "version": "N/A",
+    "keywords": [
+        "ldf",
+        "lion",
+        "segment",
+        "intersection",
+        "street name",
+        "street",
+        "node",
+        "change"
+    ],
+    "description": "The LION Differences File (LDF) documents segment and node level changes that have occurred in the LION file between two subsequent releases.\u00a0 This file allows a user who \u201cties\u201d organizational data to DCP\u2019s Segment ID and/or Node ID to migrate their data appropriately when these changes occur.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 39958.8310546875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 525,
+    "preferred_mimetype": "text/plain",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "txt",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/ige5-v6sk",
+    "last_updated": "2017-03-09 16:31:20+00:00",
+    "protocol": "https",
+    "created": "2011-10-08 22:31:14+00:00"
+}

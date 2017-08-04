@@ -1,0 +1,50 @@
+{
+    "name": "empower-zones",
+    "datapackage_version": "1.0-beta",
+    "title": "Empower Zones",
+    "version": "N/A",
+    "keywords": [
+        "cartography",
+        "empower",
+        "zone",
+        "map",
+        "location",
+        "geographic",
+        "basemap"
+    ],
+    "description": "Empower Zones",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/khkb-h6hx?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 1027.3408203125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 656,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/khkb-h6hx",
+    "last_updated": "2016-08-27 18:26:21+00:00",
+    "protocol": "https",
+    "created": "2013-04-05 19:56:32+00:00"
+}

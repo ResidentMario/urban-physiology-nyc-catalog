@@ -1,0 +1,78 @@
+{
+    "name": "ccrb-age-of-victims-whose-allegations-were-substantiated-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "CCRB: Age of Victims Whose Allegations Were Substantiated 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "activity",
+        "board",
+        "age",
+        "ccrb",
+        "civilian",
+        "2007",
+        "substantiation",
+        "2006",
+        "2009",
+        "2008",
+        "docket",
+        "year",
+        "victim",
+        "incident",
+        "crime",
+        "complaint",
+        "demographics 2005",
+        "report",
+        "review",
+        "substantiated"
+    ],
+    "description": "A statistical breakdown of Civilian Complaint Review Board (CCRB) substantiated cases, by year and age of victim, for the years 2005-2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/xj6i-rnxp/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 11,
+    "columns": 14,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 234,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2008 Number of Victims",
+        "2005 Percent of Subtotal",
+        "2006 Number of Victims",
+        "2005 Number of Victims",
+        "Age",
+        "2006 Percent of Subtotal",
+        "2009 Percent of Subtotal",
+        "2009 Number of Victims",
+        "Number of Victims, Five-year totals",
+        "2007 Percent of Subtotal",
+        "2008 Percent of Subtotal",
+        "New York City Population",
+        "Percent of Five-year Subtotals",
+        "2007 Number of Victims"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/xj6i-rnxp",
+    "last_updated": "2014-09-05 17:01:08+00:00",
+    "protocol": "https",
+    "created": "2011-09-12 19:03:45+00:00"
+}

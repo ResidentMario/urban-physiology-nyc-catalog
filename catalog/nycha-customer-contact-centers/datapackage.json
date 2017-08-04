@@ -1,0 +1,58 @@
+{
+    "name": "nycha-customer-contact-centers",
+    "datapackage_version": "1.0-beta",
+    "title": "NYCHA Customer Contact Centers",
+    "version": "N/A",
+    "keywords": [
+        "nycha",
+        "walk-in center",
+        "nyc housing",
+        "call center",
+        "government service"
+    ],
+    "description": "The  customer contact center locations, phone numbers and schedules",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York City Housing Authority (NYCHA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/37fm-7uaa/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 392,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "State",
+        "Days",
+        "Name",
+        "Address 2",
+        "Zip Code",
+        "Hours",
+        "Address 1",
+        "Phone #",
+        "City"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/37fm-7uaa",
+    "last_updated": "2016-09-15 22:22:22+00:00",
+    "protocol": "https",
+    "created": "2013-03-28 19:11:18+00:00"
+}

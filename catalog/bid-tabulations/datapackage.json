@@ -1,0 +1,60 @@
+{
+    "name": "bid-tabulations",
+    "datapackage_version": "1.0-beta",
+    "title": "Bid Tabulations",
+    "version": "N/A",
+    "keywords": [
+        "bid",
+        "procurement",
+        "administrative",
+        "dcas",
+        "citywide"
+    ],
+    "description": "Bids received in response to Competitive Sealed Bid (CSB) solicitations are opened publicly, at the time, date, and place designated in the Invitation for Bid (IFB). The name of each bidder, the bid price, and such other information as is deemed appropriate is read aloud or otherwise made available.\r\n\r\nThe bids are tabulated and made available for public inspection. The opened bids are made available for public inspection at a reasonable time after bid opening but in any case before vendor selection, except to the extent the bidder designates trade secrets or other proprietary data to be confidential.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Citywide Administrative Services (DCAS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/9k82-ys7w/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 16100,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 57,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Contact  Name",
+        "Bid Number",
+        "Bid Price",
+        "Class Number",
+        "Bid Item",
+        "Bid Title",
+        "Bid Item Number",
+        "Bid Opening Date",
+        "Print Date",
+        "Print Time",
+        "Bidder Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/9k82-ys7w",
+    "last_updated": "2017-04-22 20:30:43+00:00",
+    "protocol": "https",
+    "created": "2016-12-15 17:43:42+00:00"
+}

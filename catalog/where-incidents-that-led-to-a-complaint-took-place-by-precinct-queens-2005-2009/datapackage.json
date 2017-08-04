@@ -1,0 +1,68 @@
+{
+    "name": "where-incidents-that-led-to-a-complaint-took-place-by-precinct-queens-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "Where Incidents That Led To A Complaint Took Place By Precinct - Queens 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "ccrb",
+        "board",
+        "complaint",
+        "misconduct",
+        "2005",
+        "disciplinary recommendation",
+        "allegation",
+        "activity",
+        "complaint activity",
+        "2009",
+        "review",
+        "civilian complaint review board",
+        "civilian",
+        "statistics",
+        "2008",
+        "2007",
+        "2006"
+    ],
+    "description": "CCRB: Where Incidents that Led to a Complaint Took Place by Precinct - Manhattan 2005 - 2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/46vt-ugs9/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 20,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 187,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2009",
+        "2005",
+        "2008",
+        "Total",
+        "2006",
+        "Queens South",
+        "2007"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/46vt-ugs9",
+    "last_updated": "2014-09-05 16:58:46+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 20:46:58+00:00"
+}

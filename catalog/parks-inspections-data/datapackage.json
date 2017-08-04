@@ -1,0 +1,43 @@
+{
+    "name": "parks-inspections-data",
+    "datapackage_version": "1.0-beta",
+    "title": "Parks Inspections data",
+    "version": "N/A",
+    "keywords": [
+        "quality",
+        "healthy living",
+        "accountability",
+        "transparency",
+        "safety"
+    ],
+    "description": "The Parks Inspection Program (PIP) is a comprehensive, outcome-based performance measurement system that generates frequent, random, and detailed inspections of our parks and playgrounds. A team of inspectors conducts nearly 5,000 inspections per year. Each site receives a rating of \"Acceptable\" or \"Unacceptable\" based upon the condition of specific park features.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 3039.70703125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 1271,
+    "preferred_mimetype": "application/xml",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/t9jy-gfev",
+    "last_updated": "2017-04-11 15:27:21+00:00",
+    "protocol": "https",
+    "created": "2011-09-28 20:56:07+00:00"
+}

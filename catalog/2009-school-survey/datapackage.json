@@ -1,0 +1,52 @@
+{
+    "name": "2009-school-survey",
+    "datapackage_version": "1.0-beta",
+    "title": "2009 School Survey",
+    "version": "N/A",
+    "keywords": [
+        "department of education",
+        "lifelong learning",
+        "survey",
+        "learning",
+        "elementary",
+        "junior high school",
+        "high school",
+        "is",
+        "jhs",
+        "p.s.",
+        "schools",
+        "school",
+        "board of ed",
+        "education"
+    ],
+    "description": "2009 school survey with ratings in categories such as parental academic expectations, teacher academic expectations, student engagement, safety, and other categories",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 967.0322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 238,
+    "preferred_mimetype": "application/vnd.ms-excel",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "xls",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/ens7-ac7e",
+    "last_updated": "2017-02-10 16:38:13+00:00",
+    "protocol": "https",
+    "created": "2011-08-30 17:23:12+00:00"
+}

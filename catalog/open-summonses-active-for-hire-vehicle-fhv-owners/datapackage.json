@@ -1,0 +1,41 @@
+{
+    "name": "open-summonses-active-for-hire-vehicle-fhv-owners",
+    "datapackage_version": "1.0-beta",
+    "title": "Open Summonses - Active For-Hire-Vehicle (FHV) Owners",
+    "version": "N/A",
+    "keywords": [
+        "open summonses - active for-hire-vehicle (fhv) owners",
+        "open summonses",
+        "tlc"
+    ],
+    "description": "List of open summonses written against TLC-licensed vehicles. Only open summonses that have not yet been heard in court are shown \u2013 that means that the hearings have not happened and a final decision has not been made in these cases. File includes Vehicle License Number, Vehicle's Affiliated Base Number, Summons NNumber, Date Summons Issued, Charge and Disposition.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 493.5322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 215,
+    "preferred_mimetype": "application/vnd.ms-excel",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "xls",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/fndu-yzn3",
+    "last_updated": "2014-10-10 19:41:25+00:00",
+    "protocol": "https",
+    "created": "2011-09-30 15:01:46+00:00"
+}

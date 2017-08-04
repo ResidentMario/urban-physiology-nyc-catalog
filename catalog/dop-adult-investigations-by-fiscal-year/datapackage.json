@@ -1,0 +1,52 @@
+{
+    "name": "dop-adult-investigations-by-fiscal-year",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Adult Investigations by Fiscal Year",
+    "version": "N/A",
+    "keywords": [
+        "investigations",
+        "dop",
+        "fiscal year",
+        "adult"
+    ],
+    "description": "The number of presentence investigation reports ordered for adults during the reporting period, categorized by conviction type: felony and misdemeanor.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/vvym-pu7g/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 110,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 193,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Charge Type",
+        "Borough",
+        "Investigation Count",
+        "Fiscal Year (ending in June)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/vvym-pu7g",
+    "last_updated": "2017-02-06 16:19:53+00:00",
+    "protocol": "https",
+    "created": "2014-02-26 21:30:28+00:00"
+}

@@ -1,0 +1,61 @@
+{
+    "name": "school-progress-report-2006-2007",
+    "datapackage_version": "1.0-beta",
+    "title": "School Progress Report 2006-2007",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning",
+        "school progress report",
+        "report card"
+    ],
+    "description": "Progress Reports grade each school with an A, B, C, D, or F. \u00a0These reports focus on a school's learning environment, student performance, and student progress.\u00a0 They were designed to help parents, teachers, principals, and others understand how well schools are doing\u2014and compare them to other, similar schools.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/weg5-33pj/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1262,
+    "columns": 14,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 346,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "PROGRESS CATEGORY SCORE",
+        "ENVIRONMENT CATEGORY SCORE",
+        "OVERALL SCORE",
+        "GRADE",
+        "DBN",
+        "PERFORMANCE CATEGORY SCORE",
+        "SCHOOL",
+        "SCHOOL SUPPORT ORGANIZATION/NETWORK",
+        "QUALITY REVIEW SCORE",
+        "SCHOOL LEVEL*",
+        "ADDITIONAL CREDIT",
+        "DISTRICT",
+        " PEER INDEX* ",
+        "PROGRESS REPORT TYPE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/weg5-33pj",
+    "last_updated": "2014-09-05 17:43:09+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 04:19:50+00:00"
+}

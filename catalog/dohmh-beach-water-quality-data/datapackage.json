@@ -1,0 +1,54 @@
+{
+    "name": "dohmh-beach-water-quality-data",
+    "datapackage_version": "1.0-beta",
+    "title": "DOHMH Beach Water Quality Data",
+    "version": "N/A",
+    "keywords": [
+        "beach",
+        "health",
+        "water quality",
+        "water"
+    ],
+    "description": "Water quality sample results collected by the Department of Health and Mental Hygiene at all New York City Beaches. These water quality results are used by the Department to determine the status (open, advisory, closed) of Beaches.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Health and Mental Hygiene (DOHMH)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/2xir-kwzz/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 17100,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 349,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Health"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Units or Notes",
+        "Sample ID",
+        "Enterococci Results",
+        "Beach Name",
+        "Sample Location",
+        "Sample Date"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/2xir-kwzz",
+    "last_updated": "2017-02-03 23:12:52+00:00",
+    "protocol": "https",
+    "created": "2016-06-01 18:54:05+00:00"
+}

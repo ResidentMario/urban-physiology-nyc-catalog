@@ -1,0 +1,59 @@
+{
+    "name": "invoices-for-open-market-order-omo-charges",
+    "datapackage_version": "1.0-beta",
+    "title": "Invoices for Open Market Order (OMO) Charges",
+    "version": "N/A",
+    "keywords": [
+        "charges",
+        "hpd",
+        "department of housing preservation and development"
+    ],
+    "description": "Contains information about invoices submitted to HPD by private contractors under an OMO.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Housing Preservation and Development (HPD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/emrz-5p35/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 564000,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 668,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "SalesTax",
+        "PaymentID",
+        "OMONumber",
+        "InvoiceBillAmount",
+        "InvoiceDate",
+        "InvoicePayAmount",
+        "DateTransferDoF",
+        "InvoiceStatus",
+        "InvoiceSequenceID",
+        "InvoiceID",
+        "ChargeAmount",
+        "AdminFee"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/emrz-5p35",
+    "last_updated": "2017-05-08 21:35:25+00:00",
+    "protocol": "https",
+    "created": "2013-11-18 21:42:17+00:00"
+}

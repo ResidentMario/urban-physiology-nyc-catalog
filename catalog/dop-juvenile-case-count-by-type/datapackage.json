@@ -1,0 +1,52 @@
+{
+    "name": "dop-juvenile-case-count-by-type",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Juvenile Case Count By Type",
+    "version": "N/A",
+    "keywords": [
+        "case",
+        "dop",
+        "probation"
+    ],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/c49b-3kmd/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 49,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 45,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Supervision Caseload Count",
+        "Region",
+        "Supervision Caseload Type",
+        "Month",
+        "Year"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/c49b-3kmd",
+    "last_updated": "2017-04-27 19:29:12+00:00",
+    "protocol": "https",
+    "created": "2016-11-21 15:48:19+00:00"
+}

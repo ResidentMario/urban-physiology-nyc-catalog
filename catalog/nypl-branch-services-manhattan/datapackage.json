@@ -1,0 +1,71 @@
+{
+    "name": "nypl-branch-services-manhattan",
+    "datapackage_version": "1.0-beta",
+    "title": "NYPL Branch Services - Manhattan",
+    "version": "N/A",
+    "keywords": [
+        "community",
+        "libraries",
+        "recreation",
+        "culture",
+        "education"
+    ],
+    "description": "New York Public Library (NYPL) branch services from July 2010 to June 2011(Manhattan)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York Public Library (NYPL)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/3nja-bsch/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 43,
+    "columns": 22,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 633,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        " REFERENCE TRANSACTIONS Adult",
+        " TOTAL Attendance",
+        "ADULT Attendance",
+        "YOUNG ADULT Program",
+        "Weekly Hours of Public Service",
+        " REFERENCE TRANSACTIONS",
+        " REFERENCE TRANSACTIONS Juvenile",
+        " REFERENCE TRANSACTIONS Young Adult",
+        "YOUNG ADULT Attendance",
+        "JUVENILE Program",
+        "JUVENILE Attendance",
+        "OUTREACH SERVICES Program",
+        "OUTREACH SERVICES Attendance",
+        " TOTAL Program",
+        "Network",
+        "Branch",
+        "ADULT Program",
+        "CIRCULATION Adult",
+        "CIRCULATION",
+        "CIRCULATION Juvenile",
+        "Boro/Central Library",
+        "CIRCULATION Young Adult"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/3nja-bsch",
+    "last_updated": "2014-09-05 17:13:26+00:00",
+    "protocol": "https",
+    "created": "2011-10-31 15:38:37+00:00"
+}

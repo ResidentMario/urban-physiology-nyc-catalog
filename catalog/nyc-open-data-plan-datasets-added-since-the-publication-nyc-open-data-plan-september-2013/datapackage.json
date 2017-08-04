@@ -1,0 +1,50 @@
+{
+    "name": "nyc-open-data-plan-datasets-added-since-the-publication-nyc-open-data-plan-september-2013",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Open Data Plan - Datasets Added  Since The Publication NYC Open Data Plan ( September 2013)",
+    "version": "N/A",
+    "keywords": [
+        "doitt",
+        "open data plan"
+    ],
+    "description": "This dataset will provide the list of datasets added to the portal since the publication of the Inaugural NYC Open Data Plan ( September 2013)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/qnuk-aubm/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 199,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1957,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Dataset Description",
+        "Agency",
+        "Dataset",
+        "Update Frequency"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/qnuk-aubm",
+    "last_updated": "2014-09-08 23:53:24+00:00",
+    "protocol": "https",
+    "created": "2014-07-16 14:33:18+00:00"
+}

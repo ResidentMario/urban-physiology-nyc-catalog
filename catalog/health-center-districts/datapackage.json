@@ -1,0 +1,44 @@
+{
+    "name": "health-center-districts",
+    "datapackage_version": "1.0-beta",
+    "title": "Health Center Districts",
+    "version": "N/A",
+    "keywords": [
+        "gis data: boundaries of health districts"
+    ],
+    "description": "Health Center Districts - by Department of City Planning",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/b55q-34ps?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 3189.5830078125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 530,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Health"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/b55q-34ps",
+    "last_updated": "2017-03-09 17:01:04+00:00",
+    "protocol": "https",
+    "created": "2014-06-20 15:35:54+00:00"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "street-weekly-resurfacing-schedule-brooklyn",
+    "datapackage_version": "1.0-beta",
+    "title": "Street Weekly Resurfacing Schedule - Brooklyn",
+    "version": "N/A",
+    "keywords": [
+        "street resurfacing",
+        "dot",
+        "brooklyn",
+        "resurfacing schedule"
+    ],
+    "description": "Brooklyn Milling and Paving Schedule",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/psmp-cmuu/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 30,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 270,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Day & Date",
+        "CB",
+        "Area",
+        "Sa#",
+        "Location"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/psmp-cmuu",
+    "last_updated": "2017-01-26 17:58:22+00:00",
+    "protocol": "https",
+    "created": "2014-10-22 15:08:45+00:00"
+}

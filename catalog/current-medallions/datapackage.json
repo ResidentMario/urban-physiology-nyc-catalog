@@ -1,0 +1,58 @@
+{
+    "name": "current-medallions",
+    "datapackage_version": "1.0-beta",
+    "title": "Current Medallions",
+    "version": "N/A",
+    "keywords": [
+        "transportation",
+        "limousine",
+        "taxi",
+        "medallion"
+    ],
+    "description": "Spreadsheet of all TLC current medallions",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/avwq-z233/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 13300,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 4735,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "DMV License Plate",
+        "Hybrid_Accessible_CNG_OR_Stretch_Limousine_Vehicle",
+        "Model Year",
+        "Medallion Agent Number",
+        "Name of Licensee",
+        "Driver of Record Status",
+        "Type of Medallions (Ind or Minifleet)",
+        "License Type",
+        "License Number",
+        "VIN"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/avwq-z233",
+    "last_updated": "2014-09-05 17:18:07+00:00",
+    "protocol": "https",
+    "created": "2011-08-26 20:14:36+00:00"
+}

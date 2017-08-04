@@ -1,0 +1,59 @@
+{
+    "name": "watershed-water-quality-data",
+    "datapackage_version": "1.0-beta",
+    "title": "Watershed Water Quality Data",
+    "version": "N/A",
+    "keywords": [
+        "watershed",
+        "water",
+        "quality",
+        "turbidity",
+        "coliform"
+    ],
+    "description": "Results of daily source water monitoring for turbiditiy and fecal coliform at Delaware Aqueduct Shaft 18.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/y43c-5n92/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 819,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 534,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Average 24hrTurbidity(NTU)",
+        "Coliform, Fecal(fc/100mL)",
+        "Site",
+        "Date",
+        "Turbidity(NTU) at 12AM",
+        "Turbidity(NTU) at 4AM",
+        "Turbidity(NTU) at 8AM",
+        "Turbidity(NTU) at 12PM",
+        "Turbidity(NTU) at 4PM",
+        "Turbidity(NTU) at 8PM"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/y43c-5n92",
+    "last_updated": "2017-05-08 14:18:41+00:00",
+    "protocol": "https",
+    "created": "2015-02-24 22:18:06+00:00"
+}

@@ -1,0 +1,51 @@
+{
+    "name": "dop-juvenile-investigations-by-calendar-year",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Juvenile Investigations by Calendar Year",
+    "version": "N/A",
+    "keywords": [
+        "investigations",
+        "dop",
+        "juvenile",
+        "calendar year"
+    ],
+    "description": "The number of presentence investigation reports completed for juveniles during the reporting period.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/fsis-j6x5/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 55,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 215,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Borough",
+        "Calendar Year",
+        "Investigation Count"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/fsis-j6x5",
+    "last_updated": "2017-03-08 21:17:10+00:00",
+    "protocol": "https",
+    "created": "2014-02-26 21:30:43+00:00"
+}

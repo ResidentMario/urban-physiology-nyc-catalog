@@ -1,0 +1,80 @@
+{
+    "name": "housing-new-york-units-by-building",
+    "datapackage_version": "1.0-beta",
+    "title": "Housing New York Units by Building",
+    "version": "N/A",
+    "keywords": [
+        "development",
+        "housing",
+        "building",
+        "hpd"
+    ],
+    "description": "The Department of Housing Preservation and Development (HPD) reports on buildings, units, and projects that began after January 1, 2014 and are counted towards the Housing New York plan. The Housing New York Units by Building file presents this data by building, and includes building-level data, such as house number, street name, BBL, and BIN for each building in a project.  The unit counts are provided by building. For additional documentation, including a data dictionary, review the attachments in the \u201cAbout this Dataset\u201d section of the Primer landing page.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Housing Preservation and Development (HPD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hg8x-zxpr/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2142,
+    "columns": 32,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 378,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Census Tract",
+        "Community Board",
+        "BIN",
+        "BBL",
+        "Borough",
+        "Street Name",
+        "House Number",
+        "Building ID",
+        "Project Completion Date",
+        "Project Start Date",
+        "Project Name",
+        "Project ID",
+        "Total Units",
+        "All Counted Units",
+        "Counted Homeownership Units",
+        "Counted Rental Units",
+        "Other",
+        "Middle Income",
+        "Moderate Income",
+        "Low Income Units",
+        "Very Low Income",
+        "Extremely Low Income Units",
+        "Prevailing Wage Status",
+        "Extended Affordability Status",
+        "Reporting Construction Type",
+        "Building Completion Date",
+        "Longitude (Internal)",
+        "Latitude (Internal)",
+        "Longitude",
+        "Latitude",
+        "Neighborhood Tabulation Area",
+        "Council District"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hg8x-zxpr",
+    "last_updated": "2017-04-27 18:08:47+00:00",
+    "protocol": "https",
+    "created": "2016-12-13 18:44:07+00:00"
+}

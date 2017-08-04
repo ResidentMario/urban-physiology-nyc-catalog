@@ -1,0 +1,65 @@
+{
+    "name": "upcoming-contracts-to-be-awarded-cip",
+    "datapackage_version": "1.0-beta",
+    "title": "Upcoming contracts to be awarded (CIP)",
+    "version": "N/A",
+    "keywords": [
+        "design",
+        "school",
+        "construction",
+        "authority",
+        "sca",
+        "project",
+        "improvement",
+        "capital",
+        "complete",
+        "completion",
+        "education",
+        "bid"
+    ],
+    "description": "New school projects Capital Improvement Projects (CIP) that will complete design within the next 6 months and will be available for bid.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/tsak-vtv3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 353,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 411,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Upcoming Project Design Completion Date",
+        "Upcoming Project Name",
+        "Upcoming Project Budget Range",
+        "Upcoming Project Status ",
+        "Upcoming Project Category",
+        "Upcoming Project Borough ",
+        "Upcoming Project Description",
+        "Upcoming Project Design Number",
+        "Upcoming Project Geographic District"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/tsak-vtv3",
+    "last_updated": "2017-05-08 19:33:36+00:00",
+    "protocol": "https",
+    "created": "2013-08-22 19:06:52+00:00"
+}

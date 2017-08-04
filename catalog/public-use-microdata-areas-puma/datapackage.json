@@ -1,0 +1,42 @@
+{
+    "name": "public-use-microdata-areas-puma",
+    "datapackage_version": "1.0-beta",
+    "title": "Public Use Microdata Areas (PUMA)",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Shapefile of NYC Public Use Microdata Areas (PUMAs). PUMAs are statistical geographic areas defined for the dissemination of Public Use Microdata Sample (PUMS) data. PUMAs have a minimum population of 100,000, are aggregated from census tracts, and approximate Community Districts (CDs), or combinations of CDs (There are 59 CDs and only 55 NYC PUMAs because of such combinations). This geography is also used for disseminating American Community Survey (ACS) estimates.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/cwiz-gcty?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 3390.1396484375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 990,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/cwiz-gcty",
+    "last_updated": "2017-03-08 22:24:16+00:00",
+    "protocol": "https",
+    "created": "2015-07-14 17:23:58+00:00"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "fdny-firehouse-listing",
+    "datapackage_version": "1.0-beta",
+    "title": "FDNY Firehouse Listing",
+    "version": "N/A",
+    "keywords": [
+        "fire station",
+        "911",
+        "community board",
+        "emergency",
+        "fd",
+        "fdny",
+        "station",
+        "fire department",
+        "fire house",
+        "fires"
+    ],
+    "description": "Listing of all NYC fire houses with addresses",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Fire Department of New York City (FDNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hc8x-tcnd/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 219,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 13718,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "FacilityAddress",
+        "Borough",
+        "FacilityName"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hc8x-tcnd",
+    "last_updated": "2014-09-05 17:00:34+00:00",
+    "protocol": "https",
+    "created": "2011-07-30 00:10:56+00:00"
+}

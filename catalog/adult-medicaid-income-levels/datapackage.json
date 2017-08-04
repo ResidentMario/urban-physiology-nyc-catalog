@@ -1,0 +1,56 @@
+{
+    "name": "adult-medicaid-income-levels",
+    "datapackage_version": "1.0-beta",
+    "title": "Adult Medicaid income levels",
+    "version": "N/A",
+    "keywords": [
+        "adult",
+        "medicaid",
+        "jobs and economic mobility",
+        "hra",
+        "human resources administration"
+    ],
+    "description": "This table represents details of Medicaid (coverage for Adults). Medicaid provides free health insurance for low-income adults. Eligible adults receive their medical care through a managed care plan or fee-for-service. While your application is being processed, Medicaid may provide up to 90 days of retroactive coverage for unpaid medical bills, if you are eligible during those 90 days.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/r69u-62nw/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 259,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Each Additional Person Add",
+        "Family Size (4 nos.) Monthly Income",
+        "Family Size (2 nos.) Monthly Income",
+        "Family Size (3 nos.) Monthly Income",
+        "Family Size (5 nos.) Monthly Income",
+        "Family Size (no.)",
+        "Family Size (1 ind.) Monthly Income"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/r69u-62nw",
+    "last_updated": "2016-03-02 20:03:56+00:00",
+    "protocol": "https",
+    "created": "2013-03-19 18:03:27+00:00"
+}

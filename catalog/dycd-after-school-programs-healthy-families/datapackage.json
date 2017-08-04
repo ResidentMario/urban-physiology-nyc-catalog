@@ -1,0 +1,79 @@
+{
+    "name": "dycd-after-school-programs-healthy-families",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD after-school programs: Healthy Families",
+    "version": "N/A",
+    "keywords": [
+        "aids",
+        "after-school programs",
+        "adult health awareness and prevention",
+        "advocacy",
+        "after-school",
+        "young parent education and family support",
+        "substance abuse education and prevention",
+        "stat",
+        "school",
+        "programs",
+        "lifelong learning",
+        "jobs and economic mobility",
+        "housing assistance and advocacy",
+        "housing",
+        "hiv/aids support services",
+        "hiv/aids",
+        "hiv",
+        "healthstat",
+        "health",
+        "fatherhood initiative",
+        "family support",
+        "family",
+        "development",
+        "community development",
+        "community",
+        "children",
+        "child"
+    ],
+    "description": "Facilities in New York City, by agency and site, that offer \u201cHealthy Family\u201d after-school Family Support Programs, such as programs in Housing Assistance and Advocacy, Adult Health Awareness and Prevention, HIV/AIDS Support Services, Young Parent Education and Family Support, Substance Abuse Education and Prevention, and the Fatherhood Initiative.\r\nUpdate Frequency: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/yqkf-i7a4/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 162,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 400,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Contact Number",
+        "PROGRAM TYPE",
+        "Location 1",
+        "Grade Level / Age Group ",
+        "BOROUGH / COMMUNITY",
+        "SITE NAME",
+        "AGENCY",
+        "PROGRAM"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/yqkf-i7a4",
+    "last_updated": "2014-09-05 17:03:19+00:00",
+    "protocol": "https",
+    "created": "2011-09-02 21:21:26+00:00"
+}

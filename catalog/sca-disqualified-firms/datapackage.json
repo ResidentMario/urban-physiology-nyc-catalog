@@ -1,0 +1,61 @@
+{
+    "name": "sca-disqualified-firms",
+    "datapackage_version": "1.0-beta",
+    "title": "SCA Disqualified Firms",
+    "version": "N/A",
+    "keywords": [
+        "authority",
+        "company",
+        "construction",
+        "disqualification",
+        "disqualified",
+        "disqualify",
+        "education",
+        "firm",
+        "work",
+        "sca",
+        "trade",
+        "school",
+        "companies"
+    ],
+    "description": "List of firms that are disqualified to work for the SCA. The file includes the term of the firms' disqualification. If the 'disqualified to date' is empty, the firm is disqualified indefinitely.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/krwf-eng6/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 263,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 855,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Disqualified From Date",
+        "Vendor Name",
+        "Vendor Status",
+        "Disqualified To Date"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/krwf-eng6",
+    "last_updated": "2017-05-30 21:02:26+00:00",
+    "protocol": "https",
+    "created": "2013-04-18 15:19:03+00:00"
+}

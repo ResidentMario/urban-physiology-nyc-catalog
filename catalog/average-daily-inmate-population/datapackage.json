@@ -1,0 +1,54 @@
+{
+    "name": "average-daily-inmate-population",
+    "datapackage_version": "1.0-beta",
+    "title": "Average Daily Inmate Population",
+    "version": "N/A",
+    "keywords": [
+        "jail",
+        "inmate",
+        "rikers",
+        "population",
+        "arrest",
+        "corrections",
+        "prison",
+        "facility"
+    ],
+    "description": "Average daily inmate population by fiscal year\n\nNote: The data for each of these indicators is based upon year of report, not year of occurrence.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Correction (DOC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/26ze-s5bx/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 10,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1931,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Fiscal year",
+        "Inmate Population"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/26ze-s5bx",
+    "last_updated": "2014-09-05 18:09:30+00:00",
+    "protocol": "https",
+    "created": "2011-10-06 23:50:47+00:00"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "map-of-nycha-developments",
+    "datapackage_version": "1.0-beta",
+    "title": "Map of NYCHA Developments",
+    "version": "N/A",
+    "keywords": [
+        "gis",
+        "nyc housing",
+        "facilities",
+        "map of nycha developments",
+        "residential",
+        "nycha",
+        "building sizes"
+    ],
+    "description": "Locations of the public housing developments of the New York City Housing Authority as of July 2016.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York City Housing Authority (NYCHA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/i9rv-hdr5?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 646.3427734375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 27343,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/i9rv-hdr5",
+    "last_updated": "2016-09-15 21:40:32+00:00",
+    "protocol": "https",
+    "created": "2013-03-29 13:43:46+00:00"
+}

@@ -1,0 +1,46 @@
+{
+    "name": "hydrography-structures",
+    "datapackage_version": "1.0-beta",
+    "title": "Hydrography Structures",
+    "version": "N/A",
+    "keywords": [
+        "doitt gis",
+        "planimetrics",
+        "doittgis"
+    ],
+    "description": "Hydrography Structures. Please see the following link for additional documentation- https://github.com/CityOfNewYork/nyc-planimetrics/blob/master/Capture_Rules.md.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/53au-zf7x?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 5711.7685546875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 641,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/53au-zf7x",
+    "last_updated": "2016-08-27 18:23:12+00:00",
+    "protocol": "https",
+    "created": "2014-11-18 00:03:40+00:00"
+}

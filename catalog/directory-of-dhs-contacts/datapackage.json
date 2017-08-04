@@ -1,0 +1,53 @@
+{
+    "name": "directory-of-dhs-contacts",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Of DHS Contacts",
+    "version": "N/A",
+    "keywords": [
+        "homeless",
+        "phone",
+        "dhs",
+        "department",
+        "contact"
+    ],
+    "description": "Important Phone Numbers of DHS Departments",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Homeless Services (DHS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/cete-9g3v/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 9,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2447,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Location",
+        "Phone Number",
+        "Department Name",
+        "Comments"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/cete-9g3v",
+    "last_updated": "2014-09-05 17:39:07+00:00",
+    "protocol": "https",
+    "created": "2013-01-30 22:26:12+00:00"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "village-alliance-merchants",
+    "datapackage_version": "1.0-beta",
+    "title": "Village Alliance Merchants",
+    "version": "N/A",
+    "keywords": [
+        "business",
+        "merchants",
+        "directory",
+        "directories",
+        "businesses"
+    ],
+    "description": "A business directory of Village Alliance Merchants.\r\nUpdate Frequency: As needed",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Village Alliance"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/grbs-nm2g/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 296,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 643,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "(none)",
+        "NAME",
+        "Location 1",
+        "ST. #",
+        "ST",
+        "PHONE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/grbs-nm2g",
+    "last_updated": "2014-09-06 00:12:08+00:00",
+    "protocol": "https",
+    "created": "2011-09-30 19:32:35+00:00"
+}

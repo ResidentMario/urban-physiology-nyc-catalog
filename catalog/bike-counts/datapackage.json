@@ -1,0 +1,43 @@
+{
+    "name": "bike-counts",
+    "datapackage_version": "1.0-beta",
+    "title": "Bike Counts",
+    "version": "N/A",
+    "keywords": [
+        "bike",
+        "transportation",
+        "bicycle",
+        "dcp",
+        "traffic"
+    ],
+    "description": "Bicycle traffic counts collected at 16 locations (11 on-street, 5 greenway).",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 117.62109375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 1155,
+    "preferred_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "xlsx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/sf3b-xntp",
+    "last_updated": "2017-01-20 19:42:41+00:00",
+    "protocol": "https",
+    "created": "2015-02-17 16:27:58+00:00"
+}

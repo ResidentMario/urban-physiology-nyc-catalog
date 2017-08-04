@@ -1,0 +1,51 @@
+{
+    "name": "transportable-classroom-units-buildings-schools",
+    "datapackage_version": "1.0-beta",
+    "title": "Transportable Classroom Units- Buildings & Schools",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Transportable Classroom Units- Buildings & Schools",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/gshi-yqza/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 493,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 137,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "ORGANIZATION NAME ",
+        "BLDG",
+        "FUNCTION",
+        "ROOM NO",
+        "CAPACITY",
+        "JUR DIST",
+        "COUNCIL DIST",
+        "ORG"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/gshi-yqza",
+    "last_updated": "2015-03-02 22:13:27+00:00",
+    "protocol": "https",
+    "created": "2015-03-02 22:12:07+00:00"
+}

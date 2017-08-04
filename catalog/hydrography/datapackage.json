@@ -1,0 +1,47 @@
+{
+    "name": "hydrography",
+    "datapackage_version": "1.0-beta",
+    "title": "Hydrography",
+    "version": "N/A",
+    "keywords": [
+        "nyc",
+        "hydrography",
+        "planimetrics",
+        "doitt gis"
+    ],
+    "description": "Planimetric basemap layer containing hydrography. Please see the following link for additional documentation- https://github.com/CityOfNewYork/nyc-planimetrics/blob/master/Capture_Rules.md.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/drh3-e2fd?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 22736.7509765625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1791,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/drh3-e2fd",
+    "last_updated": "2016-08-27 18:28:49+00:00",
+    "protocol": "https",
+    "created": "2014-06-25 18:31:24+00:00"
+}

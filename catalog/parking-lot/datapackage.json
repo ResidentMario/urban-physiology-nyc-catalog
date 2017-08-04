@@ -1,0 +1,56 @@
+{
+    "name": "parking-lot",
+    "datapackage_version": "1.0-beta",
+    "title": "Parking Lot",
+    "version": "N/A",
+    "keywords": [
+        "meter",
+        "park",
+        "planimetrics",
+        "map",
+        "cars",
+        "doitt gis",
+        "doittgis",
+        "lot",
+        "parking",
+        "parking lot features",
+        "geographic",
+        "location",
+        "cartography"
+    ],
+    "description": "Planimetric basemap polygon layer containing parking lot features. Please see the following link for additional documentation- https://github.com/CityOfNewYork/nyc-planimetrics/blob/master/Capture_Rules.md.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/h7zy-iq3d?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 41602.236328125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1107,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/h7zy-iq3d",
+    "last_updated": "2016-08-27 18:23:22+00:00",
+    "protocol": "https",
+    "created": "2014-10-07 22:27:15+00:00"
+}

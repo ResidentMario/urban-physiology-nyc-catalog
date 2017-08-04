@@ -1,0 +1,68 @@
+{
+    "name": "graduation-outcomes-classes-of-2005-2010-school-level",
+    "datapackage_version": "1.0-beta",
+    "title": "Graduation Outcomes - Classes Of 2005-2010 - School Level",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning"
+    ],
+    "description": "Graduation Outcomes - Cohorts of 2001 through 2006 (Classes of 2005 through 2010) \r\n\u00b6\u00b6\u2022The New York State calculation method was first adopted for the Cohort of 2001 (Class of 2005). The cohort consists of all students who first entered 9th grade in a given school year (e.g., the Cohort of 2006 entered 9th grade in the 2006-2007 school year). Graduates are defined as those students earning either a Local or Regents diploma and exclude those earning either a special education (IEP) diploma or GED. For the most recent cohort, graduation rates as of both June and August (including summer graduates) are reported. \r\n\u00b6\u00b6\u2022Records with cohorts of 20 students or less are suppressed. August outcomes are only reported for the most recent cohort. \r\n\u00b6\u00b6\u2022August outcomes include all June and August graduates. In school-level reporting, students who were in a school for less than 5 months are not included in the school\u2019s cohort, but are included in citywide totals. \r\n\u00b6\u00b6\u2022School level results are not presented for District 79 schools, but their outcomes are included in citywide totals. \r\n\u00b6\u00b6\u2022Schools are listed by their current DBN's.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/vh2h-md7a/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 25100,
+    "columns": 23,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 3182,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Regents w/o Advanced - % of grads",
+        "Advanced Regents - % of grads",
+        "Regents w/o Advanced - n",
+        "Advanced Regents - n",
+        "Total Regents - % of cohort",
+        "Dropped Out - n",
+        "Local - % of grads",
+        "DBN",
+        "Still Enrolled - % of cohort",
+        "Demographic",
+        "Cohort",
+        "Local - n",
+        "School Name",
+        "Regents w/o Advanced - % of cohort",
+        "Local - % of cohort",
+        "Dropped Out - % of cohort",
+        "Still Enrolled - n",
+        "Advanced Regents - % of cohort",
+        "Total Regents - % of grads",
+        "Total Grads - n",
+        "Total Cohort",
+        "Total Regents - n",
+        "Total Grads - % of cohort"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/vh2h-md7a",
+    "last_updated": "2014-09-05 17:10:35+00:00",
+    "protocol": "https",
+    "created": "2011-10-18 20:28:07+00:00"
+}

@@ -1,0 +1,67 @@
+{
+    "name": "financial-empowerment-centers",
+    "datapackage_version": "1.0-beta",
+    "title": "Financial Empowerment Centers",
+    "version": "N/A",
+    "keywords": [
+        "financial empowerment centers",
+        "consumer",
+        "department of consumer affairs",
+        "empowerment",
+        "socialservices",
+        "nycofe",
+        "empowerment center",
+        "dca",
+        "bigapps",
+        "big apps",
+        "business",
+        "city government",
+        "finance",
+        "financial empowerment"
+    ],
+    "description": "This is a list of the Department of Consumer Affairs' Financial Empowerment Centers. It includes the Financial Empowerment Center site name/partners, site location, hours, and languages spoken.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Consumer Affairs (DCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/dt2z-amuf/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 26,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 854,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "City ",
+        "Hours",
+        "Language(s)",
+        "Provider",
+        "Telephone",
+        "Host Organization",
+        "Site Location Address",
+        "Zip Code",
+        "Days Open"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/dt2z-amuf",
+    "last_updated": "2016-03-17 19:45:28+00:00",
+    "protocol": "https",
+    "created": "2013-02-25 15:23:08+00:00"
+}

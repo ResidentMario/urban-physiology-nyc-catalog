@@ -1,0 +1,55 @@
+{
+    "name": "miny-vendors",
+    "datapackage_version": "1.0-beta",
+    "title": "MINY Vendors",
+    "version": "N/A",
+    "keywords": [
+        "vendor",
+        "program",
+        "cartography",
+        "development",
+        "economic",
+        "economy",
+        "incentive",
+        "location",
+        "made in ny incentive program",
+        "map",
+        "miny",
+        "basemap"
+    ],
+    "description": "MINY Vendors",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Made in New York (MINY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/79z8-9mcf?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 469.75390625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1848,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/79z8-9mcf",
+    "last_updated": "2016-08-27 18:28:19+00:00",
+    "protocol": "https",
+    "created": "2013-04-09 16:02:26+00:00"
+}

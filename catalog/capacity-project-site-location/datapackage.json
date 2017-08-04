@@ -1,0 +1,51 @@
+{
+    "name": "capacity-project-site-location",
+    "datapackage_version": "1.0-beta",
+    "title": "Capacity Project Site Location",
+    "version": "N/A",
+    "keywords": [
+        "sca",
+        "project",
+        "construction"
+    ],
+    "description": "New or replacement capacity sites.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYC School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/tesz-9suw/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 45,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 58,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "DISTRICT",
+        "LOCATION",
+        "BOROUGH",
+        "SCHOOL"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/tesz-9suw",
+    "last_updated": "2017-05-02 15:11:48+00:00",
+    "protocol": "https",
+    "created": "2016-05-31 21:48:29+00:00"
+}

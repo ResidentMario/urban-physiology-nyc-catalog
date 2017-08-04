@@ -1,0 +1,70 @@
+{
+    "name": "trade-waste-broker-registrants",
+    "datapackage_version": "1.0-beta",
+    "title": "Trade Waste Broker Registrants",
+    "version": "N/A",
+    "keywords": [
+        "registrant",
+        "nycbic",
+        "bic",
+        "brokers",
+        "cl2-broker",
+        "trade waste broker",
+        "trade waste"
+    ],
+    "description": "\"The following companies have been issued trade waste broker's registrations by the Business Integrity Commission. They are authorized to broker agreements between business customers and trade waste removal\r\ncompanies and/or to conduct evaluations of the customers' waste stream in order to recommend cost efficient means of waste disposal or other changes.\"",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Business Integrity Commission"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/krx7-u82t/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2942,
+    "columns": 19,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 171,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "PHONE",
+        "CREATED",
+        "BIC_NUMBER",
+        "ACCOUNT NAME",
+        "TRADE NAME",
+        "ADDRESS",
+        "CITY",
+        "COUNCIL_DISTRICT",
+        "STATE",
+        "POSTCODE",
+        "APPLICATION TYPE",
+        "EXPORT DATE",
+        "LATITUDE",
+        "LONGITUDE",
+        "COMMUNITY_BOARD",
+        "NTA",
+        "BBL",
+        "BIN",
+        "CENSUS_TRACT"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/krx7-u82t",
+    "last_updated": "2017-05-31 20:06:40+00:00",
+    "protocol": "https",
+    "created": "2017-03-28 18:10:06+00:00"
+}

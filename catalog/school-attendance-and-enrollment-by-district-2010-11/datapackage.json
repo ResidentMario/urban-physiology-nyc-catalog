@@ -1,0 +1,48 @@
+{
+    "name": "school-attendance-and-enrollment-by-district-2010-11",
+    "datapackage_version": "1.0-beta",
+    "title": "School Attendance And Enrollment By District - 2010-11",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning"
+    ],
+    "description": "2010- 11 Attendance & Enrollment (Unaudited) by District as of December 31, 2010\r\n\r\nCharter Schools, Community-Based Organizations (Pre-K), Home Instruction, and Hospital Schools are not included.\r\nAttendance averages based on each districts associated data.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/rfpq-hs49/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 35,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1300,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "YTD % Attendance (Avg)",
+        "District",
+        "YTD Enrollment (Avg)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/rfpq-hs49",
+    "last_updated": "2014-09-05 17:38:32+00:00",
+    "protocol": "https",
+    "created": "2011-10-06 22:03:38+00:00"
+}

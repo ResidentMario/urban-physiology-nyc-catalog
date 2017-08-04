@@ -1,0 +1,55 @@
+{
+    "name": "nycha-resident-jobs-programs-and-training",
+    "datapackage_version": "1.0-beta",
+    "title": "NYCHA Resident Jobs Programs and Training",
+    "version": "N/A",
+    "keywords": [
+        "nycha",
+        "job readiness",
+        "job preparation",
+        "nyc housing",
+        "job training"
+    ],
+    "description": "Job preparation or training programs",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York City Housing Authority (NYCHA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/an6v-iuem/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1502,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Program Description",
+        "Program Name",
+        "Contact",
+        "Locations",
+        "Eligibility",
+        "Program Details"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/an6v-iuem",
+    "last_updated": "2014-09-05 17:57:26+00:00",
+    "protocol": "https",
+    "created": "2013-03-28 19:31:09+00:00"
+}

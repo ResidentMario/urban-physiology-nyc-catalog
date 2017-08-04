@@ -1,0 +1,48 @@
+{
+    "name": "environmentally-preferable-purchasing-fy15-goods",
+    "datapackage_version": "1.0-beta",
+    "title": "Environmentally Preferable Purchasing  FY15 - Goods",
+    "version": "N/A",
+    "keywords": [],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Contract Services (MOCS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/jt9i-9gxr/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 13,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 32,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Contract Start/ End Dates",
+        "Registration Date",
+        "Contract Value",
+        "EPP Minimum Standard Indicated?",
+        "Description "
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/jt9i-9gxr",
+    "last_updated": "2015-12-18 22:39:57+00:00",
+    "protocol": "https",
+    "created": "2015-12-17 17:42:35+00:00"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "safety-net-assistance-sna-recipients",
+    "datapackage_version": "1.0-beta",
+    "title": "Safety Net Assistance (SNA) recipients",
+    "version": "N/A",
+    "keywords": [
+        "hra",
+        "trends",
+        "safety net assistance (sna) recipients",
+        "human resources"
+    ],
+    "description": "Monthly trends of people receiving safety net assistance.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ect6-rj3p/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 251,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 337,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Total Safety Net Assistance Recipients",
+        "Month"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ect6-rj3p",
+    "last_updated": "2016-11-04 14:09:11+00:00",
+    "protocol": "https",
+    "created": "2013-05-20 22:13:53+00:00"
+}

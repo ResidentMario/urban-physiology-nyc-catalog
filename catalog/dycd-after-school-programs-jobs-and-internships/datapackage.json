@@ -1,0 +1,82 @@
+{
+    "name": "dycd-after-school-programs-jobs-and-internships",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD after-school programs: Jobs and Internships",
+    "version": "N/A",
+    "keywords": [
+        "adult",
+        "adult employment",
+        "after-school",
+        "bigapps",
+        "big apps",
+        "#centerfordebtoreducation",
+        "child",
+        "children",
+        "community",
+        "community development",
+        "development",
+        "education",
+        "#education",
+        "employment",
+        "in-school youth employment",
+        "internship",
+        "internships",
+        "(isy)",
+        "job",
+        "jobs",
+        "jobs and economic mobility",
+        "lifelong learning",
+        "(osy)",
+        "out-of-school youth employment",
+        "school",
+        "services",
+        "#socialservices",
+        "summer",
+        "summer youth employment",
+        "youth"
+    ],
+    "description": "Facilities in New York City, by agency and site, that offer the following after-school  job and internship programs: Summer Youth Employment, In-School Youth Employment (ISY), Out-of-School Youth Employment (OSY), Youth Employment, and Adult Employment Programs for children in age groups 14 to 24, 16 to 21, children in all grades, and adults.    Update Schedule: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/99br-frp6/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 208,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 821,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Grade Level / Age Group ",
+        "Location 1",
+        "Contact Number",
+        "PROGRAM TYPE",
+        "SITE NAME",
+        "PROGRAM",
+        "AGENCY",
+        "BOROUGH / COMMUNITY"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/99br-frp6",
+    "last_updated": "2014-09-05 17:18:35+00:00",
+    "protocol": "https",
+    "created": "2011-09-01 17:11:12+00:00"
+}

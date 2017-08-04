@@ -1,0 +1,64 @@
+{
+    "name": "english-language-arts-ela-test-results-2006-2012-citywide-swd",
+    "datapackage_version": "1.0-beta",
+    "title": "English Language Arts (ELA) Test Results 2006-2012 - Citywide - SWD",
+    "version": "N/A",
+    "keywords": [
+        "grade",
+        "citywide",
+        "ela test",
+        "english language arts",
+        "lifelong learning"
+    ],
+    "description": "Latest available data and trends in the state assessment results of English Language Arts for grades 3 through 8. Data are disaggregated citywide and student with disabilities.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/d72n-ivax/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 98,
+    "columns": 15,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 97,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Pct Level 4",
+        "Num Level 3 and 4",
+        "Pct Level 3",
+        "Num Level 4",
+        "Pct Level 2",
+        "Num Level 2",
+        "Pct Level 3 and 4",
+        "Pct Level 1",
+        "Num Level 1",
+        "Mean Scale Score",
+        "Number Tested",
+        "Demographic",
+        "Grade",
+        "Year",
+        "Num Level 3"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/d72n-ivax",
+    "last_updated": "2014-09-05 17:47:30+00:00",
+    "protocol": "https",
+    "created": "2013-02-20 22:03:43+00:00"
+}

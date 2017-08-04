@@ -1,0 +1,65 @@
+{
+    "name": "math-test-results-2006-2012-school-ethnicity",
+    "datapackage_version": "1.0-beta",
+    "title": "Math Test Results 2006-2012 - School - Ethnicity",
+    "version": "N/A",
+    "keywords": [
+        "math test result",
+        "lifelong learning",
+        "grade",
+        "ethnicity",
+        "school"
+    ],
+    "description": "Latest available data and trends in the state assessment results of math for grades 3 through 8. Data are disaggregated by school and ethnicity.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/3tfu-x2qk/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 117000,
+    "columns": 16,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 465,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Num Level 2",
+        "Pct Level 3",
+        "Pct Level 2",
+        "Demographic",
+        "Num Level 1",
+        "Grade",
+        "Pct Level 1",
+        "Number Tested",
+        "Num Level 4",
+        "Num Level 3 and 4",
+        "Pct Level 4",
+        "Mean Scale Score",
+        "Year",
+        "Num Level 3",
+        "Pct Level 3 and 4",
+        "DBN"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/3tfu-x2qk",
+    "last_updated": "2014-09-05 17:56:03+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 02:53:49+00:00"
+}

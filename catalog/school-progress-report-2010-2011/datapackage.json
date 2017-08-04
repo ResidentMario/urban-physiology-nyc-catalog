@@ -1,0 +1,64 @@
+{
+    "name": "school-progress-report-2010-2011",
+    "datapackage_version": "1.0-beta",
+    "title": "School Progress Report 2010-2011",
+    "version": "N/A",
+    "keywords": [
+        "school progress report",
+        "report card",
+        "lifelong learning"
+    ],
+    "description": "Progress Reports grade each school with an A, B, C, D, or F. \u00a0These reports focus on a school's learning environment, student performance, and student progress.\u00a0 They were designed to help parents, teachers, principals, and others understand how well schools are doing\u2014and compare them to other, similar schools.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/upwt-zvh3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1715,
+    "columns": 17,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 825,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2009-10 PROGRESS REPORT GRADE",
+        "2010-2011 ADDITIONAL CREDIT",
+        "2010-2011 PERFORMANCE GRADE",
+        "2010-2011 ENVIRONMENT GRADE",
+        "2010-2011 ENVIRONMENT CATEGORY SCORE",
+        "DISTRICT",
+        "2010-2011 PROGRESS CATEGORY SCORE",
+        "2010-2011 OVERALL GRADE",
+        "PROGRESS REPORT TYPE",
+        "2010-2011 OVERALL SCORE",
+        "PEER INDEX*",
+        "SCHOOL LEVEL*",
+        "PRINCIPAL",
+        "SCHOOL",
+        "2010-2011 PROGRESS GRADE",
+        "2010-2011 PERFORMANCE CATEGORY SCORE",
+        "DBN"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/upwt-zvh3",
+    "last_updated": "2014-09-05 17:03:37+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 04:38:19+00:00"
+}

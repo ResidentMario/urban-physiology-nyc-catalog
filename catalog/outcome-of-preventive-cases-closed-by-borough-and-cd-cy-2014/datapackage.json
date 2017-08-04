@@ -1,0 +1,41 @@
+{
+    "name": "outcome-of-preventive-cases-closed-by-borough-and-cd-cy-2014",
+    "datapackage_version": "1.0-beta",
+    "title": "Outcome of Preventive Cases Closed By Borough And CD (CY 2014)",
+    "version": "N/A",
+    "keywords": [
+        "acs",
+        "administration for children's services (acs)",
+        "outcome of preventive cases closed by borough and cd (cy 2014)"
+    ],
+    "description": "Outcome of Preventive Cases Closed By Borough And Community District",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Administration for Children's Services (ACS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 103.25,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 21,
+    "preferred_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "topics_provided": [
+        ""
+    ],
+    "preferred_format": "xlsx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/q663-gvx6",
+    "last_updated": "2016-06-06 16:53:43+00:00",
+    "protocol": "https",
+    "created": "2016-06-06 16:46:56+00:00"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "procurements-by-size",
+    "datapackage_version": "1.0-beta",
+    "title": "Procurements by Size",
+    "version": "N/A",
+    "keywords": [
+        "procurement",
+        "otm",
+        "size",
+        "fiscal year"
+    ],
+    "description": "Summary table of procurements in the fiscal year grouped by agency and size",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of the Mayor (OTM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ewmy-2fww/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 175,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 170,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Budget Size",
+        "2014 FYValue",
+        "2013 FYCount",
+        "2013 FY Value",
+        "2012 FYCount",
+        "Agency",
+        "2012 FY Value",
+        "2011 FYCount",
+        "2014 FYCount",
+        "2011 FY Value"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ewmy-2fww",
+    "last_updated": "2017-04-06 14:19:55+00:00",
+    "protocol": "https",
+    "created": "2014-10-23 21:02:19+00:00"
+}

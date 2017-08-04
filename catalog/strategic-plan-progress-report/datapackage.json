@@ -1,0 +1,55 @@
+{
+    "name": "strategic-plan-progress-report",
+    "datapackage_version": "1.0-beta",
+    "title": "Strategic Plan Progress Report",
+    "version": "N/A",
+    "keywords": [
+        "metrics",
+        "doitt",
+        "technology",
+        "plan"
+    ],
+    "description": "Key performance indicators for the objectives enumerated in DoITT's Strategic Plan: 2015-2017. Click here to view the report - http://www1.nyc.gov/assets/doitt/downloads/pdf/strategic-plan-2015-progress-report.pdf.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology and Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/nja7-3m37/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 63,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 64,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Metric",
+        "4Q 2015 Measure",
+        "KPI Definition",
+        "Key Performance Indicator",
+        "Baseline Measure 3Q 2015",
+        "Goal",
+        "Objective"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/nja7-3m37",
+    "last_updated": "2017-02-06 16:49:32+00:00",
+    "protocol": "https",
+    "created": "2016-05-23 15:07:37+00:00"
+}

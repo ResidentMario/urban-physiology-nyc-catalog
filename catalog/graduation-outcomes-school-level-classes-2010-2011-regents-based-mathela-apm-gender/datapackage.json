@@ -1,0 +1,58 @@
+{
+    "name": "graduation-outcomes-school-level-classes-2010-2011-regents-based-mathela-apm-gender",
+    "datapackage_version": "1.0-beta",
+    "title": "Graduation Outcomes - School Level - Classes 2010-2011 - Regents-based Math/ELA APM - Gender",
+    "version": "N/A",
+    "keywords": [
+        "gender",
+        "lifelong learning",
+        "graduation outcome",
+        "school",
+        "apm"
+    ],
+    "description": "Latest available data and trends in NYSED's Regents-based Aspirational Performance Measure (APM) by school and Gender",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/qrz6-23fw/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1498,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 243,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "DBN",
+        "Pct of cohort achieving APM",
+        "Demographic",
+        "Total Cohort Num",
+        "School Name",
+        "Total Grads Num",
+        "Cohort Year",
+        "Pct of graduates achieving APM",
+        "Num achieving APM "
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/qrz6-23fw",
+    "last_updated": "2014-09-05 17:12:42+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 02:33:43+00:00"
+}

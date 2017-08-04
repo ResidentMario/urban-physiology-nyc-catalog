@@ -1,0 +1,68 @@
+{
+    "name": "where-incidents-that-led-to-a-complaint-took-place-by-precinct-bronx-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "Where Incidents That Led To A Complaint Took Place By Precinct - Bronx 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "2008",
+        "2009",
+        "activity",
+        "civilian",
+        "2005",
+        "complaint",
+        "complaint activity",
+        "2006",
+        "2007",
+        "statistics",
+        "review",
+        "misconduct",
+        "disciplinary recommendation",
+        "board",
+        "ccrb",
+        "civilian complaint review board",
+        "allegation"
+    ],
+    "description": "CCRB: Where Incidents that Led to a Complaint Took Place by Precinct - Bronx 2005 - 2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/yanz-4hj5/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 13,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 212,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2009",
+        "2006",
+        "2007",
+        "Bronx",
+        "2005",
+        "Total",
+        "2008"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/yanz-4hj5",
+    "last_updated": "2014-09-05 18:10:24+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 20:40:25+00:00"
+}

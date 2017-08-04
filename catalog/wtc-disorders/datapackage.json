@@ -1,0 +1,53 @@
+{
+    "name": "wtc-disorders",
+    "datapackage_version": "1.0-beta",
+    "title": "WTC Disorders",
+    "version": "N/A",
+    "keywords": [
+        "environmental health center",
+        "healthy living",
+        "patient",
+        "world trade center",
+        "wtc",
+        "disorder",
+        "health"
+    ],
+    "description": "The New York City Health and Hospitals Corporation (HHC) World Trade Center (WTC) Environmental Health Center program, one of three Centers of Excellence in New York City, provides medical and mental healthcare to residents, students, workers, and passersby who may still be sick from 9/11.  This data shows the major disorders suffered by patients who were enrolled between 4/1/2010 and 3/31/2011..\r\nUpdate Frequency: As needed",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Health and Hospitals Corporation (HHC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/au2v-djg4/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 4,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1045,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Health"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "DISORDER",
+        "PERCENTAGE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/au2v-djg4",
+    "last_updated": "2014-09-05 17:27:21+00:00",
+    "protocol": "https",
+    "created": "2011-09-30 18:45:42+00:00"
+}

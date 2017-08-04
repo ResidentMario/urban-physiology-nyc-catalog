@@ -1,0 +1,45 @@
+{
+    "name": "map-of-nycha-community-engagement-partnership-zones",
+    "datapackage_version": "1.0-beta",
+    "title": "Map of NYCHA Community Engagement & Partnership Zones",
+    "version": "N/A",
+    "keywords": [
+        "nycha rees zones",
+        "nycha"
+    ],
+    "description": "Boundaries of 15 geographic zones to ensure public housing neighborhoods have access to self-empowerment services",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York City Housing Authority (NYCHA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/4p5v-sqmv?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 2347.732421875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 440,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/4p5v-sqmv",
+    "last_updated": "2016-09-15 22:21:48+00:00",
+    "protocol": "https",
+    "created": "2013-03-29 13:56:06+00:00"
+}

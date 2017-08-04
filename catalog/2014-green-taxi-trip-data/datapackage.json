@@ -1,0 +1,72 @@
+{
+    "name": "2014-green-taxi-trip-data",
+    "datapackage_version": "1.0-beta",
+    "title": "2014 Green Taxi Trip Data",
+    "version": "N/A",
+    "keywords": [
+        "taxi driver",
+        "taxi",
+        "taxicab",
+        "tlc",
+        "taxi license",
+        "medallion",
+        "limousine",
+        "driver"
+    ],
+    "description": "This dataset includes trip records from all trips completed in green taxis in NYC in 2014.  Records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) by technology providers authorized under the Livery Passenger Enhancement Program (LPEP).  The  trip data was not created by the TLC, and TLC makes no representations as to the accuracy of these data.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/2np7-5jsg/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 15800000,
+    "columns": 20,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1356,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Store_and_fwd_flag",
+        "Payment_type",
+        "Dropoff_latitude",
+        "Total_amount",
+        "MTA_tax",
+        "Passenger_count",
+        "Trip_distance",
+        "pickup_datetime",
+        "Pickup_longitude",
+        "Dropoff_longitude",
+        "Pickup_latitude",
+        "vendorid",
+        "Fare_amount",
+        "Tolls_amount",
+        "Ehail_fee",
+        "rate_code",
+        "Trip_type",
+        "Extra",
+        "Tip_amount",
+        "dropoff_datetime"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/2np7-5jsg",
+    "last_updated": "2017-02-01 23:08:07+00:00",
+    "protocol": "https",
+    "created": "2015-08-03 15:50:14+00:00"
+}

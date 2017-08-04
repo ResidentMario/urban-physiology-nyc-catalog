@@ -1,0 +1,44 @@
+{
+    "name": "open-balance-staten-island",
+    "datapackage_version": "1.0-beta",
+    "title": "Open Balance (Staten Island)",
+    "version": "N/A",
+    "keywords": [
+        "statement of account",
+        "department of finance",
+        "dof",
+        "finance",
+        "staten island",
+        "borough"
+    ],
+    "description": "Property tax balance and payment information for all active properties",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 461195.8076171875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 268,
+    "preferred_mimetype": "text/plain",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "txt",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/djj3-qxwf",
+    "last_updated": "2014-09-05 17:26:00+00:00",
+    "protocol": "https",
+    "created": "2011-10-09 01:46:39+00:00"
+}

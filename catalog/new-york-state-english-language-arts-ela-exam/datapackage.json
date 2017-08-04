@@ -1,0 +1,63 @@
+{
+    "name": "new-york-state-english-language-arts-ela-exam",
+    "datapackage_version": "1.0-beta",
+    "title": "New York State English Language Arts (ELA) Exam",
+    "version": "N/A",
+    "keywords": [
+        "exam",
+        "education",
+        "ela",
+        "english"
+    ],
+    "description": "(Grades 3 - 8)\r\n2013 - 2015\r\nNotes \r\nStarting in 2013, the NY State Education Department (NYSED) changed the exams to be Common Core aligned. Results on earlier exams from 2006-2012 can be found at this link: http://schools.nyc.gov/NR/exeres/05289E74-2D81-4CC0-81F6-E1143E28F4C4,frameless.htm\r\n\r\nResults presented here include all students who sat for either the Math or ELA exam. On the NYSED website, results for \"matched\" students can be found. To account for participation changes across years and anticipate the importance of year-to-year same-cohort comparisons for the Class of 2022, \"matched\" Math and ELA results were calculated to include 4th grade students who were tested in both the current and previous year and to include 5th \u2013 8th grade students who were tested in all three years.\r\nIn order to comply with FERPA regulations on public reporting of education outcomes, rows with 5 or fewer students are suppressed.\r\nFor 2013, District 75 students are represented in their home districts and boroughs. For 2014 & 2015, they are not included.\r\nCharter schools are not included. School level charter data can be found here: http://schools.nyc.gov/Accountability/data/TestResults/ELAandMathTestResults\r\n\r\nIn 2007, the New York State Education Department updated its testing policy for English Language Learners: ELLs in an English Language School System for more than one year are required to take the ELA exam. Previously, ELLs in an English Language School System for less than 3 years were exempt from taking the ELA exam. \r\nA change in State testing policy drove a decrease in eighth grade proficiency rates in 2014: to reduce double testing, most students in accelerated math courses who took the Algebra Regents exam were exempted from taking the 7th or 8th grade State math assessment.\r\nFormer English Language Learners includes any students who were classified as English Language Learners in at least one of the previous two school years.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/26kp-bgdh/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 231,
+    "columns": 15,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 118,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "# Level 3+4",
+        "% Level 2",
+        "# Level 2",
+        "Mean Scale Score",
+        "# Level 1",
+        "% Level 1",
+        "Grade",
+        "Category",
+        "Year",
+        "Number Tested",
+        "% Level 3",
+        "# Level 3",
+        "# Level 4",
+        "% Level 4",
+        "% Level 3+4"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/26kp-bgdh",
+    "last_updated": "2016-03-11 20:00:43+00:00",
+    "protocol": "https",
+    "created": "2016-03-08 22:02:17+00:00"
+}

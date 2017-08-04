@@ -1,0 +1,67 @@
+{
+    "name": "pmmr-raw-data-fy-2013",
+    "datapackage_version": "1.0-beta",
+    "title": "PMMR Raw Data - FY 2013",
+    "version": "N/A",
+    "keywords": [
+        "ops",
+        "pmmr raw data",
+        "mayor's office of operations"
+    ],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Operations (OPS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/4fnu-iufz/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 23700,
+    "columns": 20,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2072,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Indicator ID",
+        "Format Type",
+        "Value Ratio",
+        "Conditional Format",
+        "Value Number",
+        "Subindicator Sequence",
+        "Agency",
+        "Desired Direction",
+        "Record Type",
+        "Geography",
+        "Critical Flag",
+        "Indicator Sequence",
+        "Indicator Name",
+        "Sub-Indicator",
+        "Raw Value",
+        "Value Currency",
+        "Value Percent",
+        "Measure Type",
+        "Fiscal Year",
+        "Value Time"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/4fnu-iufz",
+    "last_updated": "2014-10-10 20:21:17+00:00",
+    "protocol": "https",
+    "created": "2013-02-12 09:14:32+00:00"
+}

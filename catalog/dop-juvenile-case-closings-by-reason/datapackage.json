@@ -1,0 +1,52 @@
+{
+    "name": "dop-juvenile-case-closings-by-reason",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Juvenile Case Closings By Reason",
+    "version": "N/A",
+    "keywords": [
+        "case",
+        "dop",
+        "probation"
+    ],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/wha7-46h5/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 24,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 31,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Supervision Closing Reason",
+        "Region",
+        "Supervision Closing Count",
+        "Year",
+        "Month"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/wha7-46h5",
+    "last_updated": "2017-04-27 19:23:18+00:00",
+    "protocol": "https",
+    "created": "2016-11-21 15:48:11+00:00"
+}

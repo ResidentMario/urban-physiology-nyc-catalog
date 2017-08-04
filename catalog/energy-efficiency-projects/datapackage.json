@@ -1,0 +1,64 @@
+{
+    "name": "energy-efficiency-projects",
+    "datapackage_version": "1.0-beta",
+    "title": "Energy Efficiency Projects",
+    "version": "N/A",
+    "keywords": [
+        "efficient",
+        "dcas",
+        "department of citywide administrative services",
+        "emission",
+        "energy",
+        "energy efficiency projects",
+        "energy management",
+        "ghg",
+        "planyc",
+        "retrofit",
+        "sustainability"
+    ],
+    "description": "The City\u2019s Long-Term Sustainability Plan, PlaNYC, calls for City government to reduce greenhouse gas emissions produced by municipal operations 30% by 2017. A large part of this effort is retrofitting municipal buildings to become more energy efficient. This dataset lists energy efficiency projects at City buildings that are complete or in progress. Projects are listed by address, building name, and agency, and the dataset includes the estimated reduction in tons of GHG emissions associated with the project.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Citywide Administrative Services (DCAS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/h3qk-ybvt/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 584,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2381,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "ProjectStatus",
+        "ProjectSiteAddress",
+        "CO2e (MT) Calculated",
+        "StartDateActual",
+        "ProjectSiteName",
+        "FinishDateActual",
+        "SubType",
+        "PrimaryProjectType",
+        "Acronym"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/h3qk-ybvt",
+    "last_updated": "2014-09-05 17:05:32+00:00",
+    "protocol": "https",
+    "created": "2012-02-14 17:38:58+00:00"
+}

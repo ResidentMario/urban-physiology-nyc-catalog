@@ -1,0 +1,51 @@
+{
+    "name": "school-point-locations",
+    "datapackage_version": "1.0-beta",
+    "title": "School Point Locations",
+    "version": "N/A",
+    "keywords": [
+        "school",
+        "high school",
+        "is",
+        "jhs",
+        "p.s.",
+        "lifelong learning",
+        "learning",
+        "junior high school",
+        "department of education",
+        "education",
+        "elementary",
+        "board of ed",
+        "schools"
+    ],
+    "description": "This is an ESRI shape file of school point locations based on the official address.\u00a0 It includes some additional basic and pertinent information needed to link to other data sources. It also includes some basic school information such as Name, Address, Principal, and Principal\u2019s contact information.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 13.4814453125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 5875,
+    "preferred_mimetype": "application/octet-stream",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "shx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/jfju-ynrr",
+    "last_updated": "2014-09-05 17:36:36+00:00",
+    "protocol": "https",
+    "created": "2011-09-22 23:17:19+00:00"
+}

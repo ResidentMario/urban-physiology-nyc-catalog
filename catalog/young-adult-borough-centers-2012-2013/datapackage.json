@@ -1,0 +1,54 @@
+{
+    "name": "young-adult-borough-centers-2012-2013",
+    "datapackage_version": "1.0-beta",
+    "title": "Young Adult Borough Centers 2012-2013",
+    "version": "N/A",
+    "keywords": [
+        "education",
+        "jobs and economic mobility",
+        "doe",
+        "young adult borough centers 2012-2013"
+    ],
+    "description": "Citywide young adult borough centers",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/pfn4-vjwr/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 23,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 456,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Phone Number",
+        "Location",
+        "Email",
+        "Borough",
+        "Location 1",
+        "Site Administrator"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/pfn4-vjwr",
+    "last_updated": "2014-09-05 17:33:08+00:00",
+    "protocol": "https",
+    "created": "2013-03-19 19:23:41+00:00"
+}

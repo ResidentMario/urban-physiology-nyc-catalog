@@ -1,0 +1,68 @@
+{
+    "name": "street-hail-livery-shl-permits",
+    "datapackage_version": "1.0-beta",
+    "title": "Street Hail Livery (SHL) Permits",
+    "version": "N/A",
+    "keywords": [
+        "street hail livery",
+        "green taxi",
+        "shl",
+        "green cab"
+    ],
+    "description": "This is a list of NYC TLC authorized Street Hail Livery Permits. This list is accurate to the date and time represented in the Last Date Updated and Last Time Updated fields. For inquiries about the contents of this dataset, please email licensinginquiries@tlc.nyc.gov.  Reason Code: G \u2013 Good Standing, A \u2013 Problem with Permit, B \u2013 Problem with Base and C \u2013 Problem with Vehicle.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/yhuu-4pt3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 8340,
+    "columns": 20,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 40788,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Last Time Updated",
+        "Suspension Date",
+        "Reason",
+        "Base Address",
+        "Base Website",
+        "Base Telephone Number",
+        "Base Name",
+        "Base Number",
+        "Vehicle Year",
+        "Hack Up Date",
+        "Certification Date",
+        "Vehicle License Number",
+        "Expiration Date",
+        "Name",
+        "Permit License Number",
+        "Active",
+        "Vehicle Type",
+        "Vehicle VIN Number",
+        "DMV License Plate Number",
+        "Last Date Updated"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/yhuu-4pt3",
+    "last_updated": "2017-05-31 20:08:27+00:00",
+    "protocol": "https",
+    "created": "2014-10-29 17:42:50+00:00"
+}

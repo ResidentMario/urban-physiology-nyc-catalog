@@ -1,0 +1,43 @@
+{
+    "name": "sidewalk-caf\u00e9-regulations-gis-geodatabase",
+    "datapackage_version": "1.0-beta",
+    "title": "Sidewalk Caf\u00e9 Regulations GIS: Geodatabase",
+    "version": "N/A",
+    "keywords": [
+        "sidewalk caf\u00e9 regulations gis: geodatabase",
+        "restaurant",
+        "department of city planning (dcp)",
+        "cafe",
+        "gdb"
+    ],
+    "description": "This feature class is a spatial representation of the Sidewalk Cafe regulations in the New York City Zoning Resolution, Chapter 1, Article 4.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 0.4228515625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 439,
+    "preferred_mimetype": "application/octet-stream",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "gdb/timestamps",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/mran-v46w",
+    "last_updated": "2017-05-08 20:59:23+00:00",
+    "protocol": "https",
+    "created": "2013-01-28 23:42:40+00:00"
+}

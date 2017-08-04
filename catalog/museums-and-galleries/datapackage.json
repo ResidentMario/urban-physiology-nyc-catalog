@@ -1,0 +1,51 @@
+{
+    "name": "museums-and-galleries",
+    "datapackage_version": "1.0-beta",
+    "title": "Museums and galleries",
+    "version": "N/A",
+    "keywords": [
+        "nyc",
+        "museum",
+        "new york & company",
+        "museums",
+        "the city",
+        "new york",
+        "gallery",
+        "new york & co.",
+        "co.",
+        "data",
+        "xml",
+        "nycgo",
+        "galleries"
+    ],
+    "description": "NYC and Co. museums and galleries",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYC & Company (NYCGO)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 24.6025390625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 5174,
+    "preferred_mimetype": "application/xml",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/kcrm-j9hh",
+    "last_updated": "2014-09-05 17:22:13+00:00",
+    "protocol": "https",
+    "created": "2011-07-26 19:56:27+00:00"
+}

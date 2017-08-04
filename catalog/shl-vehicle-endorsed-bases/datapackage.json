@@ -1,0 +1,56 @@
+{
+    "name": "shl-vehicle-endorsed-bases",
+    "datapackage_version": "1.0-beta",
+    "title": "SHL Vehicle Endorsed bases",
+    "version": "N/A",
+    "keywords": [
+        "shl vehicle endorsed bases",
+        "tlc",
+        "taxi and limousine commission (tlc)"
+    ],
+    "description": "This list contains information on SHL endorsed bases",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/rvyk-uci3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 160,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 508,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Alternate Name Of Licensee",
+        "Attached SHL Vehicles WV",
+        "License Status",
+        "Attached SHL Vehicles NW",
+        "License Type",
+        "Name Of Licensee",
+        "Address",
+        "License Number",
+        "Telephone Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/rvyk-uci3",
+    "last_updated": "2014-09-05 16:58:55+00:00",
+    "protocol": "https",
+    "created": "2014-03-06 06:16:10+00:00"
+}

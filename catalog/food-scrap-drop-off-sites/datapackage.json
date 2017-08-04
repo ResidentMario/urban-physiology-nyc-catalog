@@ -1,0 +1,60 @@
+{
+    "name": "food-scrap-drop-off-sites",
+    "datapackage_version": "1.0-beta",
+    "title": "Food Scrap Drop Off Sites",
+    "version": "N/A",
+    "keywords": [
+        "scrap",
+        "food",
+        "compost",
+        "clean web"
+    ],
+    "description": "Locations and operators of food scrap drop-off sites. Please note that these sites are not necessarily operated solely by the City of New York.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Sanitation (DSNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/rmmq-46n5/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 39,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1554,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "CityMap Location",
+        "Organizer",
+        "Location",
+        "Materials Accepted:",
+        "Days ",
+        "Borough",
+        "Months of Operation",
+        "Hours",
+        "Name",
+        "Composted By",
+        "Website",
+        "Requirements"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/rmmq-46n5",
+    "last_updated": "2014-09-05 17:06:33+00:00",
+    "protocol": "https",
+    "created": "2012-06-26 22:38:53+00:00"
+}

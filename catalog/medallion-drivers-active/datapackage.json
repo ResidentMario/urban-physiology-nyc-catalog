@@ -1,0 +1,58 @@
+{
+    "name": "medallion-drivers-active",
+    "datapackage_version": "1.0-beta",
+    "title": "Medallion Drivers - Active",
+    "version": "N/A",
+    "keywords": [
+        "taxi license",
+        "taxi",
+        "taxicab",
+        "tlc",
+        "limousine",
+        "taxi driver",
+        "medallion",
+        "driver"
+    ],
+    "description": "This list contains the most recently published active  medallion drivers list. This is a list of licensees who are currently authorized to operate NYC TLC licensed Taxicabs. The old data set is no longer being updated but can be accessed from the link given below to access data from 03/07/2013 through 01/04/2014 https://data.cityofnewyork.us/Transportation/Medallion-Drivers-Active/n776-dsqy. A new Change Log containing changes in status from 10/28/2013 onwards can be found at https://data.cityofnewyork.us/Transportation/TLC-MEDALLION-ACTIVE-Historical-Data/sjfe-fppp. This list is accurate to the date and time represented in the Last Date Updated and Last Time Updated fields. For inquiries about the contents of this dataset, please email licensinginquiries@tlc.nyc.gov.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/jb3k-j3gp/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 158000,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 167483,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Last Time Updated",
+        "Type",
+        "Name",
+        "License Number",
+        "Last Date Updated",
+        "Expiration Date"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/jb3k-j3gp",
+    "last_updated": "2017-05-31 19:42:25+00:00",
+    "protocol": "https",
+    "created": "2013-12-26 19:23:30+00:00"
+}

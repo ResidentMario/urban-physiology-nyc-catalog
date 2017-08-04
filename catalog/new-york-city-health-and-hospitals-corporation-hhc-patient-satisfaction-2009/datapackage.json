@@ -1,0 +1,60 @@
+{
+    "name": "new-york-city-health-and-hospitals-corporation-hhc-patient-satisfaction-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "New York City Health and Hospitals Corporation (HHC) Patient Satisfaction - 2009",
+    "version": "N/A",
+    "keywords": [
+        "gcahps",
+        "satisfaction",
+        "patient",
+        "medicare",
+        "medicaid",
+        "hospital",
+        "healthy living",
+        "survey",
+        "healthcare provider",
+        "healthcare",
+        "health",
+        "consumer"
+    ],
+    "description": "Patient satisfaction at HHC hospitals is measured by a standardized survey known as the Hospital Consumer Assessment of Healthcare Providers & Systems (HCAHPS). The survey has been validated by the federal Centers for Medicare and Medicaid Services (CMS) as a standard assessment tool for all hospitals throughout the nation. This data shows patient satisfaction scores in HHC hospitals.\r\nUpdate Frequency: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Health and Hospitals Corporation (HHC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hi3x-y76v/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 110,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 3058,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Health"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Hospital Name",
+        "HCAHPS Question",
+        "HCAHPS Answer Description",
+        "HCAHPS Answer Percent"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hi3x-y76v",
+    "last_updated": "2014-09-05 17:16:17+00:00",
+    "protocol": "https",
+    "created": "2011-09-30 17:30:12+00:00"
+}

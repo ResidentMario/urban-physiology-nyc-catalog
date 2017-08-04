@@ -1,0 +1,40 @@
+{
+    "name": "dof-building-classification-codes",
+    "datapackage_version": "1.0-beta",
+    "title": "DOF: Building Classification Codes",
+    "version": "N/A",
+    "keywords": [
+        "building classification codes",
+        "dof"
+    ],
+    "description": "Department of Finance (DOF) publishes a list of Building Classifications, associating Building Codes with Descriptions.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 0.091796875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 3234,
+    "preferred_mimetype": "text/plain",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "pl",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/nzvw-cjc2",
+    "last_updated": "2014-10-10 20:10:16+00:00",
+    "protocol": "https",
+    "created": "2011-10-05 15:38:10+00:00"
+}

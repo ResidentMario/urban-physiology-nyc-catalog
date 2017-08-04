@@ -1,0 +1,48 @@
+{
+    "name": "hra-special-services",
+    "datapackage_version": "1.0-beta",
+    "title": "HRA Special Services",
+    "version": "N/A",
+    "keywords": [
+        "hra special services",
+        "jobs and economic mobility"
+    ],
+    "description": "Listing of special services offered by HRA along with their descriptions.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/dfad-fpwf/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 11,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 268,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Services",
+        "Description"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/dfad-fpwf",
+    "last_updated": "2014-09-05 18:10:26+00:00",
+    "protocol": "https",
+    "created": "2013-03-26 16:56:47+00:00"
+}

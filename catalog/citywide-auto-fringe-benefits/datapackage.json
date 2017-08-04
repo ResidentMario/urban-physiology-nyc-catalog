@@ -1,0 +1,51 @@
+{
+    "name": "citywide-auto-fringe-benefits",
+    "datapackage_version": "1.0-beta",
+    "title": "Citywide Auto Fringe Benefits",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Auto Fringe Benefits for all city employees.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of Payroll Administration (OPA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8k4x-9mp5/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 7562,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 161,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Parking Fringe",
+        "Automobile Fringe",
+        "Total ",
+        "Last Name",
+        "Calendar Year",
+        "CY Payroll Num",
+        "First Name",
+        "Pyrl Desc"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8k4x-9mp5",
+    "last_updated": "2017-05-03 18:13:34+00:00",
+    "protocol": "https",
+    "created": "2015-10-31 16:02:48+00:00"
+}

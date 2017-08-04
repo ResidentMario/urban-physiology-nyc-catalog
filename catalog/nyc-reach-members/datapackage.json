@@ -1,0 +1,60 @@
+{
+    "name": "nyc-reach-members",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC REACH Members",
+    "version": "N/A",
+    "keywords": [
+        "ehr",
+        "health",
+        "record",
+        "doctor",
+        "electronic health record",
+        "location"
+    ],
+    "description": "The location and facility information for doctors who participate in NYC Regional Electronic Adoption Center for Health (REACH), which assists providers in adopting technology and methods for electronic health records.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Health and Mental Hygiene (DOHMH)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/7btz-mnc8/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2031,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2004,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Health"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Practice Mailing Address",
+        "Practice Borough",
+        "Site Name",
+        "Primary Speciality",
+        "Provider Last Name",
+        "Practice Name",
+        "Organization Type",
+        "Practice Zip Code",
+        "Provider First Name",
+        "Practice Phone Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/7btz-mnc8",
+    "last_updated": "2017-01-21 20:33:45+00:00",
+    "protocol": "https",
+    "created": "2013-11-20 16:11:45+00:00"
+}

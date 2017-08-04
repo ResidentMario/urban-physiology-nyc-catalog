@@ -1,0 +1,67 @@
+{
+    "name": "open-parking-and-camera-violations",
+    "datapackage_version": "1.0-beta",
+    "title": "Open Parking and Camera Violations",
+    "version": "N/A",
+    "keywords": [
+        "violation",
+        "summons",
+        "parking",
+        "dof"
+    ],
+    "description": "Check out our data lens page for additional data filtering and sorting options: https://data.cityofnewyork.us/view/i4p3-pe6a \r\n\r\nThis dataset contains Open Parking and Camera Violations issued by the City of New York. Updates will be applied to this data set on the following schedule:\r\n\r\nNew or open tickets will be updated weekly (Sunday). Tickets satisfied will be updated daily (Tuesday through Sunday).  NOTE:  Summonses that have been written-off are indicated by blank financials.\r\n\r\nSummons images will not be available during scheduled downtime on Sunday - Monday from 1:00 am to 2:30 am and on Sundays from 5:00 am to 10:00 am.\r\n\r\n* Initial dataset loaded 05/14/2016.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/nc67-uf89/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 16500000,
+    "columns": 19,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 12414,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Reduction Amount",
+        "Precinct",
+        "Violation",
+        "Payment Amount",
+        "Penalty Amount",
+        "Interest Amount",
+        "Amount Due",
+        "Judgment Entry Date",
+        "Violation Time",
+        "Summons Number",
+        "County",
+        "Issue Date",
+        "Violation Status",
+        "Fine Amount",
+        "License Type",
+        "State",
+        "Summons Image",
+        "Plate",
+        "Issuing Agency"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/nc67-uf89",
+    "last_updated": "2017-05-31 09:07:23+00:00",
+    "protocol": "https",
+    "created": "2016-01-04 16:08:38+00:00"
+}

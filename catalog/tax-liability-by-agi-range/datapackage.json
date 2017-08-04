@@ -1,0 +1,49 @@
+{
+    "name": "tax-liability-by-agi-range",
+    "datapackage_version": "1.0-beta",
+    "title": "Tax Liability By AGI Range",
+    "version": "N/A",
+    "keywords": [
+        "tax liability by agi range"
+    ],
+    "description": "Number of tax filers/payers and total city tax liability by income ranges",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYC Independent Budget Office (IBO)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/3vvi-fwjs/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 11,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 106,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        ""
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Number of tax Payers",
+        "Total NYC PIT Liability",
+        "Income Group",
+        "Avg PIT Liability"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/3vvi-fwjs",
+    "last_updated": "2014-09-05 18:09:42+00:00",
+    "protocol": "https",
+    "created": "2014-03-06 05:46:34+00:00"
+}

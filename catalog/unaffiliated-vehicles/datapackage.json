@@ -1,0 +1,43 @@
+{
+    "name": "unaffiliated-vehicles",
+    "datapackage_version": "1.0-beta",
+    "title": "Unaffiliated Vehicles",
+    "version": "N/A",
+    "keywords": [
+        "transportation",
+        "license",
+        "business",
+        "vehicle",
+        "taxi"
+    ],
+    "description": "A TLC licensed vehicle cannot legally provide service unless the vehicle is affiliated with a TLC licensed base. Any licensee that appears on this list cannot provide service as they are not currently affiliated with a TLC licensed base.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 363.5322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 437,
+    "preferred_mimetype": "application/vnd.ms-office",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "xls",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/z42n-hfkv",
+    "last_updated": "2014-09-05 17:09:53+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 22:37:29+00:00"
+}

@@ -1,0 +1,63 @@
+{
+    "name": "fy03-fy12-mmr-agency-performance-indicators",
+    "datapackage_version": "1.0-beta",
+    "title": "FY03 \u2013 FY12 MMR Agency Performance Indicators",
+    "version": "N/A",
+    "keywords": [
+        "operations",
+        "stats",
+        "statistics",
+        "data",
+        "mayor's management report (mmr) values",
+        "ops",
+        "mmr"
+    ],
+    "description": "Annual NYC agency reporting statistics taken from the Mayor's Management Report.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Operations (Ops)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/jhjm-vsp8/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1277,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 3410,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2011",
+        "2003",
+        "2010",
+        "2012",
+        "Agency",
+        "2004",
+        "Indicator Name",
+        "2009",
+        "2006",
+        "2005",
+        "2008",
+        "2007"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/jhjm-vsp8",
+    "last_updated": "2016-10-20 20:39:47+00:00",
+    "protocol": "https",
+    "created": "2013-01-02 16:26:53+00:00"
+}

@@ -1,0 +1,60 @@
+{
+    "name": "primary-residential-zoning-by-lot",
+    "datapackage_version": "1.0-beta",
+    "title": "Primary Residential Zoning by lot",
+    "version": "N/A",
+    "keywords": [
+        "edc",
+        "geographic",
+        "location",
+        "lot",
+        "map",
+        "pluto",
+        "property",
+        "residence",
+        "residential",
+        "zone",
+        "zoning",
+        "2005",
+        "business",
+        "cartography",
+        "development",
+        "economic",
+        "economic development corporation"
+    ],
+    "description": "Primary Zoning by lot Based on PLUTO 2005",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Economic Development Corporation (EDC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/ieyi-rqsn?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 58562.2138671875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2308,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/ieyi-rqsn",
+    "last_updated": "2016-08-27 18:30:33+00:00",
+    "protocol": "https",
+    "created": "2013-04-10 15:27:08+00:00"
+}

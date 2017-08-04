@@ -1,0 +1,72 @@
+{
+    "name": "dycd-after-school-programs-syep-summer-youth-employment-programs",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD after-school-programs: SYEP Summer Youth Employment Programs",
+    "version": "N/A",
+    "keywords": [
+        "community development",
+        "youth",
+        "jobs",
+        "jobs and economic mobility",
+        "syep",
+        "lifelong learning",
+        "school",
+        "education",
+        "after-school",
+        "job",
+        "summer youth employment",
+        "internship",
+        "internships",
+        "employment",
+        "child",
+        "summer",
+        "services",
+        "development",
+        "children",
+        "community"
+    ],
+    "description": "Facilities in New York City, by agency and site, that offer \u201cSummer Youth Employment (SYEP) Program\u201d after-school  job and internship programs for children ages 14 to 24 - the Department of Youth and Community Development (DYCD).\r\nUpdate Frequency: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/q5x3-7piv/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 69,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 675,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Contact Number",
+        "BOROUGH / COMMUNITY",
+        "SITE NAME",
+        "PROGRAM TYPE",
+        "PROGRAM",
+        "Grade Level / Age Group ",
+        "AGENCY",
+        "Location 1"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/q5x3-7piv",
+    "last_updated": "2014-09-05 17:17:14+00:00",
+    "protocol": "https",
+    "created": "2011-09-01 20:13:45+00:00"
+}

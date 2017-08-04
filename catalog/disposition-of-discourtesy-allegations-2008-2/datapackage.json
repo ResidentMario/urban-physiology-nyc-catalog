@@ -1,0 +1,74 @@
+{
+    "name": "disposition-of-discourtesy-allegations-2008",
+    "datapackage_version": "1.0-beta",
+    "title": "Disposition Of Discourtesy Allegations 2008",
+    "version": "N/A",
+    "keywords": [
+        "complaint",
+        "2005",
+        "ccrb",
+        "activity",
+        "2009",
+        "2007",
+        "civilian",
+        "statistics",
+        "civilian complaint review board",
+        "2006",
+        "misconduct",
+        "review",
+        "disciplinary recommendation",
+        "board",
+        "complaint activity",
+        "2008",
+        "allegation"
+    ],
+    "description": "CCRB: Disposition of Discourtesy Allegations 2008",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/5ur4-dnsq/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 6,
+    "columns": 13,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 83,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Unfounded rate",
+        "Substantiated Number",
+        "Exonerated number",
+        "Officer Unidentified rate",
+        "Miscellaneous rate",
+        "Miscellaneous",
+        "Unsubstantiated rate",
+        "Unsubstantiated number",
+        "Unfounded number",
+        "Sunstantiated rate",
+        "Exonerated rate",
+        "Officer Unidentified number",
+        "Type of Abuse of Authority Allegation"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/5ur4-dnsq",
+    "last_updated": "2014-09-05 17:06:22+00:00",
+    "protocol": "https",
+    "created": "2011-09-28 22:17:51+00:00"
+}

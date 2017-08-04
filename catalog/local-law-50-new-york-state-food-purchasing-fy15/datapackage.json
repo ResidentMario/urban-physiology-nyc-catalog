@@ -1,0 +1,47 @@
+{
+    "name": "local-law-50-new-york-state-food-purchasing-fy15",
+    "datapackage_version": "1.0-beta",
+    "title": "Local Law 50 New York State Food Purchasing FY15",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Local Law 50 of 2011 required MOCS to establish guidelines for City agencies that assist in increasing the purchase of New York State food through food purchase and food-related services contracts. City agencies use the New York State Department of Agriculture and Markets (NYSDAM) list of food items available from New York State sources.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Contract Services (MOCS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/2rd2-9uwy/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 83,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 205,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Other Source - Outside New York State Availability Period",
+        "Food Type",
+        "From New York State Source",
+        "Other Source - During New York State Availability Period"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/2rd2-9uwy",
+    "last_updated": "2015-12-18 22:39:39+00:00",
+    "protocol": "https",
+    "created": "2015-12-17 16:37:58+00:00"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "annual-arts-in-school-reports-raw-data",
+    "datapackage_version": "1.0-beta",
+    "title": "Annual Arts in School Reports Raw Data",
+    "version": "N/A",
+    "keywords": [],
+    "description": "The Annual Arts in Schools Report includes data about arts teachers, arts budgeting, space for the arts, partnerships with arts and cultural organizations, and parent involvement for elementary, middle, and high schools. These reports help school administrators, parents, and students understand how their schools are progressing towards offering universal arts education to all students",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 7088.18359375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 151,
+    "preferred_mimetype": "text/plain",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/vdgp-ddvg",
+    "last_updated": "2015-09-01 14:31:21+00:00",
+    "protocol": "https",
+    "created": "2015-09-01 13:55:01+00:00"
+}

@@ -1,0 +1,56 @@
+{
+    "name": "directory-of-senior-news-services-in-nycha-journal",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of Senior News Services in NYCHA Journal",
+    "version": "N/A",
+    "keywords": [
+        "city",
+        "article",
+        "dcp",
+        "journal",
+        "news",
+        "norc",
+        "nycha",
+        "planning",
+        "senior"
+    ],
+    "description": "Details of News Articles targeted for Seniors that were published in NYCHA Journal",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hfac-j85r/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 24,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 125,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Year",
+        "Month",
+        "Senior News Topic"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hfac-j85r",
+    "last_updated": "2014-09-05 17:03:32+00:00",
+    "protocol": "https",
+    "created": "2013-02-13 19:55:47+00:00"
+}

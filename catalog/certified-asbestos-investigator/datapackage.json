@@ -1,0 +1,58 @@
+{
+    "name": "certified-asbestos-investigator",
+    "datapackage_version": "1.0-beta",
+    "title": "Certified Asbestos Investigator",
+    "version": "N/A",
+    "keywords": [
+        "dep",
+        "certified asbestos investigators (cai)",
+        "cai",
+        "investigators",
+        "asbestos",
+        "certified",
+        "environment",
+        "department of environmental protection",
+        "healthy living"
+    ],
+    "description": "List of Certified Asbestos Investigators (CAI)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/m64p-r9hk/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 257,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 626,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Telephone",
+        "Expiration Date",
+        "Certification Number",
+        "First Name",
+        "Last Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/m64p-r9hk",
+    "last_updated": "2017-03-22 21:13:07+00:00",
+    "protocol": "https",
+    "created": "2013-01-31 04:41:16+00:00"
+}

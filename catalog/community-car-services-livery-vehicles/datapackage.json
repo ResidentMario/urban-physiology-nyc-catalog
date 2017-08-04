@@ -1,0 +1,40 @@
+{
+    "name": "community-car-services-livery-vehicles",
+    "datapackage_version": "1.0-beta",
+    "title": "Community Car Services (Livery) - Vehicles",
+    "version": "N/A",
+    "keywords": [
+        "tlc",
+        "community car services (livery) - vehicles"
+    ],
+    "description": "Community Car Service Bases provide pre-arranged transportation throughout New York City. These bases range in size from small, neighborhood-based operations to large fleet-type companies that provide citywide service. This list includes detailed vehicle information, including affiliated base, license numbers, names(s) of licensees, DMV license plate and VIN numbers, license types, expiration date, model year, and whether the vehicle is a hybrid or stretch limousine.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 7713.5322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 415,
+    "preferred_mimetype": "application/vnd.ms-office",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "xls",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/3nx4-m5h6",
+    "last_updated": "2014-10-10 19:17:10+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 20:12:43+00:00"
+}

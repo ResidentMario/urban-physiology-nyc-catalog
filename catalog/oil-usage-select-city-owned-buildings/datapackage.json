@@ -1,0 +1,71 @@
+{
+    "name": "oil-usage-select-city-owned-buildings",
+    "datapackage_version": "1.0-beta",
+    "title": "Oil Usage ( Select City Owned Buildings)",
+    "version": "N/A",
+    "keywords": [
+        "thermostat",
+        "energy",
+        "data",
+        "heating",
+        "oil",
+        "oil usage ( select city owned buildings)",
+        "statistics",
+        "heat",
+        "coned",
+        "city"
+    ],
+    "description": "Oil usage statistics for a select portfolio of City-owned buildings",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Citywide Administrative Services (DCAS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/whux-iuiu/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 65,
+    "columns": 17,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 656,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2011 Electric usage",
+        " 2006 Natural Gas Usage",
+        "2006 Fuel Oil #2- Delivery",
+        "2006 Fuel Oil #4 - Delivery",
+        "2006 Steam usage",
+        "2011 Natural Gas usage ",
+        "2011 Fuel Oil #2- Delivery",
+        "2011 Fuel Oil #2 B5 - Delivery",
+        "2011 Fuel Oil #6 - Delivery",
+        "2011 Fuel Oil #4 - Delivery",
+        "2011 Steam usage",
+        "Types",
+        "Electric",
+        "Building",
+        "BIN Number",
+        "SqFt",
+        "2006 Fuel Oil #6 - Delivery"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/whux-iuiu",
+    "last_updated": "2014-09-05 16:58:11+00:00",
+    "protocol": "https",
+    "created": "2012-09-06 17:13:17+00:00"
+}

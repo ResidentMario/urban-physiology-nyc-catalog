@@ -1,0 +1,55 @@
+{
+    "name": "school-based-programs-by-borough",
+    "datapackage_version": "1.0-beta",
+    "title": "School Based Programs by Borough",
+    "version": "N/A",
+    "keywords": [
+        "sca",
+        "programs",
+        "schools"
+    ],
+    "description": "School based programs by borough with cost.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/esmb-8zkm/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 3793,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 161,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "School",
+        "Project #",
+        "Building ID",
+        "Borough",
+        "District",
+        "Description",
+        "Total",
+        "FY"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/esmb-8zkm",
+    "last_updated": "2017-05-02 16:00:07+00:00",
+    "protocol": "https",
+    "created": "2016-06-02 14:47:12+00:00"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "demographics-and-profiles-at-the-public-use-microdata-area-puma-subarea-level",
+    "datapackage_version": "1.0-beta",
+    "title": "Demographics and profiles at the Public Use Microdata Area (PUMA) subarea level",
+    "version": "N/A",
+    "keywords": [
+        "acs",
+        "census",
+        "demographics",
+        "puma"
+    ],
+    "description": "Tables of ACS Demographics and\nprofiles represented at the PUMA sub\narea level. (PUMA sub areas are\nsimilar to NYC Community Districts\nbut not coterminous)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 625.0322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 244,
+    "preferred_mimetype": "application/vnd.ms-office",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "xls",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/7q5y-m6mr",
+    "last_updated": "2015-02-17 16:52:54+00:00",
+    "protocol": "https",
+    "created": "2015-02-17 16:51:24+00:00"
+}

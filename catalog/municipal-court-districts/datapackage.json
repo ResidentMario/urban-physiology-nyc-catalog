@@ -1,0 +1,49 @@
+{
+    "name": "municipal-court-districts",
+    "datapackage_version": "1.0-beta",
+    "title": "Municipal Court Districts",
+    "version": "N/A",
+    "keywords": [
+        "law",
+        "judge",
+        "judicial",
+        "city planning",
+        "dcp",
+        "municipal court districts"
+    ],
+    "description": "GIS data: Boundaries of Municipal Court Districts",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/7vpq-4bh4?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 2891.640625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 296,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/7vpq-4bh4",
+    "last_updated": "2017-03-09 15:58:16+00:00",
+    "protocol": "https",
+    "created": "2013-01-29 22:58:23+00:00"
+}

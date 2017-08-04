@@ -1,0 +1,54 @@
+{
+    "name": "communities-potentially-eligible-for-community-wastewater-management-program-funds",
+    "datapackage_version": "1.0-beta",
+    "title": "Communities potentially eligible for Community Wastewater Management Program funds",
+    "version": "N/A",
+    "keywords": [
+        "wastewater",
+        "environment",
+        "community wastewater management program funds",
+        "healthy living",
+        "wastewater management",
+        "dep",
+        "department of environmental protection",
+        "communities potentially eligible for community wastewater management program funds"
+    ],
+    "description": "List of Communities potentially eligible for Community Wastewater Management Program funds in priority order",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/a9yv-r6p4/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 15,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 198,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Priority",
+        "Community Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/a9yv-r6p4",
+    "last_updated": "2014-09-05 17:07:58+00:00",
+    "protocol": "https",
+    "created": "2013-02-01 15:18:31+00:00"
+}

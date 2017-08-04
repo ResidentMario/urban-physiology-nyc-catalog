@@ -1,0 +1,65 @@
+{
+    "name": "math-test-results-2006-2012-school-ell",
+    "datapackage_version": "1.0-beta",
+    "title": "Math Test Results 2006-2012 - School - ELL",
+    "version": "N/A",
+    "keywords": [
+        "grade",
+        "lifelong learning",
+        "math test result",
+        "ell",
+        "school"
+    ],
+    "description": "Latest available data and trends in the state assessment results of math for grades 3 through 8. Data are disaggregated by school and English Language Learner status.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/y8bm-tzs3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 64200,
+    "columns": 16,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 228,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Year",
+        "Demographic",
+        "Grade",
+        "DBN",
+        "Number Tested",
+        "Mean Scale Score",
+        "Num Level 1",
+        "Num Level 2",
+        "Num Level 3",
+        "Pct Level 2",
+        "Pct Level 3",
+        "Num Level 4",
+        "Pct Level 4",
+        "Pct Level 3 and 4",
+        "Pct Level 1",
+        "Num Level 3 and 4"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/y8bm-tzs3",
+    "last_updated": "2014-09-05 17:18:10+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 02:49:34+00:00"
+}

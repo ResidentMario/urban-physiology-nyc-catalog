@@ -1,0 +1,40 @@
+{
+    "name": "placements-by-community-district-cd",
+    "datapackage_version": "1.0-beta",
+    "title": "Placements by Community District (CD)",
+    "version": "N/A",
+    "keywords": [
+        "placements by community district (cd)",
+        "acs"
+    ],
+    "description": "Number of children placed in foster care by their CD of origin",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Administration for Children's Services (ACS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 16.427734375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 273,
+    "preferred_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "xlsx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/xg3x-h3g7",
+    "last_updated": "2015-04-17 21:00:20+00:00",
+    "protocol": "https",
+    "created": "2014-05-23 19:26:45+00:00"
+}

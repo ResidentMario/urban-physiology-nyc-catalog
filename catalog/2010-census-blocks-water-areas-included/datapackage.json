@@ -1,0 +1,48 @@
+{
+    "name": "2010-census-blocks-water-areas-included",
+    "datapackage_version": "1.0-beta",
+    "title": "2010 Census Blocks (water areas included)",
+    "version": "N/A",
+    "keywords": [
+        "city planning",
+        "census",
+        "water areas",
+        "dcp",
+        "2010 census blocks (water areas included)"
+    ],
+    "description": "GIS data: Boundaries of 2010 Census Blocks (water areas included)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/v9xd-tt3e?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 30148.9853515625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 376,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/v9xd-tt3e",
+    "last_updated": "2017-03-09 15:30:07+00:00",
+    "protocol": "https",
+    "created": "2013-01-23 22:36:26+00:00"
+}

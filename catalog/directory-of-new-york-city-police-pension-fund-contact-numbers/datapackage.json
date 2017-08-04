@@ -1,0 +1,50 @@
+{
+    "name": "directory-of-new-york-city-police-pension-fund-contact-numbers",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Of New York City Police Pension Fund Contact Numbers",
+    "version": "N/A",
+    "keywords": [
+        "nycppf",
+        "pension fund",
+        "police",
+        "contact"
+    ],
+    "description": "Contact information for various departments in New York City Police Pension Fund Agency",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Police Pension Fund (NYCPPF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/i447-i5u3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 12,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 209,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Department Name",
+        "Phone Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/i447-i5u3",
+    "last_updated": "2014-09-05 17:10:37+00:00",
+    "protocol": "https",
+    "created": "2013-02-28 14:47:15+00:00"
+}

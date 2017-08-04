@@ -1,0 +1,56 @@
+{
+    "name": "directory-of-toilets-in-public-parks",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Of Toilets In Public Parks",
+    "version": "N/A",
+    "keywords": [
+        "recreation",
+        "healthy living",
+        "park",
+        "public",
+        "toilet",
+        "dpr"
+    ],
+    "description": "Directory of Toilets in Public Parks",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hjae-yuav/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 616,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2955,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Comments",
+        "Handicap Accessible",
+        "Location",
+        "Borough",
+        "Name",
+        "Open Year-Round"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hjae-yuav",
+    "last_updated": "2014-09-05 17:11:26+00:00",
+    "protocol": "https",
+    "created": "2013-01-24 21:39:57+00:00"
+}

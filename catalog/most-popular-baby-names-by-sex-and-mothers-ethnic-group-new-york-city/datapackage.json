@@ -1,0 +1,61 @@
+{
+    "name": "most-popular-baby-names-by-sex-and-mothers-ethnic-group-new-york-city",
+    "datapackage_version": "1.0-beta",
+    "title": "Most Popular Baby Names by Sex and Mother's Ethnic Group, New York City",
+    "version": "N/A",
+    "keywords": [
+        "female",
+        "ethnicity",
+        "boy",
+        "birth name",
+        "race",
+        "vital statistic",
+        "popular name",
+        "name",
+        "male",
+        "health",
+        "girl"
+    ],
+    "description": "The most popular baby names by sex and mother's ethnicity in New York City.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Health and Mental Hygiene (DOHMH)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/25th-nujf/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 22000,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 7983,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Health"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "ETHCTY",
+        "CNT",
+        "RNK",
+        "BRTH_YR",
+        "GNDR",
+        "NM"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/25th-nujf",
+    "last_updated": "2016-06-08 21:20:14+00:00",
+    "protocol": "https",
+    "created": "2013-10-25 18:14:54+00:00"
+}

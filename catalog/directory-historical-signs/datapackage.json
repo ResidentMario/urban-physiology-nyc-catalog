@@ -1,0 +1,43 @@
+{
+    "name": "directory-historical-signs",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Historical Signs",
+    "version": "N/A",
+    "keywords": [
+        "parks",
+        "dpr",
+        "healthy living",
+        "signs",
+        "directory historical signs"
+    ],
+    "description": "Text of signs installed throughout New York City Department of Parks & Recreation properties that explains whom the park is named after and why, as well as the history of the site.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 6983.63671875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 416,
+    "preferred_mimetype": "application/xml",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/xdkk-pvdv",
+    "last_updated": "2017-04-11 16:09:36+00:00",
+    "protocol": "https",
+    "created": "2011-08-16 20:22:32+00:00"
+}

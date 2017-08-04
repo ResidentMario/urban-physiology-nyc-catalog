@@ -1,0 +1,57 @@
+{
+    "name": "subway-stations",
+    "datapackage_version": "1.0-beta",
+    "title": "Subway Stations",
+    "version": "N/A",
+    "keywords": [
+        "transfer",
+        "basemap",
+        "doitt gis",
+        "doittgis",
+        "location",
+        "cartography",
+        "station",
+        "map",
+        "entrance",
+        "travel",
+        "subway",
+        "train",
+        "transportation",
+        "transit"
+    ],
+    "description": "City Subway Stations",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Metropolitan Transportation Authority (MTA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/arq3-7z49?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 117.1376953125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 12877,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/arq3-7z49",
+    "last_updated": "2017-01-05 16:54:16+00:00",
+    "protocol": "https",
+    "created": "2013-04-10 17:52:37+00:00"
+}

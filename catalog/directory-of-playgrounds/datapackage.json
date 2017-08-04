@@ -1,0 +1,39 @@
+{
+    "name": "directory-of-playgrounds",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of Playgrounds",
+    "version": "N/A",
+    "keywords": [
+        "healthy living"
+    ],
+    "description": "Designated barbecuing areas in New York City Department of Parks & Recreation properties.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 376.1708984375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 926,
+    "preferred_mimetype": "application/xml",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/59gn-q4ai",
+    "last_updated": "2017-04-11 15:33:51+00:00",
+    "protocol": "https",
+    "created": "2011-10-08 19:46:52+00:00"
+}

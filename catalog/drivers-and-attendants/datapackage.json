@@ -1,0 +1,56 @@
+{
+    "name": "drivers-and-attendants",
+    "datapackage_version": "1.0-beta",
+    "title": "Drivers and Attendants",
+    "version": "N/A",
+    "keywords": [
+        "opt",
+        "transportation",
+        "drivers",
+        "attendance",
+        "bus",
+        "schools",
+        "doe"
+    ],
+    "description": "OPT does not operate any buses nor does it directly employ any bus drivers or attendants. Drivers and attendants (sometimes referred to as \u2018matrons\u2019 or \u2018escorts\u2019) and employed by bus vendors themselves. OPT manages systems and processes to ensure that drivers and attendants have all requisite background checks and certifications. The Driver and Attendant summary data is available for each bus vendor and describes the number of active employees by job type.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/4tqt-y424/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 405,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 302,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Vendor_Name",
+        "Active_Employees",
+        "Type_of_Service",
+        "School_Year",
+        "Job_Type"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/4tqt-y424",
+    "last_updated": "2017-05-01 10:41:51+00:00",
+    "protocol": "https",
+    "created": "2015-09-30 17:15:28+00:00"
+}

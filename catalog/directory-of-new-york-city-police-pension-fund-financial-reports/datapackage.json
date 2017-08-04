@@ -1,0 +1,51 @@
+{
+    "name": "directory-of-new-york-city-police-pension-fund-financial-reports",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Of New York City Police Pension Fund Financial Reports",
+    "version": "N/A",
+    "keywords": [
+        "police",
+        "annual report",
+        "nycppf",
+        "pension fund"
+    ],
+    "description": "Details about NYC Police Pension Fund Financial Reports and the link to those documents",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Police Pension Fund (NYCPPF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/e266-vpg7/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 12,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 405,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Report Name",
+        "Website Link",
+        "Year"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/e266-vpg7",
+    "last_updated": "2014-09-05 16:59:21+00:00",
+    "protocol": "https",
+    "created": "2013-02-28 14:50:05+00:00"
+}

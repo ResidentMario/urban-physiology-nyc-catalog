@@ -1,0 +1,55 @@
+{
+    "name": "directory-of-nyc-cable-providers",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Of NYC Cable Providers",
+    "version": "N/A",
+    "keywords": [
+        "doitt",
+        "cable",
+        "service",
+        "provider"
+    ],
+    "description": "List of Cable Service Providers in New York City",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/48pb-zy2g/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 6,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 861,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Fax",
+        "Comments",
+        "Web Site",
+        "Cable Provider Name",
+        "City, State, Zip",
+        "Street Address",
+        "Phone"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/48pb-zy2g",
+    "last_updated": "2014-09-08 23:52:22+00:00",
+    "protocol": "https",
+    "created": "2013-02-06 22:59:13+00:00"
+}

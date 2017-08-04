@@ -1,0 +1,52 @@
+{
+    "name": "concretehardware-weekly-repair-schedule",
+    "datapackage_version": "1.0-beta",
+    "title": "Concrete/Hardware Weekly Repair Schedule",
+    "version": "N/A",
+    "keywords": [
+        "concrete",
+        "repair schedule",
+        "dot",
+        "hardware"
+    ],
+    "description": "Concrete schedule for installation maintenance or repair of concrete structures (center medians, curbs, sidewalks and other concrete infrastructures)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/78sp-6jhj/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 57,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 315,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Day & Date",
+        "Borough",
+        "Details",
+        "Location"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/78sp-6jhj",
+    "last_updated": "2017-01-26 17:57:20+00:00",
+    "protocol": "https",
+    "created": "2014-10-23 14:40:24+00:00"
+}

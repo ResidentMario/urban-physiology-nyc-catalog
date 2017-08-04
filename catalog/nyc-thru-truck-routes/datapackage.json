@@ -1,0 +1,37 @@
+{
+    "name": "nyc-thru-truck-routes",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Thru Truck Routes",
+    "version": "N/A",
+    "keywords": [],
+    "description": "New York City has over 1,000 miles of truck routes. These data sets contain the centerlines of through truck routes, and were created from LION, the City's base map of streets.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 0.1455078125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 231,
+    "preferred_mimetype": "application/octet-stream",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "shx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/qf28-yqqv",
+    "last_updated": "2017-01-20 22:47:55+00:00",
+    "protocol": "https",
+    "created": "2015-03-13 20:22:54+00:00"
+}

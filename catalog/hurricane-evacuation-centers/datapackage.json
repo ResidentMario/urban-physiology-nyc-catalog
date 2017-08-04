@@ -1,0 +1,48 @@
+{
+    "name": "hurricane-evacuation-centers",
+    "datapackage_version": "1.0-beta",
+    "title": "Hurricane Evacuation Centers",
+    "version": "N/A",
+    "keywords": [
+        "hurricane evacuation centers",
+        "2013",
+        "oem",
+        "storm",
+        "emergency management"
+    ],
+    "description": "This dataset shows hurricane evacuation centers. Persons requiring shelter during a hurricane are processed at a\r\nhurricane evacuation center and then transported to a hurricane shelter. In the event of a hurricane, the status of these hurricane evacuation centers should be confirmed at www.nyc.gov or by calling 311.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of Emergency Management (OEM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/ayer-cga7?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 15.994140625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2636,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/ayer-cga7",
+    "last_updated": "2016-08-27 18:26:16+00:00",
+    "protocol": "https",
+    "created": "2013-05-21 18:44:39+00:00"
+}

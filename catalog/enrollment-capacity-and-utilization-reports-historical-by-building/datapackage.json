@@ -1,0 +1,69 @@
+{
+    "name": "enrollment-capacity-and-utilization-reports-historical-by-building",
+    "datapackage_version": "1.0-beta",
+    "title": "Enrollment Capacity And Utilization Reports - Historical by Building",
+    "version": "N/A",
+    "keywords": [
+        "school",
+        "sca",
+        "facility",
+        "education",
+        "enrollment",
+        "utilization",
+        "authority",
+        "construction",
+        "capacity"
+    ],
+    "description": "Enrollment, historical capacity and utilization data for every building and schools in those buildings, by building",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hq56-zhrp/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2658,
+    "columns": 16,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 322,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Bldg ID",
+        "Geo Dist",
+        "Org ID",
+        "No. of Cluster / Spec Rms Reported +",
+        "Historical Bldg Cap",
+        "PreK Cap +",
+        "Bldg Name",
+        "Admin Dist",
+        "No. of Cluster Rms Needed +",
+        "Organization Name",
+        "Org Historical Cap",
+        "Historical Bldg Util",
+        "Org Enroll",
+        "Incl. Class",
+        "Org Historical Util",
+        "Bldg Enroll"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hq56-zhrp",
+    "last_updated": "2015-05-12 20:59:02+00:00",
+    "protocol": "https",
+    "created": "2015-05-11 20:38:02+00:00"
+}

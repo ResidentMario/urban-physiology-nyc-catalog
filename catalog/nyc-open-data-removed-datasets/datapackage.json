@@ -1,0 +1,48 @@
+{
+    "name": "nyc-open-data-removed-datasets",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Open Data Removed Datasets",
+    "version": "N/A",
+    "keywords": [],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": null
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/avwh-jmzt/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 56,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 16610,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Dataset",
+        "Plan Year",
+        "Agency",
+        "Dataset Description",
+        "Reason for Removal"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/avwh-jmzt",
+    "last_updated": "2017-01-25 17:55:49+00:00",
+    "protocol": "https",
+    "created": "2015-08-03 19:53:38+00:00"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "tax-credits",
+    "datapackage_version": "1.0-beta",
+    "title": "Tax credits",
+    "version": "N/A",
+    "keywords": [
+        "tax credits",
+        "hra",
+        "human resources administration",
+        "jobs and economic mobility"
+    ],
+    "description": "Earned Income Tax Credit Maximum Income Levels and Credit Amounts Tax Year 2012.\r\n*MFJ-Married filing jointly",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/5fkx-9rt5/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 4,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 218,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Category",
+        "Maximum Federal Credit",
+        "Maximum City Credit",
+        "Maximum Combined Credit",
+        "Maximum Income",
+        "Maximum State Credit"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/5fkx-9rt5",
+    "last_updated": "2014-09-05 17:10:36+00:00",
+    "protocol": "https",
+    "created": "2013-03-19 17:02:45+00:00"
+}

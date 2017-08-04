@@ -1,0 +1,42 @@
+{
+    "name": "hurricane-evacuation-zones",
+    "datapackage_version": "1.0-beta",
+    "title": "Hurricane Evacuation Zones",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Hurricane Evacuation Zones are determined by New York City Emergency Management and represent varying threat levels of coastal flooding resulting from storm surge. Hurricane evacuation zones should not be confused with flood insurance risk zones, which are designated by FEMA and available in the form of Flood Insurance Rate Maps (FIRMs).",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/uihr-hn7s?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 6836.8974609375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1337,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/uihr-hn7s",
+    "last_updated": "2017-03-09 15:46:32+00:00",
+    "protocol": "https",
+    "created": "2015-07-14 17:33:42+00:00"
+}

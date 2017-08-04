@@ -1,0 +1,85 @@
+{
+    "name": "fy16-mmr-agency-performance-indicators",
+    "datapackage_version": "1.0-beta",
+    "title": "FY16 MMR Agency Performance Indicators",
+    "version": "N/A",
+    "keywords": [
+        "services",
+        "mmr targets",
+        "mmr services",
+        "mmr goals",
+        "mmr fy16",
+        "mmr",
+        "fy16",
+        "operations",
+        "fiscal 2016",
+        "desired direction",
+        "ops",
+        "critical target",
+        "actual",
+        "performance",
+        "pmmr",
+        "5 yr trend",
+        "5 year trend",
+        "2016",
+        "report",
+        "resources",
+        "metrics",
+        "mayor's management report",
+        "management",
+        "kpis",
+        "kpi",
+        "key performance indicators",
+        "indicators",
+        "goals"
+    ],
+    "description": "NYC agency performance indicators from the FY16 Mayor's Management Report (MMR).",
+    "licenses": [],
+    "sources": [
+        {
+            "title": null
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8jfz-tjny/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1694,
+    "columns": 13,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 178,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "FY15",
+        "FY14",
+        "Critical",
+        "Desired direction",
+        "MMR Goal",
+        "5yr trend",
+        "FY16",
+        "FY12",
+        "FY13",
+        "Performance Indicator",
+        "TGT17",
+        "Agency",
+        "TGT16"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8jfz-tjny",
+    "last_updated": "2016-10-21 14:06:59+00:00",
+    "protocol": "https",
+    "created": "2016-09-26 19:18:54+00:00"
+}

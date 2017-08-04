@@ -1,0 +1,78 @@
+{
+    "name": "clear-channel-sign-list-times-sqaure",
+    "datapackage_version": "1.0-beta",
+    "title": "Clear Channel Sign List - Times Sqaure",
+    "version": "N/A",
+    "keywords": [
+        "new york",
+        "screens",
+        "tourism",
+        "times square alliance",
+        "times square",
+        "theater",
+        "signs",
+        "clear channel",
+        "crossroads",
+        "crossroads of the world",
+        "entertainment",
+        "food",
+        "manhattan",
+        "new york city",
+        "nyc",
+        "pedestrian"
+    ],
+    "description": "Clear Channel Spectacolor Sign Locations in Times Square",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Times Square Alliance (TSA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/wjtn-s4z7/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 50,
+    "columns": 18,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 399,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Photo",
+        "Height (Panel B)",
+        "Total # of Signs",
+        "Type",
+        "# of Signs (Panel A)",
+        "Area (Panel B)",
+        "Location 1",
+        "Height",
+        "Width (Panel A)",
+        "Note",
+        "# of Signs (Panel B)",
+        "Width (Panel B)",
+        "Size",
+        "Height (Panel A)",
+        "Area (Panel A)",
+        "Analysed?",
+        "Description",
+        "Total Area"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/wjtn-s4z7",
+    "last_updated": "2014-09-06 00:12:46+00:00",
+    "protocol": "https",
+    "created": "2011-10-31 17:09:10+00:00"
+}

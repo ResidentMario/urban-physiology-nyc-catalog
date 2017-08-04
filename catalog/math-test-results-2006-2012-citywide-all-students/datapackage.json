@@ -1,0 +1,64 @@
+{
+    "name": "math-test-results-2006-2012-citywide-all-students",
+    "datapackage_version": "1.0-beta",
+    "title": "Math Test Results 2006-2012 - Citywide - All Students",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning",
+        "citywide",
+        "math test result",
+        "all student",
+        "grade"
+    ],
+    "description": "Latest available data and trends in the state assessment results of math for grades 3 through 8.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/fxwm-3t4n/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 49,
+    "columns": 15,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 259,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Pct Level 1",
+        "Num Level 4",
+        "Pct Level 3",
+        "Pct Level 4",
+        "Pct Level 3 and 4",
+        "Grade",
+        "Year",
+        "Demographic",
+        "Number Tested",
+        "Num Level 1",
+        "Mean Scale Score",
+        "Num Level 2",
+        "Num Level 3",
+        "Pct Level 2",
+        "Num Level 3 and 4"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/fxwm-3t4n",
+    "last_updated": "2014-09-05 17:22:53+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 02:43:59+00:00"
+}

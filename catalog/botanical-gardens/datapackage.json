@@ -1,0 +1,56 @@
+{
+    "name": "botanical-gardens",
+    "datapackage_version": "1.0-beta",
+    "title": "Botanical Gardens",
+    "version": "N/A",
+    "keywords": [
+        "location",
+        "doitt gis",
+        "cartography",
+        "botany",
+        "botanical",
+        "basemap",
+        "recreation",
+        "site",
+        "park",
+        "nature",
+        "map",
+        "geographic",
+        "garden"
+    ],
+    "description": "Botanical Gardens",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/hrii-hezj?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 1.2431640625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1260,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/hrii-hezj",
+    "last_updated": "2016-08-27 18:26:57+00:00",
+    "protocol": "https",
+    "created": "2013-04-05 16:42:57+00:00"
+}

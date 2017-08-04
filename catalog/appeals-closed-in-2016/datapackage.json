@@ -1,0 +1,54 @@
+{
+    "name": "appeals-closed-in-2016",
+    "datapackage_version": "1.0-beta",
+    "title": "Appeals Closed In 2016",
+    "version": "N/A",
+    "keywords": [],
+    "description": "A list of all appeals closed by the Civil Service Commission in 2016.  This list includes both Civil Service Law Section 50 Disqualification Appeals and Civil Service Law Section 76 Disciplinary Appeals.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civil Service Commission (CSC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/wbtw-zkex/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1702,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 18,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Expiration",
+        "Acronym",
+        "Date Closed",
+        "Title",
+        "Exam No.",
+        "Status",
+        "Appeal Subtype",
+        "Appeal Type",
+        "Extension",
+        "Date Filed",
+        "Agency"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/wbtw-zkex",
+    "last_updated": "2017-05-15 15:19:18+00:00",
+    "protocol": "https",
+    "created": "2017-05-08 22:01:22+00:00"
+}

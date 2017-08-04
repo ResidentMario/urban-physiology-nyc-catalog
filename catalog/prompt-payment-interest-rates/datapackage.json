@@ -1,0 +1,47 @@
+{
+    "name": "prompt-payment-interest-rates",
+    "datapackage_version": "1.0-beta",
+    "title": "Prompt Payment Interest Rates",
+    "version": "N/A",
+    "keywords": [],
+    "description": "PPB shall coordinate and publish an annual prompt payment performance report detailing each agency's performance pursuant to Charter Section 332. PPB shall additionally make cumulative prompt payment performance statistics available upon request. All reports shall be distributed to the CCPO, OMB and Comptroller and shall be posted on the City's website in a location that is accessible by the public simultaneously with their publication.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Contract Services (MOCS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/qt4e-9a97/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 6,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 70,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Date Range",
+        "Net Interest Paid by Mayoral Agencies Citywide",
+        "Prompt Payment Interest Rates",
+        "Fiscal Year"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/qt4e-9a97",
+    "last_updated": "2015-12-18 22:39:49+00:00",
+    "protocol": "https",
+    "created": "2015-12-17 16:58:06+00:00"
+}

@@ -1,0 +1,48 @@
+{
+    "name": "nyc-address-points",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Address Points",
+    "version": "N/A",
+    "keywords": [
+        "doitt gis",
+        "map",
+        "doitt",
+        "yc address points",
+        "gis"
+    ],
+    "description": "NYC Address Points",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology and Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/g6pj-hd8k?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 505742.8369140625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1286,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/g6pj-hd8k",
+    "last_updated": "2017-05-25 19:15:22+00:00",
+    "protocol": "https",
+    "created": "2015-04-27 20:54:35+00:00"
+}

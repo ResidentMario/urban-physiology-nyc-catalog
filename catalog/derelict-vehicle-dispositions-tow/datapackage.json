@@ -1,0 +1,67 @@
+{
+    "name": "derelict-vehicle-dispositions-tow",
+    "datapackage_version": "1.0-beta",
+    "title": "Derelict Vehicle Dispositions - Tow",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Data for removing derelict vehicle operations from city streets, Gives disposition (complaints) of derelict vehicles reported to DSNY from 311.\r\n\r\nhttps://data.cityofnewyork.us/City-Government/Derelict-Vehicle-Dispositions-Vehicles/bjuu-44hx\r\nhttps://data.cityofnewyork.us/City-Government/Derelict-Vehicles-Dispositions-Complaints/pq5i-thsu\r\nhttps://data.cityofnewyork.us/City-Government/Derelict-Vehicles-Dispositions-Rentals/v6j6-k9uc",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Sanitation (DSNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/vr8p-8shw/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 52900,
+    "columns": 24,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 192,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "DVT_STATUS_CD",
+        "DVT_ROTOW_TAGNO",
+        "DVT_DISTRICT",
+        "ISN",
+        "DVT_TID_E",
+        "DVT_TIMESTMP_E",
+        "DVT_COLOR",
+        "DVT_BETWEEN_2",
+        "DVT_MAKE",
+        "DVT_FINAL_TID",
+        "DVT_FINAL_TIMESTMP",
+        "DVT_FINAL_DISP_DT",
+        "DVT_LOCATION",
+        "DVT_BETWEEN_1",
+        "DVT_TYPE",
+        "DVT_OPERID_E",
+        "DVT_FILL_A",
+        "DVT_FINAL_DISP_CD",
+        "DVT_FINAL_DISP_TM",
+        "DVT_OUTSTAND_IND",
+        "DVT_FINAL_OPERID",
+        "DVT_TAG_NO",
+        "DVT_TAGDT",
+        "DVT_TAGTM"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/vr8p-8shw",
+    "last_updated": "2017-05-08 19:38:36+00:00",
+    "protocol": "https",
+    "created": "2015-05-22 20:21:29+00:00"
+}

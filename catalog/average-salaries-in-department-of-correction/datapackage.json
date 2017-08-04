@@ -1,0 +1,50 @@
+{
+    "name": "average-salaries-in-department-of-correction",
+    "datapackage_version": "1.0-beta",
+    "title": "Average Salaries In Department Of Correction",
+    "version": "N/A",
+    "keywords": [
+        "salaries",
+        "department of correction",
+        "doc"
+    ],
+    "description": "This table represents the average salaries of uniformed and civilian staff",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Correction (DOC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/pf7i-ims3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 4327,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Rank",
+        "Base Salary",
+        "Loaded + Fringes"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/pf7i-ims3",
+    "last_updated": "2014-09-05 17:11:14+00:00",
+    "protocol": "https",
+    "created": "2013-03-06 14:35:37+00:00"
+}

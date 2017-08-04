@@ -1,0 +1,92 @@
+{
+    "name": "dof-condominium-comparable-rental-income-bronx-fy-20082009",
+    "datapackage_version": "1.0-beta",
+    "title": "DOF: Condominium Comparable Rental Income \u2013 Bronx \u2013 FY 2008/2009",
+    "version": "N/A",
+    "keywords": [
+        "cooperatives",
+        "bronx",
+        "department of finance",
+        "borough",
+        "buildings",
+        "rental properties",
+        "dof",
+        "condominiums",
+        "apartment",
+        "residential",
+        "rental property",
+        "finance"
+    ],
+    "description": "The Department of Finance (DOF) is required by NY State law to value condominiums or cooperatives as if they were residential rental apartment buildings.   DOF uses income information from rental properties similar in physical features and location to the condominiums or cooperatives. DOF applies this income data to the condominium or cooperative and determine its value in the same way DOF values rental apartment buildings.\r\nUpdate Frequency: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/en2c-j6tw/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 48,
+    "columns": 36,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 231,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "BRONX CONDOMINIUM PROPERTY Full Market Value",
+        "COMPARABLE RENTAL 2  Building Classification",
+        "BRONX CONDOMINIUM PROPERTY Est. Gross Income",
+        "COMPARABLE RENTAL 2  Gross SqFt",
+        "BRONX CONDOMINIUM PROPERTY Total Units",
+        "COMPARABLE RENTAL 2  Est. Gross Income",
+        "COMPARABLE RENTAL 2  Total Units",
+        "COMPARABLE RENTAL 2  Gross Income per SqFt",
+        "BRONX CONDOMINIUM PROPERTY Gross Income per SqFt",
+        "BRONX CONDOMINIUM PROPERTY Gross SqFt",
+        "BRONX CONDOMINIUM PROPERTY Year Built",
+        "BRONX CONDOMINIUM PROPERTY Condo Section",
+        "BRONX CONDOMINIUM PROPERTY Boro-Block-Lot",
+        "COMPARABLE RENTAL 1  Gross SqFt",
+        "COMPARABLE RENTAL 1  Est. Gross Income",
+        "COMPARABLE RENTAL 1  Gross Income per SqFt",
+        "COMPARABLE RENTAL 1 Full Market Value",
+        "COMPARABLE RENTAL 1  Market Value per SqFt",
+        "BRONX CONDOMINIUM PROPERTY Building Classification",
+        "BRONX CONDOMINIUM PROPERTY Neighborhood",
+        "BRONX CONDOMINIUM PROPERTY Address",
+        "COMPARABLE RENTAL 1  Dist. from Coop in miles",
+        "COMPARABLE RENTAL 2  Boro-Block-Lot",
+        "COMPARABLE RENTAL 2  Address",
+        "COMPARABLE RENTAL 1  Total Units",
+        "COMPARABLE RENTAL 1  Year Built",
+        "COMPARABLE RENTAL 2  Neighborhood",
+        "COMPARABLE RENTAL 2  Year Built",
+        "COMPARABLE RENTAL 2  Full Market Value",
+        "BRONX CONDOMINIUM PROPERTY Market Value per SqFt",
+        " COMPARABLE RENTAL 1 Boro-Block-Lot",
+        "COMPARABLE RENTAL 1 Address",
+        "COMPARABLE RENTAL 1  Neighborhood",
+        "COMPARABLE RENTAL 1  Building Classification",
+        "COMPARABLE RENTAL 2  Dist. from Coop in miles",
+        "COMPARABLE RENTAL 2  Market Value per SqFt"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/en2c-j6tw",
+    "last_updated": "2014-09-05 18:05:17+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 20:21:38+00:00"
+}

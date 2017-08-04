@@ -1,0 +1,53 @@
+{
+    "name": "ceqr-project-milestones",
+    "datapackage_version": "1.0-beta",
+    "title": "CEQR Project Milestones",
+    "version": "N/A",
+    "keywords": [
+        "environment",
+        "project",
+        "sustainability",
+        "mos",
+        "ceqr"
+    ],
+    "description": "CEQR Open Data contains information on projects that are undergoing or have completed review through the City Environmental Quality Review (CEQR) process. Project information available at the Open Data Portal includes the CEQR Number, Project Name, the Project Description, the Lead Agency, project milestones, and geographical locations. CEQR Open Data contains information on CEQR projects, which were filed with the Mayor\u2019s Office from January 1, 2005 to the present.  For associated documents, please follow the links to the CEQR Access Database.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Sustainability (MOS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8fj8-3sgg/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 24700,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 303,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "CEQR",
+        "Milestone Date",
+        "Milestone Name",
+        "Project Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8fj8-3sgg",
+    "last_updated": "2017-05-31 14:05:22+00:00",
+    "protocol": "https",
+    "created": "2015-11-25 20:55:48+00:00"
+}

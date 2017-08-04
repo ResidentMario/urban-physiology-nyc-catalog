@@ -1,0 +1,55 @@
+{
+    "name": "nyc-social-media-usage",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Social Media Usage",
+    "version": "N/A",
+    "keywords": [
+        "facebook",
+        "nyc",
+        "organization",
+        "twitter",
+        "agency",
+        "data"
+    ],
+    "description": "Twitter and Facebook statistics from various NYC agencies and organizations.\r\n\r\nUpdate Frequency: As required",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Media And Entertainment (MOME)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/5b3a-rs48/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5899,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 8044,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Likes/Followers/Visits/Downloads",
+        "Agency",
+        "Platform",
+        "Url",
+        "Date Sampled"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/5b3a-rs48",
+    "last_updated": "2016-11-30 02:42:38+00:00",
+    "protocol": "https",
+    "created": "2011-10-11 19:23:24+00:00"
+}

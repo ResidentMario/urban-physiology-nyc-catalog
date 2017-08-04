@@ -1,0 +1,49 @@
+{
+    "name": "nyc-street-centerline-cscl",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Street Centerline (CSCL)",
+    "version": "N/A",
+    "keywords": [
+        "doitt gis",
+        "pub",
+        "centerline",
+        "streets",
+        "doittgis",
+        "cscl"
+    ],
+    "description": "The NYC Street Centerline (CSCL) is a road-bed representation of New York City streets containing address ranges and other information such as traffic directions, road types, segment types",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/exjm-f27b?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 101099.578125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 4704,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/exjm-f27b",
+    "last_updated": "2017-05-25 18:51:01+00:00",
+    "protocol": "https",
+    "created": "2014-06-19 18:48:48+00:00"
+}

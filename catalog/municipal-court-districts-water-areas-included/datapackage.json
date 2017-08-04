@@ -1,0 +1,48 @@
+{
+    "name": "municipal-court-districts-water-areas-included",
+    "datapackage_version": "1.0-beta",
+    "title": "Municipal Court Districts (water areas included)",
+    "version": "N/A",
+    "keywords": [
+        "dcp",
+        "map",
+        "gis",
+        "city planning",
+        "municipal court districts (water areas included)"
+    ],
+    "description": "GIS data: Boundaries of Municipal Court Districts (water areas included)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/k2bb-k6p8?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 1236.26953125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 146,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/k2bb-k6p8",
+    "last_updated": "2017-03-09 16:28:14+00:00",
+    "protocol": "https",
+    "created": "2013-04-18 18:36:59+00:00"
+}

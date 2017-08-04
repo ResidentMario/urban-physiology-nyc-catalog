@@ -1,0 +1,73 @@
+{
+    "name": "ccrb-age-of-alleged-victims-compared-to-new-york-city-demographics-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "CCRB: Age of Alleged Victims Compared to New York City Demographics 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "review",
+        "alleged victim",
+        "activity",
+        "year",
+        "board",
+        "2008",
+        "civilian",
+        "complaint",
+        "crime",
+        "victim",
+        "demographics 2005",
+        "age",
+        "2009",
+        "2007",
+        "2006"
+    ],
+    "description": "A statistical breakdown, by age and year, of alleged victims compared to New York City demographics 2005 - 2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/c4pu-cif5/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 10,
+    "columns": 14,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 632,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2006 Percent of Subtotal",
+        "2008 Percent of Subtotal",
+        "5-year Total Number",
+        "Age",
+        "2005 Number",
+        "2009 Number",
+        "2005 Percent of Subtotal",
+        "2006 Number",
+        "2009 Percent of Subtotal",
+        "2007 Number",
+        "2008 Number",
+        "2007 Percent of Subtotal",
+        "New York City Population",
+        "5-year Total Percent of Subtotal"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/c4pu-cif5",
+    "last_updated": "2014-09-05 17:11:49+00:00",
+    "protocol": "https",
+    "created": "2011-09-12 17:44:10+00:00"
+}

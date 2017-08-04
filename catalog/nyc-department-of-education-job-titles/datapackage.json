@@ -1,0 +1,65 @@
+{
+    "name": "nyc-department-of-education-job-titles",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Department of Education Job Titles",
+    "version": "N/A",
+    "keywords": [
+        "education",
+        "title",
+        "service",
+        "civil",
+        "civil service",
+        "doe"
+    ],
+    "description": "List of civil service titles used by the Department of Education",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Citywide Administrative Services (DCAS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/s7yj-m732/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2312,
+    "columns": 15,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2710,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "SFX",
+        "APRL LVL",
+        "BARG UNIT DESCR",
+        "BARG UNIT",
+        "MAX RATE",
+        "APRL BANK",
+        "UNION CD",
+        "TITLE",
+        "STD HRS",
+        "SFFX DESCR",
+        "DESCR",
+        "UNION DESCR",
+        "MIN RATE",
+        "JOBCD",
+        "ASG LVL"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/s7yj-m732",
+    "last_updated": "2014-09-05 17:09:45+00:00",
+    "protocol": "https",
+    "created": "2011-07-27 14:25:14+00:00"
+}

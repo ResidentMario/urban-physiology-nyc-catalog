@@ -1,0 +1,66 @@
+{
+    "name": "heating-oil-consumption-and-cost-2010-november-2016",
+    "datapackage_version": "1.0-beta",
+    "title": "Heating Oil Consumption And Cost (2010 - November 2016)",
+    "version": "N/A",
+    "keywords": [
+        "heating oil consumption and cost"
+    ],
+    "description": "Monthly consumption and cost data by borough and development. Data set includes utility vendor and meter information.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York City Housing Authority (NYCHA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/bhwu-wuzu/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 7695,
+    "columns": 21,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 189,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "UMIS BILL ID",
+        "Service End Date",
+        "Funding Source",
+        "Meter AMR",
+        "TDS #",
+        "Meter Scope",
+        "Location",
+        "Estimated",
+        "Vendor Name",
+        "Service Start Date",
+        "Revenue Month",
+        "Consumption (GAL)",
+        "Current Charges",
+        "Development Name",
+        "Account Name",
+        "EDP",
+        "# days",
+        "RC Code",
+        "Borough",
+        "AMP #",
+        "Meter Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/bhwu-wuzu",
+    "last_updated": "2017-02-23 16:27:19+00:00",
+    "protocol": "https",
+    "created": "2016-07-15 22:51:38+00:00"
+}

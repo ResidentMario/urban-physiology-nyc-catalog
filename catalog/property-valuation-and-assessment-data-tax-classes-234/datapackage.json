@@ -1,0 +1,49 @@
+{
+    "name": "property-valuation-and-assessment-data-tax-classes-234",
+    "datapackage_version": "1.0-beta",
+    "title": "Property Valuation and Assessment data Tax Classes 2,3,4",
+    "version": "N/A",
+    "keywords": [
+        "value",
+        "tax class",
+        "tax",
+        "roll",
+        "property",
+        "assess",
+        "assessment",
+        "expand",
+        "expanded",
+        "finance",
+        "valuation"
+    ],
+    "description": "Property valuation and assessment data (Expanded Tax Classes 2,3,4 Assessed Value)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 455072.0322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 2362,
+    "preferred_mimetype": "application/x-msaccess",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "mdb",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/cqds-77ys",
+    "last_updated": "2014-09-05 17:22:39+00:00",
+    "protocol": "https",
+    "created": "2011-09-02 19:45:02+00:00"
+}

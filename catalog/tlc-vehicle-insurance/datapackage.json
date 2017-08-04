@@ -1,0 +1,61 @@
+{
+    "name": "tlc-vehicle-insurance",
+    "datapackage_version": "1.0-beta",
+    "title": "TLC Vehicle Insurance",
+    "version": "N/A",
+    "keywords": [
+        "limousine",
+        "car",
+        "automobile",
+        "truck",
+        "vehicle",
+        "taxi",
+        "insure",
+        "insurance",
+        "transportation"
+    ],
+    "description": "Spreadsheet of all TLC vehicle insurance",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/cw8b-zbc3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 55900,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2853,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "TLC_License_Type",
+        "Automobile_Insurance_Policy_Number",
+        "Vehicle_Owner_Name",
+        "Automobile_Insurance_Code",
+        "DMV_Plate",
+        "TLC_License_Number",
+        "Affiliated_Base_or_Taxi_Agent_or_Fleet_License_Number",
+        "VIN"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/cw8b-zbc3",
+    "last_updated": "2016-04-26 03:10:09+00:00",
+    "protocol": "https",
+    "created": "2011-08-26 20:09:47+00:00"
+}

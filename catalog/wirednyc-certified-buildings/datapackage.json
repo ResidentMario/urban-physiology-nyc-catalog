@@ -1,0 +1,74 @@
+{
+    "name": "wirednyc-certified-buildings",
+    "datapackage_version": "1.0-beta",
+    "title": "WiredNYC \u2013 Certified Buildings",
+    "version": "N/A",
+    "keywords": [
+        "broadband",
+        "wirednyc",
+        "nycedc",
+        "nyc bigapps",
+        "connectivity",
+        "buildings",
+        "access",
+        "bigapps"
+    ],
+    "description": "This dataset contains information for buildings that have completed the certification process. These buildings are all publicly viewable on the WiredNYC website (www.wiredscore.com)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYC EDC"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/37it-gmcp/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 51,
+    "columns": 22,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 314,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "NYC BigApps"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Coax/Cable Connections",
+        "New Service Providers",
+        "Riser Space for Current Providers",
+        "Fiber Distribution",
+        "Satellite/Fixed Wireless Connection",
+        "Riser Space for Additional Providers",
+        "Diverse Riser Locations",
+        "Signed POEs",
+        "BBL",
+        "Additional Telecom Space",
+        "Designated Telecom Utility Space",
+        "ISPs",
+        "Multiple Points of Entry",
+        "Agreements",
+        "# of Carriers",
+        "Certification Class",
+        "Street Address",
+        "Building Name",
+        "Borough",
+        "BBLE",
+        "# ISPs",
+        "Fiber Connection"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/37it-gmcp",
+    "last_updated": "2014-09-06 00:29:41+00:00",
+    "protocol": "https",
+    "created": "2014-06-13 14:49:28+00:00"
+}

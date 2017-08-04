@@ -1,0 +1,65 @@
+{
+    "name": "english-language-arts-ela-test-results-2006-2012-school-gender",
+    "datapackage_version": "1.0-beta",
+    "title": "English Language Arts (ELA) Test Results 2006-2012 - School - Gender",
+    "version": "N/A",
+    "keywords": [
+        "ela test",
+        "grade",
+        "english language arts",
+        "lifelong learning",
+        "school"
+    ],
+    "description": "Latest available data and trends in the state assessment results of English Language Arts for grades 3 through 8. Data are disaggregated by school and student gender.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/yuzm-c784/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 67600,
+    "columns": 16,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 192,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Num Level 1",
+        "Year",
+        "Demographic",
+        "DBN",
+        "Grade",
+        "Pct Level 3 and 4",
+        "Num Level 4",
+        "Pct Level 3",
+        "Num Level 3",
+        "Pct Level 2",
+        "Num Level 2",
+        "Pct Level 1",
+        "Mean Scale Score",
+        "Num Level 3 and 4",
+        "Pct Level 4",
+        "Number Tested"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/yuzm-c784",
+    "last_updated": "2014-09-05 17:17:40+00:00",
+    "protocol": "https",
+    "created": "2013-02-20 22:23:38+00:00"
+}

@@ -1,0 +1,61 @@
+{
+    "name": "hose-nozzle-and-sprayer-survey",
+    "datapackage_version": "1.0-beta",
+    "title": "Hose Nozzle And Sprayer Survey",
+    "version": "N/A",
+    "keywords": [
+        "department of environmental protection",
+        "hose nozzle",
+        "healthy living",
+        "environment",
+        "drought",
+        "emergency",
+        "dep",
+        "hose nozzle and sprayer survey",
+        "sprayer"
+    ],
+    "description": "List of hose nozzles and sprayers that meet the requirements during a drought emergency.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ijru-c88e/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 8,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 189,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Minimum Flow P.S.I.",
+        "Spray Patterns Available",
+        "Maximum Flow P.S.I.",
+        "Minimum Flow Rate (gpm)",
+        "Manufacturer\u00a0",
+        "Model",
+        "Cost",
+        "Maximum Flow Rate (gpm)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ijru-c88e",
+    "last_updated": "2014-09-05 17:06:08+00:00",
+    "protocol": "https",
+    "created": "2013-02-01 14:29:16+00:00"
+}

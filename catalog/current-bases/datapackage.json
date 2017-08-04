@@ -1,0 +1,58 @@
+{
+    "name": "current-bases",
+    "datapackage_version": "1.0-beta",
+    "title": "CURRENT BASES",
+    "version": "N/A",
+    "keywords": [],
+    "description": "CURRENT BASES",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/eccv-9dzr/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 953,
+    "columns": 15,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 644,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Time",
+        "License Number",
+        "Zip",
+        "Date",
+        "Longitude",
+        "State",
+        "Latitude",
+        "Telephone Number",
+        "Street",
+        "Type of Base",
+        "Location",
+        "Entity Name",
+        "City",
+        "Building",
+        "SHL Endorsed"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/eccv-9dzr",
+    "last_updated": "2017-05-19 21:13:41+00:00",
+    "protocol": "https",
+    "created": "2015-04-21 17:43:01+00:00"
+}

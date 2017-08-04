@@ -1,0 +1,65 @@
+{
+    "name": "ccrb-attribution-of-complaints-to-patrol-borough-queens-south-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "CCRB: Attribution of Complaints to Patrol Borough Queens South 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "civilian",
+        "civilian complaint review board",
+        "ccrb",
+        "board",
+        "activity",
+        "2009",
+        "2008",
+        "2007",
+        "statistics",
+        "complaint",
+        "complaint activity",
+        "2006",
+        "2005",
+        "review"
+    ],
+    "description": "Civilian Complaint Review Board (CCRB) complaint activity data, 2005-2009.\r\nUpdate Schedule: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8wpj-vk59/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 13,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 145,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2007",
+        "2008",
+        "2005",
+        "Total",
+        "2009",
+        "2006",
+        "Queens South"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8wpj-vk59",
+    "last_updated": "2014-09-05 17:06:45+00:00",
+    "protocol": "https",
+    "created": "2011-09-14 19:42:29+00:00"
+}

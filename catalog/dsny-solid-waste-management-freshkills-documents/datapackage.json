@@ -1,0 +1,50 @@
+{
+    "name": "dsny-solid-waste-management-freshkills-documents",
+    "datapackage_version": "1.0-beta",
+    "title": "DSNY - Solid Waste Management Freshkills documents",
+    "version": "N/A",
+    "keywords": [
+        "sanitation",
+        "dsny - solid waste management freshkills documents"
+    ],
+    "description": "The Solid Waste Management Freshkills documents are a collection of links to reports, maps, official documentation and studies regarding the Fresh Kills Landfill.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Sanitation (DSNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/yv6j-r66f/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 249,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 74,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        ""
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "DOC NO.",
+        "DOCUMENT TITLE",
+        "LINK",
+        "DATE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/yv6j-r66f",
+    "last_updated": "2017-02-27 21:36:48+00:00",
+    "protocol": "https",
+    "created": "2017-02-22 22:42:35+00:00"
+}

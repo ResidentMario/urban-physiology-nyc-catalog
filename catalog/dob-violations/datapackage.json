@@ -1,0 +1,65 @@
+{
+    "name": "dob-violations",
+    "datapackage_version": "1.0-beta",
+    "title": "DOB Violations",
+    "version": "N/A",
+    "keywords": [
+        "buildings",
+        "dob",
+        "violation"
+    ],
+    "description": "DOB Violations \u2013 A list of active DOB violations.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Buildings (DOB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/3h2n-5cm9/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1890000,
+    "columns": 18,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 3712,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "VIOLATION_NUMBER",
+        "BORO",
+        "ISN_DOB_BIS_VIOL",
+        "DEVICE_NUMBER",
+        "DESCRIPTION",
+        "VIOLATION_TYPE",
+        "HOUSE_NUMBER",
+        "DISPOSITION_DATE",
+        "NUMBER",
+        "VIOLATION_CATEGORY",
+        "BLOCK",
+        "LOT",
+        "DISPOSITION_COMMENTS",
+        "ISSUE_DATE",
+        "STREET",
+        "BIN",
+        "ECB_NUMBER",
+        "VIOLATION_TYPE_CODE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/3h2n-5cm9",
+    "last_updated": "2017-05-31 22:29:21+00:00",
+    "protocol": "https",
+    "created": "2015-11-24 20:50:03+00:00"
+}

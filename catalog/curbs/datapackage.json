@@ -1,0 +1,45 @@
+{
+    "name": "curbs",
+    "datapackage_version": "1.0-beta",
+    "title": "Curbs",
+    "version": "N/A",
+    "keywords": [
+        "doitt gis",
+        "planimetrics"
+    ],
+    "description": "All curbs between roadbed pavement and other surfaces (i.e., within the street right-of-way) were captured. Please see the following link for additional documentation- https://github.com/CityOfNewYork/nyc-planimetrics/blob/master/Capture_Rules.md.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/ikvd-dex8?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 436388.806640625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 491,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        ""
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/ikvd-dex8",
+    "last_updated": "2016-08-27 18:39:50+00:00",
+    "protocol": "https",
+    "created": "2016-03-14 21:14:52+00:00"
+}

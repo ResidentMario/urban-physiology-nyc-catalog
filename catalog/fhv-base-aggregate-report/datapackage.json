@@ -1,0 +1,67 @@
+{
+    "name": "fhv-base-aggregate-report",
+    "datapackage_version": "1.0-beta",
+    "title": "FHV Base Aggregate Report",
+    "version": "N/A",
+    "keywords": [
+        "vehicles",
+        "yellow cab",
+        "trips",
+        "transportation",
+        "taxi",
+        "tlc",
+        "total trips",
+        "trip record",
+        "vehicle report",
+        "dispatched trips",
+        "taxi base",
+        "for-hire"
+    ],
+    "description": "Monthly report including weekly total dispatched trips and unique dispatched vehicles by base tabulated from FHV Trip Record submissions made by bases. Note: The TLC publishes base trip record data as submitted by the bases, and we cannot guarantee or confirm their accuracy or completeness. Therefore, this may not represent the total amount of trips dispatched by all TLC-licensed bases. The TLC performs routine reviews of the records and takes enforcement actions when necessary to ensure, to the extent possible, complete and accurate information.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/2v9c-2k7f/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 50600,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 3014,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Pickup End Date",
+        "Unique Dispatched Vehicle",
+        "Week Number",
+        "Years",
+        "DBA",
+        "Base Name",
+        "Wave Number",
+        "Base License Number",
+        "Submitted Days",
+        "Pickup Start Date",
+        "Total Dispatched Trips"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/2v9c-2k7f",
+    "last_updated": "2017-05-26 20:08:01+00:00",
+    "protocol": "https",
+    "created": "2016-04-07 16:15:02+00:00"
+}

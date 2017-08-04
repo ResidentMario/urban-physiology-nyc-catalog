@@ -1,0 +1,62 @@
+{
+    "name": "lower-manhattan-retailers",
+    "datapackage_version": "1.0-beta",
+    "title": "Lower Manhattan Retailers",
+    "version": "N/A",
+    "keywords": [
+        "downtown",
+        "retail",
+        "sale",
+        "sell",
+        "vendor",
+        "community",
+        "block",
+        "lot",
+        "manhattan"
+    ],
+    "description": "Listing of lower Manhattan retailers",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Downtown Alliance"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/cw88-qpsr/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 772,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 4074,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Block-Lot",
+        "Primary",
+        "CnAdrPrf_City",
+        "Secondary",
+        "CnAdrPrf_ZIP",
+        "CnAdrPrf_Addrline1",
+        "CnBio_Org_Name",
+        "CnAdrPrf_Addrline2",
+        "CnAdrPrf_State"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/cw88-qpsr",
+    "last_updated": "2014-09-06 00:41:07+00:00",
+    "protocol": "https",
+    "created": "2011-08-30 22:12:29+00:00"
+}

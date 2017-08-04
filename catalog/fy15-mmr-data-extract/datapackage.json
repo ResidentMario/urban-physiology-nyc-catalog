@@ -1,0 +1,65 @@
+{
+    "name": "fy15-mmr-data-extract",
+    "datapackage_version": "1.0-beta",
+    "title": "FY15 MMR Data Extract",
+    "version": "N/A",
+    "keywords": [],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Operations (OPS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/xn73-3kak/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 34100,
+    "columns": 22,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 473,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Fiscal Year",
+        "Indicator Sequence",
+        "Critical Flag",
+        "Record Type",
+        "Goal ID",
+        "Value Time",
+        "Value Percent",
+        "Indicator ID",
+        "Value Type",
+        "Geography",
+        "Measure Type",
+        "Agency",
+        "Value Number",
+        "Conditional Format",
+        "Value Currency",
+        "Sub-Indicator Sequence",
+        "Sub-Indicator",
+        "Indicator Name",
+        "Value Ratio",
+        "Value",
+        "KPSA ID",
+        "Desired Direction"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/xn73-3kak",
+    "last_updated": "2016-12-21 22:43:04+00:00",
+    "protocol": "https",
+    "created": "2015-09-18 02:48:33+00:00"
+}

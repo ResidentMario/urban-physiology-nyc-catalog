@@ -1,0 +1,39 @@
+{
+    "name": "nyc-school-survey-2008-district-75",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC School Survey - 2008 - District 75",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning"
+    ],
+    "description": "Every year, all parents, all teachers, and students take the NYC School Survey. The survey ranks among the largest surveys of any kind ever conducted nationally. \r\n\r\nSurvey results provide insight into a school's learning environment and contribute a measure of diversification that goes beyond test scores on the Progress Report. Survey questions assess the community's opinions on academic expectations, communication, engagement, and safety and respect. School leaders can use survey results to better understand their own school's strengths and target areas for improvement. \r\n\r\nOver 800,000 New Yorkers participated in the survey in 2008. 347,829 parents, 48,002 teachers, and 410,708 students submitted surveys and contributed feedback to their schools.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 42.4326171875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 148,
+    "preferred_mimetype": "application/pdf",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "pdf",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/bj76-nbjg",
+    "last_updated": "2014-09-05 17:25:56+00:00",
+    "protocol": "https",
+    "created": "2011-10-06 22:39:11+00:00"
+}

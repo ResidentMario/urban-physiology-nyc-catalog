@@ -1,0 +1,54 @@
+{
+    "name": "adult-family-health-plus-levels",
+    "datapackage_version": "1.0-beta",
+    "title": "Adult family health plus levels",
+    "version": "N/A",
+    "keywords": [
+        "adult",
+        "plus",
+        "jobs and economic mobility",
+        "hra",
+        "human resources administration",
+        "health"
+    ],
+    "description": "This table represents details of Family Health Plus insurance program. Family Health Plus is a public health insurance program for adults between the ages of 19 and 64 who do not have health insurance - either on their own or through their employers - but have incomes too high to qualify for Medicaid.  The Family Health Plus Premium Assistance Program is available to help eligible lower-income employees and their families participate in their employer\u2019s health insurance plan.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/2enn-s52j/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 8,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 209,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Weekly Income ($)",
+        "Family Size",
+        "Monthly Income ($)",
+        "Yearly Income ($)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/2enn-s52j",
+    "last_updated": "2014-09-05 17:10:41+00:00",
+    "protocol": "https",
+    "created": "2013-03-19 18:07:23+00:00"
+}

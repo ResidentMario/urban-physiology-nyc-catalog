@@ -1,0 +1,45 @@
+{
+    "name": "directory-of-nature-centers",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of Nature Centers",
+    "version": "N/A",
+    "keywords": [
+        "directory of nature centers",
+        "recreation",
+        "education",
+        "sports",
+        "outdoor",
+        "healthy living",
+        "dpr"
+    ],
+    "description": "Nature Centers in New York City Department of Parks & Recreation properties.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 18.5625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 352,
+    "preferred_mimetype": "application/xml",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/2hr8-czpv",
+    "last_updated": "2017-04-11 16:07:30+00:00",
+    "protocol": "https",
+    "created": "2011-08-16 18:47:34+00:00"
+}

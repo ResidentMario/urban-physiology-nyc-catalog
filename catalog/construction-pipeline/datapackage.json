@@ -1,0 +1,68 @@
+{
+    "name": "construction-pipeline",
+    "datapackage_version": "1.0-beta",
+    "title": "Construction Pipeline",
+    "version": "N/A",
+    "keywords": [
+        "construction pipeline"
+    ],
+    "description": "Pursuant to  312(a) of the City Charter, as amended by Local Law 63 of 2011, the Mayor's Office is required to publish a plan and schedule for each City agency detailing the anticipated contracting actions of each agency for the upcoming fiscal year for certain categories of procurement.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of the Mayor (OTM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/iwdd-99mu/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 576,
+    "columns": 23,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 159,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Status of Bid",
+        "Borough of Work -Manhattan",
+        "Borough of Work -Brooklyn",
+        "Pre-bid Meeting? (Y/N)",
+        "Borough of Work -Queens",
+        "Agency Unit",
+        "Subject to LL1?  (Y/N)",
+        "Trade(s)",
+        "Is Apprenticeship Required?  (Y/N)",
+        "OneNYC? (Y/N)",
+        "Borough of Work -Staten Island",
+        "Borough of Work - Bronx",
+        "Borough of Work -Upstate",
+        "Federal or State Goals?",
+        "EPIN",
+        "Award Method",
+        "Agency",
+        "Project Description",
+        "Estimated Bid Date",
+        "Project ID",
+        "Engineer's Estimate (Amount in 000s)",
+        "Subject to Damages for Delay?  ",
+        "Subject to a PLA?  (Y/N)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/iwdd-99mu",
+    "last_updated": "2016-04-22 21:49:13+00:00",
+    "protocol": "https",
+    "created": "2016-04-22 17:28:01+00:00"
+}

@@ -1,0 +1,48 @@
+{
+    "name": "cable-franchise-areas",
+    "datapackage_version": "1.0-beta",
+    "title": "Cable Franchise Areas",
+    "version": "N/A",
+    "keywords": [
+        "digital divide",
+        "broadband",
+        "cable franchise areas",
+        "broadband data dig",
+        "internet"
+    ],
+    "description": "Visual display of the cable franchise areas shapefiles found in the Broadband Data Dig dataset.  (https://data.cityofnewyork.us/dataset/Broadband-Data-Dig-Datasets/ft4n-yqee)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": null
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/fw3w-apxs?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 1668.4052734375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 67,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        ""
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/fw3w-apxs",
+    "last_updated": "2016-11-19 13:58:37+00:00",
+    "protocol": "https",
+    "created": "2016-11-18 23:25:05+00:00"
+}

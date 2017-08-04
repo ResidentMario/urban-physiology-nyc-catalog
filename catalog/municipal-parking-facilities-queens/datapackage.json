@@ -1,0 +1,42 @@
+{
+    "name": "municipal-parking-facilities-queens",
+    "datapackage_version": "1.0-beta",
+    "title": "Municipal Parking Facilities (Queens)",
+    "version": "N/A",
+    "keywords": [
+        "transportation",
+        "parking",
+        "clean web",
+        "queens"
+    ],
+    "description": "RSS Feed displaying municipal parking facilities in Queens",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 15.39453125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 416,
+    "preferred_mimetype": "text/xml",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/qfxy-c6k3",
+    "last_updated": "2014-09-05 18:10:33+00:00",
+    "protocol": "https",
+    "created": "2011-10-10 22:23:23+00:00"
+}

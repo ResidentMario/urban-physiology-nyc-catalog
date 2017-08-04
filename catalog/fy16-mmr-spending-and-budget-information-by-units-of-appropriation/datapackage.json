@@ -1,0 +1,72 @@
+{
+    "name": "fy16-mmr-spending-and-budget-information-by-units-of-appropriation",
+    "datapackage_version": "1.0-beta",
+    "title": "FY16 MMR Spending and Budget Information by Units of Appropriation",
+    "version": "N/A",
+    "keywords": [
+        "omb",
+        "adopted budget",
+        "appropriation",
+        "budget",
+        "cafr",
+        "comprehensive annual financial report",
+        "expenses",
+        "fiscal 2016",
+        "fiscal 2016 mayor\u2019s management report",
+        "key performance indicators",
+        "kpi",
+        "kpis",
+        "mayor\u2019s management report",
+        "mmr",
+        "mmr additional tables",
+        "mmr spending and budget information by units of appropriation",
+        "nyc office of management and budget",
+        "otps",
+        "personal services",
+        "spending",
+        "units of appropriation"
+    ],
+    "description": "NYC agency spending and budget information by units of appropriation data from the Mayor's Management Report (MMR).",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor\u2019s Office of Operations (OPS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/gepv-dxc2/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 269,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 76,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Agy_Name",
+        "FY_15_Exp",
+        "Agy",
+        "UA",
+        "FY_16_Adopted",
+        "UA_Name",
+        "PS_OTPS_Ind"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/gepv-dxc2",
+    "last_updated": "2016-10-21 14:07:11+00:00",
+    "protocol": "https",
+    "created": "2016-09-26 13:40:08+00:00"
+}

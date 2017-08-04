@@ -1,0 +1,71 @@
+{
+    "name": "wirednyc-all-buildings-data",
+    "datapackage_version": "1.0-beta",
+    "title": "WiredNYC \u2013 All Buildings Data",
+    "version": "N/A",
+    "keywords": [
+        "broadband",
+        "nyc bigapps",
+        "nycedc",
+        "buildings",
+        "wirednyc",
+        "connectivity",
+        "access",
+        "bigapps"
+    ],
+    "description": "This dataset contains building information for all buildings that have completed a WiredNYC survey.  This includes buildings that have opted-out from displaying their profiles publicly.  Therefore, the building-specific data (e.g. building address) provided is anonymous and only linked to the borough the building is located in.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYC EDC"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/a6nj-cfbz/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 323,
+    "columns": 19,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1407,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "NYC BigApps"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Agreements",
+        "Satellite/Fixed Wireless Connection",
+        "Fiber Distribution",
+        "Fiber Connection",
+        "Designated Telecom Utility Space",
+        "Multiple Points of Entry",
+        "Building_id",
+        "ISPs",
+        "Coax/Cable Connections",
+        "Additional Telecom Space",
+        "# ISPs",
+        "Certification Class",
+        "# of Carriers",
+        "Borough",
+        "Signed POEs",
+        "Diverse Riser Locations",
+        "Riser Space for Additional Providers",
+        "Riser Space for Current Providers",
+        "New Service Providers"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/a6nj-cfbz",
+    "last_updated": "2014-09-06 00:29:43+00:00",
+    "protocol": "https",
+    "created": "2014-06-13 15:05:42+00:00"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "hra-domestic-violence-partners",
+    "datapackage_version": "1.0-beta",
+    "title": "HRA Domestic Violence Partners",
+    "version": "N/A",
+    "keywords": [
+        "jobs and economic mobility",
+        "hra domestic violence partners"
+    ],
+    "description": "Listing of domestic violence non-residential services.  Phone numbers and the borough where service is provided is included.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/tbf6-u8ea/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 14,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 356,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Hotline #",
+        "Borough",
+        "Provider"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/tbf6-u8ea",
+    "last_updated": "2014-09-05 17:56:24+00:00",
+    "protocol": "https",
+    "created": "2013-03-26 16:48:11+00:00"
+}

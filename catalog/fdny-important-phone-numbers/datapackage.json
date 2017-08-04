@@ -1,0 +1,51 @@
+{
+    "name": "fdny-important-phone-numbers",
+    "datapackage_version": "1.0-beta",
+    "title": "FDNY Important Phone Numbers",
+    "version": "N/A",
+    "keywords": [
+        "fire department",
+        "fire safety",
+        "safety",
+        "fdny",
+        "fdny phone numbers"
+    ],
+    "description": "FDNY Important Phone Numbers",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Fire Department of New York City (FDNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/kjmq-hfaa/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 18,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 6973,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Phone Number",
+        "Department"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/kjmq-hfaa",
+    "last_updated": "2014-09-05 17:47:14+00:00",
+    "protocol": "https",
+    "created": "2013-01-31 20:42:17+00:00"
+}

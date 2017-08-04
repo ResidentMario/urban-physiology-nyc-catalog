@@ -1,0 +1,74 @@
+{
+    "name": "ccrb-assignment-of-officers-against-whom-allegations-were-substantiated-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "CCRB: Assignment of Officers against Whom Allegations Were Substantiated 2005 \u2013 2009",
+    "version": "N/A",
+    "keywords": [
+        "crime",
+        "civilian",
+        "ccrb",
+        "bureau",
+        "board",
+        "assignment",
+        "2007",
+        "demographics 2005",
+        "activity",
+        "docket",
+        "incident",
+        "officer",
+        "substantiated",
+        "age",
+        "report",
+        "2006",
+        "2009",
+        "review",
+        "2008",
+        "year",
+        "victim",
+        "substantiation",
+        "complaint"
+    ],
+    "description": "A statistical breakdown, by year and bureau, of the Civilian Complaint Review Board (CCRB) assignments of officers against whom allegations were substantiated for the years 2005-2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/uggy-myiz/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 24,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 153,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2006",
+        "2007",
+        "2005",
+        "Patrol Services Bureau",
+        "2009",
+        "2008",
+        "Total"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/uggy-myiz",
+    "last_updated": "2014-09-05 17:11:48+00:00",
+    "protocol": "https",
+    "created": "2011-09-12 20:28:25+00:00"
+}

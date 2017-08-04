@@ -1,0 +1,67 @@
+{
+    "name": "police-department-disposition-of-substantiated-cases-by-year-of-ccrb-referral-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "Police Department Disposition Of Substantiated Cases By Year Of CCRB Referral 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "2009",
+        "misconduct",
+        "review",
+        "statistics",
+        "complaint activity",
+        "2005",
+        "2006",
+        "complaint",
+        "civilian complaint review board",
+        "activity",
+        "2007",
+        "civilian",
+        "ccrb",
+        "board",
+        "allegation",
+        "2008",
+        "disciplinary recommendation"
+    ],
+    "description": "CCRB: Police Department Disposition of Substantiated Cases by Year of CCRB Referral 2005 - 2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/88ds-ti7k/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 21,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 190,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2008",
+        "2009",
+        "Police Department Disposition",
+        "2007",
+        "2006",
+        "2005"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/88ds-ti7k",
+    "last_updated": "2014-09-05 18:09:12+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 17:48:02+00:00"
+}

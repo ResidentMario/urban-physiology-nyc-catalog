@@ -1,0 +1,51 @@
+{
+    "name": "sidewalk-weekly-construction-schedule",
+    "datapackage_version": "1.0-beta",
+    "title": "Sidewalk Weekly Construction Schedule",
+    "version": "N/A",
+    "keywords": [
+        "sidewalk",
+        "weekly construction schedule",
+        "dot"
+    ],
+    "description": "Sidewalk schedule to install, maintain and repair sidewalks, curbs and pedestrian ramps.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/r528-jcks/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 9,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 386,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Location",
+        "Borough",
+        "Contract No",
+        "CB"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/r528-jcks",
+    "last_updated": "2017-01-26 17:57:30+00:00",
+    "protocol": "https",
+    "created": "2014-10-22 19:42:15+00:00"
+}

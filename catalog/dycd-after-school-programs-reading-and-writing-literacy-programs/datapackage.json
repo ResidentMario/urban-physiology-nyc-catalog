@@ -1,0 +1,79 @@
+{
+    "name": "dycd-after-school-programs-reading-and-writing-literacy-programs",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD after-school programs: Reading And Writing Literacy Programs",
+    "version": "N/A",
+    "keywords": [
+        "development",
+        "adolescent literacy",
+        "children",
+        "civics",
+        "community",
+        "community development",
+        "education",
+        "english as a second language",
+        "english for speakers of other languages",
+        "english language program",
+        "esl",
+        "esol",
+        "family literacy",
+        "immigrant rights",
+        "jobs and economic mobility",
+        "learning",
+        "lifelong learning",
+        "literacy",
+        "programs",
+        "school",
+        "services",
+        "young adult",
+        "youth",
+        "adult literacy",
+        "after-school",
+        "after-school programs",
+        "child"
+    ],
+    "description": "Facilities in New York City, by agency and site, that offer after-school programs and resources for adult and adolescent literacy, family literacy, and English as a Second Language (ESOL) programs.\r\nUpdate Schedule: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/w9cy-nnma/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 100,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 627,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "PROGRAM",
+        "PROGRAM TYPE",
+        "AGENCY",
+        "Contact Number",
+        "Grade Level / Age Group ",
+        "SITE NAME",
+        "Location 1",
+        "BOROUGH / COMMUNITY"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/w9cy-nnma",
+    "last_updated": "2014-09-05 16:58:19+00:00",
+    "protocol": "https",
+    "created": "2011-09-02 18:40:22+00:00"
+}

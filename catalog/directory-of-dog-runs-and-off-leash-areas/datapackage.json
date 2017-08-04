@@ -1,0 +1,43 @@
+{
+    "name": "directory-of-dog-runs-and-off-leash-areas",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of Dog Runs  and Off-Leash Areas",
+    "version": "N/A",
+    "keywords": [
+        "healthy living",
+        "directory of dog runs  and off-leash areas",
+        "dogs",
+        "dpr",
+        "parks"
+    ],
+    "description": "Dog runs in New York City Department of Parks & Recreation properties and properties with off-leash hours for dogs.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 31.9404296875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 1154,
+    "preferred_mimetype": "application/xml",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/ipbu-mtcs",
+    "last_updated": "2017-04-11 15:29:56+00:00",
+    "protocol": "https",
+    "created": "2011-08-16 18:40:22+00:00"
+}

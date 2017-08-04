@@ -1,0 +1,54 @@
+{
+    "name": "safe-route-to-schools-priority-schools",
+    "datapackage_version": "1.0-beta",
+    "title": "Safe Route to Schools - Priority Schools",
+    "version": "N/A",
+    "keywords": [
+        "safe route",
+        "schools",
+        "priority school",
+        "dot",
+        "clean web"
+    ],
+    "description": "DOT has analyzed the latest citywide crash data and school data in order to identify a new group of 135 public, private and parochial elementary and middle schools Priority Schools. Each of DOT's Priority Schools receives an individualized planning study which determines both short-term and long-term measures to improve safety.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/pc34-d3sx/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 135,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1103,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Address",
+        "Borough",
+        "Community Board",
+        "School Name / ID",
+        "School Type"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/pc34-d3sx",
+    "last_updated": "2014-09-05 17:52:36+00:00",
+    "protocol": "https",
+    "created": "2013-03-06 16:46:46+00:00"
+}

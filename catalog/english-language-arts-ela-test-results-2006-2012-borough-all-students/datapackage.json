@@ -1,0 +1,65 @@
+{
+    "name": "english-language-arts-ela-test-results-2006-2012-borough-all-students",
+    "datapackage_version": "1.0-beta",
+    "title": "English Language Arts (ELA) Test Results 2006-2012 - Borough - All Students",
+    "version": "N/A",
+    "keywords": [
+        "borough",
+        "lifelong learning",
+        "ela test",
+        "english language arts",
+        "grade"
+    ],
+    "description": "Latest available data and trends in the state assessment results of English Language Arts for grades 3 through 8. Data are disaggregated by borough.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/k5ws-xbkn/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 245,
+    "columns": 16,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 168,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Pct Level 1",
+        "Num Level 2",
+        "Num Level 3 and 4",
+        "Pct Level 3",
+        "Pct Level 2",
+        "Num Level 4",
+        "Borough",
+        "Num Level 1",
+        "Mean Scale Score",
+        "Year",
+        "Grade",
+        "Number Tested",
+        "Demographic",
+        "Pct Level 4",
+        "Num Level 3",
+        "Pct Level 3 and 4"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/k5ws-xbkn",
+    "last_updated": "2014-09-05 17:02:51+00:00",
+    "protocol": "https",
+    "created": "2013-02-20 22:01:26+00:00"
+}

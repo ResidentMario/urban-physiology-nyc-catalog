@@ -1,0 +1,74 @@
+{
+    "name": "gender-of-victims-whose-allegations-were-substantiated-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "Gender Of Victims Whose Allegations Were Substantiated 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "disciplinary recommendation",
+        "activity",
+        "2008",
+        "2007",
+        "civilian complaint review board",
+        "civilian",
+        "ccrb",
+        "board",
+        "complaint",
+        "complaint activity",
+        "review",
+        "statistics",
+        "allegation",
+        "2005",
+        "2006",
+        "misconduct",
+        "2009"
+    ],
+    "description": "CCRB: Gender of Victims Whose Allegations Were Substantiated 2005 - 2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ffgt-jimk/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5,
+    "columns": 13,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 180,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "5 yr Percent of Subtotal",
+        "2005 Percent of Total",
+        "2005 Number",
+        "5 yr Number",
+        "2009 Percent of Total",
+        "2006 Number",
+        "2007 Number",
+        "2007 Percent of Total",
+        "2009 Number",
+        "Gender",
+        "2008 Percent of Total",
+        "2008 Number",
+        "2006 Percent of Total"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ffgt-jimk",
+    "last_updated": "2014-09-05 17:08:59+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 17:16:28+00:00"
+}

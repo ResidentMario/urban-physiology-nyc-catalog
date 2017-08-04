@@ -1,0 +1,58 @@
+{
+    "name": "water-use-restrictions-summary-of-15-rcny-chapters-20-and-21",
+    "datapackage_version": "1.0-beta",
+    "title": "Water Use Restrictions - Summary of 15 RCNY Chapters 20 and 21",
+    "version": "N/A",
+    "keywords": [
+        "water use restrictions",
+        "dep",
+        "department of environmental protection",
+        "restrictions",
+        "restriction",
+        "healthy living",
+        "environment",
+        "use",
+        "water"
+    ],
+    "description": "A summary of the restrictions placed on water use during non-emergency and drought emergency conditions.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/27vb-augk/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 13,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 356,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Non Emergency Restrictions (including Normal, Drought Watch and Drought Warning conditions)",
+        "Drought Emergency - Stage II",
+        "Activity",
+        "Drought Emergency - Stage I",
+        "Drought Emergency - Stage III"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/27vb-augk",
+    "last_updated": "2014-09-05 17:07:34+00:00",
+    "protocol": "https",
+    "created": "2013-02-01 20:33:32+00:00"
+}

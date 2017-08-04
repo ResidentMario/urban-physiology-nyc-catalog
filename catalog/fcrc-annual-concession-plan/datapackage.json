@@ -1,0 +1,61 @@
+{
+    "name": "fcrc-annual-concession-plan",
+    "datapackage_version": "1.0-beta",
+    "title": "FCRC Annual Concession Plan",
+    "version": "N/A",
+    "keywords": [],
+    "description": "The Mayor\u2019s Office of Contract Services oversees and certifies agency compliance with the applicable laws and regulations for franchises and concessions. In certain circumstances, franchises and concessions are also subject to the approval of the Franchise and Concession Review Committee (FCRC).\r\n\r\nFranchises are grants of the right to occupy or to use the City\u2019s inalienable property, such as streets or parks, for a public service, e.g., transportation or telecommunications.\r\nConcessions are grants for the private use of city-owned property such as for food sales or recreational activity, with the City\u2019s compensation typically tied to the concessionaire\u2019s revenue. Concessions are also subject to the City's Concession Rules as codified in Title 12 of the Rules of the City of New York.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of the Mayors (OTM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/7kc8-z939/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 514,
+    "columns": 18,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 152,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "$ Value for FY2015 Registrations",
+        "FY 2015 Registration (Yes/No)",
+        "Registration Date (or date sent to Comptroller for registration)",
+        "Expiration Date",
+        "Borough",
+        "Agency",
+        "DOC_CD (e.g., \"RCT1\")",
+        "\"At FCRC\" in FY 2015 (Yes/No)",
+        "Revenue Collected in FY 2015",
+        "Concession Type (general category)",
+        "Start Date",
+        "Concessionaire",
+        "Concession Type (specific category)",
+        "Concession ID (pre-registration)",
+        "Brief Description of Concession",
+        "Solicitation/Award Method",
+        "DOC (agency code)",
+        "DOC_ID (automatically generated contract ID number from FMS)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/7kc8-z939",
+    "last_updated": "2016-04-22 22:04:46+00:00",
+    "protocol": "https",
+    "created": "2016-04-22 17:20:29+00:00"
+}

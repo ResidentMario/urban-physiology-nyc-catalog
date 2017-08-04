@@ -1,0 +1,41 @@
+{
+    "name": "commuter-van-services-drivers",
+    "datapackage_version": "1.0-beta",
+    "title": "Commuter Van Services - Drivers",
+    "version": "N/A",
+    "keywords": [
+        "tlc",
+        "commuter van services - drivers",
+        "commuter van authorizations"
+    ],
+    "description": "Commuter Van Authorizations provide pre-arranged transportation to passengers throughout New York City on a regular daily basis. They are authorized to operate within specific geographic areas. This list includes current status of Commuter Van Driver Licenses, including TLC License Number, name of licensee, license type and expiration date.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 79.5322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 253,
+    "preferred_mimetype": "application/vnd.ms-office",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "xls",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/rqzz-2ajy",
+    "last_updated": "2014-10-10 19:38:57+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 20:40:12+00:00"
+}

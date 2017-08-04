@@ -1,0 +1,52 @@
+{
+    "name": "dop-juvenile-supervision-intakes-by-fiscal-year",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Juvenile Supervision Intakes by Fiscal Year",
+    "version": "N/A",
+    "keywords": [
+        "supervision",
+        "juvenile",
+        "fiscal year",
+        "dop"
+    ],
+    "description": "The number of youths sentenced to probation supervision during the reporting period.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/xdqu-utzq/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 165,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 174,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Borough",
+        "Case Type",
+        "Client Total",
+        "Fiscal Year (ending in June)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/xdqu-utzq",
+    "last_updated": "2016-09-16 01:04:52+00:00",
+    "protocol": "https",
+    "created": "2014-04-07 16:21:37+00:00"
+}

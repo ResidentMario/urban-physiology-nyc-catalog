@@ -1,0 +1,42 @@
+{
+    "name": "nyc-street-centerline-cscl-for-plownyc-winter-201617",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Street Centerline (CSCL) for PlowNYC Winter 2016/17",
+    "version": "N/A",
+    "keywords": [],
+    "description": "The NYC Street Centerline (CSCL) is a road-bed representation of New York City streets containing address ranges and other information such as traffic directions, road types, segment types. Please use this dataset to determine what physicalid maps to the physicalid street segment in the <a href=\"https://data.cityofnewyork.us/dataset/DSNY-PlowNYC-Data/34hf-h2fw\">DSNY PlowNYC dataset for the 2016/2017 winter season<a/>. For a current version of CSCL, please use <a href=\"https://data.cityofnewyork.us/City-Government/NYC-Street-Centerline-CSCL-/exjm-f27b\">this dataset <a/>",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology and Telecommunications (DOITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/uxpt-rzip?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 98659.134765625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 171,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/uxpt-rzip",
+    "last_updated": "2017-02-06 16:51:47+00:00",
+    "protocol": "https",
+    "created": "2016-12-07 20:31:08+00:00"
+}

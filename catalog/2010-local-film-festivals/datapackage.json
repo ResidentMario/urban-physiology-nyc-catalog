@@ -1,0 +1,56 @@
+{
+    "name": "2010-local-film-festivals",
+    "datapackage_version": "1.0-beta",
+    "title": "2010 Local Film Festivals",
+    "version": "N/A",
+    "keywords": [
+        "movie",
+        "theatre",
+        "theater",
+        "moftb",
+        "media",
+        "film",
+        "festival",
+        "event",
+        "2010 local film festivals"
+    ],
+    "description": "List of local film festivals",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of Film, Theatre, and Broadcasting (FILM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/yggg-xf4b/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 47,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 962,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Date",
+        "Local Festivals",
+        "Website"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/yggg-xf4b",
+    "last_updated": "2014-09-05 17:00:02+00:00",
+    "protocol": "https",
+    "created": "2011-08-30 19:19:22+00:00"
+}

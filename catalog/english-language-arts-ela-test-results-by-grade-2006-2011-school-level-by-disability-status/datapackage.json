@@ -1,0 +1,61 @@
+{
+    "name": "english-language-arts-ela-test-results-by-grade-2006-2011-school-level-by-disability-status",
+    "datapackage_version": "1.0-beta",
+    "title": "English Language Arts (ELA) Test Results by Grade 2006-2011 - School level - by Disability Status",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning"
+    ],
+    "description": "New York City Results on the New York State English Language Arts (ELA) Tests, Grades 3 - 8\r\nNotes:\r\nAs of 2006, the New York State Education Department expanded the ELA and mathematics testing programs to Grades 3-8. Previously, state tests were administered in Grades 4 and 8 and citywide tests were administered in Grades 3, 5, 6, and 7.\r\nStarting in 2010, NYSED changed the scale score required to meet each of the proficiency levels, increasing the number of questions students needed to answer correctly to meet proficiency.\r\nIn 2007, the New York State Education Department updated its testing policy for English Language Learners: ELLs in an English Language School System for more than one year are required to take the ELA exam. Previously, ELLs in an English Language School System for less than 3 years were exempt from taking the ELA exam.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/zs4w-c9cd/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 55100,
+    "columns": 16,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 93,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Level 2 %",
+        "Number Tested",
+        "Category",
+        "Mean Scale Score",
+        "Level 4 %",
+        "Level 3 %",
+        "DBN",
+        "Level 3+4 #",
+        "Year",
+        "Level 4 #",
+        "Level 2 #",
+        "Grade",
+        "Level 3+4 %",
+        "Level 1 #",
+        "Level 3 #",
+        "Level 1 %"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/zs4w-c9cd",
+    "last_updated": "2014-09-05 17:42:24+00:00",
+    "protocol": "https",
+    "created": "2011-10-05 21:02:42+00:00"
+}

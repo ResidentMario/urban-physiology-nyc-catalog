@@ -1,0 +1,52 @@
+{
+    "name": "dop-juvenile-supervision-passthrough-by-calendar-year",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Juvenile Supervision Passthrough by Calendar Year",
+    "version": "N/A",
+    "keywords": [
+        "calendar year",
+        "juvenile supervision",
+        "probation",
+        "passthrough",
+        "dop"
+    ],
+    "description": "The sum of: the number of cases on the first day of the reporting period, and all cases added during the reporting period",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/6r8r-c474/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 55,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 171,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Passthrough Count",
+        "Region",
+        "Calendar Year"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/6r8r-c474",
+    "last_updated": "2017-03-28 19:40:04+00:00",
+    "protocol": "https",
+    "created": "2014-06-17 16:47:11+00:00"
+}

@@ -1,0 +1,71 @@
+{
+    "name": "self-hauler-registrants",
+    "datapackage_version": "1.0-beta",
+    "title": "Self Hauler Registrants",
+    "version": "N/A",
+    "keywords": [
+        "cl1",
+        "class 1",
+        "self-hauler",
+        "nycbic",
+        "bic",
+        "landscaper",
+        "waste",
+        "registrant"
+    ],
+    "description": "\"The following companies have been issued Class 1 self-hauler registrations by the Business Integrity Commission. They are authorized to remove, collect or dispose of trade waste that is generated in the course of operation\r\nof such person's business. (Companies removing, collecting or disposing of construction and demolition debris must apply for Exemption from Licensing Requirements, otherwise known as Class 2 Construction and\r\nDemolition Registration).\"",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Business Integrity Commission"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/a8wp-rerh/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 27000,
+    "columns": 19,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 173,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "TRADE NAME",
+        "NTA",
+        "BBL",
+        "BIN",
+        "CENSUS_TRACT",
+        "COUNCIL_DISTRICT",
+        "COMMUNITY_BOARD",
+        "LONGITUDE",
+        "LATITUDE",
+        "EXPORT DATE",
+        "APPLICATION TYPE",
+        "PHONE",
+        "POSTCODE",
+        "STATE",
+        "CITY",
+        "ADDRESS",
+        "CREATED",
+        "BIC NUMBER",
+        "ACCOUNT NAME"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/a8wp-rerh",
+    "last_updated": "2017-05-31 20:07:19+00:00",
+    "protocol": "https",
+    "created": "2017-03-10 21:05:31+00:00"
+}

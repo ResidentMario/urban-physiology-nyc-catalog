@@ -1,0 +1,61 @@
+{
+    "name": "nyc-civil-service-titles",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Civil Service Titles",
+    "version": "N/A",
+    "keywords": [
+        "title",
+        "civil",
+        "service",
+        "civil service"
+    ],
+    "description": "List of civil service titles used by agencies throughout the City",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Citywide Administrative Services (DCAS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/nzjr-3966/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 7712,
+    "columns": 13,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 17954,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "ASG LVL",
+        "TITLE",
+        "UNION CD",
+        "STD HRS",
+        "SFX DESCR",
+        "BARG DESCR",
+        "UNION DESCR",
+        "BARG UNIT",
+        "JOBCODE",
+        "MIN RATE",
+        "MAX RATE",
+        "SFFX",
+        "DESCR"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/nzjr-3966",
+    "last_updated": "2017-01-11 20:46:05+00:00",
+    "protocol": "https",
+    "created": "2011-07-27 14:42:44+00:00"
+}

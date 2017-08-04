@@ -1,0 +1,71 @@
+{
+    "name": "graduation-outcomes-borough-classes-of-2005-2011-total-cohort",
+    "datapackage_version": "1.0-beta",
+    "title": "Graduation Outcomes - Borough - Classes of 2005-2011 - Total Cohort",
+    "version": "N/A",
+    "keywords": [
+        "borough",
+        "total cohort",
+        "school",
+        "lifelong learning",
+        "graduation outcome"
+    ],
+    "description": "Latest available data and trends in graduation and dropout outcomes disaggregated by borough.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/di8r-g5w9/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 110,
+    "columns": 22,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 257,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Total Regents Num",
+        "Local Pct of grads",
+        "Local Pct of cohort",
+        "Local Num",
+        "Regents w/o Advanced Pct of grads",
+        "Dropped Out Pct of cohort",
+        "Cohort Year",
+        "Cohort Category",
+        "Total Cohort Num",
+        "Borough",
+        "Total Regents Pct of cohort",
+        "Total Regents Pct of grads",
+        "Advanced Regents Pct of grads",
+        "Still Enrolled Num",
+        "Still Enrolled Pct of cohort",
+        "Total Grads Num",
+        "Total Grads Pct of cohort",
+        "Regents w/o Advanced Num",
+        "Dropped Out Num",
+        "Advanced Regents Num",
+        "Advanced Regents Pct of cohort",
+        "Regents w/o Advanced Pct of cohort"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/di8r-g5w9",
+    "last_updated": "2014-09-05 17:19:40+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 02:31:40+00:00"
+}

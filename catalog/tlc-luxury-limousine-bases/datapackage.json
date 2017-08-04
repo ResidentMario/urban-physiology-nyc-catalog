@@ -1,0 +1,53 @@
+{
+    "name": "tlc-luxury-limousine-bases",
+    "datapackage_version": "1.0-beta",
+    "title": "TLC Luxury Limousine Bases",
+    "version": "N/A",
+    "keywords": [
+        "spreadsheet of all  tlc luxury limousine bases"
+    ],
+    "description": "Spreadsheet of all  TLC luxury limousine bases",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/qahe-qhzp/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 172,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1403,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Street_Address",
+        "Location 1",
+        "Telephone",
+        "Name of Licensee",
+        "Alternative Name of Licensee",
+        "Zip_Code",
+        "License Number",
+        "License Type"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/qahe-qhzp",
+    "last_updated": "2014-09-05 17:01:22+00:00",
+    "protocol": "https",
+    "created": "2011-08-26 20:06:51+00:00"
+}

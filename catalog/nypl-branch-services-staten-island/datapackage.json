@@ -1,0 +1,71 @@
+{
+    "name": "nypl-branch-services-staten-island",
+    "datapackage_version": "1.0-beta",
+    "title": "NYPL Branch Services - Staten Island",
+    "version": "N/A",
+    "keywords": [
+        "recreation",
+        "libraries",
+        "education",
+        "culture",
+        "community"
+    ],
+    "description": "New York Public Library (NYPL) branch services from July 2010 to June 2011 (Staten Island)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York Public Library (NYPL)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/wibz-uqui/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 16,
+    "columns": 22,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 298,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Weekly Hours of Public Service",
+        " TOTAL Attendance",
+        "OUTREACH SERVICES Attendance",
+        " TOTAL Program",
+        " REFERENCE TRANSACTIONS Adult",
+        "JUVENILE Program",
+        "YOUNG ADULT Attendance",
+        "OUTREACH SERVICES Program",
+        " REFERENCE TRANSACTIONS Young Adult",
+        " REFERENCE TRANSACTIONS Juvenile",
+        "CIRCULATION",
+        "CIRCULATION Juvenile",
+        "CIRCULATION Young Adult",
+        "Network",
+        "Boro/Central Library",
+        " REFERENCE TRANSACTIONS",
+        "CIRCULATION Adult",
+        "ADULT Attendance",
+        "YOUNG ADULT Program",
+        "Branch",
+        "ADULT Program",
+        "JUVENILE Attendance"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/wibz-uqui",
+    "last_updated": "2014-09-05 18:09:10+00:00",
+    "protocol": "https",
+    "created": "2011-10-31 16:25:49+00:00"
+}

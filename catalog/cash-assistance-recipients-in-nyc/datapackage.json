@@ -1,0 +1,52 @@
+{
+    "name": "cash-assistance-recipients-in-nyc",
+    "datapackage_version": "1.0-beta",
+    "title": "Cash Assistance Recipients in NYC",
+    "version": "N/A",
+    "keywords": [
+        "human resources administration",
+        "hra",
+        "cash assistance recipients in nyc"
+    ],
+    "description": "Total people receiving cash assistance on a monthly basis.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/qtrj-g3nm/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 255,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 563,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "MONTHLY percent change",
+        "Total cash assistance recipients",
+        "YEARLY percent change",
+        "Month",
+        "Year"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/qtrj-g3nm",
+    "last_updated": "2017-05-17 15:49:11+00:00",
+    "protocol": "https",
+    "created": "2013-05-17 18:40:29+00:00"
+}

@@ -1,0 +1,71 @@
+{
+    "name": "ccrb-age-of-docket-measured-from-the-date-of-report-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "CCRB: Age of Docket Measured from the Date of Report 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "board",
+        "2007",
+        "2009",
+        "2008",
+        "year",
+        "review",
+        "docket",
+        "demographics 2005",
+        "crime",
+        "complaint",
+        "report",
+        "incident",
+        "civilian",
+        "age",
+        "activity",
+        "2006"
+    ],
+    "description": "A statistical breakdown of the age of Civilian Complaint Review Board (CCRB) dockets, by year, measured from the date of the reports in the years 2205 through 2009. The age of the docket is measured by the number of open cases at the end of each reporting period.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/7atn-adw6/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 12,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 182,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2009 Percent of Docket",
+        "2005 Percent of Docket",
+        "2007 Number of Cases",
+        "2006 Percent of Docket",
+        "2007 Percent of Docket",
+        "2009 Number of Cases",
+        "2005 Number of Cases",
+        "Age of Case in Months",
+        "2008 Number of Cases",
+        "2008 Percent of Docket",
+        "2006 Number of Cases"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/7atn-adw6",
+    "last_updated": "2014-09-05 17:01:11+00:00",
+    "protocol": "https",
+    "created": "2011-09-12 18:22:22+00:00"
+}

@@ -1,0 +1,46 @@
+{
+    "name": "street-name-dictionary",
+    "datapackage_version": "1.0-beta",
+    "title": "Street name Dictionary",
+    "version": "N/A",
+    "keywords": [
+        "snd",
+        "street",
+        "dcp",
+        "dictionary",
+        "street code",
+        "street name",
+        "geographic",
+        "intersection"
+    ],
+    "description": "The Street Name Dictionary (SND) contains street names and street codes for New York City.  Street names (which include names of other geographic features as well) are associated to street codes.  Alias street names and variant spellings are related through a street code hierarchy.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 79.962890625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 640,
+    "preferred_mimetype": "application/pdf",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "pdf",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/w4v2-rv6b",
+    "last_updated": "2017-03-09 16:28:44+00:00",
+    "protocol": "https",
+    "created": "2015-06-08 18:45:46+00:00"
+}

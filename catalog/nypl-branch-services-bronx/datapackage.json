@@ -1,0 +1,72 @@
+{
+    "name": "nypl-branch-services-bronx",
+    "datapackage_version": "1.0-beta",
+    "title": "NYPL Branch Services - Bronx",
+    "version": "N/A",
+    "keywords": [
+        "recreation",
+        "bronx",
+        "community",
+        "culture",
+        "education",
+        "libraries"
+    ],
+    "description": "New York Public Library (NYPL) branch services from July 2010 to June 2011(Bronx)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York Public Library (NYPL)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/pfys-fabf/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 41,
+    "columns": 22,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 353,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        " TOTAL Attendance",
+        "CIRCULATION Adult",
+        "ADULT Program",
+        "JUVENILE Program",
+        " REFERENCE TRANSACTIONS Young Adult",
+        " REFERENCE TRANSACTIONS Juvenile",
+        "OUTREACH SERVICES Program",
+        "JUVENILE Attendance",
+        " TOTAL Program",
+        "OUTREACH SERVICES Attendance",
+        " REFERENCE TRANSACTIONS Adult",
+        "CIRCULATION Young Adult",
+        "YOUNG ADULT Program",
+        "Weekly Hours of Public Service",
+        "CIRCULATION",
+        " REFERENCE TRANSACTIONS",
+        "ADULT Attendance",
+        "Boro/Central Library",
+        "Network",
+        "Branch",
+        "CIRCULATION Juvenile",
+        "YOUNG ADULT Attendance"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/pfys-fabf",
+    "last_updated": "2014-09-05 17:01:39+00:00",
+    "protocol": "https",
+    "created": "2011-10-31 15:31:21+00:00"
+}

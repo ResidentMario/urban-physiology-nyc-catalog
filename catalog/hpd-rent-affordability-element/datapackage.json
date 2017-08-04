@@ -1,0 +1,52 @@
+{
+    "name": "hpd-rent-affordability-element",
+    "datapackage_version": "1.0-beta",
+    "title": "HPD Rent Affordability Element",
+    "version": "N/A",
+    "keywords": [
+        "department of housing preservation and development",
+        "hpd",
+        "rent affordability"
+    ],
+    "description": "Information on units disaggregated by rent affordability for each building in a project.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Housing Preservation and Development (HPD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/azxq-2skx/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1944,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1298,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Total Units",
+        "Affordability Band",
+        "Building ID",
+        "Project DWID ",
+        "Project ID"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/azxq-2skx",
+    "last_updated": "2016-03-22 18:28:54+00:00",
+    "protocol": "https",
+    "created": "2014-02-27 15:49:40+00:00"
+}

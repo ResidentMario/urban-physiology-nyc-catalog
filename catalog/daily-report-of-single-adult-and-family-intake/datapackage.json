@@ -1,0 +1,54 @@
+{
+    "name": "daily-report-of-single-adult-and-family-intake",
+    "datapackage_version": "1.0-beta",
+    "title": "Daily Report Of Single Adult And Family Intake",
+    "version": "N/A",
+    "keywords": [
+        "adult",
+        "report",
+        "daily",
+        "dhs",
+        "family",
+        "homeless",
+        "intake"
+    ],
+    "description": "Daily report of how many Single Adults and Families are served",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Homeless Services (DHS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/sci4-yqgk/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 11,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 686,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Date",
+        "Number",
+        "Daily Report"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/sci4-yqgk",
+    "last_updated": "2014-09-05 17:17:41+00:00",
+    "protocol": "https",
+    "created": "2013-01-31 15:08:28+00:00"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "ccrb-average-days-for-the-ccrb-to-close-substantiated-cases-measured-from-date-of-report-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "CCRB: Average Days for the CCRB to Close Substantiated Cases Measured from Date of Report 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "complaint",
+        "civilian",
+        "2008",
+        "ccrb",
+        "board",
+        "statistics",
+        "activity",
+        "2009",
+        "complaint activity",
+        "civilian complaint review board",
+        "review",
+        "2005",
+        "2006",
+        "2007"
+    ],
+    "description": "Civilian Complaint Review Board (CCRB) complaint activity data, 2005-2009\r\nUpdate Schedule: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/bws2-q2sb/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 117,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2008",
+        "2006",
+        "2007",
+        "2009",
+        "2005",
+        "CCRB to Close Substantiated Cases Measured from Date of Report"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/bws2-q2sb",
+    "last_updated": "2014-09-05 17:06:28+00:00",
+    "protocol": "https",
+    "created": "2011-09-15 19:09:33+00:00"
+}

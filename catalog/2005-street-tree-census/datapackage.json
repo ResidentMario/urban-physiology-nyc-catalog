@@ -1,0 +1,48 @@
+{
+    "name": "2005-street-tree-census",
+    "datapackage_version": "1.0-beta",
+    "title": "2005 Street Tree Census",
+    "version": "N/A",
+    "keywords": [
+        "recreation",
+        "dpr",
+        "parks",
+        "trees",
+        "census"
+    ],
+    "description": "Citywide street tree data from the 2005 Street Tree Census, conducted partly by volunteers organized by NYC Parks & Recreation.  Trees were inventoried by address, and were collected from 2005-2006.  Data collected includes tree species, diameter, condition.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/ye4j-rp7z?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 600731.33984375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 371,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/ye4j-rp7z",
+    "last_updated": "2016-08-27 18:40:58+00:00",
+    "protocol": "https",
+    "created": "2016-06-01 19:56:58+00:00"
+}

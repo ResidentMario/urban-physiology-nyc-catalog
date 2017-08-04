@@ -1,0 +1,53 @@
+{
+    "name": "dof-parking-violation-codes",
+    "datapackage_version": "1.0-beta",
+    "title": "DOF Parking Violation Codes",
+    "version": "N/A",
+    "keywords": [
+        "code",
+        "dof",
+        "fine",
+        "parking",
+        "violation"
+    ],
+    "description": "This dataset defines the parking violation codes in New York City and lists the fines. Each fine amount includes a $15 New York State Criminal Justice surcharge.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ncbg-6agr/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 84,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 14713,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Manhattan\u00a0 96th St. & below",
+        "DEFINITION",
+        "All Other Areas",
+        "CODE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ncbg-6agr",
+    "last_updated": "2014-09-05 17:23:23+00:00",
+    "protocol": "https",
+    "created": "2013-01-16 14:56:58+00:00"
+}

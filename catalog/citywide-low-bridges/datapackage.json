@@ -1,0 +1,41 @@
+{
+    "name": "citywide-low-bridges",
+    "datapackage_version": "1.0-beta",
+    "title": "Citywide Low Bridges",
+    "version": "N/A",
+    "keywords": [
+        "dot",
+        "citywide low bridges",
+        "low bridges"
+    ],
+    "description": "Contains the locations with low vertical clearances on the limited access highway system.\r\n\r\nClick here for metadata - http://www.nyc.gov/html/dot/downloads/pdf/lowbridge_kml_readme_july09.pdf",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 399.970703125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 223,
+    "preferred_mimetype": "application/vnd.google-earth.kml+xml",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "kml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/rn6h-i66u",
+    "last_updated": "2017-02-02 21:17:44+00:00",
+    "protocol": "https",
+    "created": "2014-10-21 21:09:57+00:00"
+}

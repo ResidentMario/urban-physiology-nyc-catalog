@@ -1,0 +1,58 @@
+{
+    "name": "recurring-resident-economic-empowerment-and-sustainability-programs",
+    "datapackage_version": "1.0-beta",
+    "title": "Recurring Resident Economic Empowerment and Sustainability Programs",
+    "version": "N/A",
+    "keywords": [
+        "education",
+        "rees",
+        "social services",
+        "job training",
+        "ged",
+        "financial counseling",
+        "entrepreneurship"
+    ],
+    "description": "Regulary occuring REES programs",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York City Housing Authority (NYCHA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/7su9-xgtn/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 213,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Email",
+        "Name of Program",
+        "Times",
+        "Description",
+        "Days",
+        "Phone Number",
+        "Location"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/7su9-xgtn",
+    "last_updated": "2014-09-05 17:35:38+00:00",
+    "protocol": "https",
+    "created": "2013-03-28 19:31:04+00:00"
+}

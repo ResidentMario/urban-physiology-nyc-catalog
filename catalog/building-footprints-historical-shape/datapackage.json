@@ -1,0 +1,42 @@
+{
+    "name": "building-footprints-historical-shape",
+    "datapackage_version": "1.0-beta",
+    "title": "Building Footprints Historical Shape",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Shapefile of historical footprint outlines of buildings in New York City. Please see the following link for additional documentation- https://github.com/CityOfNewYork/nyc-planimetrics/blob/master/Capture_Rules.md.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/s5zg-yzea?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 19965.9443359375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 492,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/s5zg-yzea",
+    "last_updated": "2017-05-10 16:32:58+00:00",
+    "protocol": "https",
+    "created": "2016-04-04 15:59:46+00:00"
+}

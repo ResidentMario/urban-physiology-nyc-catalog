@@ -1,0 +1,53 @@
+{
+    "name": "directory-of-land-use-application-fees",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Of Land Use Application Fees",
+    "version": "N/A",
+    "keywords": [
+        "planning",
+        "city",
+        "fees",
+        "dcp",
+        "land  use"
+    ],
+    "description": "Details about various fees associated with Land Use",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/fdx7-6jsr/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 60,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 414,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Land Use Detail",
+        "Application Type",
+        "Amount",
+        "Comments"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/fdx7-6jsr",
+    "last_updated": "2014-09-05 17:14:48+00:00",
+    "protocol": "https",
+    "created": "2013-02-19 22:12:35+00:00"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "nyc-city-hall-library-catalog",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC City Hall Library Catalog",
+    "version": "N/A",
+    "keywords": [
+        "publication",
+        "studies",
+        "study",
+        "records",
+        "report",
+        "catalog",
+        "catalogue",
+        "depository",
+        "library"
+    ],
+    "description": "The City Hall Library is New York City's official depository for all agency published reports and studies. More info can be found at http://nyc.gov/html/records/html/about/chlibrary.shtml",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Records and Information Services (RECORDS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/gysc-yn4h/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 30500,
+    "columns": 1,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1649,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Corporate Name#Subordinate Unit#Title#Remainder Of Title#Remainder OF Title Page#Date Of Publication#Geographic Name#General Subdivision"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/gysc-yn4h",
+    "last_updated": "2014-09-05 17:11:55+00:00",
+    "protocol": "https",
+    "created": "2011-10-08 22:47:14+00:00"
+}

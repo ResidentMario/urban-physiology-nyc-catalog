@@ -1,0 +1,61 @@
+{
+    "name": "cash-assistance-recipients-since-1955",
+    "datapackage_version": "1.0-beta",
+    "title": "Cash Assistance Recipients Since 1955",
+    "version": "N/A",
+    "keywords": [
+        "human resources",
+        "pann",
+        "odra total pann",
+        "hra",
+        "1955"
+    ],
+    "description": "Office of Data Reporting and Analysis (ODRA) data dating back to 1955.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/thqd-deec/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1438,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 298,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "HR PERSONS",
+        "TANF Recipients",
+        "DUPLICATED COUNT CA PERSONS",
+        "UNDUPLICATED COUNT CA PERSONS",
+        "SN Recipients",
+        "HRPG PERSONS",
+        "MONTH",
+        "AFDC PERSONS",
+        "afdc",
+        "HR Exclud PG-ADC PERSONS",
+        "ADCU PERSONS",
+        "ADC PERSONS"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/thqd-deec",
+    "last_updated": "2016-11-04 14:13:26+00:00",
+    "protocol": "https",
+    "created": "2013-05-21 12:35:54+00:00"
+}

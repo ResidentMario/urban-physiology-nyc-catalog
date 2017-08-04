@@ -1,0 +1,73 @@
+{
+    "name": "revenue-comps",
+    "datapackage_version": "1.0-beta",
+    "title": "Revenue Comps",
+    "version": "N/A",
+    "keywords": [
+        "times square",
+        "times square alliance",
+        "tourism",
+        "nyc",
+        "pedestrian",
+        "screens",
+        "crossroads",
+        "crossroads of the world",
+        "entertainment",
+        "manhattan",
+        "food",
+        "theater",
+        "new york",
+        "new york city"
+    ],
+    "description": "Revenue statistics for Times Square",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Times Square Alliance (TSA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/sv6e-j8t9/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 12,
+    "columns": 15,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 484,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Full Motion Video",
+        "Pricing Model",
+        "Cost Per SF",
+        "Sq Ft",
+        "DEC",
+        "CPM",
+        "Advance Interactive",
+        "Dimensions",
+        "TIMES SQUARE",
+        "Onsite Audio",
+        "Rate",
+        "Unit (All One Month)",
+        "Total Minutes",
+        "Cost Per Minute",
+        "Impressions"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/sv6e-j8t9",
+    "last_updated": "2014-09-06 00:11:54+00:00",
+    "protocol": "https",
+    "created": "2011-10-31 17:48:46+00:00"
+}

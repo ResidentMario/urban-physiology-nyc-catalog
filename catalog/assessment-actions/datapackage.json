@@ -1,0 +1,60 @@
+{
+    "name": "assessment-actions",
+    "datapackage_version": "1.0-beta",
+    "title": "Assessment Actions",
+    "version": "N/A",
+    "keywords": [
+        "tax commission",
+        "assessment actions",
+        "action",
+        "new york city tax commission (taxcomm)",
+        "finance",
+        "reduction",
+        "tax"
+    ],
+    "description": "Assessment Actions\r\nActions on Applications in 2016 Reducing Assessments or Reclassifying Property.  Listed here are Tax Commission actions during 2016 reducing assessments or reclassifying property.  KEY:  YR=Assessment year (15=2015/16; 16=2016/17); R=Reduction implemented by remission of taxes; B=Borough (1=Manhattan, 2=Bronx, 3=Brooklyn, 4=Queens, 5=Staten Island); TC=Tax Class or subclass. Classification claims.  Reductions are expressed in total actual assessed value.  For condominiums, actions shown are for representative lots only.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York City Tax Commission (TAXCOMM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/4nft-bihw/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 8705,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 660,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Remission Code",
+        "Tax Year",
+        "Borough Code",
+        "Block Number",
+        "Lot Number",
+        "Owner Name",
+        "Granted Reduction Amount",
+        "Tax Class Code",
+        "Property Address"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/4nft-bihw",
+    "last_updated": "2017-03-24 16:51:39+00:00",
+    "protocol": "https",
+    "created": "2013-03-01 20:02:10+00:00"
+}

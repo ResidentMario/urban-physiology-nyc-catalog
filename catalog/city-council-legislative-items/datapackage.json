@@ -1,0 +1,51 @@
+{
+    "name": "city-council-legislative-items",
+    "datapackage_version": "1.0-beta",
+    "title": "City Council Legislative Items",
+    "version": "N/A",
+    "keywords": [
+        "city council legislative items"
+    ],
+    "description": "This list contains information on the legislative items introduced and enacted by the Council",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York City Council (NYCC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/6ctv-n46c/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1000,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 430,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Final\u00a0Action",
+        "Title",
+        "Law Number",
+        "Status",
+        "Type",
+        "File\u00a0#"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/6ctv-n46c",
+    "last_updated": "2015-02-17 18:39:42+00:00",
+    "protocol": "https",
+    "created": "2015-02-17 18:38:29+00:00"
+}

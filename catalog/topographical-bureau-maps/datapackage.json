@@ -1,0 +1,53 @@
+{
+    "name": "topographical-bureau-maps",
+    "datapackage_version": "1.0-beta",
+    "title": "Topographical Bureau Maps",
+    "version": "N/A",
+    "keywords": [
+        "city government",
+        "topographical bureau maps",
+        "mbp"
+    ],
+    "description": "This list contains information on maps maintained by the topographical bureau",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Manhattan Borough President (MBP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/5jat-czce/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2507,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 727,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Sheets",
+        "ACC",
+        "Map Title and information",
+        "Map Year",
+        "Dimensions",
+        "CP Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/5jat-czce",
+    "last_updated": "2014-10-21 21:47:39+00:00",
+    "protocol": "https",
+    "created": "2014-10-21 21:43:00+00:00"
+}

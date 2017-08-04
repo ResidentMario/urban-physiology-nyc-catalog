@@ -1,0 +1,53 @@
+{
+    "name": "added-projects",
+    "datapackage_version": "1.0-beta",
+    "title": "Added Projects",
+    "version": "N/A",
+    "keywords": [
+        "sca",
+        "projects",
+        "construction",
+        "education"
+    ],
+    "description": "Projects added to the plan.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYC School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/7xjx-2mhj/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2150,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 68,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Bldg ID",
+        "District",
+        "Program Category",
+        "Boro",
+        "School"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/7xjx-2mhj",
+    "last_updated": "2017-05-02 14:59:40+00:00",
+    "protocol": "https",
+    "created": "2016-05-31 21:47:43+00:00"
+}

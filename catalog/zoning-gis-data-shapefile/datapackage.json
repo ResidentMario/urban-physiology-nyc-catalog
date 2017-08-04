@@ -1,0 +1,52 @@
+{
+    "name": "zoning-gis-data-shapefile",
+    "datapackage_version": "1.0-beta",
+    "title": "Zoning GIS Data: Shapefile",
+    "version": "N/A",
+    "keywords": [
+        "map",
+        "commercial",
+        "district",
+        "zone",
+        "cartography",
+        "location",
+        "geographic",
+        "zoning",
+        "dcp"
+    ],
+    "description": "GIS data: This data set consists of 6 classes of zoning features: zoning districts, special purpose districts, special purpose district subdistricts, limited height districts, commercial overlay districts,  and zoning map amendments.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/kdig-pewd?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 26290.1455078125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 5578,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/kdig-pewd",
+    "last_updated": "2017-05-08 21:14:53+00:00",
+    "protocol": "https",
+    "created": "2013-01-29 18:17:25+00:00"
+}

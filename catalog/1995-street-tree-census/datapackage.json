@@ -1,0 +1,77 @@
+{
+    "name": "1995-street-tree-census",
+    "datapackage_version": "1.0-beta",
+    "title": "1995 Street Tree Census",
+    "version": "N/A",
+    "keywords": [
+        "volunteers",
+        "census",
+        "inventory",
+        "parks",
+        "recreation",
+        "trees"
+    ],
+    "description": "Citywide street tree data from the 1995 Street Tree Census, conducted by volunteers organized by NYC Parks & Recreation.  Trees were inventoried by address, and were collected from 1995-1996.  Data collected includes tree species, diameter, condition.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/kyad-zm4j/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 517000,
+    "columns": 27,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 939,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Latitude",
+        "Zip_Original",
+        "Location",
+        "Street",
+        "House_Number",
+        "NTA_2010",
+        "SegmentID",
+        "CensusBlock_2010",
+        "Condition",
+        "Diameter",
+        "Species",
+        "Spc_Latin",
+        "Zip_New",
+        "X",
+        "Y",
+        "Longitude",
+        "Borough",
+        "Sidewalk_Condition",
+        "Site",
+        "CB_Original",
+        "Support_Structure",
+        "CensusTract_2010",
+        "CB_New",
+        "Spc_Common",
+        "Wires",
+        "Address",
+        "RecordId"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/kyad-zm4j",
+    "last_updated": "2015-08-20 20:54:31+00:00",
+    "protocol": "https",
+    "created": "2015-08-20 19:24:11+00:00"
+}

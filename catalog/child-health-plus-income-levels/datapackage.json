@@ -1,0 +1,57 @@
+{
+    "name": "child-health-plus-income-levels",
+    "datapackage_version": "1.0-beta",
+    "title": "Child health plus income levels",
+    "version": "N/A",
+    "keywords": [
+        "hra",
+        "human resources administration",
+        "health",
+        "jobs and economic mobility",
+        "plus",
+        "children"
+    ],
+    "description": "This table represents details of CHP (Child Health Plus) insurance. Child Health Plus provides free or low-cost health insurance for children under the age of 19 who are not eligible for Medicaid, coverage for children. All children receive their health care through a managed care plan. There are no immigration requirements for Child Health Plus.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/vpb3-uf7s/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 7,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 337,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Family Size (2 nos.)\nMonthly Income",
+        "Family Size (1 ind.)\nMonthly Income",
+        "Premium Categories",
+        "Family Size (5 nos.)\nMonthly Income",
+        "Each Additional Person Add",
+        "Family Size (3 nos.)\nMonthly Income",
+        "Family Size (4 nos.)\nMonthly Income"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/vpb3-uf7s",
+    "last_updated": "2016-03-02 20:15:34+00:00",
+    "protocol": "https",
+    "created": "2013-03-19 18:20:39+00:00"
+}

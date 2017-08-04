@@ -1,0 +1,53 @@
+{
+    "name": "community-health-survey",
+    "datapackage_version": "1.0-beta",
+    "title": "Community Health Survey",
+    "version": "N/A",
+    "keywords": [
+        "survey",
+        "dohmh",
+        "health"
+    ],
+    "description": "Summary results from NYC Community Health Survey 2010-2014: adults ages 18 years and older \r\nSource: NYC Community Health Survey (CHS) 2010-14.\r\nThe Community Health Survey (CHS) includes self-reported data from adults, years 18 and older. CHS has included adults with landline phones since 2002 and, starting in 2009, also has included adults who can be reached by cell-phone. \r\nStarting in 2011, CHS weighting methods were updated to use Census 2010 and additional demographic characteristics (http://www1.nyc.gov/assets/doh/downloads/pdf/epi/epiresearch-chsmethods.pdf ). \r\n\r\nData are age-adjusted to the US 2000 Standard Population.\t\r\nData prepared by Bureau of Epidemiology Services, New York City Department of Health and Mental Hygiene\r\n\r\nThe New York City Community Health Survey (CHS) is a telephone survey conducted annually by the DOHMH, Division of Epidemiology, Bureau of Epidemiology Services. CHS provides robust data on the health of New Yorkers, including neighborhood, borough, and citywide estimates on a broad range of chronic diseases and behavioral risk factors. The data are analyzed and disseminated to influence health program decisions, and increase the understanding of the relationship between health behavior and health status. For more information see EpiQuery, https://a816-healthpsi.nyc.gov/epiquery/CHS/CHSXIndex.html",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Health and Mental Hygiene (DOHMH)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/2r9r-m6j4/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 50,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 316,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Health"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Upper95%CI",
+        "Lower95%CI",
+        "Survey",
+        "Year",
+        "Question",
+        "Prevalence"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/2r9r-m6j4",
+    "last_updated": "2017-05-24 14:35:09+00:00",
+    "protocol": "https",
+    "created": "2016-10-28 13:42:32+00:00"
+}

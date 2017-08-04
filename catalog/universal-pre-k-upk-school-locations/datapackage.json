@@ -1,0 +1,67 @@
+{
+    "name": "universal-pre-k-upk-school-locations",
+    "datapackage_version": "1.0-beta",
+    "title": "Universal Pre-K (UPK) School Locations",
+    "version": "N/A",
+    "keywords": [
+        "community based early childhood center locations (cbecc)",
+        "universal pre-k (upk) school locations",
+        "school",
+        "doe",
+        "upk"
+    ],
+    "description": "Directory of Universal Pre-K (UPK) School Locations",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/kiyv-ks3f/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1885,
+    "columns": 18,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1689,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "LOCCODE",
+        "zip",
+        "LocName",
+        "NOTE",
+        "X",
+        "Day_Length",
+        "Website",
+        "SEMS_CODE",
+        "EXTENDED_DAY",
+        "Email",
+        "PreK_Type",
+        "Borough",
+        "address",
+        "INDOOR_OUTDOOR",
+        "MEALS",
+        "phone",
+        "Y",
+        "Seats"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/kiyv-ks3f",
+    "last_updated": "2016-01-15 15:42:01+00:00",
+    "protocol": "https",
+    "created": "2014-07-10 22:06:35+00:00"
+}

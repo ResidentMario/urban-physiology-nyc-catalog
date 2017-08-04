@@ -1,0 +1,59 @@
+{
+    "name": "open-article-7-petitions",
+    "datapackage_version": "1.0-beta",
+    "title": "Open Article 7 Petitions",
+    "version": "N/A",
+    "keywords": [
+        "finance",
+        "article 7",
+        "open petition",
+        "taxcomm",
+        "new york city tax commission"
+    ],
+    "description": "The information in the City's computer records with respect to open petitions challenging real property tax assessments pursuant to Article 7 of the Real Property Tax Law: contains the index number and year the petition was commenced, the name of the petitioner, the name of the attorney for the petitioner, and various note of issue codes.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York City Tax Commission (TAXCOMM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/aht6-vxai/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 213000,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 608,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Condominium High Lot Number",
+        "Attorney Name",
+        "Attorney Identifier",
+        "Petitioner Name",
+        "Block Number",
+        "Borough Code",
+        "Lot Number",
+        "Petition Year",
+        "Petition Index Number",
+        "Notice Of Issuance Code"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/aht6-vxai",
+    "last_updated": "2017-03-24 17:06:37+00:00",
+    "protocol": "https",
+    "created": "2013-03-01 19:48:20+00:00"
+}

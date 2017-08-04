@@ -1,0 +1,44 @@
+{
+    "name": "atomic-polygons",
+    "datapackage_version": "1.0-beta",
+    "title": "Atomic Polygons",
+    "version": "N/A",
+    "keywords": [
+        "atomic polygons"
+    ],
+    "description": "Atomic polygons serve as a set of basic building blocks for generating the polygons of many of the district types represented in the CSCL database. Feature classes such as election district, school district, census block, FDNY administrative company, and community district can be dissolved by combining the appropriate fields in atomic polygons.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/djze-f4qi?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 68861.8095703125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 280,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/djze-f4qi",
+    "last_updated": "2017-03-09 15:37:35+00:00",
+    "protocol": "https",
+    "created": "2015-03-04 17:48:52+00:00"
+}

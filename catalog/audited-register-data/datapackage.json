@@ -1,0 +1,83 @@
+{
+    "name": "audited-register-data",
+    "datapackage_version": "1.0-beta",
+    "title": "Audited Register Data",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Official audited register by school.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/2pmj-y4p4/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 9200,
+    "columns": 40,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 122,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "# Other",
+        "% Black",
+        "# Female",
+        "% Female",
+        "Grade 4",
+        "Grade 7",
+        "Grade 5",
+        "Grade 9",
+        "Grade 10",
+        "% Male",
+        "# Asian",
+        "Year",
+        "School Name",
+        "% Asian",
+        "DBN",
+        "Grade PK",
+        "Grade 1",
+        "Total Enrollment",
+        "Grade 3",
+        "# Poverty",
+        "% Students with Disabilities",
+        "Grade 6",
+        "# Students with Disabilities",
+        "Grade 2",
+        "% Poverty",
+        "% Qualified for Free or Reduced Lunches",
+        "% English Language Learners",
+        "# Male",
+        "% White",
+        "# Hispanic",
+        "Grade K",
+        "# White",
+        "# English Language Learners",
+        "% Other",
+        "Grade 8",
+        "Grade 11",
+        "Grade 12",
+        "# Qualified for Free or Reduced Lunches",
+        "% Hispanic",
+        "# Black"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/2pmj-y4p4",
+    "last_updated": "2016-03-08 21:22:44+00:00",
+    "protocol": "https",
+    "created": "2015-12-30 16:54:48+00:00"
+}

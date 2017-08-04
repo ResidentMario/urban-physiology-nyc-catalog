@@ -1,0 +1,51 @@
+{
+    "name": "inmate-discharges",
+    "datapackage_version": "1.0-beta",
+    "title": "Inmate Discharges",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Inmate discharges with attributes (race, gender, legal status, top charge). This data set excludes Sealed Cases. Resulting summaries may differ slightly from other published statistics.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Correction (DOC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/94ri-3ium/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 7357,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 123,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "AGE",
+        "RACE",
+        "DISCHARGED_DT",
+        "ADMITTED_DT",
+        "INMATEID",
+        "TOP_CHARGE",
+        "INMATE_STATUS_CODE",
+        "GENDER"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/94ri-3ium",
+    "last_updated": "2017-05-01 19:43:49+00:00",
+    "protocol": "https",
+    "created": "2016-03-23 18:28:40+00:00"
+}

@@ -1,0 +1,88 @@
+{
+    "name": "federal-stimulus-data",
+    "datapackage_version": "1.0-beta",
+    "title": "Federal Stimulus Data",
+    "version": "N/A",
+    "keywords": [
+        "operations",
+        "federal stimulus",
+        "funding",
+        "mayor's office of operations",
+        "stimulus money",
+        "stimulus",
+        "ops"
+    ],
+    "description": "Data on the usage of stimulus/recovery funds provided through the American Recovery and Reinvestment Act of 2009 (ARRA)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Operations (Ops)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ivix-m77e/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 13600,
+    "columns": 37,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 5345,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Project Name",
+        "Project Status",
+        "Actual Start Date",
+        "Revised Contract Start Date",
+        "Payment Recipient",
+        "Stimulus Funding",
+        "Date Funds Announced by NYC",
+        "Contract Status",
+        "Payment Description",
+        "Revised Contract End Date",
+        "Displaced City Funding",
+        "Stimulus Tracker ID",
+        "Funding Category",
+        "Funding Source",
+        "All Other Funding",
+        "Payment Date",
+        "Vendor Name",
+        "Contract Method",
+        "Project Description",
+        "% of Funds Spent",
+        "New or Existing Contract",
+        "Contract End Date",
+        "Project Lead City Agency",
+        "Date Funds Awarded by Fed/State",
+        "Final Spending Deadline",
+        "% of Funds to be Spent by Interim Spending Deadine",
+        "Payment Value",
+        "Actual Completion Date",
+        "Interim Spending Deadline",
+        "Estimated Start Date",
+        "Payment Type",
+        "Contract Name",
+        "Contract ID #",
+        "Payment Id",
+        "Conttract Start Date",
+        "Contract Value",
+        "Award Lead City Agency"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ivix-m77e",
+    "last_updated": "2014-09-05 17:02:36+00:00",
+    "protocol": "https",
+    "created": "2011-07-26 19:48:24+00:00"
+}

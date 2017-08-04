@@ -1,0 +1,55 @@
+{
+    "name": "damage-by-sandy-by-age-of-building",
+    "datapackage_version": "1.0-beta",
+    "title": "Damage By Sandy By Age Of Building",
+    "version": "N/A",
+    "keywords": [
+        "damage",
+        "sandy",
+        "city",
+        "planning",
+        "hurricane",
+        "dcp"
+    ],
+    "description": "Details about how the age and code of the building correlates to destruction due to Storm Sandy",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/mgjt-zuui/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 4,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 863,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Yellow Tags",
+        "Year Built",
+        "Destroyed by Storm",
+        "Red tags",
+        "Inundation area"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/mgjt-zuui",
+    "last_updated": "2014-09-05 17:12:49+00:00",
+    "protocol": "https",
+    "created": "2013-02-13 19:37:43+00:00"
+}

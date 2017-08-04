@@ -1,0 +1,64 @@
+{
+    "name": "grier-partnership-part-c-demographic-projection-report-enrollment-projections-new-york-city-public-schools",
+    "datapackage_version": "1.0-beta",
+    "title": "Grier Partnership Part C - Demographic Projection Report - Enrollment Projections - New York City Public Schools",
+    "version": "N/A",
+    "keywords": [
+        "enrollment",
+        "authority",
+        "construction",
+        "education",
+        "forecast",
+        "sca",
+        "school"
+    ],
+    "description": "Demographic projections performed by the Grier Partnership for high school level students.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/d6ph-dqj8/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 42,
+    "columns": 13,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 240,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Year 2015",
+        "Year 2012",
+        "Grade",
+        "Year 2013",
+        "Year 2017",
+        "Borough",
+        "Year 2018",
+        "Year 2016",
+        "Year 2021",
+        "Year 2020",
+        "Year 2019",
+        "Year 2011",
+        "Year 2014"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/d6ph-dqj8",
+    "last_updated": "2014-09-05 17:01:50+00:00",
+    "protocol": "https",
+    "created": "2013-07-02 19:01:07+00:00"
+}

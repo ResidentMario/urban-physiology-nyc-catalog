@@ -1,0 +1,42 @@
+{
+    "name": "land-acquisition-statistics",
+    "datapackage_version": "1.0-beta",
+    "title": "Land Acquisition Statistics",
+    "version": "N/A",
+    "keywords": [
+        "land acquisition statistics",
+        "environmental protection",
+        "acquired",
+        "dep"
+    ],
+    "description": "The data tables provides annual statistics on how much land we own, acquired, and total protected lands in the water shed",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 116.0322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 246,
+    "preferred_mimetype": "application/vnd.ms-excel",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "xls",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/39yy-hdfd",
+    "last_updated": "2016-08-18 19:26:33+00:00",
+    "protocol": "https",
+    "created": "2014-10-23 22:07:30+00:00"
+}

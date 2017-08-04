@@ -1,0 +1,47 @@
+{
+    "name": "staff-injuries-class-a-injuries",
+    "datapackage_version": "1.0-beta",
+    "title": "Staff Injuries - Class A Injuries",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Serious injury to staff as a result of inmate assault on staff (uniform staff only).",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Correction (DOC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/7hi3-kaps/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 27,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 68,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "REASON",
+        "INCIDENT_TYPE",
+        "INCIDENT_ID",
+        "REPORTED_DT"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/7hi3-kaps",
+    "last_updated": "2017-05-01 19:26:34+00:00",
+    "protocol": "https",
+    "created": "2016-03-23 18:29:32+00:00"
+}

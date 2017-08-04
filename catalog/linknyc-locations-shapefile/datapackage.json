@@ -1,0 +1,49 @@
+{
+    "name": "linknyc-locations-shapefile",
+    "datapackage_version": "1.0-beta",
+    "title": "LinkNYC Locations Shapefile",
+    "version": "N/A",
+    "keywords": [
+        "hotspot",
+        "internet",
+        "link nyc locations",
+        "kiosk",
+        "wifi",
+        "wi-fi"
+    ],
+    "description": "Wi-Fi Provider: LinkNYC - CityBridge, LLC (Free): LinkNYC 1 gigabyte (GB), Free Wi-Fi Internet Kiosks, Free Nation Wide Phone Locals.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/7b32-6xny?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 322.4130859375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 227,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/7b32-6xny",
+    "last_updated": "2017-05-24 21:02:04+00:00",
+    "protocol": "https",
+    "created": "2016-09-08 17:49:44+00:00"
+}

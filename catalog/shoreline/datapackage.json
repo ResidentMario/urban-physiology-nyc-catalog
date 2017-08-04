@@ -1,0 +1,48 @@
+{
+    "name": "shoreline",
+    "datapackage_version": "1.0-beta",
+    "title": "Shoreline",
+    "version": "N/A",
+    "keywords": [
+        "doitt gis",
+        "shoreline",
+        "planimetrics",
+        "nyc",
+        "doittgis"
+    ],
+    "description": "Planimetric basemap line layer containing shoreline features. Please see the following link for additional documentation- https://github.com/CityOfNewYork/nyc-planimetrics/blob/master/Capture_Rules.md.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/2qj2-cctx?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 8065.361328125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 904,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/2qj2-cctx",
+    "last_updated": "2016-08-27 18:23:43+00:00",
+    "protocol": "https",
+    "created": "2014-06-18 14:59:28+00:00"
+}

@@ -1,0 +1,81 @@
+{
+    "name": "acs-community-partners",
+    "datapackage_version": "1.0-beta",
+    "title": "ACS Community Partners",
+    "version": "N/A",
+    "keywords": [
+        "preventitive",
+        "service",
+        "partner",
+        "children",
+        "acs community partners",
+        "administration for children's services (acs)"
+    ],
+    "description": "Directory of preventitive agency location centers",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Administration for Children's Services (ACS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/9hyh-zkx9/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 163,
+    "columns": 31,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 675,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "OFFICE_MON_FROM_TIME",
+        "PROGRAM_ZIP",
+        "OFFICE_SUN_TO_TIME",
+        "PROG_CONTACT_EXTENSION",
+        "PROG_CONTACT_FAX_NO",
+        "PROG_CONTACT_EMAIL",
+        "PROGRAM_ADDRESS_1",
+        "OFFICE_WED_TO_TIME",
+        "PROG_CONTACT_LAST_NAME",
+        "PROG_CONTACT_FIRST_NAME",
+        "PROG_CONTACT_PHONE_NO",
+        "OFFICE_THURS_FROM_TIME",
+        "OFFICE_WED_FROM_TIME",
+        "PROGRAM_CODE",
+        "PROGRAM_LST_ID",
+        "OFFICE_TUES_FROM_TIME",
+        "OFFICE_SUN_FROM_TIME",
+        "OFFICE_SAT_TO_TIME",
+        "OFFICE_SAT_FROM_TIME",
+        "OFFICE_FRI_TO_TIME",
+        "OFFICE_TUES_TO_TIME",
+        "OFFICE_THURS_TO_TIME",
+        "OFFICE_FRI_FROM_TIME",
+        "BOROUGH",
+        "OFFICE_MON_TO_TIME",
+        "ACTIVE_FLAG",
+        "PROGRAM_NAME",
+        "DESCRIPTION",
+        "AGENCY_NAME",
+        "PROGRAM_ADDRESS_2",
+        "PROGRAM_CITY"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/9hyh-zkx9",
+    "last_updated": "2014-09-05 18:10:51+00:00",
+    "protocol": "https",
+    "created": "2013-01-11 16:55:39+00:00"
+}

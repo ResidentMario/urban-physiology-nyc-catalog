@@ -1,0 +1,69 @@
+{
+    "name": "school-spending-since-1990",
+    "datapackage_version": "1.0-beta",
+    "title": "School Spending Since 1990",
+    "version": "N/A",
+    "keywords": [
+        "school spending since 1990"
+    ],
+    "description": "Annual spending by and behalf of the Department of Education since 1990, adjusted for inflation",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYC Independent Budget Office (IBO)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/p26e-k6k9/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 0,
+    "columns": 24,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 133,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        ""
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2010",
+        "2013",
+        "1991",
+        "2009",
+        "1994",
+        "1992",
+        "1993",
+        "2006",
+        "2004",
+        "1998",
+        "1990",
+        "2003",
+        "2007",
+        "2001",
+        "1999",
+        "2011",
+        "1996",
+        "2005",
+        "1997",
+        "2008",
+        "2000",
+        "2012",
+        "2002",
+        "1995"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/p26e-k6k9",
+    "last_updated": "2014-09-05 18:06:04+00:00",
+    "protocol": "https",
+    "created": "2014-03-06 05:50:31+00:00"
+}

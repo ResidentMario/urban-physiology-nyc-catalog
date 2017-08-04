@@ -1,0 +1,55 @@
+{
+    "name": "minority-and-women-owned-business-enterprise-statistics",
+    "datapackage_version": "1.0-beta",
+    "title": "Minority and Women-Owned  Business Enterprise Statistics",
+    "version": "N/A",
+    "keywords": [
+        "legislation",
+        "lawyer",
+        "law",
+        "justice"
+    ],
+    "description": "New York City's \"MWBE\" program, enacted by the City Council and signed by the Mayor as Local Law 129 of 2005, is designed to promote government contracting opportunities for businesses owned by minorities and women. Our \"Emerging Business Enterprise\" program, enacted by the City Council and signed by the Mayor as Local Law 12 of 2006, is designed to promote such opportunities for businesses owned by persons who are \"socially and economically disadvantaged.\" Together, the programs establish the following Citywide goals for contracts and subcontracts in amounts under $1 million.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Law Department (LAW)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/svyi-maaj/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 693,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Prime Contracts - Construction",
+        "Subcontracts - Professional Services",
+        "MWBE Type",
+        "Subcontracts - Construction",
+        "Prime Contracts - Standard Services",
+        "Prime Contracts - Goods",
+        "Prime Contracts - Professional Services"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/svyi-maaj",
+    "last_updated": "2014-09-05 17:08:23+00:00",
+    "protocol": "https",
+    "created": "2013-02-05 22:29:36+00:00"
+}

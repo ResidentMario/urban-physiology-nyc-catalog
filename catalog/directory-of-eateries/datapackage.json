@@ -1,0 +1,46 @@
+{
+    "name": "directory-of-eateries",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of Eateries",
+    "version": "N/A",
+    "keywords": [
+        "directory of eateries",
+        "directory",
+        "healthy living",
+        "food",
+        "parks",
+        "dpr",
+        "snacks",
+        "eateries"
+    ],
+    "description": "Eateries in in New York City Department of Parks & Recreation properties including snack bars, food carts, mobile food trucks,  and restaurants.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 102.12109375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 3793,
+    "preferred_mimetype": "application/xml",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/8792-ebcp",
+    "last_updated": "2017-04-11 14:46:20+00:00",
+    "protocol": "https",
+    "created": "2011-08-16 20:20:50+00:00"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "municipal-parking-facilities-manhattan",
+    "datapackage_version": "1.0-beta",
+    "title": "Municipal Parking Facilities (Manhattan)",
+    "version": "N/A",
+    "keywords": [
+        "transportation",
+        "clean web",
+        "parking",
+        "manhattan"
+    ],
+    "description": "RSS Feed displaying municipal parking facilities in Manhattan",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 2.0302734375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 1295,
+    "preferred_mimetype": "text/xml",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/i8d5-5ciu",
+    "last_updated": "2014-09-05 16:58:05+00:00",
+    "protocol": "https",
+    "created": "2011-10-10 22:21:56+00:00"
+}

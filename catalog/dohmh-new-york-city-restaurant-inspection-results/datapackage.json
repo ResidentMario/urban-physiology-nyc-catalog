@@ -1,0 +1,68 @@
+{
+    "name": "dohmh-new-york-city-restaurant-inspection-results",
+    "datapackage_version": "1.0-beta",
+    "title": "DOHMH New York City Restaurant Inspection Results",
+    "version": "N/A",
+    "keywords": [
+        "violation",
+        "inspection",
+        "adjudication",
+        "fines",
+        "restaurant",
+        "grade"
+    ],
+    "description": "This dataset provides restaurant inspections, violations, grades and adjudication information",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Health and Mental Hygiene (DOHMH)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/43nn-pn8j/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 415000,
+    "columns": 18,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 6462,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Health"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "CUISINE DESCRIPTION",
+        "CAMIS",
+        "CRITICAL FLAG",
+        "BUILDING",
+        "GRADE DATE",
+        "GRADE",
+        "VIOLATION CODE",
+        "RECORD DATE",
+        "VIOLATION DESCRIPTION",
+        "ACTION",
+        "BORO",
+        "PHONE",
+        "ZIPCODE",
+        "STREET",
+        "DBA",
+        "INSPECTION TYPE",
+        "INSPECTION DATE",
+        "SCORE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/43nn-pn8j",
+    "last_updated": "2017-05-31 18:47:26+00:00",
+    "protocol": "https",
+    "created": "2014-08-01 19:10:59+00:00"
+}

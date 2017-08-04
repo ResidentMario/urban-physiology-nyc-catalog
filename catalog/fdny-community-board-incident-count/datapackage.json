@@ -1,0 +1,59 @@
+{
+    "name": "fdny-community-board-incident-count",
+    "datapackage_version": "1.0-beta",
+    "title": "FDNY Community Board Incident Count",
+    "version": "N/A",
+    "keywords": [
+        "fd",
+        "community board",
+        "911",
+        "station",
+        "fire station",
+        "fires",
+        "fire house",
+        "fire department",
+        "fdny",
+        "emergency"
+    ],
+    "description": "Provides incident counts by Year, Month, Incident classification, borough and community board.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Fire Department of New York City (FDNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/rtc6-e7ff/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5656,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1597,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "INCIDENTCLASSIFICATION",
+        "YEARMONTH",
+        "INCIDENTCOUNT",
+        "COMMUNITYBOARDCODE",
+        "INCIDENTBOROUGH"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/rtc6-e7ff",
+    "last_updated": "2014-09-05 16:58:02+00:00",
+    "protocol": "https",
+    "created": "2011-08-30 20:16:34+00:00"
+}

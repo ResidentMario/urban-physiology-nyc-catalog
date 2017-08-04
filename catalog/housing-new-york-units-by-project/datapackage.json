@@ -1,0 +1,65 @@
+{
+    "name": "housing-new-york-units-by-project",
+    "datapackage_version": "1.0-beta",
+    "title": "Housing New York Units by Project",
+    "version": "N/A",
+    "keywords": [
+        "building",
+        "development",
+        "hpd",
+        "housing"
+    ],
+    "description": "The Department of Housing Preservation and Development (HPD) reports on buildings, units, and projects that began after January 1, 2014 and are counted towards the Housing New York plan. The Housing New York Units by Project file presents this data by project, and includes project-level data, such as senior units, but does not include building-level data.  The unit counts are provided for each project, rather than by building. For additional documentation, including a data dictionary, review the attachments in the \u201cAbout this Dataset\u201d section of the Primer landing page.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Housing Preservation and Development (HPD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hq68-rnsi/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1059,
+    "columns": 17,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 174,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Total Units",
+        "All Counted Units",
+        "Counted Homeownership Units",
+        "Counted Rental Units",
+        "Other",
+        "Middle Income",
+        "Moderate Income",
+        "Low Income Units",
+        "Very Low Income",
+        "Extremely Low Income Units",
+        "Prevailing Wage Status",
+        "Extended Affordability Status",
+        "Project Completion Date",
+        "Project Start Date",
+        "Project Name",
+        "Project ID",
+        "Senior Units"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hq68-rnsi",
+    "last_updated": "2017-04-27 18:08:49+00:00",
+    "protocol": "https",
+    "created": "2016-12-13 20:48:56+00:00"
+}

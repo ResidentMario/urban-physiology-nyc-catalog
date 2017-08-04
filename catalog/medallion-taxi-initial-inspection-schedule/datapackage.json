@@ -1,0 +1,57 @@
+{
+    "name": "medallion-taxi-initial-inspection-schedule",
+    "datapackage_version": "1.0-beta",
+    "title": "Medallion Taxi Initial Inspection Schedule",
+    "version": "N/A",
+    "keywords": [
+        "vehicle inspections",
+        "yellow cab",
+        "dmv",
+        "car inspections",
+        "taxi  inspections",
+        "yellow taxi",
+        "woodside inspections"
+    ],
+    "description": "This is a schedule of Medallion Taxicab initial inspections at the Taxi and Limousine Commission\u2019s Safety and Emissions Facility. This information is also available with the Vehicle Inspection Report (VIR) provided at the time of your last inspection, or on the back of your rate card. Please note that this schedule is tentative and subject to change. This schedule is updated quarterly prior to January, May and September.\r\n\r\nYou may contact the TLC at (718) 267-4559 or inspections@tlc.nyc.gov if you have questions regarding the inspection schedule.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commision"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/k2tc-bipg/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 13700,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 50,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Schedule_Date",
+        "Last_Updated_Time",
+        "Last_Updated_Date",
+        "Fleet_Agent_Code",
+        "Medallion_Number",
+        "Schedule_Time"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/k2tc-bipg",
+    "last_updated": "2017-05-17 16:02:14+00:00",
+    "protocol": "https",
+    "created": "2017-02-22 15:14:27+00:00"
+}

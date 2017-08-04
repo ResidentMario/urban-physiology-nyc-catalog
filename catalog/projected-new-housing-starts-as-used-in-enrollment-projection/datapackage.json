@@ -1,0 +1,53 @@
+{
+    "name": "projected-new-housing-starts-as-used-in-enrollment-projection",
+    "datapackage_version": "1.0-beta",
+    "title": "Projected New Housing Starts - as Used in Enrollment Projection",
+    "version": "N/A",
+    "keywords": [
+        "school",
+        "housing",
+        "construction",
+        "forecast",
+        "sca",
+        "authority"
+    ],
+    "description": "# of units from projected future housing growth in the City",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/pa5t-ktd3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 32,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 502,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Five Year (2012-2016) Housing Units",
+        "Ten Year (2012-2021) Housing Units",
+        "District"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/pa5t-ktd3",
+    "last_updated": "2014-09-05 17:01:59+00:00",
+    "protocol": "https",
+    "created": "2013-07-02 19:03:30+00:00"
+}

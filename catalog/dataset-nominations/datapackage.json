@@ -1,0 +1,46 @@
+{
+    "name": "dataset-nominations",
+    "datapackage_version": "1.0-beta",
+    "title": "Dataset Nominations",
+    "version": "N/A",
+    "keywords": [],
+    "description": "This dataset contains the list of dataset nominations submitted to the NYC Open Data team.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology and Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/qyaq-gayy/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 113,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 86,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Request Title",
+        "User/Display Name",
+        "Request Description"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/qyaq-gayy",
+    "last_updated": "2017-03-03 16:55:52+00:00",
+    "protocol": "https",
+    "created": "2017-03-03 15:13:40+00:00"
+}

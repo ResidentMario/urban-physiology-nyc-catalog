@@ -1,0 +1,67 @@
+{
+    "name": "controllable-agency-expenses-financial-plan",
+    "datapackage_version": "1.0-beta",
+    "title": "Controllable Agency Expenses Financial Plan",
+    "version": "N/A",
+    "keywords": [
+        "expenses",
+        "uniformed forces",
+        "controllable",
+        "elected officals",
+        "health and welfare"
+    ],
+    "description": "Financial plan representing Controllable Agency Expenses",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of the Mayor (OTM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/t9tf-aegg/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 6,
+    "columns": 18,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 121,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Mayoralty",
+        "Parks and Recreation ",
+        "Department of Education",
+        "Finance",
+        "Transportation ",
+        "CUNY ",
+        "HHC Subsidy ",
+        "Police Department ",
+        "Department of Correction ",
+        "Fire Department ",
+        "Year",
+        "Children\u2019s Services ",
+        "Homeless Services ",
+        "Sanitation Department ",
+        "Social Services ",
+        "Housing Preservation & Development ",
+        "Environmental Protection ",
+        "Health and Mental Hygiene "
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/t9tf-aegg",
+    "last_updated": "2014-09-05 17:56:27+00:00",
+    "protocol": "https",
+    "created": "2013-02-13 21:42:45+00:00"
+}

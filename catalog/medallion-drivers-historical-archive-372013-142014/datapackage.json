@@ -1,0 +1,58 @@
+{
+    "name": "medallion-drivers-historical-archive-372013-142014",
+    "datapackage_version": "1.0-beta",
+    "title": "Medallion Drivers Historical Archive 3/7/2013 -1/4/2014",
+    "version": "N/A",
+    "keywords": [
+        "limousine",
+        "medallion",
+        "taxi license",
+        "taxi driver",
+        "driver",
+        "taxicab",
+        "taxi",
+        "tlc"
+    ],
+    "description": "This list contains information on the status of current medallion drivers who were authorized to operate NYC TLC licensed Taxicabs from 03/07/2013 through 01/04/2014. The new data set which lists the current day\u2019s snapshot of medallion drivers can be accessed from the link given below https://data.cityofnewyork.us/Transportation/Medallion-Drivers-Active/jb3k-j3gp",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/n776-dsqy/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 13100000,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 21189,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Last Updated Date",
+        "Name",
+        "Last Updated Time",
+        "Expiration Date",
+        "Type",
+        "License Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/n776-dsqy",
+    "last_updated": "2014-09-05 17:53:11+00:00",
+    "protocol": "https",
+    "created": "2013-03-01 19:08:59+00:00"
+}

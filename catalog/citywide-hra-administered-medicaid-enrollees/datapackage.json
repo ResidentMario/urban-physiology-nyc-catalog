@@ -1,0 +1,49 @@
+{
+    "name": "citywide-hra-administered-medicaid-enrollees",
+    "datapackage_version": "1.0-beta",
+    "title": "Citywide HRA- Administered Medicaid Enrollees",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Total number of enrollees in Medicaid",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resource Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/33db-aeds/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 115,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 120,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Cash Assistance - Medical Assistance",
+        "Nursing Home - Medical Assistance",
+        "Medical Assistance Only",
+        "Total HRA-Enrolled Medical Assistance Individuals",
+        "Month",
+        "Supplemental Security Income - Medical Assistance"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/33db-aeds",
+    "last_updated": "2016-11-04 14:09:02+00:00",
+    "protocol": "https",
+    "created": "2016-01-14 17:37:54+00:00"
+}

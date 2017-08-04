@@ -1,0 +1,74 @@
+{
+    "name": "dycd-after-school-programs-immigrant-services",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD after-school programs: Immigrant Services",
+    "version": "N/A",
+    "keywords": [
+        "jobs and economic mobility",
+        "immigrant support",
+        "immigrant",
+        "domestic violence",
+        "development",
+        "community development",
+        "community",
+        "lifelong learning",
+        "legal services",
+        "legal assistance",
+        "immigration",
+        "school",
+        "refugee assistance",
+        "refugee",
+        "child",
+        "programs",
+        "neighborhood development area",
+        "neighborhood",
+        "nda",
+        "after-school programs",
+        "after-school",
+        "children"
+    ],
+    "description": "Facilities in New York City, by agency and site, that offer after-school programs for immigration services and immigrant support services. These include programs for legal assistance, legal services, refugee assistance, immigrant youth services, immigrant family services, and domestic violence programs.- Department of Youth and Community Development (DYCD). \r\nUpdate Frequency: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/zmut-au2w/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 78,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 655,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "SITE NAME",
+        "PROGRAM",
+        "Location 1",
+        "Grade Level / Age Group ",
+        "Contact Number",
+        "AGENCY",
+        "BOROUGH / COMMUNITY",
+        "PROGRAM TYPE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/zmut-au2w",
+    "last_updated": "2014-09-05 18:06:24+00:00",
+    "protocol": "https",
+    "created": "2011-09-02 20:14:11+00:00"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "medicaid-coverage-for-children-and-pregnant-women-income-levels",
+    "datapackage_version": "1.0-beta",
+    "title": "Medicaid coverage for children and pregnant women (Income levels)",
+    "version": "N/A",
+    "keywords": [
+        "woman",
+        "hra",
+        "human resources administration",
+        "income",
+        "jobs and economic mobility",
+        "pregnant"
+    ],
+    "description": "This table represents details of Medicaid (coverage for children). Medicaid (coverage for children)  is available for many children in working families. Most children who are eligible for Medicaid (coverage for children) do receive their medical care through a health plan, and visit doctors and hospitals that accept that health plan. While ones application is being processed, Medicaid (coverage for children) may provide up to 90 days of retroactive coverage for unpaid medical bills, if eligible during those 90 days",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/4se9-u6dw/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 7,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 271,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Family Size (5 nos.)\nMonthly Income",
+        "Family Size (4 nos.)\nMonthly Income",
+        "Each Additional Person Add",
+        "Family Size (1 ind.)\nMonthly Income",
+        "Family Size (2 nos.)\nMonthly Income",
+        "Family Size (3 nos.)\nMonthly Income",
+        "Age Categories for Children"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/4se9-u6dw",
+    "last_updated": "2016-03-02 20:22:32+00:00",
+    "protocol": "https",
+    "created": "2013-03-19 18:22:21+00:00"
+}

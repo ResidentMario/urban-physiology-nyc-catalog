@@ -1,0 +1,62 @@
+{
+    "name": "dsnys-refuse-and-recycling-disposal-networks",
+    "datapackage_version": "1.0-beta",
+    "title": "DSNY's Refuse and Recycling Disposal Networks",
+    "version": "N/A",
+    "keywords": [
+        "services",
+        "plastic",
+        "recycle",
+        "recycling",
+        "glass",
+        "metal",
+        "paper",
+        "sanitation",
+        "clean web",
+        "community",
+        "refuse",
+        "district"
+    ],
+    "description": "For each Community District, the name and address of the location where Refuse, Paper, and Metal/Glass/Plastic collected in that district are disposed of under normal operating circumstances.\r\nUpdate Schedule: As required",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Sanitation (DSNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/kzmz-ivhb/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 180,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1516,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Primary Disposal Facility",
+        "District",
+        "Latitude",
+        "Longitude",
+        "Location",
+        "Material"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/kzmz-ivhb",
+    "last_updated": "2016-02-19 19:24:42+00:00",
+    "protocol": "https",
+    "created": "2011-10-10 22:48:24+00:00"
+}

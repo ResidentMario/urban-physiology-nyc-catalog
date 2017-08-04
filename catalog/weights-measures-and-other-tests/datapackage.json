@@ -1,0 +1,66 @@
+{
+    "name": "weights-measures-and-other-tests",
+    "datapackage_version": "1.0-beta",
+    "title": "Weights, Measures, and Other Tests",
+    "version": "N/A",
+    "keywords": [
+        "inspections",
+        "dca",
+        "wam"
+    ],
+    "description": "This dataset features detailed information about DCA inspections of scales, measuring devices, pricing, and other equipment.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Consumer Affairs (DCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8fei-z6rz/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 64000,
+    "columns": 19,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 142,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Notes",
+        "Latitude",
+        "Certificate Number",
+        "Approved",
+        "Test Type",
+        "Inspection Date",
+        "Business Name",
+        "Industry",
+        "Street",
+        "Condemned",
+        "City",
+        "Building Number",
+        "Longitude",
+        "Unit",
+        "State",
+        "Inspection Result",
+        "Record ID",
+        "Zip",
+        "Confiscated"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8fei-z6rz",
+    "last_updated": "2017-05-12 19:22:49+00:00",
+    "protocol": "https",
+    "created": "2016-07-25 16:35:59+00:00"
+}

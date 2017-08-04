@@ -1,0 +1,49 @@
+{
+    "name": "points-of-interest",
+    "datapackage_version": "1.0-beta",
+    "title": "Points Of Interest",
+    "version": "N/A",
+    "keywords": [
+        "places",
+        "doitt gis",
+        "gis",
+        "common",
+        "doitt",
+        "interest"
+    ],
+    "description": "The Points Of Interest points are a compilation of what the different city agencies consider to be a Common Place or Place/Point of Interest.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DOITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/rxuy-2muj?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 7749.884765625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 274,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/rxuy-2muj",
+    "last_updated": "2017-05-25 18:47:45+00:00",
+    "protocol": "https",
+    "created": "2016-08-30 17:54:57+00:00"
+}

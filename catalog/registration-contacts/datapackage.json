@@ -1,0 +1,62 @@
+{
+    "name": "registration-contacts",
+    "datapackage_version": "1.0-beta",
+    "title": "Registration Contacts",
+    "version": "N/A",
+    "keywords": [
+        "registration",
+        "department of housing preservation and development",
+        "hpd"
+    ],
+    "description": "Contains information about organizations or individuals listed on a Multiple Dwelling Registration form.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Housing Preservation and Development (HPD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/feu5-w2e2/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 650000,
+    "columns": 15,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1815,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "BusinessApartment",
+        "RegistrationContactID",
+        "RegistrationID",
+        "Type",
+        "ContactDescription",
+        "CorporationName",
+        "Title",
+        "FirstName",
+        "MiddleInitial",
+        "LastName",
+        "BusinessHouseNumber",
+        "BusinessStreetName",
+        "BusinessCity",
+        "BusinessState",
+        "BusinessZip"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/feu5-w2e2",
+    "last_updated": "2017-05-01 19:57:14+00:00",
+    "protocol": "https",
+    "created": "2013-11-18 21:16:19+00:00"
+}

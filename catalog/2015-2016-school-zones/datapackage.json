@@ -1,0 +1,52 @@
+{
+    "name": "2015-2016-school-zones",
+    "datapackage_version": "1.0-beta",
+    "title": "2015-2016 School Zones",
+    "version": "N/A",
+    "keywords": [
+        "high school",
+        "doe",
+        "education",
+        "elementary school",
+        "es",
+        "hs",
+        "middle school",
+        "ms",
+        "school zones 2015-2016"
+    ],
+    "description": "2015-2016 School Zones. Files are in a GIS Shapefile format. They are broken down by elementary school zones (ES_Zones), middle school zones (MS_Zones) and high school zones (HS_Zones).",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/8ztn-rmii?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 4435.5947265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 158,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/8ztn-rmii",
+    "last_updated": "2016-08-27 18:40:31+00:00",
+    "protocol": "https",
+    "created": "2016-04-18 20:50:00+00:00"
+}

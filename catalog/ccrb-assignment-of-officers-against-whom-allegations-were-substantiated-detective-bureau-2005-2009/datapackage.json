@@ -1,0 +1,65 @@
+{
+    "name": "ccrb-assignment-of-officers-against-whom-allegations-were-substantiated-detective-bureau-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "CCRB: Assignment Of Officers Against Whom Allegations Were Substantiated - Detective Bureau 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "complaint activity",
+        "2009",
+        "activity",
+        "2007",
+        "2006",
+        "civilian",
+        "civilian complaint review board",
+        "2005",
+        "complaint",
+        "statistics",
+        "review",
+        "2008",
+        "board",
+        "ccrb"
+    ],
+    "description": "Civilian Complaint Review Board (CCRB) complaint activity data, 2005-2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/jdmi-whyn/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 20,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 132,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2008",
+        "2009",
+        "Total",
+        "Detective Bureau",
+        "2005",
+        "2006",
+        "2007"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/jdmi-whyn",
+    "last_updated": "2014-09-05 16:59:37+00:00",
+    "protocol": "https",
+    "created": "2011-09-13 16:35:39+00:00"
+}

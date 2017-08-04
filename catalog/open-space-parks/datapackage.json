@@ -1,0 +1,49 @@
+{
+    "name": "open-space-parks",
+    "datapackage_version": "1.0-beta",
+    "title": "Open Space (Parks)",
+    "version": "N/A",
+    "keywords": [
+        "open spaces",
+        "gis",
+        "doitt gis",
+        "doitt",
+        "planimetrics",
+        "parks"
+    ],
+    "description": "Description:  Planimetric basemap polygon layer containing open space features, such as courts, tracks, etc. including Parks. Please see the following link for additional documentation- https://github.com/CityOfNewYork/nyc-planimetrics/blob/master/Capture_Rules.md.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/g84h-jbjm?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 40203.7548828125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 5941,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/g84h-jbjm",
+    "last_updated": "2016-08-27 18:26:10+00:00",
+    "protocol": "https",
+    "created": "2014-06-17 20:34:32+00:00"
+}

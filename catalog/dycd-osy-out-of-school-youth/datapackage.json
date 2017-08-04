@@ -1,0 +1,54 @@
+{
+    "name": "dycd-osy-out-of-school-youth",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD OSY (Out-of-School Youth)",
+    "version": "N/A",
+    "keywords": [
+        "cartography",
+        "basemap",
+        "osy",
+        "out of school",
+        "out-of-school",
+        "school",
+        "youth",
+        "map",
+        "location",
+        "geographic",
+        "education"
+    ],
+    "description": "Out-of-School Youth",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/2n64-63dq?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 9.755859375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 544,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/2n64-63dq",
+    "last_updated": "2016-08-27 18:26:58+00:00",
+    "protocol": "https",
+    "created": "2013-04-05 19:44:33+00:00"
+}

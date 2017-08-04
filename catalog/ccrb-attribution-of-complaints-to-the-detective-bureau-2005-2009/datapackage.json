@@ -1,0 +1,65 @@
+{
+    "name": "ccrb-attribution-of-complaints-to-the-detective-bureau-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "CCRB: Attribution of Complaints to the Detective Bureau 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "civilian",
+        "statistics",
+        "review",
+        "complaint activity",
+        "complaint",
+        "civilian complaint review board",
+        "ccrb",
+        "board",
+        "activity",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2005"
+    ],
+    "description": "Civilian Complaint Review Board (CCRB) complaint activity data, 2005-2009.\r\nUpdate Schedule: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/fgb7-3q7d/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 13,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 128,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Detective Bureau",
+        "2005",
+        "2006",
+        "2009",
+        "Total",
+        "2007",
+        "2008"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/fgb7-3q7d",
+    "last_updated": "2014-09-05 17:11:37+00:00",
+    "protocol": "https",
+    "created": "2011-09-14 19:56:59+00:00"
+}

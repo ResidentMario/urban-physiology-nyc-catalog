@@ -1,0 +1,42 @@
+{
+    "name": "alliance-for-downtown-new-york-big-apps-data",
+    "datapackage_version": "1.0-beta",
+    "title": "Alliance for Downtown New York Big Apps Data",
+    "version": "N/A",
+    "keywords": [
+        "bigapps",
+        "big apps",
+        "alliance for downtown new york",
+        "downtownny"
+    ],
+    "description": "The Alliance for Downtown New York collects various types of data for Lower Manhattan, particularly the Water Street area. We have residential and commercial building information, retail data, Big Belly trashcans and other streetscape locations (citiBike, StreetCharge, etc.), ferry and subway ridership and much more. Everything you need to raise the StreetIQ of Water Street. For questions and comments, contact jschneider@downtownny.com",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Alliance for Downtown New York"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 2133.9365234375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 528,
+    "preferred_mimetype": "text/plain",
+    "topics_provided": [
+        "NYC BigApps"
+    ],
+    "preferred_format": "csv",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/quix-kfbk",
+    "last_updated": "2014-09-05 17:17:45+00:00",
+    "protocol": "https",
+    "created": "2014-05-01 15:33:16+00:00"
+}

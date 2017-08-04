@@ -1,0 +1,54 @@
+{
+    "name": "applications-tracking-table",
+    "datapackage_version": "1.0-beta",
+    "title": "Applications Tracking Table",
+    "version": "N/A",
+    "keywords": [],
+    "description": "This table tracks grant applications received by LPC and their outcomes",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Landmarks Preservation Commission (LPC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/97zg-4p9t/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 817,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 226,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "FY",
+        "RECEIVED",
+        "STREET ADDRESS",
+        "BOR",
+        "BLOCK",
+        "LOT",
+        "STAFF ACTION",
+        "AMOUNT",
+        "BOARD ACTION",
+        "HIST_DISTRICT",
+        "APPLICANT_TYPE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/97zg-4p9t",
+    "last_updated": "2015-07-08 18:14:40+00:00",
+    "protocol": "https",
+    "created": "2015-07-08 18:08:30+00:00"
+}

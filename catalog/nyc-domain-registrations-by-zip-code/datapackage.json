@@ -1,0 +1,56 @@
+{
+    "name": "nyc-domain-registrations-by-zip-code",
+    "datapackage_version": "1.0-beta",
+    "title": ".nyc Domain Registrations by Zip Code",
+    "version": "N/A",
+    "keywords": [
+        "web",
+        ".nyc",
+        "domain",
+        "internet",
+        "registration",
+        "page",
+        "webpage",
+        "website",
+        "site"
+    ],
+    "description": ".nyc domain registrations broken down by zip code.  This list is updated monthly.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ymvu-4x4s/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 0,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 266,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "ZIP Code",
+        "Borough",
+        "Total"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ymvu-4x4s",
+    "last_updated": "2017-04-07 14:14:17+00:00",
+    "protocol": "https",
+    "created": "2016-01-15 18:46:09+00:00"
+}

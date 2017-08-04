@@ -1,0 +1,62 @@
+{
+    "name": "nyc-greenthumb-community-gardens",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Greenthumb Community Gardens",
+    "version": "N/A",
+    "keywords": [
+        "market",
+        "healthy living",
+        "green",
+        "dpr",
+        "community",
+        "sustainability",
+        "nyc greenthumb community gardens",
+        "mayors office"
+    ],
+    "description": "Listing of NYC Greenthumb community gardens",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ajxm-kzmj/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 536,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 5210,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "NeighborhoodName",
+        "Size",
+        "Garden Name",
+        "Address",
+        "Boro",
+        "Community Board",
+        "PropID",
+        "Council District",
+        "Cross Streets",
+        "Jurisdiction"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ajxm-kzmj",
+    "last_updated": "2014-09-05 16:59:26+00:00",
+    "protocol": "https",
+    "created": "2012-06-27 16:59:38+00:00"
+}

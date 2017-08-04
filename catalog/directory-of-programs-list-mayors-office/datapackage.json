@@ -1,0 +1,67 @@
+{
+    "name": "directory-of-programs-list-mayors-office",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of Programs List - Mayor's Office",
+    "version": "N/A",
+    "keywords": [
+        "young mens initiative",
+        "economic opportunity",
+        "directory of programs list - mayor's office",
+        "jobs and economic mobility"
+    ],
+    "description": "Directory of programs for the Young Men's Initiative and the Center for Economic Opportunity.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of the Mayor (OTM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/rafb-6xry/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 170,
+    "columns": 19,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 662,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Website",
+        "College Readiness Help (yes or no)",
+        "Site Address",
+        "Job Readiness Help (yes or no)",
+        "SITE Name",
+        "Borough",
+        "GED Help (Yes or No)",
+        "For in -school youth only",
+        "Community Board",
+        "Provider",
+        "PROGRAM NAME",
+        "PROGRAM",
+        "ZIP",
+        "max age",
+        "min age",
+        "For court-involved only",
+        "For Dads Only (yes or no) ",
+        "Catchment area requirment (yes or no) ",
+        "Contact Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/rafb-6xry",
+    "last_updated": "2014-09-05 18:11:20+00:00",
+    "protocol": "https",
+    "created": "2013-03-26 15:55:24+00:00"
+}

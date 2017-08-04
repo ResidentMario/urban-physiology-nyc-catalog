@@ -1,0 +1,52 @@
+{
+    "name": "ccr-annual-report",
+    "datapackage_version": "1.0-beta",
+    "title": "CCR Annual Report",
+    "version": "N/A",
+    "keywords": [],
+    "description": "The data tables published as part of the Annual NYC Drinking Water Supply and Quality Report.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/vc9y-jf25/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 155,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 296,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "AVERAGE",
+        "SOURCES IN DRINKING WATER",
+        "EPA MCLG (Ideal Goal)",
+        "# SAMPLES",
+        "MCL VIOLATION",
+        "YEAR",
+        "PARAMETERS",
+        "NYSDOH   MCL (Highest Level Allowed)",
+        "RANGE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/vc9y-jf25",
+    "last_updated": "2017-05-09 15:22:27+00:00",
+    "protocol": "https",
+    "created": "2016-01-05 18:55:08+00:00"
+}

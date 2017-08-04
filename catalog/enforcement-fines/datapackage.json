@@ -1,0 +1,59 @@
+{
+    "name": "enforcement-fines",
+    "datapackage_version": "1.0-beta",
+    "title": "Enforcement Fines",
+    "version": "N/A",
+    "keywords": [
+        "fines",
+        "coib",
+        "enforcement"
+    ],
+    "description": "This list contains information on the fines collected by the Enforcement Unit.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Conflict of Interest Board (CONFLICTS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/p39r-nm7f/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 915,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 360,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Suspension Value",
+        "Agency",
+        "Case Number",
+        "Date",
+        "Suspension Days",
+        "3-Way Settlement",
+        "Explanation of COIB Fine",
+        "Other Penalty Value",
+        "Other Penalty",
+        "Fine paid to COIB",
+        "Fine Paid to Agency",
+        "Case Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/p39r-nm7f",
+    "last_updated": "2017-05-08 18:52:56+00:00",
+    "protocol": "https",
+    "created": "2015-02-26 17:23:05+00:00"
+}

@@ -1,0 +1,81 @@
+{
+    "name": "dycd-after-school-programs-nda-youth-employment-programs",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD after-school programs: NDA Youth Employment Programs",
+    "version": "N/A",
+    "keywords": [
+        "development",
+        "#centerfordebtoreducation",
+        "big apps",
+        "bigapps",
+        "after-school programs",
+        "after-school",
+        "neighborhood development area",
+        "nda",
+        "jobs and economic mobility",
+        "school",
+        "youth",
+        "programs",
+        "community",
+        "children",
+        "services",
+        "internships",
+        "community development",
+        "job",
+        "neighborhood",
+        "education",
+        "#education",
+        "employment",
+        "internship",
+        "#socialservices",
+        "lifelong learning",
+        "jobs",
+        "youth employment",
+        "young adult",
+        "child"
+    ],
+    "description": "Facilities in New York City, by agency and site, that offer \u201cNDA Neighborhood Development Area Youth Employment  Program\u201d after-school  job and internship programs for children and young adults ages 14 to 21 in Middle School, in High School, or in all grades.\r\nUpdate Frequency: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/mrxb-9w9v/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 112,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 419,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "PROGRAM TYPE",
+        "AGENCY",
+        "Grade Level / Age Group ",
+        "Contact Number",
+        "Location 1",
+        "SITE NAME",
+        "PROGRAM",
+        "BOROUGH / COMMUNITY"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/mrxb-9w9v",
+    "last_updated": "2014-09-05 17:43:53+00:00",
+    "protocol": "https",
+    "created": "2011-09-01 21:00:43+00:00"
+}

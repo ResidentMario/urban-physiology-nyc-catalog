@@ -1,0 +1,50 @@
+{
+    "name": "dycd-literacy",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD Literacy",
+    "version": "N/A",
+    "keywords": [
+        "literacy",
+        "map",
+        "cartography",
+        "basemap",
+        "youth",
+        "location",
+        "geographic"
+    ],
+    "description": "DYCD Literacy",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/ty8z-v9d2?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 49.5712890625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2027,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/ty8z-v9d2",
+    "last_updated": "2016-08-27 18:27:34+00:00",
+    "protocol": "https",
+    "created": "2013-04-05 19:33:42+00:00"
+}

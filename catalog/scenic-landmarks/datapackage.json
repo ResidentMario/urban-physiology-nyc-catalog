@@ -1,0 +1,42 @@
+{
+    "name": "scenic-landmarks",
+    "datapackage_version": "1.0-beta",
+    "title": "Scenic Landmarks",
+    "version": "N/A",
+    "keywords": [],
+    "description": "This dataset contains boundaries and associated attribute information for all designated scenic landmarks or areas under consideration for scenic landmark designation (i.e. calendared) by the New York City Landmarks Preservation Commission (LPC). The geographic locations of the polygons in this dataset are derived primarily from the Department of City Planning's PLUTO dataset, and therefore discrepancies may arise where the LPC dataset has not been updated with information from the most recent PLUTO releases. Please pay close attention to the field descriptions present in the file's metadata to understand how to use this dataset. More information on these records may be found in the Landmark List shapefile (points). Please contact LPC if there are questions or concerns.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Landmarks Preservation Commission (LPC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/gi7d-8gt5?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 350.6728515625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 761,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/gi7d-8gt5",
+    "last_updated": "2016-12-22 00:23:14+00:00",
+    "protocol": "https",
+    "created": "2015-03-11 21:45:23+00:00"
+}

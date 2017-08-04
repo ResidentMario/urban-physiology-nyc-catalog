@@ -1,0 +1,51 @@
+{
+    "name": "dcla-cultural-institutions-group-funding",
+    "datapackage_version": "1.0-beta",
+    "title": "DCLA Cultural Institutions Group Funding",
+    "version": "N/A",
+    "keywords": [
+        "dcla cultural institutions group funding",
+        "cultural affairs",
+        "cig"
+    ],
+    "description": "Operating and energy support funding provided to members of the cultural institution group (CIG).",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Cultural Affairs (DCLA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ka27-qx5k/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 102,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 131,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Energy Support",
+        "Cultural Institutions Group (CIG)",
+        "Fiscal Year (FY)",
+        "Operating Support"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ka27-qx5k",
+    "last_updated": "2017-05-04 17:59:00+00:00",
+    "protocol": "https",
+    "created": "2016-08-18 17:49:05+00:00"
+}

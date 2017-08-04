@@ -1,0 +1,56 @@
+{
+    "name": "trained-medallion-drivers",
+    "datapackage_version": "1.0-beta",
+    "title": "Trained Medallion Drivers",
+    "version": "N/A",
+    "keywords": [
+        "taxi",
+        "medallion",
+        "driver",
+        "trained",
+        "training",
+        "tlc"
+    ],
+    "description": "This dataset is no longer being updated by the New York City Taxi and Limousine Commission. Please update your links to the links listed below. Thank you.\r\n\r\nMedallion Drivers - Trained:\r\nhttps://data.cityofnewyork.us/Transportation/Medallion-Drivers-Trained/td5q-ry6d",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/m4pf-wpkz/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 401000,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 735,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Date Updated",
+        "License Expiration Date",
+        "Completed Both Accessible Training Courses",
+        "License Number",
+        "Name of Licensee",
+        "License Type"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/m4pf-wpkz",
+    "last_updated": "2014-09-05 17:14:48+00:00",
+    "protocol": "https",
+    "created": "2012-09-06 14:05:20+00:00"
+}

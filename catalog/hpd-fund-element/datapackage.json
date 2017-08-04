@@ -1,0 +1,52 @@
+{
+    "name": "hpd-fund-element",
+    "datapackage_version": "1.0-beta",
+    "title": "HPD Fund Element",
+    "version": "N/A",
+    "keywords": [
+        "department of housing preservation and development",
+        "hpd",
+        "fund element"
+    ],
+    "description": "Information on funding amounts, name and type for those funds that meet the definition of City Financial Assistance for each project.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Housing Preservation and Development (HPD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hc6m-qm6w/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1954,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 269,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Fund Name",
+        "Fund DW ID",
+        "Project ID",
+        "Amount",
+        "Type"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hc6m-qm6w",
+    "last_updated": "2016-03-22 18:19:13+00:00",
+    "protocol": "https",
+    "created": "2014-02-26 21:30:54+00:00"
+}

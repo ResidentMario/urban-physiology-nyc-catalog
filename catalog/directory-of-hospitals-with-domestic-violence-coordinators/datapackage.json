@@ -1,0 +1,54 @@
+{
+    "name": "directory-of-hospitals-with-domestic-violence-coordinators",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of Hospitals with Domestic Violence Coordinators",
+    "version": "N/A",
+    "keywords": [
+        "jobs and economic mobility",
+        "economic mobility",
+        "hospital",
+        "jobs",
+        "domestic violence",
+        "combat",
+        "ocdv"
+    ],
+    "description": "List of hospitals that have Domestic Violence Coordinators",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office to Combat Domestic Violence (OCDV)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/22b5-sytd/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 11,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 288,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Hospital",
+        "Borough",
+        "Phone Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/22b5-sytd",
+    "last_updated": "2014-09-05 17:52:31+00:00",
+    "protocol": "https",
+    "created": "2013-03-19 18:37:10+00:00"
+}

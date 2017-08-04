@@ -1,0 +1,52 @@
+{
+    "name": "dop-juvenile-investigations-assigned",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Juvenile Investigations Assigned",
+    "version": "N/A",
+    "keywords": [
+        "dop",
+        "probation",
+        "investigation"
+    ],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/vk9f-gvzq/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 6,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 38,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Borough",
+        "Total Investigations Assigned",
+        "Month",
+        "Year",
+        "Investigations Assigned Count"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/vk9f-gvzq",
+    "last_updated": "2017-04-27 19:35:09+00:00",
+    "protocol": "https",
+    "created": "2016-11-21 15:48:22+00:00"
+}

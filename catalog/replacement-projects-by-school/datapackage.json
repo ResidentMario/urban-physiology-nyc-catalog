@@ -1,0 +1,60 @@
+{
+    "name": "replacement-projects-by-school",
+    "datapackage_version": "1.0-beta",
+    "title": "Replacement Projects by school",
+    "version": "N/A",
+    "keywords": [
+        "sca",
+        "projects"
+    ],
+    "description": "Replacement project detail by school.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYC School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/kydh-ijhc/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 7,
+    "columns": 14,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 72,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "FundingReq'dFY 15-19",
+        "PreviousAppropriations",
+        "Project #",
+        "Total Est. Cost",
+        "Existing Site Identified",
+        "Design Start",
+        "Constr Start",
+        "District",
+        "School",
+        "Forecast Capacity",
+        "Boro",
+        "Actual /Est. Compl",
+        "Needed toComplete",
+        "Proposed Leased Facility"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/kydh-ijhc",
+    "last_updated": "2017-05-02 15:46:03+00:00",
+    "protocol": "https",
+    "created": "2016-05-31 21:48:40+00:00"
+}

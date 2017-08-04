@@ -1,0 +1,55 @@
+{
+    "name": "2010-2011-class-size-district-level-distribution",
+    "datapackage_version": "1.0-beta",
+    "title": "2010-2011 Class Size - District-level Distribution",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning"
+    ],
+    "description": "This file shows citywide average class sizes, aggregated by grade and program type. For grades 5-9 (where available) and 9-12, the data are shown by program type and core course.\r\nBased on January 28, 2011 data.\r\n* Grade 9 Official Class data is included for 0K-09 schools. Core Course information for these sections is not reported.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/nurr-mhyi/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 12100,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 444,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "PERCENT OF STUDENTS IN DISTRICT / BOROUGH / GRADE / PROGRAM / SUBJECT",
+        "PROGRAM TYPE",
+        "BOROUGH",
+        "CSD",
+        "SERVICE CATEGORY",
+        "CLASS SIZE",
+        "NUMBER OF CLASSES",
+        "NUMBER OF STUDENTS",
+        "GRADE LEVEL",
+        "CORE SUBJECT"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/nurr-mhyi",
+    "last_updated": "2014-09-05 17:40:45+00:00",
+    "protocol": "https",
+    "created": "2011-10-14 18:33:11+00:00"
+}

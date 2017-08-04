@@ -1,0 +1,52 @@
+{
+    "name": "commissioners-regulations",
+    "datapackage_version": "1.0-beta",
+    "title": "Commissioners Regulations",
+    "version": "N/A",
+    "keywords": [
+        "dohmh",
+        "commissioners regulations",
+        "department of health and mental hygiene",
+        "healthy living",
+        "health"
+    ],
+    "description": "Chapters of Title 24 of The Rules of The City of New York",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Health and Mental Hygiene (DOHMH)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/a6x3-4y2a/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 24,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 416,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Health"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Chapter Description",
+        "URL",
+        "Chapter"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/a6x3-4y2a",
+    "last_updated": "2014-09-05 17:49:45+00:00",
+    "protocol": "https",
+    "created": "2013-03-06 04:03:23+00:00"
+}

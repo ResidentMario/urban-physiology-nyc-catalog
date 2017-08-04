@@ -1,0 +1,71 @@
+{
+    "name": "new-york-public-library-nypl-branch-services-from-7-2010-to-6-2011",
+    "datapackage_version": "1.0-beta",
+    "title": "New York Public Library (NYPL) Branch Services from 7-2010 to 6-2011",
+    "version": "N/A",
+    "keywords": [
+        "recreation",
+        "culture",
+        "education",
+        "libraries",
+        "community"
+    ],
+    "description": "New York Public Library (NYPL) branch services from July 2010 to June 2011, by borough, network, program, attendance, and more.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York Public Library (NYPL)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ne9z-skhf/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 109,
+    "columns": 22,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 728,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Boro/Central Library",
+        " REFERENCE TRANSACTIONS Young Adult",
+        " REFERENCE TRANSACTIONS Adult",
+        " TOTAL Attendance",
+        "YOUNG ADULT Program",
+        "OUTREACH SERVICES Attendance",
+        " TOTAL Program",
+        "CIRCULATION Adult",
+        "CIRCULATION Juvenile",
+        " REFERENCE TRANSACTIONS Juvenile",
+        "YOUNG ADULT Attendance",
+        "CIRCULATION Young Adult",
+        "JUVENILE Program",
+        "JUVENILE Attendance",
+        " REFERENCE TRANSACTIONS",
+        "Weekly Hours of Public Service",
+        "CIRCULATION",
+        "OUTREACH SERVICES Program",
+        "Branch",
+        "ADULT Program",
+        "ADULT Attendance",
+        "Network"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ne9z-skhf",
+    "last_updated": "2014-09-05 17:13:07+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 17:33:28+00:00"
+}

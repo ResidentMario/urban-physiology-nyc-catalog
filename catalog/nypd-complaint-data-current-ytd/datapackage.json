@@ -1,0 +1,72 @@
+{
+    "name": "nypd-complaint-data-current-ytd",
+    "datapackage_version": "1.0-beta",
+    "title": "NYPD Complaint Data Current YTD",
+    "version": "N/A",
+    "keywords": [
+        "nypd",
+        "incident",
+        "crime",
+        "nycopendata"
+    ],
+    "description": "This dataset includes all valid felony, misdemeanor, and violation crimes reported to the New York City Police Department (NYPD) for all complete quarters so far this year (2017). For additional details, please see the attached data dictionary in the \u2018About\u2019 section.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Police Department (NYPD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/5uac-w243/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 108000,
+    "columns": 24,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2526,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "RPT_DT",
+        "CMPLNT_TO_DT",
+        "CMPLNT_FR_TM",
+        "CMPLNT_FR_DT",
+        "CMPLNT_NUM",
+        "Lat_Lon",
+        "Longitude",
+        "Latitude",
+        "Y_COORD_CD",
+        "X_COORD_CD",
+        "HADEVELOPT",
+        "PARKS_NM",
+        "PREM_TYP_DESC",
+        "LOC_OF_OCCUR_DESC",
+        "ADDR_PCT_CD",
+        "BORO_NM",
+        "JURIS_DESC",
+        "LAW_CAT_CD",
+        "CRM_ATPT_CPTD_CD",
+        "PD_DESC",
+        "PD_CD",
+        "OFNS_DESC",
+        "KY_CD",
+        "CMPLNT_TO_TM"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/5uac-w243",
+    "last_updated": "2017-05-01 19:09:07+00:00",
+    "protocol": "https",
+    "created": "2016-10-28 22:37:30+00:00"
+}

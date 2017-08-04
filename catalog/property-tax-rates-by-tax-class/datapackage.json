@@ -1,0 +1,48 @@
+{
+    "name": "property-tax-rates-by-tax-class",
+    "datapackage_version": "1.0-beta",
+    "title": "Property Tax Rates by Tax Class",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Table of tax rates by year",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/7zb8-7bpk/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 19,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 207,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "CLASS 1",
+        "YEAR",
+        "CLASS 2",
+        "CLASS 4",
+        "CLASS 3"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/7zb8-7bpk",
+    "last_updated": "2015-12-29 20:01:23+00:00",
+    "protocol": "https",
+    "created": "2015-12-29 19:36:31+00:00"
+}

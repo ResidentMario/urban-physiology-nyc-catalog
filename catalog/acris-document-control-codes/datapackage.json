@@ -1,0 +1,53 @@
+{
+    "name": "acris-document-control-codes",
+    "datapackage_version": "1.0-beta",
+    "title": "ACRIS - Document Control Codes",
+    "version": "N/A",
+    "keywords": [
+        "acris land records",
+        "dof"
+    ],
+    "description": "ACRIS Document Type and Class Code mappings for Codes in the ACRIS Real and Personal Property Master Datasets",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/7isb-wh4c/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 123,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1420,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "PARTY1 TYPE",
+        "DOC. TYPE DESCRIPTION",
+        "PARTY2 TYPE",
+        "DOC. TYPE",
+        "RECORD TYPE",
+        "PARTY3 TYPE",
+        "CLASS CODE DESCRIPTION"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/7isb-wh4c",
+    "last_updated": "2017-05-08 20:12:34+00:00",
+    "protocol": "https",
+    "created": "2013-09-16 18:13:12+00:00"
+}

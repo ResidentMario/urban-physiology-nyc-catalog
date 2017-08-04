@@ -1,0 +1,74 @@
+{
+    "name": "disposition-of-discourtesy-allegations-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "Disposition Of Discourtesy Allegations 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "board",
+        "ccrb",
+        "statistics",
+        "civilian complaint review board",
+        "civilian",
+        "2005",
+        "2006",
+        "2007",
+        "review",
+        "misconduct",
+        "disciplinary recommendation",
+        "complaint activity",
+        "complaint",
+        "2008",
+        "2009",
+        "activity",
+        "allegation"
+    ],
+    "description": "CCRB: Disposition of Discourtesy Allegations 2005 - 2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/cwjt-kigp/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 6,
+    "columns": 13,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 80,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Officer Unidentified rate",
+        "Unfounded rate",
+        "Officer Unidentified number",
+        "Type of Abuse of Authority Allegation",
+        "Substantiated Number",
+        "Sunstantiated rate",
+        "Unfounded number",
+        "Exonerated rate",
+        "Unsubstantiated rate",
+        "Miscellaneous",
+        "Miscellaneous rate",
+        "Unsubstantiated number",
+        "Exonerated number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/cwjt-kigp",
+    "last_updated": "2014-09-05 17:04:54+00:00",
+    "protocol": "https",
+    "created": "2011-09-28 22:06:18+00:00"
+}

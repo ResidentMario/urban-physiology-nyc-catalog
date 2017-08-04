@@ -1,0 +1,53 @@
+{
+    "name": "cash-assistance-heads-of-household",
+    "datapackage_version": "1.0-beta",
+    "title": "Cash Assistance Heads of Household",
+    "version": "N/A",
+    "keywords": [
+        "cash assistance head's of household",
+        "hra"
+    ],
+    "description": "Statistics on head's of a household between 16 and 24 years of age receiving cash assistance.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/9ht6-44eh/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 31,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 258,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Lacking High School Degree or GED, 16-17 Years Old",
+        "Total Head of Household, 16-17 Years Old",
+        "Month",
+        "Lacking High School Degree or GED, 18-20 Years Old",
+        "Total Head of Household, 21-24 Years Old",
+        "Total Head of Household, 18-20 Years Old",
+        "Lacking High School Degree or GED, 21-24 Years Old"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/9ht6-44eh",
+    "last_updated": "2016-03-02 20:14:29+00:00",
+    "protocol": "https",
+    "created": "2013-05-21 11:33:46+00:00"
+}

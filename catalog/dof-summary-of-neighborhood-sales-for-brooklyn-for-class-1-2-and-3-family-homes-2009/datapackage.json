@@ -1,0 +1,67 @@
+{
+    "name": "dof-summary-of-neighborhood-sales-for-brooklyn-for-class-1-2-and-3-family-homes-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "DOF: Summary of Neighborhood Sales for Brooklyn for Class 1-, 2- and 3-Family homes - 2009",
+    "version": "N/A",
+    "keywords": [
+        "neighborhoods",
+        "homes",
+        "dof",
+        "class-2",
+        "finance",
+        "class-3",
+        "sales",
+        "property",
+        "properties",
+        "neighborhood sales",
+        "department of finance",
+        "family homes",
+        "class-1",
+        "brooklyn",
+        "borough"
+    ],
+    "description": "The Department of Finance (DOF) maintains records for all property sales in New York City, including sales of family homes in each borough. This list is a summary of neighborhood sales for Class 1-, 2- and 3-Family homes in Brooklyn in 2009.\r\nUpdate Frequency: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/nbun-a9vi/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 164,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 409,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "NUMBER OF SALES",
+        "AVERAGE SALE PRICE",
+        "TYPE OF HOME",
+        "NEIGHBORHOOD",
+        "HIGHEST SALE PRICE",
+        "MEDIAN SALE PRICE",
+        "TOTAL NO. OF PROPERTIES",
+        "LOWEST SALE PRICE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/nbun-a9vi",
+    "last_updated": "2014-09-05 18:03:22+00:00",
+    "protocol": "https",
+    "created": "2011-10-05 17:47:26+00:00"
+}

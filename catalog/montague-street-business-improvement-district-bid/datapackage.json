@@ -1,0 +1,59 @@
+{
+    "name": "montague-street-business-improvement-district-bid",
+    "datapackage_version": "1.0-beta",
+    "title": "Montague Street Business Improvement District. (BID)",
+    "version": "N/A",
+    "keywords": [
+        "bid",
+        "business improvement district",
+        "lotbusiness",
+        "block"
+    ],
+    "description": "A list of business on Montague Street in Brooklyn.\r\nUpdate Frequency: As needed",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Montague Street Business Improvement District (BID)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/5e24-x4wa/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 114,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 397,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "BID Business Tel",
+        "BID Business Website",
+        "BID Street Num.",
+        "Location 1",
+        "BID Street Name",
+        "BID Block",
+        "BID Zip",
+        "BID City",
+        "BID Lot",
+        "BID Business Name",
+        "BID Floor"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/5e24-x4wa",
+    "last_updated": "2014-09-06 00:12:22+00:00",
+    "protocol": "https",
+    "created": "2011-09-30 17:17:20+00:00"
+}

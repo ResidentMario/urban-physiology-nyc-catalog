@@ -1,0 +1,42 @@
+{
+    "name": "directory-of-running-tracks",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of Running Tracks",
+    "version": "N/A",
+    "keywords": [
+        "directory of running tracks",
+        "dpr",
+        "healthy living",
+        "jog"
+    ],
+    "description": "Running tracks in New York City Department of Parks & Recreation properties.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 7.8544921875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 484,
+    "preferred_mimetype": "application/xml",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/9ned-hmak",
+    "last_updated": "2017-04-11 15:42:26+00:00",
+    "protocol": "https",
+    "created": "2011-10-08 19:54:35+00:00"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "hhs-accelerator-past-procurements",
+    "datapackage_version": "1.0-beta",
+    "title": "HHS Accelerator Past Procurements",
+    "version": "N/A",
+    "keywords": [
+        "human service",
+        "rfp",
+        "social service",
+        "client service",
+        "accelerator",
+        "procurement",
+        "request for proposal",
+        "hhs",
+        "health",
+        "community service"
+    ],
+    "description": "Shows procurements released through HHS Accelerator for health and human services for which the proposal deadline has passed. For current and upcoming procurements, visit http://www.nyc.gov/html/hhsaccelerator/html/roadmap/roadmap.shtml. Proposals may be submitted only by prequalified organizations through the City's online system, HHS Accelerator.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "HHS Accelerator"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ws4c-4g69/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 594,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 219,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Procurement Title",
+        "Procurement Description",
+        "Service Name",
+        "EPIN",
+        "Agency"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ws4c-4g69",
+    "last_updated": "2014-12-08 19:41:16+00:00",
+    "protocol": "https",
+    "created": "2014-11-26 20:55:17+00:00"
+}

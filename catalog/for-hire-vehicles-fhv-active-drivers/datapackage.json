@@ -1,0 +1,58 @@
+{
+    "name": "for-hire-vehicles-fhv-active-drivers",
+    "datapackage_version": "1.0-beta",
+    "title": "For Hire Vehicles (FHV) - Active Drivers",
+    "version": "N/A",
+    "keywords": [
+        "fhv",
+        "drivers",
+        "for-hire-vehicles",
+        "for-hire",
+        "for hire",
+        "active",
+        "taxi"
+    ],
+    "description": "NYC TLC Licensed FHV drivers that are currently active and in good standing. This list is accurate to the date and time represented in the Last Date Updated and Last Time Updated fields. For inquiries about the contents of this dataset, please email licensinginquiries@tlc.nyc.gov.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/xjfq-wh2d/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 159000,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 310809,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Type",
+        "Last Time Updated",
+        "Last Date Updated",
+        "Wheelchair Accessible Trained",
+        "Expiration Date",
+        "Name",
+        "License Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/xjfq-wh2d",
+    "last_updated": "2017-05-31 19:47:56+00:00",
+    "protocol": "https",
+    "created": "2015-07-16 17:24:02+00:00"
+}

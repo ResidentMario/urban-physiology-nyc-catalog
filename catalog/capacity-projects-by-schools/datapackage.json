@@ -1,0 +1,62 @@
+{
+    "name": "capacity-projects-by-schools",
+    "datapackage_version": "1.0-beta",
+    "title": "Capacity Projects  by schools",
+    "version": "N/A",
+    "keywords": [
+        "project",
+        "construction",
+        "school",
+        "sca"
+    ],
+    "description": "Capacity project detail by school.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYC School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/a94k-kjys/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 84,
+    "columns": 14,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 81,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "PreviousAppropriations",
+        "Total Est.Cost",
+        "Actual /Est.Compl",
+        "Design Start",
+        "Forecast Capacity",
+        "Constr Start",
+        "School",
+        "Needed toComplete",
+        "FundingReq'dFY 15-19",
+        "Project #",
+        "Proposed Leased Facility",
+        "Existing Site Identified",
+        "Boro",
+        "District"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/a94k-kjys",
+    "last_updated": "2017-05-02 15:22:29+00:00",
+    "protocol": "https",
+    "created": "2016-05-31 21:48:33+00:00"
+}

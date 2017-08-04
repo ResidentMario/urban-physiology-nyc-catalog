@@ -1,0 +1,65 @@
+{
+    "name": "ccrb-attribution-of-complaints-to-patrol-borough-brooklyn-south-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "CCRB: Attribution of Complaints to Patrol Borough Brooklyn South 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "2009",
+        "2006",
+        "activity",
+        "2008",
+        "2007",
+        "board",
+        "ccrb",
+        "civilian",
+        "civilian complaint review board",
+        "complaint",
+        "complaint activity",
+        "review",
+        "statistics",
+        "2005"
+    ],
+    "description": "Civilian Complaint Review Board (CCRB) complaint activity data, 2005-2009..\r\nUpdate Frequency: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/c5mf-k73g/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 18,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 221,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2008",
+        "Total",
+        "Brooklyn South",
+        "2009",
+        "2007",
+        "2005",
+        "2006"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/c5mf-k73g",
+    "last_updated": "2014-09-05 17:11:41+00:00",
+    "protocol": "https",
+    "created": "2011-09-13 21:20:11+00:00"
+}

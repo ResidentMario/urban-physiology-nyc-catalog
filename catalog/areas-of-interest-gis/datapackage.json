@@ -1,0 +1,55 @@
+{
+    "name": "areas-of-interest-gis",
+    "datapackage_version": "1.0-beta",
+    "title": "Areas of Interest GIS",
+    "version": "N/A",
+    "keywords": [
+        "areas of interest gis",
+        "dcp",
+        "geographic",
+        "location",
+        "areas of interest",
+        "area of interest",
+        "interest",
+        "scenic",
+        "historic",
+        "neighborhood",
+        "cartography",
+        "map"
+    ],
+    "description": "GIS data: Areas of interest labels as depicted in New York : A City of Neighborhoods",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/mzbd-kucq?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 27.2958984375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 4105,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Health"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/mzbd-kucq",
+    "last_updated": "2017-01-20 19:53:39+00:00",
+    "protocol": "https",
+    "created": "2013-04-05 16:13:56+00:00"
+}

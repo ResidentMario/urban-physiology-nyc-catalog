@@ -1,0 +1,57 @@
+{
+    "name": "court-liaison-contact-sheet",
+    "datapackage_version": "1.0-beta",
+    "title": "Court Liaison Contact Sheet",
+    "version": "N/A",
+    "keywords": [
+        "doe",
+        "court liaison contact sheet",
+        "jobs and economic mobility",
+        "education court"
+    ],
+    "description": "Listing of NYC courts and their liaisons.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/tsy7-gcm8/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 6,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 180,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Contact",
+        "State",
+        "Notes",
+        "Phone",
+        "Region",
+        "Email",
+        "Zip Code",
+        "City",
+        "Address"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/tsy7-gcm8",
+    "last_updated": "2014-09-05 18:11:23+00:00",
+    "protocol": "https",
+    "created": "2013-03-19 20:34:30+00:00"
+}

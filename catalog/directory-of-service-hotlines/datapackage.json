@@ -1,0 +1,54 @@
+{
+    "name": "directory-of-service-hotlines",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of Service Hotlines",
+    "version": "N/A",
+    "keywords": [
+        "ocdv",
+        "economic mobility",
+        "jobs",
+        "jobs and economic mobility",
+        "hotlines",
+        "combat",
+        "domestic violence"
+    ],
+    "description": "List of various important services  and the corresponding phone numbers",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office to Combat Domestic Violence (OCDV)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/vp38-q6cf/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 15,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 200,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Phone Number",
+        "Comments",
+        "Service Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/vp38-q6cf",
+    "last_updated": "2014-09-05 17:23:12+00:00",
+    "protocol": "https",
+    "created": "2013-03-19 18:37:29+00:00"
+}

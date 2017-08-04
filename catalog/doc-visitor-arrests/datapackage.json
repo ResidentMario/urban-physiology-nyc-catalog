@@ -1,0 +1,55 @@
+{
+    "name": "doc-visitor-arrests",
+    "datapackage_version": "1.0-beta",
+    "title": "DOC Visitor Arrests",
+    "version": "N/A",
+    "keywords": [
+        "facility",
+        "inmate",
+        "prison",
+        "rikers",
+        "visitor",
+        "jail",
+        "population",
+        "arrest",
+        "corrections"
+    ],
+    "description": "Visitor arrests by fiscal year",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Correction (DOC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hm7r-w4y9/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 10,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 990,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Fiscal Year",
+        "Number of Arrests"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hm7r-w4y9",
+    "last_updated": "2014-09-05 16:59:04+00:00",
+    "protocol": "https",
+    "created": "2011-10-07 00:16:47+00:00"
+}

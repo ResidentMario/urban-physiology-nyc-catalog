@@ -1,0 +1,57 @@
+{
+    "name": "nyc-cool-roofs-buildings",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Cool Roofs Buildings",
+    "version": "N/A",
+    "keywords": [
+        "greenhouse gas",
+        "reflective",
+        "clean web",
+        "cooling",
+        "dob",
+        "nyc cool roofs buildings",
+        "environment"
+    ],
+    "description": "Locations of buildings participating in the Cool Roofs initiative.  NYC Cool Roofs buildings have a reflective surface applied to their rooftop, helping to reduce cooling costs, cut energy usage and lower greenhouse gas emissions.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Buildings (DOB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/uuxn-wzxe/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 214,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 5038,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Location",
+        "Zip",
+        "Address 2",
+        "Address 1",
+        "Total Sq Ft",
+        "Neighborhood"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/uuxn-wzxe",
+    "last_updated": "2014-09-05 17:05:20+00:00",
+    "protocol": "https",
+    "created": "2012-06-26 15:59:52+00:00"
+}

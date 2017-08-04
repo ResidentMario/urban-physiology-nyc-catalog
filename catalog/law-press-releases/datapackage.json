@@ -1,0 +1,53 @@
+{
+    "name": "law-press-releases",
+    "datapackage_version": "1.0-beta",
+    "title": "LAW Press Releases",
+    "version": "N/A",
+    "keywords": [
+        "legislation",
+        "law journal",
+        "law",
+        "law press releases",
+        "justice",
+        "lawyer"
+    ],
+    "description": "The Law Department issues press releases on major cases as a service to the media and the public.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Law Department (LAW)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/kewa-q4dq/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 108,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 234,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Link to PDF File",
+        "Press Release Date",
+        "Press Release Title"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/kewa-q4dq",
+    "last_updated": "2014-09-05 17:10:47+00:00",
+    "protocol": "https",
+    "created": "2013-02-08 19:58:24+00:00"
+}

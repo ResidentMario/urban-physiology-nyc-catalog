@@ -1,0 +1,64 @@
+{
+    "name": "times-square-food-beverage-locations",
+    "datapackage_version": "1.0-beta",
+    "title": "Times Square Food & Beverage Locations",
+    "version": "N/A",
+    "keywords": [
+        "crossroads",
+        "times square",
+        "times square alliance",
+        "tourism",
+        "manhattan",
+        "new york",
+        "new york city",
+        "nyc",
+        "pedestrian",
+        "screens",
+        "theater",
+        "food",
+        "entertainment",
+        "crossroads of the world"
+    ],
+    "description": "Directory of food and beverage venues in the Times Square area",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Times Square Alliance (TSA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/kh2m-kcyz/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 331,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 3576,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Phone",
+        "Company Name",
+        "Website",
+        "Location 1",
+        "Sub Subindustry",
+        "Subindustry"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/kh2m-kcyz",
+    "last_updated": "2014-09-06 00:12:04+00:00",
+    "protocol": "https",
+    "created": "2011-07-29 15:08:29+00:00"
+}

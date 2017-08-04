@@ -1,0 +1,67 @@
+{
+    "name": "dycd-after-school-programs-teen-action-programs",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD after-school programs: Teen ACTION Programs",
+    "version": "N/A",
+    "keywords": [
+        "after school",
+        "lifelong learning",
+        "new york city housing authority",
+        "youth",
+        "teen action",
+        "jobs and economic mobility",
+        "development",
+        "community",
+        "children",
+        "child",
+        "nycha",
+        "beacon satellite",
+        "education",
+        "services",
+        "school"
+    ],
+    "description": "Facilities in New York City, by agency and site, that offer \u201cTeen ACTION Programs\u201d after-school  programs for children ages 13 to 21.\r\nUpdate Schedule: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/fijd-wye8/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 59,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 488,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "AGENCY",
+        "Location 1",
+        "SITE NAME",
+        "PROGRAM TYPE",
+        "Grade Level / Age Group ",
+        "PROGRAM",
+        "BOROUGH / COMMUNITY",
+        "Contact Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/fijd-wye8",
+    "last_updated": "2014-09-05 17:44:23+00:00",
+    "protocol": "https",
+    "created": "2011-09-01 16:33:52+00:00"
+}

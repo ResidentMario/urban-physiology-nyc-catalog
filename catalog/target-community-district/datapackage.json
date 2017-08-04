@@ -1,0 +1,57 @@
+{
+    "name": "target-community-district",
+    "datapackage_version": "1.0-beta",
+    "title": "Target Community District",
+    "version": "N/A",
+    "keywords": [
+        "dop",
+        "programs",
+        "probation",
+        "law",
+        "justice",
+        "contact",
+        "community district",
+        "cd"
+    ],
+    "description": "The Table representing \"Target Community District Probation Demographic Data\" as of 08/05/2011",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/tngj-drbu/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 19,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 265,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Total Probationers Ages 16 - 24 ",
+        "Community District",
+        "Borough Name",
+        "Female Probationers      Ages 16-24",
+        "Male Probationers Ages 16-24"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/tngj-drbu",
+    "last_updated": "2014-09-05 17:10:05+00:00",
+    "protocol": "https",
+    "created": "2013-02-12 17:42:56+00:00"
+}

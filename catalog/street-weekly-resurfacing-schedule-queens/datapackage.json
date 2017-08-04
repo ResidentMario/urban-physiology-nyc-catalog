@@ -1,0 +1,53 @@
+{
+    "name": "street-weekly-resurfacing-schedule-queens",
+    "datapackage_version": "1.0-beta",
+    "title": "Street Weekly Resurfacing Schedule - Queens",
+    "version": "N/A",
+    "keywords": [
+        "street resurfacing",
+        "resurfacing schedule",
+        "dot",
+        "queens"
+    ],
+    "description": "Queens Milling and Paving Schedule",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/nuxu-5fjs/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 51,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 234,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Location",
+        "Sa#",
+        "Area",
+        "Day & Date",
+        "CB"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/nuxu-5fjs",
+    "last_updated": "2014-10-22 16:28:30+00:00",
+    "protocol": "https",
+    "created": "2014-10-22 16:21:19+00:00"
+}

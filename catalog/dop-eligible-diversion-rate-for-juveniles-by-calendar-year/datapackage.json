@@ -1,0 +1,52 @@
+{
+    "name": "dop-eligible-diversion-rate-for-juveniles-by-calendar-year",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Eligible Diversion Rate for Juveniles by Calendar Year",
+    "version": "N/A",
+    "keywords": [
+        "probation",
+        "juvenile",
+        "calendar year",
+        "dop",
+        "eligible diversion rate"
+    ],
+    "description": "The percent of juvenile delinquency Intake cases opened for adjustment services (individual / family counseling, substance abuse treatment, etc.) rather than being immediately referred to family court for adjudication. Derived by dividing the number of eligible adjustment cases by all new Intake cases",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/qnwe-j5my/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 40,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 215,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Calendar Year",
+        "Diversion Rate Percentage",
+        "Borough"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/qnwe-j5my",
+    "last_updated": "2017-03-08 21:04:00+00:00",
+    "protocol": "https",
+    "created": "2014-06-17 16:46:09+00:00"
+}

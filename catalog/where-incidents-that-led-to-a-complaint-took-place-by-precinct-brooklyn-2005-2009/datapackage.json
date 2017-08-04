@@ -1,0 +1,68 @@
+{
+    "name": "where-incidents-that-led-to-a-complaint-took-place-by-precinct-brooklyn-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "Where Incidents That Led To A Complaint Took Place By Precinct - Brooklyn 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "2006",
+        "statistics",
+        "review",
+        "misconduct",
+        "disciplinary recommendation",
+        "complaint activity",
+        "complaint",
+        "civilian complaint review board",
+        "civilian",
+        "ccrb",
+        "board",
+        "allegation",
+        "activity",
+        "2009",
+        "2008",
+        "2007",
+        "2005"
+    ],
+    "description": "CCRB: Where Incidents that Led to a Complaint Took Place by Precinct - Brooklyn 2005 - 2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/bn89-icuy/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 27,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 208,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Brooklyn South",
+        "2007",
+        "2006",
+        "2005",
+        "2009",
+        "2008",
+        "Total"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/bn89-icuy",
+    "last_updated": "2014-09-05 16:59:50+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 20:42:44+00:00"
+}

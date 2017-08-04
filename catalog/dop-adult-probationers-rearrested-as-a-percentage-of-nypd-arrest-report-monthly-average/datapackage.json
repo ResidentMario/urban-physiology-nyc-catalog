@@ -1,0 +1,49 @@
+{
+    "name": "dop-adult-probationers-rearrested-as-a-percentage-of-nypd-arrest-report-monthly-average",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Adult Probationers Rearrested As A Percentage Of NYPD Arrest Report (Monthly Average)",
+    "version": "N/A",
+    "keywords": [
+        "dop"
+    ],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/arhf-esqb/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 13,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 95,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Month",
+        "Region",
+        "Year",
+        "Rate"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/arhf-esqb",
+    "last_updated": "2017-04-27 18:42:54+00:00",
+    "protocol": "https",
+    "created": "2016-08-02 17:51:58+00:00"
+}

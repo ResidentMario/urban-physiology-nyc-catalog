@@ -1,0 +1,72 @@
+{
+    "name": "reservoir-characteristics",
+    "datapackage_version": "1.0-beta",
+    "title": "Reservoir Characteristics",
+    "version": "N/A",
+    "keywords": [
+        "conservation",
+        "coverage",
+        "tap",
+        "reservoir",
+        "nyc",
+        "healthy living",
+        "health",
+        "environment",
+        "eco-system",
+        "ecosystem",
+        "department of environmental protection",
+        "dam",
+        "dep",
+        "water",
+        "tap water",
+        "watershed",
+        "water supply",
+        "water system",
+        "agua"
+    ],
+    "description": "The data tables provides current reservoir storage levels along with release, diversion, and spill rates",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/nckr-g5w7/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 44,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 518,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Location",
+        "Date Put in Service",
+        "Name of Reservior",
+        "Kind of Dam",
+        "Reservior #",
+        "Length of Shoreline (Miles)",
+        "Area of Water Surface at Spilway Elevation",
+        "Drainage Area",
+        "Elevation of Spillway M.S.L. Sandy Hook (Feet)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/nckr-g5w7",
+    "last_updated": "2015-02-24 22:06:30+00:00",
+    "protocol": "https",
+    "created": "2011-09-30 18:18:37+00:00"
+}

@@ -1,0 +1,45 @@
+{
+    "name": "plazas",
+    "datapackage_version": "1.0-beta",
+    "title": "Plazas",
+    "version": "N/A",
+    "keywords": [
+        "doitt gis",
+        "planimetrics"
+    ],
+    "description": "Please see the following link for additional documentation- https://github.com/CityOfNewYork/nyc-planimetrics/blob/master/Capture_Rules.md.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/m4mp-ji5y?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 2337.5546875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 352,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/m4mp-ji5y",
+    "last_updated": "2016-08-27 18:34:01+00:00",
+    "protocol": "https",
+    "created": "2016-03-14 21:09:20+00:00"
+}

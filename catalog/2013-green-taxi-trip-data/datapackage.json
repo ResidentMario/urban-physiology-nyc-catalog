@@ -1,0 +1,63 @@
+{
+    "name": "2013-green-taxi-trip-data",
+    "datapackage_version": "1.0-beta",
+    "title": "2013 Green Taxi Trip Data",
+    "version": "N/A",
+    "keywords": [],
+    "description": "This dataset includes trip records from all trips completed in green taxis in NYC in 2013. Records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) by technology providers authorized under the Livery Passenger Enhancement Program (LPEP). The trip data was not created by the TLC, and TLC makes no representations as to the accuracy of these data.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ghpb-fpea/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1210000,
+    "columns": 20,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 652,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Pickup_latitude",
+        "pickup_datetime",
+        "Dropoff_latitude",
+        "Payment_type",
+        "Store_and_fwd_flag",
+        "Passenger_count",
+        "rate_code",
+        "Fare_amount",
+        "Extra",
+        "Pickup_longitude",
+        "Tolls_amount",
+        "Total_amount",
+        "MTA_tax",
+        "Trip_distance",
+        "Tip_amount",
+        "Trip_type",
+        "vendor_id",
+        "Dropoff_longitude",
+        "dropoff_datetime",
+        "Ehail_fee"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ghpb-fpea",
+    "last_updated": "2017-02-01 23:08:25+00:00",
+    "protocol": "https",
+    "created": "2015-10-09 00:05:02+00:00"
+}

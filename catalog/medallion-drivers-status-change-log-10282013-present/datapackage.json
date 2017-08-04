@@ -1,0 +1,60 @@
+{
+    "name": "medallion-drivers-status-change-log-10282013-present",
+    "datapackage_version": "1.0-beta",
+    "title": "Medallion Drivers \u2013 Status Change Log 10/28/2013 - present",
+    "version": "N/A",
+    "keywords": [
+        "tlc",
+        "taxicab",
+        "taxi",
+        "driver",
+        "taxi license",
+        "medallion",
+        "taxi driver",
+        "limousine"
+    ],
+    "description": "This list contains information on changes in status to current medallion drivers and their corresponding record history starting from 10/28/2013 (inclusive). Historical information from 03/07/2013 \u2013 01/04/2014 can be found at https://data.cityofnewyork.us/Transportation/Medallion-Drivers-Active/n776-dsqy. The most recently published active medallion drivers list can be found at https://data.cityofnewyork.us/Transportation/Medallion-Drivers-Active/jb3k-j3gp",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/sjfe-fppp/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 459000,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 28738,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Row_Wid",
+        "Expiration Date",
+        "Name",
+        "Last Updated Time",
+        "Type",
+        "License Number",
+        "Last Updated Date",
+        "Active_Flag"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/sjfe-fppp",
+    "last_updated": "2017-05-31 20:16:14+00:00",
+    "protocol": "https",
+    "created": "2013-11-20 20:45:03+00:00"
+}

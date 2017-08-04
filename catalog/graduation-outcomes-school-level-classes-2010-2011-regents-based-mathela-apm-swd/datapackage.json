@@ -1,0 +1,58 @@
+{
+    "name": "graduation-outcomes-school-level-classes-2010-2011-regents-based-mathela-apm-swd",
+    "datapackage_version": "1.0-beta",
+    "title": "Graduation Outcomes - School Level - Classes 2010-2011 - Regents-based Math/ELA APM - SWD",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning",
+        "graduation outcome",
+        "school",
+        "swd",
+        "apm"
+    ],
+    "description": "Latest available data and trends in NYSED's Regents-based Aspirational Performance Measure (APM) by school and disability status",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/5gxs-yzxw/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1470,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 193,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Total Grads Num",
+        "Demographic",
+        "DBN",
+        "Cohort Year",
+        "School Name",
+        "Pct of graduates achieving APM",
+        "Pct of cohort achieving APM",
+        "Num achieving APM ",
+        "Total Cohort Num"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/5gxs-yzxw",
+    "last_updated": "2014-09-05 17:43:43+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 02:33:58+00:00"
+}

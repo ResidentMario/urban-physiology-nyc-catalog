@@ -1,0 +1,65 @@
+{
+    "name": "nyc-permitted-event-information",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Permitted Event Information",
+    "version": "N/A",
+    "keywords": [
+        "otm",
+        "park",
+        "activity",
+        "nyc permitted event information",
+        "festival",
+        "block party",
+        "event",
+        "to do",
+        "office of the mayor"
+    ],
+    "description": "This list contains information on approved event applications that will occur within the next month. Please note that Permitted Film Events only reflect those permits which will impact one or more streets for at least five days.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of Citywide Event Coordination and Management (CECM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/tvpp-9vvx/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5342,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 4052,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Start Date/Time",
+        "Event Agency",
+        "Police Precinct",
+        "Community Board",
+        "Event Location",
+        "Street Closure Type",
+        "Event Street Side",
+        "Event Type",
+        "Event Borough",
+        "End Date/Time",
+        "Event ID",
+        "Event Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/tvpp-9vvx",
+    "last_updated": "2017-05-31 20:00:49+00:00",
+    "protocol": "https",
+    "created": "2013-11-06 18:26:59+00:00"
+}

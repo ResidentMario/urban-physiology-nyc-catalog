@@ -1,0 +1,49 @@
+{
+    "name": "2010-census-blocks",
+    "datapackage_version": "1.0-beta",
+    "title": "2010 Census Blocks",
+    "version": "N/A",
+    "keywords": [
+        "2010",
+        "dcp",
+        "2010 census blocks",
+        "map",
+        "gis",
+        "census"
+    ],
+    "description": "GIS data: 2010 Census Blocks",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/v2h8-6mxf?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 28014.5439453125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 3263,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/v2h8-6mxf",
+    "last_updated": "2017-03-09 15:23:51+00:00",
+    "protocol": "https",
+    "created": "2013-01-23 22:26:23+00:00"
+}

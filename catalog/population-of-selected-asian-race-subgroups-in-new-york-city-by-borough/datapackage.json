@@ -1,0 +1,75 @@
+{
+    "name": "population-of-selected-asian-race-subgroups-in-new-york-city-by-borough",
+    "datapackage_version": "1.0-beta",
+    "title": "Population Of Selected Asian Race Subgroups In New York City By Borough",
+    "version": "N/A",
+    "keywords": [
+        "city",
+        "growth",
+        "dcp",
+        "asian",
+        "planning",
+        "borough",
+        "population",
+        "race"
+    ],
+    "description": "Population details of selected Asian Race Subgroups in New York City by Borough",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/432v-a7hc/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5,
+    "columns": 23,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 436,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Total Asian - Vietnamese",
+        "Total Asian - Pakistani",
+        "Total Asian - Indian",
+        "Total Asian - Thai",
+        "Total Asian - Japanese",
+        "Total Asian - Hmong",
+        " Total Asian - Indonesian",
+        "Borough",
+        "Year",
+        "Total Asian - Bangladeshi",
+        "Total Asian - Burmese ",
+        "Total Asian - Bhutanese",
+        "Total Asian - Cambodian",
+        "Total Asian - Chinese and Taiwanese",
+        "Total Asian - Filipino",
+        "Total Asian Only",
+        "Total Asian - Korean",
+        "Total Asian - Laotian",
+        "Total Asian - Malaysian",
+        "Total Asian - Nepalese",
+        "Asian in Combination with Another Race",
+        "Other Asian and Persons of Two or More Asian Categories",
+        "Total Asian - Sri Lankan"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/432v-a7hc",
+    "last_updated": "2014-09-05 18:08:12+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 15:20:24+00:00"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "2010-2011-class-size-district-level-summary",
+    "datapackage_version": "1.0-beta",
+    "title": "2010-2011 Class Size - District-level Summary",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning"
+    ],
+    "description": "This file shows average class size for each district, broken out by program type (General Education, Self-Contained Special Education, Collaborative Team Teaching (CTT)) for grades K-9 (where grade 9 is not reported by subject area), and for grades 5-9 (where available) and 9-12, aggregated by program type (General Education, CTT, and Self-Contained Special Education) and core course (e.g. English 9, Integrated Algebra, US History, etc.).\r\nBased on January 28, 2011 data.\r\n* Grade 9 Official Class data is included for 0K-09 schools. Core Course information for these sections is not reported.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/82rt-zc4y/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 3335,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 485,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "CORE SUBJECT (MS CORE and 9-12 ONLY)",
+        "NUMBER OF STUDENTS / SEATS FILLED",
+        "SERVICE CATEGORY(K-9* ONLY)",
+        "AVERAGE CLASS SIZE",
+        "PROGRAM TYPE",
+        "BORO",
+        "CSD",
+        "GRADE ",
+        "NUMBER OF SECTIONS",
+        "CORE COURSE (MS CORE and 9-12 ONLY)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/82rt-zc4y",
+    "last_updated": "2014-09-05 17:19:38+00:00",
+    "protocol": "https",
+    "created": "2011-10-14 21:12:51+00:00"
+}

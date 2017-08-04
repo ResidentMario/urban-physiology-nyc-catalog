@@ -1,0 +1,65 @@
+{
+    "name": "dycd-after-school-programs-family-support-programs-for-seniors",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD after-school programs: Family Support  Programs for Seniors",
+    "version": "N/A",
+    "keywords": [
+        "jobs and economic mobility",
+        "after-school",
+        "after-school programs",
+        "community",
+        "community development",
+        "development",
+        "family",
+        "family support",
+        "lifelong learning",
+        "older adults",
+        "programs",
+        "school",
+        "seniors"
+    ],
+    "description": "Facilities in New York City, by agency and site, that offer after-school Family Support Programs for seniors and older adults.Submitted by the Department of Youth and Community Development (DYCD).\r\nUpdate Frequency: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/dhs7-q59e/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 58,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 368,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Contact Number",
+        "SITE NAME",
+        "BOROUGH / COMMUNITY",
+        "Location 1",
+        "PROGRAM TYPE",
+        "Grade Level / Age Group ",
+        "PROGRAM",
+        "AGENCY"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/dhs7-q59e",
+    "last_updated": "2014-09-05 17:03:08+00:00",
+    "protocol": "https",
+    "created": "2011-09-06 20:19:52+00:00"
+}

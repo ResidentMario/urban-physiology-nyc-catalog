@@ -1,0 +1,44 @@
+{
+    "name": "directory-of-ice-skating-rinks",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of Ice Skating Rinks",
+    "version": "N/A",
+    "keywords": [
+        "healthy living",
+        "parks",
+        "recreation",
+        "skate",
+        "directory of ice skating rinks",
+        "dpr"
+    ],
+    "description": "Ice skating rinks in New York City Department of Parks & Recreation properties.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 11.3935546875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 485,
+    "preferred_mimetype": "application/xml",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/sage-tgxd",
+    "last_updated": "2017-04-11 15:40:11+00:00",
+    "protocol": "https",
+    "created": "2011-08-16 18:46:37+00:00"
+}

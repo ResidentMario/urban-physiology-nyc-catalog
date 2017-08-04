@@ -1,0 +1,54 @@
+{
+    "name": "fc-bid-walkof-fame-data",
+    "datapackage_version": "1.0-beta",
+    "title": "FC BID Walkof Fame Data",
+    "version": "N/A",
+    "keywords": [
+        "designer",
+        "fc bid",
+        "walk of fame",
+        "artist",
+        "bid",
+        "fame"
+    ],
+    "description": "Data from the FC BID Walk of Fame",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Fashion Center BID"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/yczb-msz7/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 28,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 415,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "INFO",
+        "SKETCH BY DESIGNER",
+        "DESIGNER",
+        "LOCATION"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/yczb-msz7",
+    "last_updated": "2014-09-06 00:12:29+00:00",
+    "protocol": "https",
+    "created": "2011-10-11 04:26:56+00:00"
+}

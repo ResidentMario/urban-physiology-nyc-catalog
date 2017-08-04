@@ -1,0 +1,48 @@
+{
+    "name": "state-senate-districts-water-areas-included",
+    "datapackage_version": "1.0-beta",
+    "title": "State Senate Districts (water areas included)",
+    "version": "N/A",
+    "keywords": [
+        "state senate districts (water areas included)",
+        "maps",
+        "dcp",
+        "city planning",
+        "gis"
+    ],
+    "description": "GIS data: Boundaries of State Senate Districts (water areas included)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/7equ-j2vi?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 934.8701171875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 152,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/7equ-j2vi",
+    "last_updated": "2017-03-09 16:31:38+00:00",
+    "protocol": "https",
+    "created": "2013-04-18 18:34:49+00:00"
+}

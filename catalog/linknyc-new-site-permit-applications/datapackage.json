@@ -1,0 +1,61 @@
+{
+    "name": "linknyc-new-site-permit-applications",
+    "datapackage_version": "1.0-beta",
+    "title": "LinkNYC New Site Permit Applications",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Proposed New Site applications for \u201cLinks\u201d Wi-Fi Provider: LinkNYC - CityBridge, LLC (Free): LinkNYC 1 gigabyte (GB), Free Wi-Fi Internet Kiosks, Free Nation Wide Phone Locals Map",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/xp25-gxux/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 64,
+    "columns": 18,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 208,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Location 1",
+        "Cross_Street 2",
+        "Street Address",
+        "Cross_Street 1",
+        "Historic District Name",
+        "Historic District?",
+        "CBL Link ID",
+        "Latitude",
+        "GF CB Comment Period Ends (A)",
+        "Longitude",
+        "GF DoITT Submitted to CB (A)",
+        "GF Permit_Appl_Id",
+        "Borough",
+        "Zoning",
+        "GF Application Submitted to DoITT (A)",
+        "Community Board",
+        "Greenfield in BID Location",
+        "BID"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/xp25-gxux",
+    "last_updated": "2017-05-22 18:48:05+00:00",
+    "protocol": "https",
+    "created": "2016-04-25 16:05:24+00:00"
+}

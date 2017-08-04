@@ -1,0 +1,54 @@
+{
+    "name": "fire-companies",
+    "datapackage_version": "1.0-beta",
+    "title": "Fire Companies",
+    "version": "N/A",
+    "keywords": [
+        "geographic",
+        "location",
+        "fire",
+        "safety",
+        "flame",
+        "boundary",
+        "fireman",
+        "map",
+        "fire companies",
+        "cartography",
+        "dcp"
+    ],
+    "description": "GIS data: Boundaries of Fire Companies",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/iiv7-jaj9?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 4368.0380859375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 507,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/iiv7-jaj9",
+    "last_updated": "2017-03-09 16:41:34+00:00",
+    "protocol": "https",
+    "created": "2013-01-29 20:54:29+00:00"
+}

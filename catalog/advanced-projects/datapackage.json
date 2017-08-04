@@ -1,0 +1,52 @@
+{
+    "name": "advanced-projects",
+    "datapackage_version": "1.0-beta",
+    "title": "Advanced Projects",
+    "version": "N/A",
+    "keywords": [
+        "sca",
+        "projects",
+        "constructions"
+    ],
+    "description": "Projects Advanced.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYC School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/yiqb-mq9h/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 54,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 69,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Borough",
+        "Program Category",
+        "District",
+        "Building ID",
+        "School"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/yiqb-mq9h",
+    "last_updated": "2017-05-02 15:07:00+00:00",
+    "protocol": "https",
+    "created": "2016-05-31 21:48:23+00:00"
+}

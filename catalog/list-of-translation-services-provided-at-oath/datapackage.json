@@ -1,0 +1,51 @@
+{
+    "name": "list-of-translation-services-provided-at-oath",
+    "datapackage_version": "1.0-beta",
+    "title": "List Of Translation Services Provided At OATH",
+    "version": "N/A",
+    "keywords": [
+        "translation",
+        "office of administrative trials and hearings",
+        "cases",
+        "language",
+        "oath"
+    ],
+    "description": "This is the list of Translation Services which are provided in different language at Office of Administrative Trials and Hearings",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of Administrative Trials and Hearings (OATH)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8n8g-m3vw/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 6,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 171,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Language",
+        "Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8n8g-m3vw",
+    "last_updated": "2014-09-05 17:09:28+00:00",
+    "protocol": "https",
+    "created": "2013-03-06 15:42:29+00:00"
+}

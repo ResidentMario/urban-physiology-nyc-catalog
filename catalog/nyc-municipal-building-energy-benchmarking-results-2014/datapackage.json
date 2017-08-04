@@ -1,0 +1,67 @@
+{
+    "name": "nyc-municipal-building-energy-benchmarking-results-2014",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Municipal Building Energy Benchmarking Results (2014)",
+    "version": "N/A",
+    "keywords": [
+        "nyc",
+        "benchmark",
+        "block",
+        "dcas",
+        "department of citywide administrative services (dcas)",
+        "emissions",
+        "energy",
+        "energy intensity",
+        "lot",
+        "municipal building",
+        "nyc municipal building energy benchmarking results"
+    ],
+    "description": "This is a list of New York City municipal buildings over 10,000 square feet by borough, block, lot, and agency, identifying each building\u2019s energy intensity (kBtu/sq. ft.), Portfolio Manager benchmarking rating, where available, and the total GHG emissions for the calendar years 2010 - 2014.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Citywide Administrative Services (DCAS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hpid-63r5/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2477,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 512,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Lot",
+        "2014 GHG Emissions Intensity (kgCO2e/ft\u00b2)*",
+        "2014 Score *",
+        "Borough",
+        "2010Source EUI (kBtu/ft\u00b2)*",
+        "2010 GHG Emissions Intensity (kgCO2e/ft\u00b2)*",
+        "BIN",
+        "2010 Score *",
+        "2014 Source EUI (kBtu/ft\u00b2)*",
+        "Block",
+        "Agency",
+        " Building"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hpid-63r5",
+    "last_updated": "2015-12-08 22:25:52+00:00",
+    "protocol": "https",
+    "created": "2015-12-07 17:16:53+00:00"
+}

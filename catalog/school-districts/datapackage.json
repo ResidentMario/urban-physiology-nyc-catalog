@@ -1,0 +1,48 @@
+{
+    "name": "school-districts",
+    "datapackage_version": "1.0-beta",
+    "title": "School Districts",
+    "version": "N/A",
+    "keywords": [
+        "school districts",
+        "city planning",
+        "education",
+        "maps",
+        "dcp"
+    ],
+    "description": "GIS data: Boundaries of School Districts",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/r8nu-ymqj?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 3424.51171875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 9945,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/r8nu-ymqj",
+    "last_updated": "2017-03-09 16:51:56+00:00",
+    "protocol": "https",
+    "created": "2013-01-29 21:24:51+00:00"
+}

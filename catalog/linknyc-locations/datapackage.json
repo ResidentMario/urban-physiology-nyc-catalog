@@ -1,0 +1,64 @@
+{
+    "name": "linknyc-locations",
+    "datapackage_version": "1.0-beta",
+    "title": "LinkNYC Locations",
+    "version": "N/A",
+    "keywords": [
+        "link nyc locations",
+        "kiosk",
+        "internet",
+        "hotspot",
+        "wi-fi",
+        "wifi"
+    ],
+    "description": "Wi-Fi Provider: LinkNYC - CityBridge, LLC (Free): LinkNYC 1 gigabyte (GB), Free Wi-Fi Internet Kiosks, Free Nation Wide Phone Locals",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/s4kf-3yrf/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 811,
+    "columns": 14,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 971,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Street Address",
+        "Latitude",
+        "Smallest PPT",
+        "Link Installation Status",
+        "CB Link ID",
+        "Community Board",
+        "Boro",
+        "Link Site ID",
+        "Boro ID",
+        "Longitude",
+        "Link Installation (A)",
+        "Link Smoke Tested and Activated (A)",
+        "Location",
+        "Kiosk Bearing"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/s4kf-3yrf",
+    "last_updated": "2017-05-10 15:53:55+00:00",
+    "protocol": "https",
+    "created": "2016-04-12 15:47:38+00:00"
+}

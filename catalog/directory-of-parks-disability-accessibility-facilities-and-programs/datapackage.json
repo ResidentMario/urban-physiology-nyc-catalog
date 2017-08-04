@@ -1,0 +1,58 @@
+{
+    "name": "directory-of-parks-disability-accessibility-facilities-and-programs",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of Parks Disability Accessibility Facilities and Programs",
+    "version": "N/A",
+    "keywords": [
+        "recreation",
+        "accessible",
+        "disability",
+        "disabled",
+        "handicap",
+        "handicap able",
+        "healthy living",
+        "park",
+        "jobs and economic mobility",
+        "nature",
+        "parks"
+    ],
+    "description": "Recreational facilities in New York City Department of Parks & Recreation properties that are accessible to the disabled.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/e4ej-j6hn/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 805,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 938,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Type",
+        "Name",
+        "Location"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/e4ej-j6hn",
+    "last_updated": "2015-04-01 00:30:13+00:00",
+    "protocol": "https",
+    "created": "2011-10-08 19:42:35+00:00"
+}

@@ -1,0 +1,72 @@
+{
+    "name": "construction-demoliton-registrants",
+    "datapackage_version": "1.0-beta",
+    "title": "Construction Demoliton Registrants",
+    "version": "N/A",
+    "keywords": [
+        "registrant",
+        "demolition",
+        "c&d",
+        "nycbic",
+        "construction and demolition",
+        "class 2",
+        "construction",
+        "cl2",
+        "bic"
+    ],
+    "description": "\"The following companies have been issued registrations by the Business Integrity Commission authorizing them to collect, and remove only waste materials resulting from building demolition, construction, alteration or\r\nexcavation.\"",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Business Integrity Commission"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/cspg-yi7g/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 53600,
+    "columns": 19,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 362,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "PHONE",
+        "CREATED",
+        "BIC NUMBER",
+        "ACCOUNT NAME",
+        "TRADE NAME",
+        "ADDRESS",
+        "CITY",
+        "STATE",
+        "POSTCODE",
+        "APPLICATION TYPE",
+        "EXPORT DATE",
+        "LATITUDE",
+        "LONGITUDE",
+        "COMMUNITY_BOARD",
+        "COUNCIL_DISTRICT",
+        "CENSUS_TRACT",
+        "BIN",
+        "BBL",
+        "NTA"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/cspg-yi7g",
+    "last_updated": "2017-05-29 19:53:24+00:00",
+    "protocol": "https",
+    "created": "2017-03-10 20:42:45+00:00"
+}

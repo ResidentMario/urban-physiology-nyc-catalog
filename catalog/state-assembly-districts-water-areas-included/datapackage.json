@@ -1,0 +1,48 @@
+{
+    "name": "state-assembly-districts-water-areas-included",
+    "datapackage_version": "1.0-beta",
+    "title": "State Assembly Districts (water areas included)",
+    "version": "N/A",
+    "keywords": [
+        "maps",
+        "gis",
+        "dcp",
+        "state assembly districts (water areas included)",
+        "city planning"
+    ],
+    "description": "GIS data: Boundaries of State Assembly Districts (water areas included)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/qh62-9utz?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 1147.65625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 178,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/qh62-9utz",
+    "last_updated": "2017-03-09 17:39:52+00:00",
+    "protocol": "https",
+    "created": "2013-04-18 18:32:37+00:00"
+}

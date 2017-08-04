@@ -1,0 +1,61 @@
+{
+    "name": "capital-grants",
+    "datapackage_version": "1.0-beta",
+    "title": "Capital Grants",
+    "version": "N/A",
+    "keywords": [
+        "manhattan borough president (mbp)",
+        "capital grants",
+        "mbp"
+    ],
+    "description": "This list contains information on capital grants",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Manhattan Borough President (MBP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/9umc-3b2y/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 149,
+    "columns": 14,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 395,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Community Board",
+        "Council District",
+        "Amnt Requested",
+        "Funded Amount",
+        "Building Number",
+        "School Number",
+        "Zip",
+        "Organization Address",
+        "Project Title",
+        "Organization Name",
+        "Project Description",
+        "Agency",
+        "State",
+        "City"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/9umc-3b2y",
+    "last_updated": "2014-09-06 00:18:21+00:00",
+    "protocol": "https",
+    "created": "2014-03-06 17:30:41+00:00"
+}

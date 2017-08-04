@@ -1,0 +1,56 @@
+{
+    "name": "mapped-in-ny-companies",
+    "datapackage_version": "1.0-beta",
+    "title": "Mapped In NY Companies",
+    "version": "N/A",
+    "keywords": [
+        "jobs",
+        "jobs and economic mobility",
+        "tech"
+    ],
+    "description": "Raw data which powers the Mapped In NY site at http://www.mappedinny.com/",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Media And Entertainment (MOME)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/f4yq-wry5/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 6335,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 11381,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        ""
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Jobs URL",
+        "City",
+        "Company Name",
+        "Hiring",
+        "URL",
+        "Address2",
+        "Address",
+        "Why NYC",
+        "Category Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/f4yq-wry5",
+    "last_updated": "2015-02-05 15:45:46+00:00",
+    "protocol": "https",
+    "created": "2012-06-04 20:00:28+00:00"
+}

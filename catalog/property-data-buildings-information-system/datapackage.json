@@ -1,0 +1,59 @@
+{
+    "name": "property-data-buildings-information-system",
+    "datapackage_version": "1.0-beta",
+    "title": "Property Data (Buildings Information System)",
+    "version": "N/A",
+    "keywords": [
+        "building",
+        "property",
+        "jurisdiction",
+        "clean web"
+    ],
+    "description": "List of NYC Properties under DOB jurisdiction",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Buildings (DOB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/e98g-f8hy/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 97000,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 10552,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Permit Status Description",
+        "Permit Status Date",
+        "Permit Sequence Number",
+        "Permit SubType",
+        "Permit Type",
+        "Permit BIN",
+        "Permit Experation Date",
+        "Permit Application Job Number",
+        "Permit Application Job Type",
+        "Permit Application Document Number",
+        "Permit Issuance Date"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/e98g-f8hy",
+    "last_updated": "2015-04-15 15:59:31+00:00",
+    "protocol": "https",
+    "created": "2011-10-20 18:03:22+00:00"
+}

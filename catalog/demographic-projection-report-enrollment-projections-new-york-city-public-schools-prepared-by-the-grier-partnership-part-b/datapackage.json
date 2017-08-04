@@ -1,0 +1,64 @@
+{
+    "name": "demographic-projection-report-enrollment-projections-new-york-city-public-schools-prepared-by-the-grier-partnership-part-b",
+    "datapackage_version": "1.0-beta",
+    "title": "Demographic Projection Report - Enrollment Projections - New York City Public Schools prepared by the Grier Partnership Part B",
+    "version": "N/A",
+    "keywords": [
+        "authority",
+        "construction",
+        "sca",
+        "school",
+        "lifelong learning",
+        "demographic projection",
+        "part b"
+    ],
+    "description": "The SCA\u2019s comprehensive capital planning process includes developing and analyzing quality data, creating and updating the Department of Education\u2019s Five-Year Capital Plans, and monitoring projects through completion. The SCA prioritizes capital projects to best meet the capacity and building improvements needs throughout the City.  Additionally, the SCA assures that the Capital Plan aligns with New York State and City Department of Education mandates, academic initiatives, and budgetary resources.  This is one of the most current published reports.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/2pkz-byyb/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 456,
+    "columns": 13,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 240,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2012",
+        "2011",
+        "2013",
+        "2018",
+        "District",
+        "2009",
+        "2017",
+        "2010",
+        "2014",
+        "Grade ",
+        "2008",
+        "2016",
+        "2015"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/2pkz-byyb",
+    "last_updated": "2014-09-05 17:16:04+00:00",
+    "protocol": "https",
+    "created": "2013-03-06 15:18:55+00:00"
+}

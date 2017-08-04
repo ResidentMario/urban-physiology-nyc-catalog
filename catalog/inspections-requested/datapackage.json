@@ -1,0 +1,50 @@
+{
+    "name": "inspections-requested",
+    "datapackage_version": "1.0-beta",
+    "title": "Inspections Requested",
+    "version": "N/A",
+    "keywords": [],
+    "description": "List of Inspections requested for construction projects",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/n4tc-j6kh/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2203,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 246,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Borough Name",
+        "School Code",
+        "Inspection Date",
+        "Inspection Category",
+        "Date Requested",
+        "Request Status Description",
+        "DOB#"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/n4tc-j6kh",
+    "last_updated": "2017-05-01 20:34:22+00:00",
+    "protocol": "https",
+    "created": "2015-08-12 13:45:30+00:00"
+}

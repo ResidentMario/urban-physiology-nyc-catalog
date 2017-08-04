@@ -1,0 +1,56 @@
+{
+    "name": "fdny-fire-department-fire-code-data",
+    "datapackage_version": "1.0-beta",
+    "title": "FDNY Fire Department Fire Code Data",
+    "version": "N/A",
+    "keywords": [
+        "fire code",
+        "fire safety",
+        "fdny",
+        "safety",
+        "building standards",
+        "fire department"
+    ],
+    "description": "Lists the standards that are referenced in the code.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Fire Department of New York City (FDNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/msp3-x6rs/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 117,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 735,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Standard Title",
+        "Standard Agency Address",
+        "Standard Code",
+        "Standard Reference Number",
+        "Reference Code Section Number",
+        "Standard Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/msp3-x6rs",
+    "last_updated": "2014-09-05 17:25:29+00:00",
+    "protocol": "https",
+    "created": "2013-01-23 16:47:07+00:00"
+}

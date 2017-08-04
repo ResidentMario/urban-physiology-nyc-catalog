@@ -1,0 +1,61 @@
+{
+    "name": "wastewater-treatment-plants",
+    "datapackage_version": "1.0-beta",
+    "title": "Wastewater Treatment Plants",
+    "version": "N/A",
+    "keywords": [
+        "treatment",
+        "wastewater",
+        "wastewater treatment plants",
+        "dep",
+        "department of environmental protection",
+        "environment",
+        "healthy living"
+    ],
+    "description": "Wastewater Treatment Plants\r\n\r\nVisit the below link for info on SPEDES permits. http://www.nyc.gov/html/dep/pdf/harbor/spdes_bmp_report_2012.pdf",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/b79y-xcs9/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 14,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1167,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Wastewater Treatment Plant Name",
+        "Dewatering",
+        "Plant in operation",
+        "Receiving Waterbody",
+        "Drainage Area",
+        "Plant Staff",
+        "Population Served",
+        "Location",
+        "Note",
+        "Design Capacity"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/b79y-xcs9",
+    "last_updated": "2014-09-05 17:07:33+00:00",
+    "protocol": "https",
+    "created": "2013-01-31 16:45:10+00:00"
+}

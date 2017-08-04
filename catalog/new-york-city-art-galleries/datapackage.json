@@ -1,0 +1,47 @@
+{
+    "name": "new-york-city-art-galleries",
+    "datapackage_version": "1.0-beta",
+    "title": "New York City Art Galleries",
+    "version": "N/A",
+    "keywords": [
+        "doitt gis",
+        "galleries",
+        "art",
+        "culture"
+    ],
+    "description": "Location of New York City Art Galleries",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/tgyc-r5jh?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 272.58984375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 6518,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/tgyc-r5jh",
+    "last_updated": "2016-08-27 18:19:52+00:00",
+    "protocol": "https",
+    "created": "2014-06-17 16:50:41+00:00"
+}

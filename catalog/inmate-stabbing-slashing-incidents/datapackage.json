@@ -1,0 +1,54 @@
+{
+    "name": "inmate-stabbing-slashing-incidents",
+    "datapackage_version": "1.0-beta",
+    "title": "Inmate Stabbing. Slashing Incidents",
+    "version": "N/A",
+    "keywords": [
+        "corrections",
+        "arrest",
+        "rikers",
+        "prison",
+        "population",
+        "jail",
+        "inmate",
+        "facility"
+    ],
+    "description": "Inmate stabbing/slashing incidents*\n\n*  Inmate Stabbing/Slashing Incidents: The number of incidents involving a stabbing and/or slashing. Though rare, a single incident may involve multiple stabbing and/or slashing inmate victims.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Correction (DOC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hve5-8z68/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 11,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2931,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Fiscal Year",
+        "Number of Incidents"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hve5-8z68",
+    "last_updated": "2014-09-05 18:10:27+00:00",
+    "protocol": "https",
+    "created": "2011-10-06 23:58:57+00:00"
+}

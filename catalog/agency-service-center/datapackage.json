@@ -1,0 +1,52 @@
+{
+    "name": "agency-service-center",
+    "datapackage_version": "1.0-beta",
+    "title": "Agency Service Center",
+    "version": "N/A",
+    "keywords": [
+        "location",
+        "jobs and economic mobility",
+        "geographic",
+        "services",
+        "center",
+        "map",
+        "agencies",
+        "agency",
+        "cartography"
+    ],
+    "description": "Location of City Agency Service Centers with descriptive information on the programs.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/nn5y-wmuj?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 210.40234375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 623,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/nn5y-wmuj",
+    "last_updated": "2016-08-27 18:27:07+00:00",
+    "protocol": "https",
+    "created": "2013-04-05 16:00:09+00:00"
+}

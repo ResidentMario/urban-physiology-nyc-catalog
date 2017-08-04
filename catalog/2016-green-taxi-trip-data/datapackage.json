@@ -1,0 +1,75 @@
+{
+    "name": "2016-green-taxi-trip-data",
+    "datapackage_version": "1.0-beta",
+    "title": "2016 Green Taxi Trip Data",
+    "version": "N/A",
+    "keywords": [
+        "tlc",
+        "taxicab",
+        "taxi",
+        "limousine",
+        "medallion",
+        "taxi driver",
+        "taxi license",
+        "driver"
+    ],
+    "description": "This dataset includes trip records from all trips completed in green taxis in NYC from January to June 2016. Records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) by technology providers authorized under the Livery Passenger Enhancement Program (LPEP). The trip data was not created by the TLC, and TLC makes no representations as to the accuracy of these data.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine  Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hvrh-b6nb/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 16399999,
+    "columns": 23,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 318,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Pickup_latitude",
+        "Tip_amount",
+        "Payment_type",
+        "VendorID",
+        "RateCodeID",
+        "Pickup_longitude",
+        "Lpep_dropoff_datetime",
+        "Dropoff_latitude",
+        "Passenger_count",
+        "improvement_surcharge",
+        "Trip_distance",
+        "Ehail_fee",
+        "Tolls_amount",
+        "PULocationID",
+        "lpep_pickup_datetime",
+        "MTA_tax",
+        "Fare_amount",
+        "Trip_type ",
+        "Store_and_fwd_flag",
+        "Extra",
+        "Dropoff_longitude",
+        "DOLocationID",
+        "Total_amount"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hvrh-b6nb",
+    "last_updated": "2017-03-15 13:57:48+00:00",
+    "protocol": "https",
+    "created": "2016-11-30 16:35:06+00:00"
+}

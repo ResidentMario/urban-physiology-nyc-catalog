@@ -1,0 +1,43 @@
+{
+    "name": "foursquare-api",
+    "datapackage_version": "1.0-beta",
+    "title": "Foursquare API",
+    "version": "N/A",
+    "keywords": [
+        "nyc",
+        "foursquare api",
+        "foursquare",
+        "big apps",
+        "bigapps"
+    ],
+    "description": "The Foursquare API powers the location layer of the internet, giving developers access to our powerful reverse geocoder and venue database of over 60 million places. We turn latitude and longitude points into real meaning. For questions or comments, contact: api@foursquare.com",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Foursquare"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 11.708984375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 1255,
+    "preferred_mimetype": "application/xml",
+    "topics_provided": [
+        "NYC BigApps"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/r2ig-3im3",
+    "last_updated": "2014-09-06 00:11:31+00:00",
+    "protocol": "https",
+    "created": "2014-04-29 19:36:16+00:00"
+}

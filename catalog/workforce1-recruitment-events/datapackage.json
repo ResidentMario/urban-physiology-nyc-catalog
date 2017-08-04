@@ -1,0 +1,59 @@
+{
+    "name": "workforce1-recruitment-events",
+    "datapackage_version": "1.0-beta",
+    "title": "Workforce1 Recruitment Events",
+    "version": "N/A",
+    "keywords": [
+        "recruitment",
+        "job",
+        "small business",
+        "opportunities",
+        "events"
+    ],
+    "description": "Schedule of recruitment events offered by Workforce1 Center. This data is up to date as of the date reflected in the \"About\" tab of this dataset.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Small Business Services (SBS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/kf2b-aeh5/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1693,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 864,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "event_title",
+        "location_name_and_address",
+        "job_family",
+        "borough",
+        "location",
+        "event_date",
+        "check_in_to",
+        "company_name_or_type",
+        "check_in_from",
+        "qualifications"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/kf2b-aeh5",
+    "last_updated": "2017-01-23 21:12:19+00:00",
+    "protocol": "https",
+    "created": "2015-06-29 21:49:34+00:00"
+}

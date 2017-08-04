@@ -1,0 +1,62 @@
+{
+    "name": "public-recycling-bins",
+    "datapackage_version": "1.0-beta",
+    "title": "Public Recycling Bins",
+    "version": "N/A",
+    "keywords": [
+        "dispose",
+        "dsny",
+        "clean web",
+        "recycle",
+        "reduce",
+        "green",
+        "environmental sustainability",
+        "reuse",
+        "garbage",
+        "public recycling bins",
+        "sanitation",
+        "bins"
+    ],
+    "description": "Locations of public recycling bins throughout NYC",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Sanitation (DSNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/sxx4-xhzg/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 545,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 4094,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Longitude",
+        "Latitude",
+        "Address",
+        "Park/Site Name",
+        "Site type",
+        "Borough"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/sxx4-xhzg",
+    "last_updated": "2014-09-05 17:06:01+00:00",
+    "protocol": "https",
+    "created": "2012-06-29 20:51:12+00:00"
+}

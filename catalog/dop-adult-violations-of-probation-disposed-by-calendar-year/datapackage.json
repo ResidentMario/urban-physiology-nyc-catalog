@@ -1,0 +1,54 @@
+{
+    "name": "dop-adult-violations-of-probation-disposed-by-calendar-year",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Adult Violations of Probation Disposed by Calendar Year",
+    "version": "N/A",
+    "keywords": [
+        "probation",
+        "dop",
+        "disposed",
+        "calendar year",
+        "violation",
+        "adult"
+    ],
+    "description": "The number of dispositions issued by local courts for \"violation of probation\" proceedings during the reporting period.  Categorized by type of disposition: jail (revocation); prison (revocation); restored (probation continued); terminated (probation sentence ended).",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/f2cz-q2ik/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 220,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 222,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Calendar Year",
+        "Borough",
+        "Violation Type",
+        "Disposed Violation Count"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/f2cz-q2ik",
+    "last_updated": "2017-03-08 20:19:02+00:00",
+    "protocol": "https",
+    "created": "2014-04-07 16:22:49+00:00"
+}

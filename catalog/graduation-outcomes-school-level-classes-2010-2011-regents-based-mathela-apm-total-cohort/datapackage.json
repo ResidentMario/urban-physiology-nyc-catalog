@@ -1,0 +1,57 @@
+{
+    "name": "graduation-outcomes-school-level-classes-2010-2011-regents-based-mathela-apm-total-cohort",
+    "datapackage_version": "1.0-beta",
+    "title": "Graduation Outcomes - School Level - Classes 2010-2011 - Regents-based Math/ELA APM - Total Cohort",
+    "version": "N/A",
+    "keywords": [
+        "graduation outcome",
+        "apm",
+        "lifelong learning",
+        "school",
+        "total cohort"
+    ],
+    "description": "Latest available data and trends in graduation and dropout outcomes school.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/i6as-kc83/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 772,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 294,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Pct of graduates achieving APM",
+        "Num achieving APM ",
+        "Pct of cohort achieving APM",
+        "Total Cohort Num",
+        "Total Grads Num",
+        "School Name",
+        "Cohort Year",
+        "DBN"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/i6as-kc83",
+    "last_updated": "2014-09-05 17:43:30+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 02:34:12+00:00"
+}

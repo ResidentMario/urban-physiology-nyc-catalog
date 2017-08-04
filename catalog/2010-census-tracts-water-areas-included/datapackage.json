@@ -1,0 +1,48 @@
+{
+    "name": "2010-census-tracts-water-areas-included",
+    "datapackage_version": "1.0-beta",
+    "title": "2010 Census Tracts (water areas included)",
+    "version": "N/A",
+    "keywords": [
+        "water areas",
+        "dcp",
+        "2010 census tracts (water areas included)",
+        "city planning",
+        "census"
+    ],
+    "description": "GIS data: Boundaries of 2010 Census Tracts (water areas included)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/gx7x-82rk?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 4303.1787109375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 631,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/gx7x-82rk",
+    "last_updated": "2017-03-09 15:15:34+00:00",
+    "protocol": "https",
+    "created": "2013-01-23 22:21:45+00:00"
+}

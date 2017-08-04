@@ -1,0 +1,92 @@
+{
+    "name": "dof-condominium-comparable-rental-income-staten-island-fy-20092010",
+    "datapackage_version": "1.0-beta",
+    "title": "DOF: Condominium Comparable Rental Income \u2013Staten Island \u2013 FY 2009/2010",
+    "version": "N/A",
+    "keywords": [
+        "staten island",
+        "residential",
+        "dof",
+        "finance",
+        "rental properties",
+        "rental property",
+        "department of finance",
+        "borough",
+        "buildings",
+        "condominiums",
+        "cooperatives",
+        "apartment"
+    ],
+    "description": "The Department of Finance (DOF) is required by NY State law to value condominiums or cooperatives as if they were residential rental apartment buildings.   DOF uses income information from rental properties similar in physical features and location to the condominiums or cooperatives. DOF applies this income data to the condominium or cooperative and determine its value in the same way DOF values rental apartment buildings.\r\nUpdate Frequency: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/wv4q-e75v/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 24,
+    "columns": 36,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 162,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "COMPARABLE RENTAL 2  Est. Gross Income",
+        "COMPARABLE RENTAL 2  Market Value per SqFt",
+        "COMPARABLE RENTAL 2  Gross Income per SqFt",
+        "COMPARABLE RENTAL 2  Year Built",
+        "COMPARABLE RENTAL 2  Gross SqFt",
+        "COMPARABLE RENTAL 2  Dist. from Coop in miles",
+        "COMPARABLE RENTAL 2  Full Market Value",
+        "COMPARABLE RENTAL 2  Total Units",
+        "STATEN ISLAND CONDOMINIUM PROPERTY Building Classification",
+        "COMPARABLE RENTAL 2  Building Classification",
+        "STATEN ISLAND CONDOMINIUM PROPERTY Boro-Block-Lot",
+        "STATEN ISLAND CONDOMINIUM PROPERTY Est. Gross Income",
+        " COMPARABLE RENTAL 1 Boro-Block-Lot",
+        "STATEN ISLAND CONDOMINIUM PROPERTY Market Value per SqFt",
+        "STATEN ISLAND CONDOMINIUM PROPERTY Full Market Value",
+        "STATEN ISLAND CONDOMINIUM PROPERTY Gross Income per SqFt",
+        "COMPARABLE RENTAL 1  Total Units",
+        "COMPARABLE RENTAL 1  Building Classification",
+        "STATEN ISLAND CONDOMINIUM PROPERTY Condo Section",
+        "STATEN ISLAND CONDOMINIUM PROPERTY Total Units",
+        "STATEN ISLAND CONDOMINIUM PROPERTY Year Built",
+        "COMPARABLE RENTAL 1  Neighborhood",
+        "STATEN ISLAND CONDOMINIUM PROPERTY Address",
+        "STATEN ISLAND CONDOMINIUM PROPERTY Neighborhood",
+        "COMPARABLE RENTAL 1 Address",
+        "COMPARABLE RENTAL 1  Gross Income per SqFt",
+        "COMPARABLE RENTAL 1  Est. Gross Income",
+        "COMPARABLE RENTAL 1  Gross SqFt",
+        "COMPARABLE RENTAL 1  Year Built",
+        "COMPARABLE RENTAL 2  Boro-Block-Lot",
+        "COMPARABLE RENTAL 1  Dist. from Coop in miles",
+        "COMPARABLE RENTAL 1  Market Value per SqFt",
+        "COMPARABLE RENTAL 1 Full Market Value",
+        "STATEN ISLAND CONDOMINIUM PROPERTY Gross SqFt",
+        "COMPARABLE RENTAL 2  Address",
+        "COMPARABLE RENTAL 2  Neighborhood"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/wv4q-e75v",
+    "last_updated": "2014-09-05 18:04:33+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 19:46:20+00:00"
+}

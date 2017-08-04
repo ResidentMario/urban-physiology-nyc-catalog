@@ -1,0 +1,76 @@
+{
+    "name": "nyc-parks-daily-tasks-cleaning-records-fiscal-year-2016",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Parks Daily Tasks Cleaning Records, Fiscal Year 2016",
+    "version": "N/A",
+    "keywords": [],
+    "description": "This data contains cleaning records for City property under the jurisdiction of, or maintained by, NYC Parks. It includes records of tasks such as opening parks, cleaning and restocking comfort stations, and removing graffiti, litter and natural debris. For FY2016, this information was tracked in two systems - the Asset Management Parks System (AMPS) through 9/7/2015, and a purpose-built Daily Tasks application from 9/8/2015. The system used to capture each record is noted in the data, and records captured using the AMPS system contain less information than records captured in the newer Daily Tasks system. Data accuracy is limited by the accuracy of the original source database. This data represents a portion of the underlying information used to produce the FY2016 report on Park Maintenance, as required by Administrative Code 18-144. This report can be accessed at https://www.nycgovparks.org/news/archive",
+    "licenses": [],
+    "sources": [
+        {
+            "title": null
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/kwte-dppd/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 881000,
+    "columns": 33,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 39,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "rel_week",
+        "date_worked",
+        "daily_task_activity_id",
+        "nhours",
+        "ncrew",
+        "ncsa",
+        "napsw",
+        "ncpw",
+        "off_route",
+        "signname",
+        "propid",
+        "route_id",
+        "gispropnum",
+        "end_time",
+        "dumping",
+        "dt_system",
+        "rel_day",
+        "daily_task_id",
+        "fixed_post",
+        "nnpw",
+        "sector_desc",
+        "animal_waste",
+        "overlap_flag",
+        "sector_name",
+        "broken_glass",
+        "fiscal_qtr",
+        "graffiti",
+        "medical_waste",
+        "njtp",
+        "activity",
+        "start_time",
+        "vehicle_number",
+        "district"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/kwte-dppd",
+    "last_updated": "2017-04-04 20:54:49+00:00",
+    "protocol": "https",
+    "created": "2017-04-03 20:07:27+00:00"
+}

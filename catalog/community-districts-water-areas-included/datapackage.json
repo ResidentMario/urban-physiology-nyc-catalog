@@ -1,0 +1,52 @@
+{
+    "name": "community-districts-water-areas-included",
+    "datapackage_version": "1.0-beta",
+    "title": "Community Districts (Water Areas Included)",
+    "version": "N/A",
+    "keywords": [
+        "location",
+        "geographic",
+        "dcp",
+        "community districts (water areas included)",
+        "water",
+        "boundaries",
+        "community",
+        "cartography",
+        "map"
+    ],
+    "description": "GIS data: Community Districts  (Water areas included)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/mzpm-a6vd?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 944.1015625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 272,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        ""
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/mzpm-a6vd",
+    "last_updated": "2017-03-09 15:49:02+00:00",
+    "protocol": "https",
+    "created": "2014-06-20 15:37:15+00:00"
+}

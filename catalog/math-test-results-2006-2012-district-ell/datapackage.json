@@ -1,0 +1,65 @@
+{
+    "name": "math-test-results-2006-2012-district-ell",
+    "datapackage_version": "1.0-beta",
+    "title": "Math Test Results 2006-2012 - District - ELL",
+    "version": "N/A",
+    "keywords": [
+        "ell",
+        "math test result",
+        "lifelong learning",
+        "grade",
+        "district"
+    ],
+    "description": "Latest available data and trends in the state assessment results of math for grades 3 through 8. Data are disaggregated by district and English Language Learner status.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/siju-6isf/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 3136,
+    "columns": 16,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 165,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Num Level 2",
+        "Number Tested",
+        "Pct Level 2",
+        "Num Level 3 and 4",
+        "Pct Level 4",
+        "Num Level 4",
+        "Pct Level 3",
+        "Pct Level 3 and 4",
+        "Pct Level 1",
+        "District",
+        "Grade",
+        "Year",
+        "Num Level 1",
+        "Mean Scale Score",
+        "Demographic",
+        "Num Level 3"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/siju-6isf",
+    "last_updated": "2014-09-05 17:24:06+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 02:45:19+00:00"
+}

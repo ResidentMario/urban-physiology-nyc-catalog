@@ -1,0 +1,52 @@
+{
+    "name": "dop-adult-cases-snapshot-by-fiscal-year",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Adult Cases Snapshot by Fiscal Year",
+    "version": "N/A",
+    "keywords": [
+        "snapshot",
+        "fiscal year",
+        "dop",
+        "probation",
+        "adult cases"
+    ],
+    "description": "The number of active adult probation supervision cases on the last day of the reporting period (June 30)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8dxm-n5ha/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 55,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 148,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Supervision Caseload Count",
+        "Fiscal Year (ending in June)",
+        "Borough"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8dxm-n5ha",
+    "last_updated": "2017-02-06 16:24:08+00:00",
+    "protocol": "https",
+    "created": "2014-06-17 16:44:55+00:00"
+}

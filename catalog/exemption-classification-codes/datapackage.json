@@ -1,0 +1,54 @@
+{
+    "name": "exemption-classification-codes",
+    "datapackage_version": "1.0-beta",
+    "title": "Exemption Classification Codes",
+    "version": "N/A",
+    "keywords": [
+        "codes",
+        "finance",
+        "dof"
+    ],
+    "description": "Table of codes and the corresponding description",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/myn9-hwsy/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 175,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 144,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Description",
+        "Legal Ref",
+        "Status",
+        "Updated",
+        "Comments",
+        "SDEA Code",
+        "Exempt Code"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/myn9-hwsy",
+    "last_updated": "2017-02-13 17:14:37+00:00",
+    "protocol": "https",
+    "created": "2016-05-24 18:38:41+00:00"
+}

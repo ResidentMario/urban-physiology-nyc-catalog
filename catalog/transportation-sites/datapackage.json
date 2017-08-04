@@ -1,0 +1,61 @@
+{
+    "name": "transportation-sites",
+    "datapackage_version": "1.0-beta",
+    "title": "Transportation Sites",
+    "version": "N/A",
+    "keywords": [],
+    "description": "OPT provides transportation service to many different kinds of locations. Many of these locations are schools but they also include offices or other sites that may be part of certain students\u2019 educational plans. The schools may be public, private or religious. OPT provides busing to some Pre-K sites for students who have an IEP for curb-to-curb busing because of medical condition. Transportation service is not limited to school bus service; it includes distribution of MetroCards and approved reimbursement services. Bus service can be conducted on a yellow school bus, an ambulance, or even a coach bus. Yellow school buses are available in a number of sizes and seating configurations. This dataset includes schools, offices or Pre-K/EI sites that currently receive any transportation services from OPT. These sites may be within the New York City limits or up to fifty miles from the city limits in the states of New York, New Jersey or Connecticut. This dataset does not include field trip destinations.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hg3c-2jsy/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 9036,
+    "columns": 18,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 501,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "S2S_Late_Day_Programs",
+        "Site_Type",
+        "Latitude",
+        "Longitude",
+        "State",
+        "City",
+        "D2D_Late_Day_Programs",
+        "Affiliation",
+        "Mid_Day_Service",
+        "Stop_To_School_Service",
+        "OPT_Code",
+        "Name",
+        "Zip",
+        "Street_Address",
+        "Common_Carrier_Svc_Metrocards",
+        "School_Year",
+        "Site_Reimbursement",
+        "Door_To_Door_Service"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hg3c-2jsy",
+    "last_updated": "2017-05-01 10:44:22+00:00",
+    "protocol": "https",
+    "created": "2015-11-13 21:17:03+00:00"
+}

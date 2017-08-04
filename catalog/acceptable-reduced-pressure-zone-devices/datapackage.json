@@ -1,0 +1,49 @@
+{
+    "name": "acceptable-reduced-pressure-zone-devices",
+    "datapackage_version": "1.0-beta",
+    "title": "Acceptable Reduced Pressure Zone Devices",
+    "version": "N/A",
+    "keywords": [
+        "department of environmental protection",
+        "dep",
+        "acceptable reduced pressure zone devices"
+    ],
+    "description": "List of acceptable reduced pressure zone devices.  Refer to the following report for more details http://www.nyc.gov/html/dep/pdf/water_sewer/42_doh_supplement.pdf",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/iftc-eqzb/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 61,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 188,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Company",
+        "Model Series"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/iftc-eqzb",
+    "last_updated": "2014-09-05 16:57:59+00:00",
+    "protocol": "https",
+    "created": "2014-03-06 03:11:10+00:00"
+}

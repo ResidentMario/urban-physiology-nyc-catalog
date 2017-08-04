@@ -1,0 +1,37 @@
+{
+    "name": "bicycle-shelters",
+    "datapackage_version": "1.0-beta",
+    "title": "Bicycle Shelters",
+    "version": "N/A",
+    "keywords": [],
+    "description": "DOT, in coordination with our Coordinated Street Furniture vendor, Cemusa, has installed bicycle parking shelters around the City. Each shelter contains stainless steel bike racks for eight bikes. The design closely resembles the award-winning Bus Shelter, using the same high-quality materials. Panels on the shelters display the annual NYC Cycling Map and other bicycle promotional materials.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 5.587890625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 504,
+    "preferred_mimetype": "application/vnd.google-earth.kml+xml",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "kml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/pnru-8qsf",
+    "last_updated": "2015-02-25 20:04:23+00:00",
+    "protocol": "https",
+    "created": "2015-02-25 20:04:12+00:00"
+}

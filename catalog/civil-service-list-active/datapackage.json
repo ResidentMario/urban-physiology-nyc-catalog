@@ -1,0 +1,63 @@
+{
+    "name": "civil-service-list-active",
+    "datapackage_version": "1.0-beta",
+    "title": "Civil Service List (Active)",
+    "version": "N/A",
+    "keywords": [],
+    "description": "A Civil Service List consists of all candidates who passed an exam, ranked in score order. An established list is considered active for no less than one year and no more than four years from the date of establishment. For more information visit DCAS\u2019 \u201cWork for the City\u201d webpage at: http://www.nyc.gov/html/dcas/html/work/work.shtml",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Citywide Administrative Services (DCAS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/vx8i-nprf/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 450000,
+    "columns": 20,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 31100,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "First Name",
+        "List No",
+        "Published Date",
+        "List Agency Desc",
+        "List Div Code",
+        "Adj. FA",
+        "Residency Credit",
+        "Sibling Lgy Credit",
+        "Parent Lgy Credit",
+        "Veteran Credit",
+        "Established Date",
+        "List Title Code",
+        "List Title Desc",
+        "Group No",
+        "List Agency Code",
+        "Anniversary Date",
+        "Last Name",
+        "Exam No",
+        "Extension Date",
+        "MI"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/vx8i-nprf",
+    "last_updated": "2017-05-31 14:21:18+00:00",
+    "protocol": "https",
+    "created": "2016-06-14 21:12:15+00:00"
+}

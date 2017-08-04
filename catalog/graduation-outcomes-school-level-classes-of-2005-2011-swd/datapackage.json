@@ -1,0 +1,72 @@
+{
+    "name": "graduation-outcomes-school-level-classes-of-2005-2011-swd",
+    "datapackage_version": "1.0-beta",
+    "title": "Graduation Outcomes - School Level - Classes of 2005-2011 - SWD",
+    "version": "N/A",
+    "keywords": [
+        "gender",
+        "school",
+        "lifelong learning",
+        "graduation outcome"
+    ],
+    "description": "Latest available data and trends in graduation and dropout outcomes by school and disability status.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/avsi-2fp7/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 15100,
+    "columns": 24,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 225,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "DBN",
+        "Still Enrolled Pct of cohort",
+        "Still Enrolled Num",
+        "School Name",
+        "Cohort Year",
+        "Dropped Out Pct of cohort",
+        "Cohort Category",
+        "Total Grads Num",
+        "Total Cohort Num",
+        "Local Pct of grads",
+        "Advanced Regents Pct of grads",
+        "Total Regents Num",
+        "Dropped Out Num",
+        "Regents w/o Advanced Pct of grads",
+        "Regents w/o Advanced Pct of cohort",
+        "Local Pct of cohort",
+        "Local Num",
+        "Advanced Regents Pct of cohort",
+        "Advanced Regents Num",
+        "Regents w/o Advanced Num",
+        "Total Grads Pct of cohort",
+        "Total Regents Pct of grads",
+        "Demographic",
+        "Total Regents Pct of cohort"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/avsi-2fp7",
+    "last_updated": "2014-09-05 17:43:24+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 02:38:20+00:00"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "projected-population-2010-2040-total-by-age-groups",
+    "datapackage_version": "1.0-beta",
+    "title": "Projected Population 2010-2040 - Total By Age Groups",
+    "version": "N/A",
+    "keywords": [
+        "2040",
+        "dcp",
+        "projected population 2000-2040 - total by age groups",
+        "2010"
+    ],
+    "description": "Projected total New York City population for five intervals from 2010 through 2040 by Borough, broken down by 18 age cohorts. (Age groups may not add up to the total due to rounding.)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/97pn-acdf/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 114,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 912,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Borough",
+        "2015",
+        "2020",
+        "Age",
+        "2030",
+        "2010",
+        "2035",
+        "2040",
+        "2025"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/97pn-acdf",
+    "last_updated": "2014-09-05 17:06:23+00:00",
+    "protocol": "https",
+    "created": "2011-10-25 18:11:21+00:00"
+}

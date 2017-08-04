@@ -1,0 +1,54 @@
+{
+    "name": "office-locations",
+    "datapackage_version": "1.0-beta",
+    "title": "Office Locations",
+    "version": "N/A",
+    "keywords": [
+        "probation",
+        "program",
+        "contact",
+        "borough",
+        "address",
+        "dop",
+        "law"
+    ],
+    "description": "Department Of Probation Office Address",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hkud-vzzj/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 18,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 202,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Area",
+        "Address",
+        "Disposition  Type"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hkud-vzzj",
+    "last_updated": "2014-09-05 17:24:20+00:00",
+    "protocol": "https",
+    "created": "2013-02-12 17:17:26+00:00"
+}

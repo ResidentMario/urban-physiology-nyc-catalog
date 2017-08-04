@@ -1,0 +1,57 @@
+{
+    "name": "hpd-other-city-financial-assistance-element",
+    "datapackage_version": "1.0-beta",
+    "title": "HPD Other City Financial Assistance Element",
+    "version": "N/A",
+    "keywords": [
+        "city financial assistance",
+        "hpd",
+        "department of housing preservation and development"
+    ],
+    "description": "Information on the amounts, names and types of other City Financial Assistance such as credit facility, HPD Section 8 Project Based Voucher (PBV) Housing Assistance Payment (HAP), Inclusionary affordable floor area, and discounted land value for each project.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Housing Preservation and Development (HPD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hujx-6z5u/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 262,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 353,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "HPD PBVHAP Year1 Amount",
+        "Project ID",
+        "Acquisition Price",
+        "Is Nominal?",
+        "Inclusionary Low Income Floor Area",
+        "As Is Appraisal Amount",
+        "ProjectDWID",
+        "Intended Use Appraisal Amount",
+        "Highest Best Appraisal Amount",
+        "Is Credit Facility?"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hujx-6z5u",
+    "last_updated": "2016-03-22 18:26:26+00:00",
+    "protocol": "https",
+    "created": "2014-02-26 21:35:12+00:00"
+}

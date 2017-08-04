@@ -1,0 +1,52 @@
+{
+    "name": "catch-basin-inspection-and-cleaning-activity",
+    "datapackage_version": "1.0-beta",
+    "title": "Catch Basin Inspection and Cleaning Activity",
+    "version": "N/A",
+    "keywords": [
+        "environment",
+        "dep",
+        "cso bmp report - catch basin survey and cleaning"
+    ],
+    "description": "Data from tables and charts included in DEP's Combined Sewer Overflow Best Management Practices Annual Report",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ppzj-4i42/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 6,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 492,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Complaint based CB Cleaned",
+        "Borough",
+        "Scheduled CB Cleaned",
+        "Total CB Surveyed",
+        "Total CB Cleaned"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ppzj-4i42",
+    "last_updated": "2015-03-16 18:49:12+00:00",
+    "protocol": "https",
+    "created": "2014-03-05 20:33:56+00:00"
+}

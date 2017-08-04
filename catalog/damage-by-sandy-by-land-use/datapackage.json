@@ -1,0 +1,53 @@
+{
+    "name": "damage-by-sandy-by-land-use",
+    "datapackage_version": "1.0-beta",
+    "title": "Damage By Sandy By Land Use",
+    "version": "N/A",
+    "keywords": [
+        "sandy",
+        "damage",
+        "city",
+        "planning",
+        "hurricane",
+        "dcp"
+    ],
+    "description": "Details about damage by Storm Sandy to various types of buildings",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/tgvi-w9ww/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 11,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1382,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Land Use",
+        "% of Total Destroyed by Storm",
+        "% of Total Red Tags"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/tgvi-w9ww",
+    "last_updated": "2014-09-05 17:11:23+00:00",
+    "protocol": "https",
+    "created": "2013-02-13 19:42:34+00:00"
+}

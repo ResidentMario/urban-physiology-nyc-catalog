@@ -1,0 +1,76 @@
+{
+    "name": "dycd-after-school-programs-nda-adult-literacy-programs",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD after-school programs: NDA Adult Literacy Programs",
+    "version": "N/A",
+    "keywords": [
+        "jobs and economic mobility",
+        "after-school",
+        "after-school programs",
+        "child",
+        "children",
+        "youth",
+        "young adult",
+        "writing",
+        "services",
+        "school",
+        "reading",
+        "programs",
+        "neighborhood development area",
+        "neighborhood",
+        "nda",
+        "literacy",
+        "lifelong learning",
+        "adult literacy",
+        "english language program",
+        "education",
+        "development",
+        "community development",
+        "community",
+        "civics"
+    ],
+    "description": "Facilities in New York City, by agency and site, that offer \u201cNeighborhood Development Area (NDA) Reading and Writing Program\u201d after-school adult literacy programs - the Department of Youth and Community Development (DYCD).\r\nUpdate Frequency: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ia9u-k3t3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 67,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 399,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Contact Number",
+        "Location 1",
+        "AGENCY",
+        "BOROUGH / COMMUNITY",
+        "Grade Level / Age Group ",
+        "SITE NAME",
+        "PROGRAM TYPE",
+        "PROGRAM"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ia9u-k3t3",
+    "last_updated": "2014-09-05 17:44:38+00:00",
+    "protocol": "https",
+    "created": "2011-09-02 19:06:10+00:00"
+}

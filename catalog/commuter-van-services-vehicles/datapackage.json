@@ -1,0 +1,41 @@
+{
+    "name": "commuter-van-services-vehicles",
+    "datapackage_version": "1.0-beta",
+    "title": "Commuter Van Services - Vehicles",
+    "version": "N/A",
+    "keywords": [
+        "commuter van services - vehicles",
+        "van",
+        "tlc"
+    ],
+    "description": "Commuter Van Authorizations provide pre-arranged transportation to passengers throughout New York City on a regular daily basis. They are authorized to operate within specific geographic areas. This list includes detailed vehicle information, including affiliated base, license numbers, names(s) of licensees, DMV license plate and VIN numbers, license types, expiration date, and model year.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 145.5322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 229,
+    "preferred_mimetype": "application/vnd.ms-office",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "xls",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/niuh-hrin",
+    "last_updated": "2014-10-10 19:33:19+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 20:47:30+00:00"
+}

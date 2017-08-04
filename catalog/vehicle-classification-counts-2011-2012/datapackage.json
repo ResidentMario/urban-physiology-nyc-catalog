@@ -1,0 +1,80 @@
+{
+    "name": "vehicle-classification-counts-2011-2012",
+    "datapackage_version": "1.0-beta",
+    "title": "Vehicle Classification Counts (2011-2012)",
+    "version": "N/A",
+    "keywords": [
+        "bigapps",
+        "transportation",
+        "dot",
+        "vehicle class"
+    ],
+    "description": "Vehicle classification counts collected by DOT for New York Metropolitan Transportation Council (NYMTC) to validate the New York Best Practice Model (NYBPM). For NYBPM screenline locations where data has been collected within the last three years are not considered for data collection for the present year. DOT collects data on at least 10% of the total NYBPM screenline locations.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/t9nw-j73k/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1588,
+    "columns": 32,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 391,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "NYC BigApps"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "4:00-5:00AM",
+        "3:00-4:00AM",
+        "6:00-7:00AM",
+        "12:00-1:00PM",
+        "1:00-2:00AM",
+        "2:00-3:00AM",
+        "7:00-8:00AM",
+        "Date",
+        "8:00-9:00PM",
+        "7:00-8:00PM",
+        "Veh Class Type",
+        "5:00-6:00PM",
+        "6:00-7:00PM",
+        "9:00-10:00PM",
+        "Direction",
+        "9:00-10:00AM",
+        "5:00-6:00AM",
+        "10:00-11:00PM",
+        "ID",
+        "GIS ID",
+        "11:00-12:00AM",
+        "1:00-2:00PM",
+        "8:00-9:00AM",
+        "3:00-4:00PM",
+        "4:00-5:00PM",
+        "From",
+        "To",
+        "2:00-3:00PM",
+        "Roadway Name",
+        "10:00-11:00AM",
+        "12:00-1:00 AM",
+        "11:00-12:00PM"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/t9nw-j73k",
+    "last_updated": "2015-12-30 19:59:03+00:00",
+    "protocol": "https",
+    "created": "2014-05-08 15:13:23+00:00"
+}

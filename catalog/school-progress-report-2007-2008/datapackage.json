@@ -1,0 +1,67 @@
+{
+    "name": "school-progress-report-2007-2008",
+    "datapackage_version": "1.0-beta",
+    "title": "School Progress Report 2007-2008",
+    "version": "N/A",
+    "keywords": [
+        "school progress report",
+        "lifelong learning",
+        "report card"
+    ],
+    "description": "Progress Reports grade each school with an A, B, C, D, or F. \u00a0These reports focus on a school's learning environment, student performance, and student progress.\u00a0 They were designed to help parents, teachers, principals, and others understand how well schools are doing\u2014and compare them to other, similar schools.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/yayv-apxh/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1493,
+    "columns": 20,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 217,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "SCHOOL LEVEL*",
+        "PROGRESS GRADE",
+        "PERFORMANCE GRADE",
+        "2007-08 SCHOOL SUPPORT ORGANIZATION",
+        "PEER INDEX*",
+        "2006-07 PROGRESS REPORT GRADE",
+        "ADDITIONAL CREDIT",
+        "ENVIRONMENT GRADE",
+        "ENVIRONMENT CATEGORY SCORE",
+        "OVERALL GRADE",
+        "PROGRESS REPORT TYPE",
+        "PERFORMANCE CATEGORY SCORE",
+        "DBN",
+        "SCHOOL",
+        "PRINCIPAL",
+        "PROGRESS CATEGORY SCORE",
+        "2007-08 QUALITY REVIEW SCORE",
+        "2006-07 FEDERAL ACCOUNTABILITY STATUS",
+        "DISTRICT",
+        "OVERALL SCORE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/yayv-apxh",
+    "last_updated": "2014-09-05 17:41:23+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 04:37:25+00:00"
+}

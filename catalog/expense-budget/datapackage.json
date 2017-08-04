@@ -1,0 +1,69 @@
+{
+    "name": "expense-budget",
+    "datapackage_version": "1.0-beta",
+    "title": "Expense Budget",
+    "version": "N/A",
+    "keywords": [],
+    "description": "This dataset contains expense agency data by unit of appropriation for the Adopted, Financial Plan and Modified conditions by object code.  The numbers within can be summarized to be consistent with data from either the Supporting Schedule, Departmental Estimate or the Expense, Revenue, Contact Budget.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor\u2019s Office of Management & Budget (OMB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/mwzb-yiwb/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 126000,
+    "columns": 26,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1291,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Adopted Budget - Number of Contracts",
+        "Financial Plan - Number of Contracts",
+        "Current Modified Budget Position",
+        "Financial Plan Position",
+        "Financial Plan Savings Flag",
+        "Personal Service/Other Than Personal Service Indicator",
+        "Current Modified Budget Amount",
+        "Adopted Budget Amount",
+        "Intra-City Purchase Code",
+        "Object Code Name",
+        "Responsibility Center Name",
+        "Responsibility Center Code",
+        "Adopted Budget Position",
+        "Financial Plan Amount",
+        "Publication Date",
+        "Agency Number",
+        "Fiscal Year",
+        "Object Class Number",
+        "Budget Code Name",
+        "Object Code",
+        "Unit Appropriation Name",
+        "Budget Code Number",
+        "Agency Name",
+        "Unit Appropriation Number",
+        "Object Class Name",
+        "Current Modified Budget - Number of Contracts"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/mwzb-yiwb",
+    "last_updated": "2017-05-02 16:23:50+00:00",
+    "protocol": "https",
+    "created": "2016-05-04 00:07:05+00:00"
+}

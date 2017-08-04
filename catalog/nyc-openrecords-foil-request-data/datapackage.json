@@ -1,0 +1,61 @@
+{
+    "name": "nyc-openrecords-foil-request-data",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC OpenRecords \u2013 FOIL Request Data",
+    "version": "N/A",
+    "keywords": [
+        "records",
+        "doris",
+        "foil"
+    ],
+    "description": "The OpenRECORDS data set consists of FOIL Request identifying information and the responses posted by agency FOIL officers to fulfill requests.\r\n\r\nThe current version is a \u201ctest\u201d model. You can file a FOIL request for any New York City agency and those that are not participating in this launch will respond to your request using their current FOIL process. Participating agencies will use the portal to track and respond to FOIL requests. The agencies currently participating are: Office of the Mayor, Department of Information Technology and Telecommunications, Department of Records and Information Services, Department of Education, Office of Administrative Trials and Hearings, NYC Emergency Management, City Commission on Human Rights, and the Office of the Chief Medical Examiner.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Records and Information Services (RECORDS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/9m35-jch2/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 287,
+    "columns": 14,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 327,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Department Name",
+        "Request Status",
+        "Record Added Date",
+        "Record Access Instructions",
+        "Request ID",
+        "Record Filename",
+        "Record Download URL",
+        "Point of Contact",
+        "Request Due Date",
+        "Request Submitted Date",
+        "Record URL",
+        "Request Title",
+        "Agency Description",
+        "Record Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/9m35-jch2",
+    "last_updated": "2016-07-28 14:44:54+00:00",
+    "protocol": "https",
+    "created": "2016-03-10 21:15:31+00:00"
+}

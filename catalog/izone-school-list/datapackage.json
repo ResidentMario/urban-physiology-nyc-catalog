@@ -1,0 +1,54 @@
+{
+    "name": "izone-school-list",
+    "datapackage_version": "1.0-beta",
+    "title": "iZone School List",
+    "version": "N/A",
+    "keywords": [
+        "izone school list"
+    ],
+    "description": "The iZone is the NYC Department of Education's initiative to strategically develop and scale innovative 21st century school and classroom models that increase student achievement. The iZone consists of a dedicated community of schools that design and build the learning experience around the needs,  motivations and strengths of each student in order to prepare them for success in college and career.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/cr93-x2xf/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 222,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 669,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Email",
+        "Coach",
+        "School",
+        "Cohort",
+        "Address",
+        "Phone",
+        "Initiative",
+        "Principal",
+        "DBN"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/cr93-x2xf",
+    "last_updated": "2014-09-05 18:00:27+00:00",
+    "protocol": "https",
+    "created": "2013-03-22 19:07:18+00:00"
+}

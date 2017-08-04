@@ -1,0 +1,56 @@
+{
+    "name": "new-york-city-health-and-hospitals-corporation-hhc-hhc-options-family-level",
+    "datapackage_version": "1.0-beta",
+    "title": "New York City Health and Hospitals Corporation (HHC): HHC Options (family level)",
+    "version": "N/A",
+    "keywords": [
+        "healthy living",
+        "healthcare provider",
+        "healthcare",
+        "family affordable healthcare",
+        "health",
+        "patient",
+        "income",
+        "hospital"
+    ],
+    "description": "Through HHC Options, low and moderate-income HHC patients can get affordable healthcare.  If a patient is not eligible for public insurance, we reduce the patient's fee to an affordable amount, based on family size and income. This data shows the minimum and maximum income at each level.\r\nUpdate Frequency: As needed",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Health and Hospitals Corporation (HHC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/32yu-maz2/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 49,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 877,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Health"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "HHC Options Reduced Fee Level",
+        "Family Size",
+        "Income more than",
+        "Income Less Than"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/32yu-maz2",
+    "last_updated": "2014-09-05 17:47:33+00:00",
+    "protocol": "https",
+    "created": "2011-09-30 18:24:31+00:00"
+}

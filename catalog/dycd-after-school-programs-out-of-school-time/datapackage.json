@@ -1,0 +1,63 @@
+{
+    "name": "dycd-after-school-programs-out-of-school-time",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD  after-school programs: Out Of School Time",
+    "version": "N/A",
+    "keywords": [
+        "children",
+        "education",
+        "development",
+        "community",
+        "jobs and economic mobility",
+        "child",
+        "youth",
+        "time",
+        "services",
+        "school",
+        "lifelong learning"
+    ],
+    "description": "Facilities in New York City that offer \"Out of School Time\" after-school programs.  Managed by the Department of Youth and Community Development (DYCD).\r\nUpdate Frequency: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/uvks-tn5n/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 609,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1442,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "AGENCY",
+        "Grade Level / Age Group ",
+        "PROGRAM",
+        "BOROUGH / COMMUNITY",
+        "PROGRAM TYPE",
+        "Location 1",
+        "Contact Number",
+        "SITE NAME"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/uvks-tn5n",
+    "last_updated": "2014-09-05 17:42:13+00:00",
+    "protocol": "https",
+    "created": "2011-08-31 19:04:43+00:00"
+}

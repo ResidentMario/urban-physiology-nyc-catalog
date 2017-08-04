@@ -1,0 +1,71 @@
+{
+    "name": "demographic-projection-report-enrollment-projections-new-york-city-public-schools-prepared-by-statistical-forecasting",
+    "datapackage_version": "1.0-beta",
+    "title": "Demographic Projection Report - Enrollment Projections - New York City Public Schools prepared by Statistical Forecasting",
+    "version": "N/A",
+    "keywords": [
+        "construction",
+        "statistical forecasting",
+        "school",
+        "sca",
+        "lifelong learning",
+        "demographic projection",
+        "authority"
+    ],
+    "description": "The SCA\u2019s comprehensive capital planning process includes developing and analyzing quality data, creating and updating the Department of Education\u2019s Five-Year Capital Plans, and monitoring projects through completion. The SCA prioritizes capital projects to best meet the capacity and building improvements needs throughout the City.  Additionally, the SCA assures that the Capital Plan aligns with New York State and City Department of Education mandates, academic initiatives, and budgetary resources.  This is one of the most current published reports.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/xzy8-qqgf/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 484,
+    "columns": 20,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 373,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Total",
+        "PK",
+        "Borough or District",
+        "3",
+        "1",
+        "7",
+        "6",
+        "5",
+        "4",
+        "11",
+        "10",
+        "9",
+        "8",
+        "Year",
+        "Data Type",
+        "2",
+        "12",
+        "GED",
+        "K",
+        "SE1"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/xzy8-qqgf",
+    "last_updated": "2014-09-05 17:15:19+00:00",
+    "protocol": "https",
+    "created": "2013-03-06 15:19:49+00:00"
+}

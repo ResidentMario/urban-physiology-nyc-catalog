@@ -1,0 +1,53 @@
+{
+    "name": "hpd-developer-selection-element",
+    "datapackage_version": "1.0-beta",
+    "title": "HPD Developer Selection Element",
+    "version": "N/A",
+    "keywords": [
+        "developer selection",
+        "department of housing preservation and development",
+        "hpd"
+    ],
+    "description": "Information on how the developer was selected for each project.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Housing Preservation and Development (HPD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/fged-sxa8/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1657,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 322,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "RFQ Name",
+        "RFP Name",
+        "Method",
+        "Is Developer Prequalified?",
+        "Developer Selection DW ID",
+        "Project ID"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/fged-sxa8",
+    "last_updated": "2016-03-22 18:19:28+00:00",
+    "protocol": "https",
+    "created": "2014-02-26 17:30:51+00:00"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "street-weekly-resurfacing-schedule-bronx",
+    "datapackage_version": "1.0-beta",
+    "title": "Street Weekly Resurfacing Schedule - Bronx",
+    "version": "N/A",
+    "keywords": [
+        "resurfacing schedule",
+        "bronx",
+        "street resurfacing",
+        "dot"
+    ],
+    "description": "Bronx Milling and Paving Schedule",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/7299-2etw/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 9,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 180,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Sa#",
+        "CB",
+        "Area",
+        "Day & Date",
+        "Location"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/7299-2etw",
+    "last_updated": "2017-01-26 17:59:15+00:00",
+    "protocol": "https",
+    "created": "2014-10-22 14:41:23+00:00"
+}

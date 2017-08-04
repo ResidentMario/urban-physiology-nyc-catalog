@@ -1,0 +1,68 @@
+{
+    "name": "steam-consumption-and-cost-2010-2016",
+    "datapackage_version": "1.0-beta",
+    "title": "Steam Consumption And Cost (2010 - 2016)",
+    "version": "N/A",
+    "keywords": [
+        "steam consumption and cost"
+    ],
+    "description": "Monthly consumption and cost data by borough and development. Data set includes utility vendor and meter information.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York City Housing Authority (NYCHA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/smdw-73pj/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2726,
+    "columns": 23,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 126,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Borough",
+        "Current Charges",
+        "Development Name",
+        "Bill Analyzed",
+        "Rate Class",
+        "Funding Source",
+        "RC Code",
+        "Consumption (Mlbs)",
+        "Location",
+        "Meter Scope",
+        "Revenue Month",
+        "UMIS BILL ID",
+        "TDS #",
+        "# days",
+        "Meter Number",
+        "Estimated",
+        "Service End Date",
+        "Service Start Date",
+        "Vendor Name",
+        "AMP #",
+        "EDP",
+        "Meter AMR",
+        "Account Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/smdw-73pj",
+    "last_updated": "2017-02-22 17:43:21+00:00",
+    "protocol": "https",
+    "created": "2016-07-15 22:51:40+00:00"
+}

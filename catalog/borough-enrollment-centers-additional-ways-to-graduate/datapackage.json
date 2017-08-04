@@ -1,0 +1,50 @@
+{
+    "name": "borough-enrollment-centers-additional-ways-to-graduate",
+    "datapackage_version": "1.0-beta",
+    "title": "Borough Enrollment Centers (Additional Ways To Graduate)",
+    "version": "N/A",
+    "keywords": [
+        "doe",
+        "education jobs and economic mobility",
+        "borough enrollment centers (additional ways to graduate)"
+    ],
+    "description": "Listing of enrollment centers providing additional ways for High School graduation",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/yj3u-pw36/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 13,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 180,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Districts Served",
+        "Location",
+        "Phone Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/yj3u-pw36",
+    "last_updated": "2014-09-05 16:59:52+00:00",
+    "protocol": "https",
+    "created": "2013-03-19 20:52:20+00:00"
+}

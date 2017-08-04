@@ -1,0 +1,57 @@
+{
+    "name": "directory-of-adult-shelter-performance-ranking-fy-2011-q3-2011-q4",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Of Adult Shelter Performance Ranking FY 2011 Q3 2011 Q4",
+    "version": "N/A",
+    "keywords": [
+        "2011",
+        "dhs",
+        "adult",
+        "homeless",
+        "performance",
+        "ranking",
+        "q4",
+        "q3",
+        "shelter"
+    ],
+    "description": "List of Facilities, Providers and their Rankings for Q3 2012 and Q4 2011",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Homeless Services (DHS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/jhn3-4vdj/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 131,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 399,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Performance Tier",
+        "Year & Quarter",
+        "Facility Name",
+        "Provider Agency"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/jhn3-4vdj",
+    "last_updated": "2014-09-05 17:33:29+00:00",
+    "protocol": "https",
+    "created": "2013-01-31 14:40:37+00:00"
+}

@@ -1,0 +1,66 @@
+{
+    "name": "legally-operating-businesses",
+    "datapackage_version": "1.0-beta",
+    "title": "Legally Operating Businesses",
+    "version": "N/A",
+    "keywords": [
+        "dca",
+        "business",
+        "department of consumer affairs",
+        "license",
+        "city government"
+    ],
+    "description": "This data set features businesses/individuals holding a DCA license so that they may legally operate in New York City. Note: Sightseeing guides and temporary street fair vendors are not included in this data set.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Consumer Affairs (DCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/w7w3-xahh/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 71700,
+    "columns": 17,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 8789,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Address State",
+        "DCA License Number",
+        "Latitude",
+        "Longitude",
+        "Detail",
+        "License Category",
+        "License Type",
+        "Contact Phone Number",
+        "Address Building",
+        "Address Street Name",
+        "Address Borough",
+        "Address ZIP",
+        "Address City",
+        "Secondary Address Street Name",
+        "Business Name 2",
+        "Business Name",
+        "License Expiration Date"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/w7w3-xahh",
+    "last_updated": "2017-05-19 19:49:28+00:00",
+    "protocol": "https",
+    "created": "2015-03-06 21:01:28+00:00"
+}

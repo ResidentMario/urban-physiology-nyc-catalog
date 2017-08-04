@@ -1,0 +1,53 @@
+{
+    "name": "new-york-city-population-by-boroughs",
+    "datapackage_version": "1.0-beta",
+    "title": "New York City Population By Boroughs",
+    "version": "N/A",
+    "keywords": [
+        "borough",
+        "city",
+        "growth",
+        "dcp",
+        "population",
+        "planning"
+    ],
+    "description": "New York City Population By Boroughs",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/9mhd-na2n/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1667,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2000 Population",
+        "Borough",
+        "2010 Population"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/9mhd-na2n",
+    "last_updated": "2014-09-05 18:07:14+00:00",
+    "protocol": "https",
+    "created": "2013-02-20 16:43:44+00:00"
+}

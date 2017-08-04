@@ -1,0 +1,58 @@
+{
+    "name": "special-event-concession-fee-details",
+    "datapackage_version": "1.0-beta",
+    "title": "Special Event Concession Fee Details",
+    "version": "N/A",
+    "keywords": [
+        "dpr",
+        "fee",
+        "healthy living",
+        "park",
+        "permit",
+        "recreation",
+        "event"
+    ],
+    "description": "Special Event Concession Fee details for Various Events",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/7cqi-bt79/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 30,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 417,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Level A Parks",
+        "Events",
+        "Level B Parks",
+        "Level D Parks",
+        "Level C Parks",
+        "Comments",
+        "Category"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/7cqi-bt79",
+    "last_updated": "2014-09-05 17:13:30+00:00",
+    "protocol": "https",
+    "created": "2013-01-25 15:58:43+00:00"
+}

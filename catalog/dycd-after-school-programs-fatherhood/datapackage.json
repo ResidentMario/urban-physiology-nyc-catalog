@@ -1,0 +1,68 @@
+{
+    "name": "dycd-after-school-programs-fatherhood",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD after-school programs: Fatherhood",
+    "version": "N/A",
+    "keywords": [
+        "adults",
+        "young adults",
+        "after-school",
+        "after-school programs",
+        "community",
+        "community development",
+        "development",
+        "fatherhood",
+        "fatherhood initiative",
+        "initiative",
+        "lifelong learning",
+        "family",
+        "family support",
+        "programs",
+        "jobs and economic mobility",
+        "school"
+    ],
+    "description": "Facilities in New York City, by agency and site, that offer Family Support after-school \u201cFatherhood Initiative Programs\u201d for young adults ages 16 to 24. Submitted by the Department of Youth and Community Development (DYCD).\r\nUpdate Frequency: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/esw6-z4id/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 19,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 291,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "SITE NAME",
+        "PROGRAM TYPE",
+        "Location 1",
+        "AGENCY",
+        "PROGRAM",
+        "Contact Number",
+        "BOROUGH / COMMUNITY",
+        "Grade Level / Age Group "
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/esw6-z4id",
+    "last_updated": "2014-09-05 17:02:43+00:00",
+    "protocol": "https",
+    "created": "2011-09-06 20:36:34+00:00"
+}

@@ -1,0 +1,91 @@
+{
+    "name": "fy17-pmmr-agency-resources",
+    "datapackage_version": "1.0-beta",
+    "title": "FY17 PMMR Agency Resources",
+    "version": "N/A",
+    "keywords": [
+        "kpis",
+        "agency resource indicators",
+        "expenditures",
+        "personnel",
+        "overtime",
+        "overtime paid",
+        "capital commitments",
+        "actual",
+        "human services",
+        "human services contract budget",
+        "work experience program",
+        "wep",
+        "fy16 plan",
+        "fy17 plan",
+        "authorized budget",
+        "pmmr fy17",
+        "fy17",
+        "pmmr",
+        "mmr",
+        "indicators",
+        "metrics",
+        "performance",
+        "ops",
+        "2017",
+        "management",
+        "report",
+        "operations",
+        "pmmr goals",
+        "pmmr services",
+        "pmmr targets",
+        "resources",
+        "fiscal 2017",
+        "preliminary mayor\u2019s management report",
+        "key performance indicators",
+        "kpi"
+    ],
+    "description": "NYC agency resources from the FY17 Preliminary Mayor's Management Report (PMMR), including expenditures (includes all funds), personnel, revenue and paid overtime",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor\u2019s Office of Operations (OPS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/aagv-t6fa/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 200,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 26,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "FY14 Actual",
+        "FY15 Actual",
+        "FY16 Actual",
+        "Includes all Funds",
+        "FY17 (Sept. 2016 MMR Plan)",
+        "Notes",
+        "FY17 4-Month Actual",
+        "FY18 Plan from Jan. 2017 Financial Plan",
+        "FY17 Updated Plan from Jan. 2017 Financial Plan",
+        "FY16 4-Month Actual",
+        "Resource Indicators",
+        "Agency"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/aagv-t6fa",
+    "last_updated": "2017-02-06 23:47:27+00:00",
+    "protocol": "https",
+    "created": "2017-02-06 22:44:37+00:00"
+}

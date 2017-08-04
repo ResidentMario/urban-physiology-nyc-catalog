@@ -1,0 +1,74 @@
+{
+    "name": "disposition-of-all-allegations-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "Disposition Of All Allegations 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "complaint activity",
+        "disciplinary recommendation",
+        "misconduct",
+        "review",
+        "statistics",
+        "2008",
+        "allegation",
+        "ccrb",
+        "2005",
+        "2006",
+        "civilian",
+        "civilian complaint review board",
+        "complaint",
+        "2007",
+        "board",
+        "activity",
+        "2009"
+    ],
+    "description": "CCRB: Disposition of all Allegations 2005 - 2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/h8eh-b25q/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 26,
+    "columns": 13,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 163,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2009 Number",
+        "2005 Percent",
+        "2007 Number",
+        "2007 Percent",
+        "2008 Number",
+        "Five-year Total  Number",
+        "Five-year Total  Percent",
+        "2006 Number",
+        "2006 Percent",
+        "2008 Percent",
+        "Full Investigations - Dispositions and Disciplinary Recommendations",
+        "2005 Number",
+        "2009 Percent"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/h8eh-b25q",
+    "last_updated": "2014-09-05 16:58:40+00:00",
+    "protocol": "https",
+    "created": "2011-09-30 17:24:51+00:00"
+}

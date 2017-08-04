@@ -1,0 +1,39 @@
+{
+    "name": "broadband-data-dig-datasets",
+    "datapackage_version": "1.0-beta",
+    "title": "Broadband Data Dig - Datasets",
+    "version": "N/A",
+    "keywords": [
+        "broadband data dig"
+    ],
+    "description": "Twenty-one percent of New York City households currently do not have Internet service at home. For the first time ever, the City is inviting the public to use broadband data to help make New York City the most connected, equitable city in the world. Come help us dig into this data and find interesting insights!\r\n \r\nWhen: Saturday November 19th, 9am - 6pm\r\nWhere: Brooklyn Public Library, 10 Grand Army Plaza, Brooklyn\r\n\r\nRSVP here: https://www.eventbrite.com/e/nyc-connected-broadband-data-dig-tickets-28750933817\r\n\r\nClick the button beneath \u201cDownload\u201d to get access to relevant datasets for this event. You\u2019ll download a zipfile which should contain all datasets for this event.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": null
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 866.107421875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 62,
+    "preferred_mimetype": "application/pdf",
+    "topics_provided": [
+        ""
+    ],
+    "preferred_format": "pdf",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/ft4n-yqee",
+    "last_updated": "2016-11-19 13:57:56+00:00",
+    "protocol": "https",
+    "created": "2016-11-18 20:55:12+00:00"
+}

@@ -1,0 +1,83 @@
+{
+    "name": "dohmh-childcare-center-inspections",
+    "datapackage_version": "1.0-beta",
+    "title": "DOHMH Childcare Center Inspections",
+    "version": "N/A",
+    "keywords": [
+        "child",
+        "inspections",
+        "health"
+    ],
+    "description": "Dataset contains information on center-based child care and summer camp sites and inspections related to the sites.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Health and Mental Hygiene (DOHMH)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/dsg6-ifza/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 30600,
+    "columns": 36,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 625,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Health"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Public Health Hazard Violation Rate",
+        "Building Identification Number",
+        "Average Staff Turn Over Rate",
+        "Staff Turnover Rate",
+        "Total Educational Workers",
+        "ZipCode",
+        "Permit Number",
+        "Phone",
+        "Center Name",
+        "Day Care ID",
+        "Maximum Capacity",
+        "Status",
+        "Building",
+        "Permit Expiration",
+        "Facility Type",
+        "URL",
+        "Child Care Type",
+        "Inspection Summary Result",
+        "Date Permitted",
+        "Average Violation Rate Percent",
+        "Average Public Health Hazard Violation Rate",
+        "Violation Rate Percent",
+        "Borough",
+        "Violation Status",
+        "Average Total Educational Workers",
+        "Average Critical Violation Rate",
+        "Actual",
+        "Program Type",
+        "Inspection Date",
+        "Health Code Sub Section",
+        "Legal Name",
+        "Age Range",
+        "Street",
+        "Violation Category",
+        "Regulation Summary",
+        "Critical Violation Rate"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/dsg6-ifza",
+    "last_updated": "2017-05-31 14:14:00+00:00",
+    "protocol": "https",
+    "created": "2016-05-26 13:31:44+00:00"
+}

@@ -1,0 +1,75 @@
+{
+    "name": "for-hire-vehicles-fhv-active-and-inactive-vehicles",
+    "datapackage_version": "1.0-beta",
+    "title": "For Hire Vehicles (FHV) - Active and Inactive Vehicles",
+    "version": "N/A",
+    "keywords": [
+        "fhv",
+        "inactive",
+        "active",
+        "for-hire",
+        "taxi",
+        "drivers",
+        "for-hire-vehicles",
+        "for hire"
+    ],
+    "description": "TLC authorized For-Hire vehicles that are active or inactive. This list is accurate to the date and time represented in the Last Date Updated and Last Time Updated fields. For inquiries about the contents of this dataset, please email licensinginquiries@tlc.nyc.gov.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8wbx-tsch/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 94000,
+    "columns": 23,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 306991,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Expiration Date",
+        "Last Time Updated",
+        "Last Date Updated",
+        "Order Date",
+        "Reason",
+        "Base Address",
+        "Website",
+        "Base Telephone Number",
+        "VEH",
+        "Base Type",
+        "Base Name",
+        "Base Number",
+        "Vehicle Year",
+        "Hack Up Date",
+        "Certification Date",
+        "Wheelchair Accessible",
+        "Vehicle VIN Number",
+        "DMV License Plate Number",
+        "Active",
+        "Vehicle License Number",
+        "Name",
+        "License Type",
+        "Permit License Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8wbx-tsch",
+    "last_updated": "2017-05-31 19:55:01+00:00",
+    "protocol": "https",
+    "created": "2015-07-16 17:33:32+00:00"
+}

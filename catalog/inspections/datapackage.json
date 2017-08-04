@@ -1,0 +1,51 @@
+{
+    "name": "inspections",
+    "datapackage_version": "1.0-beta",
+    "title": "Inspections",
+    "version": "N/A",
+    "keywords": [
+        "sanitation",
+        "dsny",
+        "inspections"
+    ],
+    "description": "Tracks location, date and outcome of inspections of permitted, privately operated Municipal Solid Waste disposal locations.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Sanitation (DSNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/rn6p-xvjd/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 47200,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 51,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "INSPECTION_DATE",
+        "INSPECTION_NO",
+        "VIOLATIONS",
+        "WARNINGS"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/rn6p-xvjd",
+    "last_updated": "2017-04-23 15:10:58+00:00",
+    "protocol": "https",
+    "created": "2017-01-04 21:14:26+00:00"
+}

@@ -1,0 +1,68 @@
+{
+    "name": "consumer-services-mediated-complaints",
+    "datapackage_version": "1.0-beta",
+    "title": "Consumer Services Mediated Complaints",
+    "version": "N/A",
+    "keywords": [
+        "city government",
+        "business",
+        "dca",
+        "department of consumer affairs",
+        "complaints",
+        "mediation",
+        "outcomes"
+    ],
+    "description": "This data set features consumer complaints against businesses that were mediated by the DCA Consumer Services Division during the last and current calendar years. It excludes complaints that may have ongoing legal investigations.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Consumer Affairs (DCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/nre2-6m2s/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 4235,
+    "columns": 17,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1530,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Complaint Type",
+        "Business Name",
+        "Mediation Close Date",
+        "Industry",
+        "Restitution",
+        "Mediation Start Date",
+        "Building Address Unit",
+        "Business City",
+        "Business Zip",
+        "Complaint Result",
+        "Longitude",
+        "Business Street",
+        "Satisfaction",
+        "Latitude",
+        "Complainant Zip ",
+        "Business Building",
+        "Business State"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/nre2-6m2s",
+    "last_updated": "2017-05-05 19:55:01+00:00",
+    "protocol": "https",
+    "created": "2015-03-06 20:39:20+00:00"
+}

@@ -1,0 +1,66 @@
+{
+    "name": "dycd-after-school-programs-beacon-satellite-at-nycha-programs",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD after-school programs: Beacon Satellite At NYCHA Programs",
+    "version": "N/A",
+    "keywords": [
+        "beacon satellite",
+        "child",
+        "education",
+        "development",
+        "children",
+        "community",
+        "school",
+        "new york city housing authority",
+        "nycha",
+        "lifelong learning",
+        "services",
+        "youth",
+        "beacon",
+        "jobs and economic mobility"
+    ],
+    "description": "Facilities in New York City, by agency and site, that offer \u201cBeacon Satellite at NYCHA Programs\u201d after-school  programs.\r\nUpdate Schedule: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/pyif-r8qe/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 25,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 307,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "AGENCY",
+        "Contact Number",
+        "Location 1",
+        "Grade Level / Age Group ",
+        "PROGRAM",
+        "SITE NAME",
+        "PROGRAM TYPE",
+        "BOROUGH / COMMUNITY"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/pyif-r8qe",
+    "last_updated": "2014-09-05 17:43:02+00:00",
+    "protocol": "https",
+    "created": "2011-09-01 16:20:02+00:00"
+}

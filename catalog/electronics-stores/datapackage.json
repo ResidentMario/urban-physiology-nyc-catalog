@@ -1,0 +1,64 @@
+{
+    "name": "electronics-stores",
+    "datapackage_version": "1.0-beta",
+    "title": "Electronics Stores",
+    "version": "N/A",
+    "keywords": [
+        "retail",
+        "sale",
+        "sell",
+        "license",
+        "store",
+        "electronics",
+        "consumer affairs",
+        "dca"
+    ],
+    "description": "A list of electronics stores that have a current DCA license as of the run date.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Consumer Affairs (DCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/xszr-btpb/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 3211,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1861,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Address City",
+        "Telephone Number",
+        "License Number",
+        "Address Street Name",
+        "Location",
+        "Address Zip Code",
+        "Address Location",
+        "Entity Type",
+        "Address State",
+        "Entity Name",
+        "Address Bldg",
+        "Camis Trade Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/xszr-btpb",
+    "last_updated": "2017-01-25 17:58:46+00:00",
+    "protocol": "https",
+    "created": "2010-11-03 17:15:45+00:00"
+}

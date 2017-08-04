@@ -1,0 +1,56 @@
+{
+    "name": "directory-of-counseling-advocacy-and-other-services",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of Counseling, Advocacy and Other Services",
+    "version": "N/A",
+    "keywords": [
+        "jobs",
+        "economic mobility",
+        "combat",
+        "domestic violence",
+        "counselling",
+        "jobs and economic mobility",
+        "ocdv",
+        "advocacy"
+    ],
+    "description": "List of Couseling, Advocacy and Other services in New York City",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office to Combat Domestic Violence (OCDV)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/h922-jiy6/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 14,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 188,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Comments",
+        "Phone Number",
+        "Facility Name",
+        "Borough"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/h922-jiy6",
+    "last_updated": "2014-09-05 17:53:20+00:00",
+    "protocol": "https",
+    "created": "2013-03-19 18:37:49+00:00"
+}

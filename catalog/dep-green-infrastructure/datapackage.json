@@ -1,0 +1,45 @@
+{
+    "name": "dep-green-infrastructure",
+    "datapackage_version": "1.0-beta",
+    "title": "DEP Green Infrastructure",
+    "version": "N/A",
+    "keywords": [
+        "water",
+        "grey",
+        "cost-effective",
+        "dep",
+        "healthy living",
+        "green roofs",
+        "dep green infrastructure"
+    ],
+    "description": "Locations from the NYC Green Infrastructure initiative which presents an alternative approach to improving water quality that integrates \u201cgreen infrastructure,\u201d such as swales and green roofs, with investments to optimize the existing system and to build targeted, cost-effective \u201cgrey\u201d or traditional infrastructure.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 31.3955078125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 2509,
+    "preferred_mimetype": "application/octet-stream",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "shx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/496p-fwvq",
+    "last_updated": "2017-05-10 20:05:38+00:00",
+    "protocol": "https",
+    "created": "2012-06-28 20:48:28+00:00"
+}

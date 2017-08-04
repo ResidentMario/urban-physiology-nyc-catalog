@@ -1,0 +1,46 @@
+{
+    "name": "new-york-city-street-reconstruction-10-year-plan",
+    "datapackage_version": "1.0-beta",
+    "title": "New York City Street Reconstruction 10 Year Plan",
+    "version": "N/A",
+    "keywords": [
+        "sidewalk",
+        "infrastructure",
+        "block",
+        "capital plan",
+        "intersection",
+        "reconstruction",
+        "roadbed",
+        "sewer pipes"
+    ],
+    "description": "The New York City Street Reconstruction 10 Year Capital Plan identifies capital street projects funded from fiscal years 2015 to 2025, created by the New York City Department of Transportation. DOT capital street projects are major street construction projects, often including full reconstruction of the sewer pipes, the roadbed, and sidewalks. Capital projects require detailed surveys and design, and increased inter-agency coordination and approvals. They are essential to keeping the City\u2019s infrastructure in a state of good repair.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 0.2529296875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 636,
+    "preferred_mimetype": "application/octet-stream",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "_New York City Street Reconstruction 10 Year Plan (1)",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/dgm3-gggb",
+    "last_updated": "2015-07-20 18:17:51+00:00",
+    "protocol": "https",
+    "created": "2015-07-20 17:55:56+00:00"
+}

@@ -1,0 +1,72 @@
+{
+    "name": "graduation-outcomes-school-level-classes-of-2005-2011-ethnicity",
+    "datapackage_version": "1.0-beta",
+    "title": "Graduation Outcomes - School Level - Classes of 2005-2011 - Ethnicity",
+    "version": "N/A",
+    "keywords": [
+        "graduation outcome",
+        "lifelong learning",
+        "ethnicity",
+        "school"
+    ],
+    "description": "Latest available data and trends in graduation and dropout outcomes by school and ethnicity",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/6jad-5sav/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 26800,
+    "columns": 24,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 338,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Dropped Out Num",
+        "Still Enrolled Pct of cohort",
+        "Local Pct of cohort",
+        "Total Grads Pct of cohort",
+        "Cohort Year",
+        "Cohort Category",
+        "Demographic",
+        "DBN",
+        "Total Grads Num",
+        "Total Cohort Num",
+        "Local Num",
+        "Total Regents Pct of grads",
+        "Advanced Regents Num",
+        "Still Enrolled Num",
+        "Regents w/o Advanced Pct of cohort",
+        "Total Regents Pct of cohort",
+        "Local Pct of grads",
+        "Regents w/o Advanced Num",
+        "Advanced Regents Pct of grads",
+        "Regents w/o Advanced Pct of grads",
+        "School Name",
+        "Advanced Regents Pct of cohort",
+        "Dropped Out Pct of cohort",
+        "Total Regents Num"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/6jad-5sav",
+    "last_updated": "2014-09-05 17:42:48+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 02:34:22+00:00"
+}

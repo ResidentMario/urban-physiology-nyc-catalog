@@ -1,0 +1,55 @@
+{
+    "name": "dob-stalled-construction-sites",
+    "datapackage_version": "1.0-beta",
+    "title": "DOB Stalled Construction Sites",
+    "version": "N/A",
+    "keywords": [
+        "dob",
+        "buildings",
+        "stalled construction sites"
+    ],
+    "description": "An overview of sites across the five boroughs where construction activity has come to an abrupt halt. Prior weekly reports are archived at DOB and are not available on NYC Open Data.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Buildings (DOB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/i296-73x5/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 708000,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1976,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "DOBRunDate",
+        "Date Complaint Received",
+        "Complaint Number",
+        "Street Name",
+        "House Number",
+        "BIN",
+        "Community Board",
+        "Borough Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/i296-73x5",
+    "last_updated": "2017-05-31 20:28:29+00:00",
+    "protocol": "https",
+    "created": "2013-04-18 15:19:09+00:00"
+}

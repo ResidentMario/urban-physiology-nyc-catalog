@@ -1,0 +1,80 @@
+{
+    "name": "vehicle-classification-counts-2012-2013",
+    "datapackage_version": "1.0-beta",
+    "title": "Vehicle Classification Counts (2012-2013)",
+    "version": "N/A",
+    "keywords": [
+        "bigapps",
+        "vehicle class",
+        "dot",
+        "transportation"
+    ],
+    "description": "Vehicle classification counts collected by DOT for New York Metropolitan Transportation Council (NYMTC) to validate the New York Best Practice Model (NYBPM). For NYBPM screenline locations where data has been collected within the last three years are not considered for data collection for the present year. DOT collects data on at least 10% of the total NYBPM screenline locations.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation -  DOT"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ae5u-upr6/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 3135,
+    "columns": 32,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 693,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "NYC BigApps"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "5:00-6:00AM",
+        "8:00-9:00AM",
+        "7:00-8:00AM",
+        "10:00-11:00AM",
+        "9:00-10:00AM",
+        "12:00-1:00PM",
+        "11:00-12:00PM",
+        "2:00-3:00PM",
+        "1:00-2:00PM",
+        "4:00-5:00PM",
+        "3:00-4:00PM",
+        "6:00-7:00PM",
+        "5:00-6:00PM",
+        "7:00-8:00PM",
+        "10:00-11:00PM",
+        "9:00-10:00PM",
+        "11:00-12:00AM",
+        "Roadway Name",
+        "ID",
+        "Date",
+        "From",
+        "To",
+        "1:00-2:00AM",
+        "2:00-3:00AM",
+        "Veh Class Type",
+        "12:00-1:00 AM",
+        "Segment ID",
+        "Direction",
+        "8:00-9:00PM",
+        "4:00-5:00AM",
+        "3:00-4:00AM",
+        "6:00-7:00AM"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ae5u-upr6",
+    "last_updated": "2014-09-06 00:35:48+00:00",
+    "protocol": "https",
+    "created": "2014-05-08 15:58:43+00:00"
+}

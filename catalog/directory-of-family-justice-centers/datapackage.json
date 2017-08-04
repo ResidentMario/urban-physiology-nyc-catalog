@@ -1,0 +1,60 @@
+{
+    "name": "directory-of-family-justice-centers",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory of Family Justice Centers",
+    "version": "N/A",
+    "keywords": [
+        "jobs",
+        "economic mobility",
+        "domestic violence",
+        "combat",
+        "jobs and economic mobility",
+        "ocdv",
+        "family justice"
+    ],
+    "description": "List of Family Justice Centers in New York City",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office to Combat Domestic Violence (OCDV)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/xggi-kgx9/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 3,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 156,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "State",
+        "City",
+        "Street Address",
+        "Telephone Number",
+        "Comments",
+        "Timings",
+        "Facility Name",
+        "Borough",
+        "Zip Code"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/xggi-kgx9",
+    "last_updated": "2014-09-05 17:36:07+00:00",
+    "protocol": "https",
+    "created": "2013-03-19 18:37:38+00:00"
+}

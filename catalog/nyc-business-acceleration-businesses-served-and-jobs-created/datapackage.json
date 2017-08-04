@@ -1,0 +1,56 @@
+{
+    "name": "nyc-business-acceleration-businesses-served-and-jobs-created",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Business Acceleration Businesses Served and Jobs Created",
+    "version": "N/A",
+    "keywords": [
+        "small business",
+        "assistance",
+        "jobs"
+    ],
+    "description": "The list tracks the number of businesses that NYC Business Acceleration has assisted in opening and how many jobs were created by those businesses. This data is up to date as of the date reflected in the \"About\" tab of this dataset.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Small Business Services (SBS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/9b9u-8989/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 4577,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 961,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Business Sector",
+        "Establishment Category",
+        "Establishment Borough",
+        "Establishment Street",
+        "Actual Opening Date",
+        "Type of Cuisine",
+        "Number Of Employees",
+        "Establishment Zip",
+        "DBA"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/9b9u-8989",
+    "last_updated": "2017-05-22 19:57:18+00:00",
+    "protocol": "https",
+    "created": "2015-06-10 21:12:18+00:00"
+}

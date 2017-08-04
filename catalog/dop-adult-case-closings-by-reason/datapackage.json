@@ -1,0 +1,52 @@
+{
+    "name": "dop-adult-case-closings-by-reason",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Adult Case Closings By Reason",
+    "version": "N/A",
+    "keywords": [
+        "dop",
+        "probation",
+        "case"
+    ],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/u6p4-fsey/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 30,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 40,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Region",
+        "Supervision Closing Reason",
+        "Month",
+        "Year",
+        "Supervision Closing Count"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/u6p4-fsey",
+    "last_updated": "2017-04-27 18:54:02+00:00",
+    "protocol": "https",
+    "created": "2016-11-21 15:48:03+00:00"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "enrollment-capacity-and-utilization-reports-regular-hs",
+    "datapackage_version": "1.0-beta",
+    "title": "Enrollment Capacity and Utilization Reports Regular HS",
+    "version": "N/A",
+    "keywords": [
+        "education",
+        "construction",
+        "capacity",
+        "authority",
+        "school",
+        "utilization",
+        "sca",
+        "facility",
+        "enrollment"
+    ],
+    "description": "This dataset is no longer maintained. Updated enrollment capacity and utilization data can be found at https://data.cityofnewyork.us/Education/Enrollment-Capacity-And-Utilization-Reports-Histor/hq56-zhrp\r\nhttps://data.cityofnewyork.us/Education/Enrollment-Capacity-And-Utilization-Reports-Histor/q9xk-w9iv\r\nhttps://data.cityofnewyork.us/Education/Enrollment-Capacity-And-Utilization-Reports-Target/gkd7-3vk7\r\nhttps://data.cityofnewyork.us/Education/Enrollment-Capacity-And-Utilization-Reports-Target/8b9a-pywy\r\n\r\nEnrollment, capacity and utilization data for every regular high school building and schools in those buildings.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/3mim-bd27/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 654,
+    "columns": 21,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 374,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Bldg Over/Under\n(Target)",
+        "Organization Name",
+        "Org\nID",
+        "Bldg Over/Under\nHistorical",
+        "Bldg Adjusted Capacity\n(Historical)",
+        "Bldg Utilization\n(Historical)",
+        "Bldg\nEnroll",
+        "Building Name",
+        "Bldg\nI.D.",
+        "No. of Spec rooms used",
+        "Org Utilization\n(Target)",
+        "Org Over Under\n(Target)",
+        "Org Adjusted Capacity\n(Target)",
+        "Inclusionary",
+        "Org Adjusted Capacity\n(Historical)",
+        "District",
+        "Bldg Capacity\n(Target)",
+        "Org\nEnroll",
+        "Org Utilization\n(Historical)",
+        "Org Over/Under\n(Historical)",
+        "Bldg Utilization\n(Target)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/3mim-bd27",
+    "last_updated": "2015-05-12 21:01:40+00:00",
+    "protocol": "https",
+    "created": "2013-04-18 15:19:05+00:00"
+}

@@ -1,0 +1,68 @@
+{
+    "name": "fy14-mmr-data-extract",
+    "datapackage_version": "1.0-beta",
+    "title": "FY14 MMR Data Extract",
+    "version": "N/A",
+    "keywords": [
+        "fy2014 mmr data extract",
+        "mmr"
+    ],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/xkye-5k68/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 29900,
+    "columns": 22,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 997,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Fiscal Year",
+        "Triage",
+        "Indicator ID",
+        "Format Type",
+        "Critical Flag",
+        "Indicator Sequence",
+        "Value Currency FF",
+        "Value Percent FF",
+        "Conditional Formatting",
+        "Measure Type",
+        "Value Number FF",
+        "Agency",
+        "Value Time FF",
+        "Value Ratio FF",
+        "Indicator Name",
+        "Desired Direction",
+        "KPSA ID",
+        "Sub-Indicator",
+        "Goal ID",
+        "Geography",
+        "Raw value",
+        "Record Type"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/xkye-5k68",
+    "last_updated": "2016-12-21 22:43:02+00:00",
+    "protocol": "https",
+    "created": "2014-09-16 14:08:12+00:00"
+}

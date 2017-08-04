@@ -1,0 +1,58 @@
+{
+    "name": "study-material-for-certificate-of-fitness",
+    "datapackage_version": "1.0-beta",
+    "title": "Study Material for Certificate of Fitness",
+    "version": "N/A",
+    "keywords": [
+        "safety",
+        "certificate of fitness",
+        "cof",
+        "fdny",
+        "fire department",
+        "fire safety",
+        "training"
+    ],
+    "description": "Study Material for Certificate of Fitness",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Fire Department of New York City (FDNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/6dgq-4h88/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 33,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1531,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "New test is required",
+        "Job Description",
+        "Old C of F",
+        "New C of F",
+        "New test starting date",
+        "Old C of F is still valid?",
+        "Special note"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/6dgq-4h88",
+    "last_updated": "2014-09-05 17:40:27+00:00",
+    "protocol": "https",
+    "created": "2013-01-31 16:25:23+00:00"
+}

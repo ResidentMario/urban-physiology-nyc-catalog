@@ -1,0 +1,59 @@
+{
+    "name": "shl-vehicles-authorized",
+    "datapackage_version": "1.0-beta",
+    "title": "SHL Vehicles Authorized",
+    "version": "N/A",
+    "keywords": [
+        "tlc",
+        "shl vehicles authorized",
+        "taxi and limousine commission (tlc)"
+    ],
+    "description": "This list contains information on the status of current SHL vehicles authorized to operate in New York City.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/btfj-je3i/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5997,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 364,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Affiliated Vehicle License Number",
+        "Name of Licensee",
+        "License Number",
+        "WAV/NON-WAV",
+        "Base Phone Number",
+        "Base Website",
+        "License Type",
+        "Certification Date",
+        "Affiliated Base Name",
+        "Base Location",
+        "DMV Plate Number",
+        "Affiliated Base License Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/btfj-je3i",
+    "last_updated": "2014-09-05 17:01:49+00:00",
+    "protocol": "https",
+    "created": "2014-03-06 06:19:39+00:00"
+}

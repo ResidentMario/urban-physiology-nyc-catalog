@@ -1,0 +1,57 @@
+{
+    "name": "art-in-doe-buildings",
+    "datapackage_version": "1.0-beta",
+    "title": "Art in DOE buildings",
+    "version": "N/A",
+    "keywords": [
+        "sca",
+        "doe",
+        "art"
+    ],
+    "description": "List of art, artist, medium and DOE\nbuilding that the art is located in\nschools.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8a4n-zmpj/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2273,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 143,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "School Name",
+        "Artwork Title",
+        "Dimension",
+        "Artist_FirstName",
+        "Artwork Year",
+        "Artist_Lastname",
+        "BLDGID",
+        "Medium",
+        "Accession",
+        "Borough"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8a4n-zmpj",
+    "last_updated": "2015-02-17 22:15:08+00:00",
+    "protocol": "https",
+    "created": "2015-01-28 21:11:45+00:00"
+}

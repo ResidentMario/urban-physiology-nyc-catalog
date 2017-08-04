@@ -1,0 +1,52 @@
+{
+    "name": "borough-boundaries-water-areas-included",
+    "datapackage_version": "1.0-beta",
+    "title": "Borough Boundaries (Water Areas Included)",
+    "version": "N/A",
+    "keywords": [
+        "borough",
+        "borough boundaries (water areas included)",
+        "dcp",
+        "geographic",
+        "location",
+        "map",
+        "cartography",
+        "boundary",
+        "water"
+    ],
+    "description": "GIS data: Boundaries of Boroughs (water areas included)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/tv64-9x69?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 132.49609375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1245,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/tv64-9x69",
+    "last_updated": "2017-03-09 15:53:37+00:00",
+    "protocol": "https",
+    "created": "2013-01-29 23:15:20+00:00"
+}

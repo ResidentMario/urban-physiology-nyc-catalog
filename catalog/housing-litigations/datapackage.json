@@ -1,0 +1,60 @@
+{
+    "name": "housing-litigations",
+    "datapackage_version": "1.0-beta",
+    "title": "Housing Litigations",
+    "version": "N/A",
+    "keywords": [
+        "litigations",
+        "department of housing preservation and development",
+        "hpd"
+    ],
+    "description": "The Department of Housing Preservation and Development (HPD) Housing Litigation Division (HLD) initiates' actions in the Housing Court against owners of privately-owned buildings to enforce compliance with the housing quality standards contained in the New York State Multiple Dwelling Law and the New York City Housing Maintenance Code.  HLD attorneys also represent HPD when tenants initiate actions against private owners.  HPD is automatically named as party to such actions.  The goal of these court proceedings is to obtain enforceable Orders to Correct, Civil Penalties (fines) and Contempt Sanctions, compelling owners to comply with the Housing Code.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Housing Preservation and Development (HPD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/59kj-x8nc/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 69900,
+    "columns": 13,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1883,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Zip",
+        "StreetName",
+        "HouseNumber",
+        "Boro",
+        "CaseOpenDate",
+        "Block",
+        "Lot",
+        "CaseStatus",
+        "BoroID",
+        "CaseType",
+        "BuildingID",
+        "LitigationID",
+        "CaseJudgement"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/59kj-x8nc",
+    "last_updated": "2017-05-02 19:59:22+00:00",
+    "protocol": "https",
+    "created": "2013-11-18 19:00:32+00:00"
+}

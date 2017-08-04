@@ -1,0 +1,62 @@
+{
+    "name": "dfta-contracts",
+    "datapackage_version": "1.0-beta",
+    "title": "DFTA Contracts",
+    "version": "N/A",
+    "keywords": [
+        "home delivered meals",
+        "dfta",
+        "congregate meals",
+        "abuse prevention",
+        "home care",
+        "legal services",
+        "norc",
+        "transportation",
+        "caregivers",
+        "case management"
+    ],
+    "description": "Listing of all Senior Centers, Abuse Prevention Contracts, Home Care Contracts, Legal Services Contracts, NORC Contracts, Transportation Contracts, Case Mangement Contracts, Home Delivered Meal Contracts and  Caregiver Contracts in all five boroughs.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department for the Aging (DFTA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/6j6t-3ixh/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 424,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1116,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Contract Type",
+        "Program Zipcode",
+        "Program Borough",
+        "Program Phone",
+        "Program Address",
+        "Provider ID",
+        "Sponsor Name",
+        "Program Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/6j6t-3ixh",
+    "last_updated": "2017-05-19 21:24:27+00:00",
+    "protocol": "https",
+    "created": "2013-03-01 20:09:16+00:00"
+}

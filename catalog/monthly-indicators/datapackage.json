@@ -1,0 +1,59 @@
+{
+    "name": "monthly-indicators",
+    "datapackage_version": "1.0-beta",
+    "title": "Monthly Indicators",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Monthly OCME Indicators",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of Chief Medical Examiner (OCME)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8r6c-ydwk/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 23,
+    "columns": 16,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 73,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "March, 2016",
+        "October, 2015",
+        "Update Frequency",
+        "May, 2016",
+        "November, 2015",
+        "December, 2015",
+        "January, 2016",
+        "Agency Name",
+        "Release Date",
+        "Dataset Title",
+        "September, 2015",
+        "August, 2015",
+        "July, 2015",
+        "April, 2016",
+        "February, 2016",
+        "Dataset Description"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8r6c-ydwk",
+    "last_updated": "2016-08-02 21:13:42+00:00",
+    "protocol": "https",
+    "created": "2016-08-01 21:48:35+00:00"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "directory-of-job-centers",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Of Job Centers",
+    "version": "N/A",
+    "keywords": [
+        "jobs and economic mobility",
+        "human resources",
+        "hra",
+        "jobs",
+        "economic mobility"
+    ],
+    "description": "List of Job Centers that offer temporary financial assistance, food stamps and Medicaid to eligible individuals",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/9d9t-bmk7/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 30,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1392,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Facility Name",
+        "Street Address",
+        "Zip Code",
+        "State",
+        "City",
+        "Borough",
+        "Phone Number(s)",
+        "Comments"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/9d9t-bmk7",
+    "last_updated": "2014-09-05 17:02:58+00:00",
+    "protocol": "https",
+    "created": "2013-03-25 17:37:15+00:00"
+}

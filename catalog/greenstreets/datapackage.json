@@ -1,0 +1,41 @@
+{
+    "name": "greenstreets",
+    "datapackage_version": "1.0-beta",
+    "title": "Greenstreets",
+    "version": "N/A",
+    "keywords": [
+        "dpr",
+        "healthy living",
+        "greenstreets"
+    ],
+    "description": "A comprehensive shapefile of all small planted areas defined and maintained as Greenstreets. These are separate and discreet from standard parks, whether on parks property or not. Retired sites are not included.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 20.2626953125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 1043,
+    "preferred_mimetype": "application/octet-stream",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "shx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/p23h-ci72",
+    "last_updated": "2014-09-05 18:00:31+00:00",
+    "protocol": "https",
+    "created": "2012-06-28 16:38:38+00:00"
+}

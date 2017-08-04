@@ -1,0 +1,58 @@
+{
+    "name": "directory-of-lead-agencies-and-housing-programs",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Of Lead Agencies And Housing Programs",
+    "version": "N/A",
+    "keywords": [
+        "lead",
+        "paint",
+        "city",
+        "dcp",
+        "programs",
+        "contact",
+        "planning",
+        "housing",
+        "base"
+    ],
+    "description": "Details about the Housing Programs and the corresponding Lead Agency Contact Details",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/b3qc-c6fh/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 10,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 282,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "LEAD AGENCIES",
+        "TELEPHONE NUMBER",
+        "HOUSING PROGRAMS",
+        "FAX NUMBER",
+        "CONTACT PERSON"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/b3qc-c6fh",
+    "last_updated": "2014-09-05 17:44:55+00:00",
+    "protocol": "https",
+    "created": "2013-02-13 20:41:38+00:00"
+}

@@ -1,0 +1,72 @@
+{
+    "name": "electric-consumption-and-cost-2010-2016",
+    "datapackage_version": "1.0-beta",
+    "title": "Electric Consumption And Cost (2010 -  2016)",
+    "version": "N/A",
+    "keywords": [
+        "electric consumption and cost"
+    ],
+    "description": "Monthly consumption and cost data by borough and development. Data set includes utility vendor and meter information.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York City Housing Authority (NYCHA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/jr24-e7cr/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 255000,
+    "columns": 27,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 397,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Service End Date",
+        "Account Name",
+        "Borough",
+        "Location",
+        "Estimated",
+        "Meter Number",
+        "Consumption (KWH)",
+        "Development Name",
+        "Meter Scope",
+        "Meter AMR",
+        "Bill Analyzed",
+        "Other charges",
+        "TDS #",
+        "Vendor Name",
+        "Consumption (KW)",
+        "KW Charges",
+        "KWH Charges",
+        "UMIS BILL ID",
+        "Revenue Month",
+        "AMP #",
+        "RC Code",
+        "Funding Source",
+        "EDP",
+        "Rate Class",
+        "Current Charges",
+        "# days",
+        "Service Start Date"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/jr24-e7cr",
+    "last_updated": "2017-02-22 17:49:35+00:00",
+    "protocol": "https",
+    "created": "2016-07-15 22:45:51+00:00"
+}

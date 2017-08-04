@@ -1,0 +1,48 @@
+{
+    "name": "small-business-administration-sba-size-standards-table",
+    "datapackage_version": "1.0-beta",
+    "title": "Small Business Administration (SBA) Size Standards Table",
+    "version": "N/A",
+    "keywords": [],
+    "description": "This table lists small business size standards matched to industries described in the North American Industry Classification System (NAICS), as modified by the Office of Management and Budget effective January 1, 2012.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Small Business Services (SBS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/y52e-hp89/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1159,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 446,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "NAICS Codes",
+        "NAICS Industry Description",
+        "Size standards in number of employees",
+        "Size Standards in millions of dollars",
+        "Footnotes"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/y52e-hp89",
+    "last_updated": "2015-11-12 18:45:01+00:00",
+    "protocol": "https",
+    "created": "2015-11-09 23:23:55+00:00"
+}

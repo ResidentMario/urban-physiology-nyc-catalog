@@ -1,0 +1,66 @@
+{
+    "name": "ccrb-disciplinary-recommendations-for-officers-against-whom-the-ccrb-substantiated-allegations-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "CCRB: Disciplinary Recommendations for Officers against Whom the CCRB Substantiated Allegations 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "allegation",
+        "board",
+        "ccrb",
+        "civilian",
+        "civilian complaint review board",
+        "complaint",
+        "complaint activity",
+        "disciplinary recommendation",
+        "review",
+        "statistics",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "activity"
+    ],
+    "description": "Civilian Complaint Review Board (CCRB) complaint activity data, 2005-2009\r\nUpdate Schedule: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/jabk-zf7i/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 189,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Number of Officers 2008",
+        "Number of Officers 2007",
+        "CCRB Disciplinary Recommendation",
+        "Number of Officers 2009",
+        "Number of Officers 2006",
+        "Number of Officers 2005"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/jabk-zf7i",
+    "last_updated": "2014-09-05 17:20:39+00:00",
+    "protocol": "https",
+    "created": "2011-09-15 19:37:31+00:00"
+}

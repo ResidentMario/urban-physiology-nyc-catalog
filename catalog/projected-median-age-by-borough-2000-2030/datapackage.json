@@ -1,0 +1,57 @@
+{
+    "name": "projected-median-age-by-borough-2000-2030",
+    "datapackage_version": "1.0-beta",
+    "title": "Projected Median Age By Borough 2000-2030",
+    "version": "N/A",
+    "keywords": [
+        "projected median age",
+        "dcp",
+        "nyc population"
+    ],
+    "description": "Median Age of the population of New York City in total and by Borough: unadjusted decennial census data from 1950-2000 and projected figures from 2010-2030.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/miqs-rvtb/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 6,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 437,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "1980",
+        "2030",
+        "2020",
+        "2010",
+        "1990",
+        "1960",
+        "1950",
+        "2000",
+        "1970",
+        "Borough"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/miqs-rvtb",
+    "last_updated": "2014-10-10 20:24:46+00:00",
+    "protocol": "https",
+    "created": "2011-10-25 17:40:03+00:00"
+}

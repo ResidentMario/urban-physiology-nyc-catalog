@@ -1,0 +1,44 @@
+{
+    "name": "citi-bike-live-station-feed-json",
+    "datapackage_version": "1.0-beta",
+    "title": "Citi Bike Live Station Feed (JSON)",
+    "version": "N/A",
+    "keywords": [
+        "citibike",
+        "big apps",
+        "citi bike",
+        "city government",
+        "transportation",
+        "bigapps"
+    ],
+    "description": "Data to solve Citi Bike's BigIdea.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "CitiBike"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 248.482421875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 2145,
+    "preferred_mimetype": "application/json",
+    "topics_provided": [
+        "NYC BigApps"
+    ],
+    "preferred_format": "json",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/p94q-8hxh",
+    "last_updated": "2014-09-05 17:02:43+00:00",
+    "protocol": "https",
+    "created": "2014-05-06 15:30:10+00:00"
+}

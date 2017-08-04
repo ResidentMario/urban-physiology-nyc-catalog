@@ -1,0 +1,65 @@
+{
+    "name": "social-indicators-report-data-citywide",
+    "datapackage_version": "1.0-beta",
+    "title": "Social Indicators Report Data - Citywide",
+    "version": "N/A",
+    "keywords": [
+        "social conditions",
+        "ceo",
+        "indicators",
+        "moo"
+    ],
+    "description": "The Social Indicators Report is an analysis of social conditions across New York City, including geographic and demographic breakdowns, changes over time, and the Mayor's plan for responding to problems highlighted in the report. See also, the recently released Disparity Report produced by the Center for Innovation through Data Intelligence (CIDI). The report can be found at http://www1.nyc.gov/assets/operations/downloads/pdf/Social-Indicators-Report-April-2016.pdf\r\n\r\n*data not available; ** data estimate is potentially unreliable and should be interpreted with caution; \r\n# data are suppressed due to imprecise and unreliable estimates\"",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Operations (OPS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/gysw-j2f3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 499,
+    "columns": 17,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 317,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2006",
+        "2005",
+        "2014",
+        "2015",
+        "2010",
+        "2009",
+        "Definition",
+        "2011",
+        "2008",
+        "2007",
+        "Indicator",
+        "Dimension Category",
+        "Source",
+        "Domain",
+        "Dimension",
+        "2013",
+        "2012"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/gysw-j2f3",
+    "last_updated": "2017-02-03 18:59:10+00:00",
+    "protocol": "https",
+    "created": "2016-04-13 15:40:54+00:00"
+}

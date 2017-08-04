@@ -1,0 +1,70 @@
+{
+    "name": "heating-gas-consumption-and-cost-2010-2016",
+    "datapackage_version": "1.0-beta",
+    "title": "Heating Gas Consumption And Cost (2010 - 2016)",
+    "version": "N/A",
+    "keywords": [
+        "heating gas consumption and cost"
+    ],
+    "description": "Monthly consumption and cost data by borough and development. Data set includes utility vendor and meter information.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York City Housing Authority (NYCHA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/it56-eyq4/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 122000,
+    "columns": 25,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 187,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "EDP",
+        "TDS #",
+        "Rate Class",
+        "RC Code",
+        "Location",
+        "Bill Analyzed",
+        "Borough",
+        "Vendor Name",
+        "Meter AMR",
+        "Estimated",
+        "Account Name",
+        "Revenue Month",
+        "UMIS BILL ID",
+        "Service End Date",
+        "Service Start Date",
+        "Meter Number",
+        "Current Charges",
+        "Funding Source",
+        "AMP #",
+        "Development Name",
+        "ES Commodity",
+        "Consumption (Therms)",
+        "Underlying Utility",
+        "# days",
+        "Meter Scope"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/it56-eyq4",
+    "last_updated": "2017-02-22 17:49:06+00:00",
+    "protocol": "https",
+    "created": "2016-07-15 22:51:29+00:00"
+}

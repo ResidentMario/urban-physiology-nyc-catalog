@@ -1,0 +1,46 @@
+{
+    "name": "parking-lots",
+    "datapackage_version": "1.0-beta",
+    "title": "Parking Lots",
+    "version": "N/A",
+    "keywords": [
+        "dpr",
+        "parking lots",
+        "parks"
+    ],
+    "description": "Directory of Parking Lots",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/e2f7-cs7i?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 1637.2744140625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1587,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/e2f7-cs7i",
+    "last_updated": "2016-08-27 18:27:33+00:00",
+    "protocol": "https",
+    "created": "2013-11-25 18:17:45+00:00"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "map-of-soccer-and-football-fields",
+    "datapackage_version": "1.0-beta",
+    "title": "Map of Soccer and Football Fields",
+    "version": "N/A",
+    "keywords": [
+        "game",
+        "map",
+        "location",
+        "recreation",
+        "parks",
+        "healthy living",
+        "park",
+        "nature",
+        "nyc parks",
+        "cartography",
+        "soccer",
+        "geographic",
+        "dpr",
+        "sports",
+        "field",
+        "football"
+    ],
+    "description": "GIS Map of Soccer and Football Fields in New York City Department of Parks & Recreation properties.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/qqsi-vm9f?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 43.1767578125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 3365,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/qqsi-vm9f",
+    "last_updated": "2016-08-27 18:24:49+00:00",
+    "protocol": "https",
+    "created": "2013-04-09 15:05:10+00:00"
+}

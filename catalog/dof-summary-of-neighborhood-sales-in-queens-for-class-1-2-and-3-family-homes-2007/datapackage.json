@@ -1,0 +1,66 @@
+{
+    "name": "dof-summary-of-neighborhood-sales-in-queens-for-class-1-2-and-3-family-homes-2007",
+    "datapackage_version": "1.0-beta",
+    "title": "DOF: Summary of Neighborhood Sales in Queens for Class 1-, 2- and 3-Family homes - 2007",
+    "version": "N/A",
+    "keywords": [
+        "borough",
+        "class-2",
+        "finance",
+        "homes",
+        "family homes",
+        "sales",
+        "queens",
+        "dof",
+        "neighborhoods",
+        "neighborhood sales",
+        "properties",
+        "property",
+        "class-1",
+        "department of finance",
+        "class-3"
+    ],
+    "description": "The Department of Finance (DOF) maintains records for all property sales in New York City, including sales of family homes in each borough. This list is a summary of neighborhood sales for Class 1-, 2- and 3-Family homes in Queens in 2007.\r\n\r\nThis list includes all sales of 1-, 2-, and 3-Family Homes' from January 1st, 2007 to December 31, 2007, whose sale price is equal to or more than $150,000.  The Building Class Category for Sales is based on the Building Class at the time of the sale.\r\n\r\nUpdate Schedule: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hcv4-fhfs/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 162,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 272,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "HIGHEST SALE PRICE",
+        "LOWEST SALE PRICE",
+        "MEDIAN SALE PRICE",
+        "NEIGHBORHOOD",
+        "NUMBER OF SALES",
+        "TYPE OF HOME",
+        "AVERAGE SALE PRICE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hcv4-fhfs",
+    "last_updated": "2014-09-05 17:12:51+00:00",
+    "protocol": "https",
+    "created": "2011-10-05 20:50:18+00:00"
+}

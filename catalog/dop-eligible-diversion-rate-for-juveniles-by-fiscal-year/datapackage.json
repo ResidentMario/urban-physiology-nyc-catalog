@@ -1,0 +1,52 @@
+{
+    "name": "dop-eligible-diversion-rate-for-juveniles-by-fiscal-year",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Eligible Diversion Rate for Juveniles by Fiscal Year",
+    "version": "N/A",
+    "keywords": [
+        "juvenile",
+        "eligible diversion rate",
+        "dop",
+        "probation",
+        "fiscal year"
+    ],
+    "description": "The percent of juvenile delinquency Intake cases opened for adjustment services (individual / family counseling, substance abuse treatment, etc.) \r\nrather than being immediately referred to family court for adjudication. Derived by dividing the number of eligible adjustment cases by all \r\nnew Intake cases",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/cxcv-mgtn/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 40,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 192,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Diversion Rate Percentage",
+        "Borough",
+        "Fiscal Year (ending in June)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/cxcv-mgtn",
+    "last_updated": "2016-09-16 01:02:35+00:00",
+    "protocol": "https",
+    "created": "2014-06-17 16:46:28+00:00"
+}

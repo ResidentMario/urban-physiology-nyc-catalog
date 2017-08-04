@@ -1,0 +1,43 @@
+{
+    "name": "zip-code-boundaries",
+    "datapackage_version": "1.0-beta",
+    "title": "Zip Code Boundaries",
+    "version": "N/A",
+    "keywords": [
+        "zip code",
+        "doittgis",
+        "doitt gis",
+        "area",
+        "zip code boundaries"
+    ],
+    "description": "Boundaries for NYC zip codes",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 10.0439453125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 4852,
+    "preferred_mimetype": "application/xml",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/i8iw-xf4u",
+    "last_updated": "2014-09-08 23:52:43+00:00",
+    "protocol": "https",
+    "created": "2014-04-08 17:01:35+00:00"
+}

@@ -1,0 +1,68 @@
+{
+    "name": "contractor-sub-contractor-change-order-report",
+    "datapackage_version": "1.0-beta",
+    "title": "Contractor / Sub Contractor Change Order Report",
+    "version": "N/A",
+    "keywords": [
+        "subcontractor",
+        "change order",
+        "capital",
+        "sca",
+        "authority",
+        "improvement",
+        "construction",
+        "school",
+        "project",
+        "contractor"
+    ],
+    "description": "The Contractor / Sub Contractor Change Order Report is a monthly Multi-Project SCA Change Management Report that lists who is currently responsible for Change Management Issues and the last stage/document of the Change Process.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/gzvm-na49/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 6762,
+    "columns": 14,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 386,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Change Order Boro Identifier",
+        "Change Order Project SCA Contract Identifier",
+        "Data as of Date",
+        "Change Order Number",
+        "Change Order Project To Status Name",
+        "Change Order Document Type",
+        "Change Order Project Stage Date",
+        "Change Order Project Ball In Court Code",
+        "Change Order Project Title",
+        "Change Management Number",
+        "Change Order Document Date",
+        "Change Order Project Identifier",
+        "Change Order Project District Identifier",
+        "Change Order Project To Vendor "
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/gzvm-na49",
+    "last_updated": "2017-05-08 19:33:37+00:00",
+    "protocol": "https",
+    "created": "2013-07-02 19:00:59+00:00"
+}

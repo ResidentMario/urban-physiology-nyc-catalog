@@ -1,0 +1,50 @@
+{
+    "name": "rate-at-which-the-ccrb-made-findings-on-the-merits",
+    "datapackage_version": "1.0-beta",
+    "title": "Rate at which the CCRB made findings on the merits",
+    "version": "N/A",
+    "keywords": [
+        "allegations",
+        "ccrb",
+        "merits"
+    ],
+    "description": "This table represents the rate at which CCRB made findings on the merits",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/t6g4-rw7k/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 3,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 105,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Findings on the Merits",
+        "Year",
+        "No Findings on the Merits"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/t6g4-rw7k",
+    "last_updated": "2014-09-05 17:09:39+00:00",
+    "protocol": "https",
+    "created": "2013-02-25 21:46:54+00:00"
+}

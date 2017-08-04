@@ -1,0 +1,54 @@
+{
+    "name": "fulton-street-mall-businesses",
+    "datapackage_version": "1.0-beta",
+    "title": "Fulton Street Mall businesses",
+    "version": "N/A",
+    "keywords": [
+        "mall",
+        "directory",
+        "brooklyn",
+        "business list",
+        "fulton street"
+    ],
+    "description": "Listing of businesses in the Fulton Mall Improvement Association",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Fulton Mall Improvement Association"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/jvce-szsb/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 128,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 895,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Phone #",
+        "Type",
+        "Store",
+        "Website",
+        "Location 1"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/jvce-szsb",
+    "last_updated": "2014-09-06 00:11:50+00:00",
+    "protocol": "https",
+    "created": "2011-10-06 17:35:52+00:00"
+}

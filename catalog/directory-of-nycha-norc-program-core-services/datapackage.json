@@ -1,0 +1,55 @@
+{
+    "name": "directory-of-nycha-norc-program-core-services",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Of NYCHA NORC Program Core Services",
+    "version": "N/A",
+    "keywords": [
+        "planning",
+        "senior",
+        "service",
+        "city",
+        "dcp",
+        "norc",
+        "nycha"
+    ],
+    "description": "Details about the NYCHA NORC Program Core Services",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/39pe-uzy3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 6,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 303,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Year",
+        "Residents",
+        "Units of Service",
+        "Type of Service"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/39pe-uzy3",
+    "last_updated": "2014-09-05 17:14:36+00:00",
+    "protocol": "https",
+    "created": "2013-02-13 19:51:19+00:00"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "credited-job-placement-report",
+    "datapackage_version": "1.0-beta",
+    "title": "Credited Job Placement Report",
+    "version": "N/A",
+    "keywords": [
+        "odra job place trends",
+        "human resources",
+        "hra"
+    ],
+    "description": "Statistics on monthly job placement trends.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/afsf-hz68/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 259,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 363,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Total job placements",
+        "New Hires",
+        "Yearly Percent Change",
+        "Year",
+        "Monthly Percent Change",
+        "Total Self reported",
+        "Month"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/afsf-hz68",
+    "last_updated": "2016-05-18 21:42:47+00:00",
+    "protocol": "https",
+    "created": "2013-05-21 11:56:51+00:00"
+}

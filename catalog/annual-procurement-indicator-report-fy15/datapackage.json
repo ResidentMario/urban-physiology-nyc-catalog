@@ -1,0 +1,37 @@
+{
+    "name": "annual-procurement-indicator-report-fy15",
+    "datapackage_version": "1.0-beta",
+    "title": "Annual Procurement Indicator Report FY15",
+    "version": "N/A",
+    "keywords": [],
+    "description": "MOCS is responsible for publishing the Agency Procurement Indicators Report for the City of New York which is one of the largest contracting jurisdictions in the nation. The report provides procurement statistics for the preceding fiscal year.\r\n\r\nAdditionally, the Report includes data regarding Project Labor Agreements, Apprenticeship Programs, Environmentally Preferable Purchasing, Local Law 129 and Access for Minority and Women owned businesses and insurance equity and availability.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Contract Services (MOCS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 8.40625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 98,
+    "preferred_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "xlsx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/qiwn-t99b",
+    "last_updated": "2015-12-18 22:39:34+00:00",
+    "protocol": "https",
+    "created": "2015-12-17 15:50:02+00:00"
+}

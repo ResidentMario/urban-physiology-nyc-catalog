@@ -1,0 +1,52 @@
+{
+    "name": "ready-ny-events",
+    "datapackage_version": "1.0-beta",
+    "title": "Ready NY Events",
+    "version": "N/A",
+    "keywords": [
+        "preparedness",
+        "oem",
+        "ready ny events"
+    ],
+    "description": "Events held to increase public preparedness",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of Emergency Management (OEM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hyur-qpyf/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2864,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 584,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Address",
+        "Borough",
+        "Location",
+        "Event Date",
+        "Event"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hyur-qpyf",
+    "last_updated": "2016-08-01 17:00:55+00:00",
+    "protocol": "https",
+    "created": "2014-03-05 22:32:47+00:00"
+}

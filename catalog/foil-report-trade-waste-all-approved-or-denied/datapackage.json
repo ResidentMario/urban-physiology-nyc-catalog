@@ -1,0 +1,60 @@
+{
+    "name": "foil-report-trade-waste-all-approved-or-denied",
+    "datapackage_version": "1.0-beta",
+    "title": "FOIL Report - Trade Waste All Approved or Denied",
+    "version": "N/A",
+    "keywords": [
+        "fulton",
+        "gansevoort",
+        "produce",
+        "terminal",
+        "wholesale",
+        "market",
+        "hunts point",
+        "fish"
+    ],
+    "description": "Approved carting, Self-Haulers, Construction & Demolition companies names, addresses and contact number \r\nDenied carting companies names, addresses and contact number",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Business Integrity Commission (BIC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/59t5-r7nb/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2174,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 381,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "MAIL CITY",
+        "TYPE",
+        "APPROVAL STATUS",
+        "MAILING OFFICE",
+        "BUS NAME",
+        "TRADE NAME",
+        "State",
+        "Zip"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/59t5-r7nb",
+    "last_updated": "2014-09-05 18:05:00+00:00",
+    "protocol": "https",
+    "created": "2013-03-06 15:17:07+00:00"
+}

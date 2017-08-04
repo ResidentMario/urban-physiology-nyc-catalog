@@ -1,0 +1,47 @@
+{
+    "name": "milliontreesnyc-forest-restoration-planting-sites",
+    "datapackage_version": "1.0-beta",
+    "title": "MillionTreesNYC Forest Restoration Planting Sites",
+    "version": "N/A",
+    "keywords": [
+        "department of parks and recreation",
+        "environment",
+        "parks",
+        "trees"
+    ],
+    "description": "The polygons in this dataset show mapped forest restoration planting polygons. These polygons depict areas where invasive plants were removed and native trees and/or shrubs were planted under the purview of NYC Parks? Natural Resources Group as part of the MillionTreesNYC initiative on property under the jurisdiction of NYC Parks. Spring plantings occur between January 1 and June 30, while Fall plantings occur between July 1 and December 31 of any year. Older restoration polygons were mapped via heads-up digitizing while the location of newer polygons have been collected using a high-accuracy GPS device.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/pn7c-bqri?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 1129.2236328125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 267,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/pn7c-bqri",
+    "last_updated": "2016-08-27 18:29:14+00:00",
+    "protocol": "https",
+    "created": "2015-09-29 17:27:21+00:00"
+}

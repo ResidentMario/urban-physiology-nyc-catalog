@@ -1,0 +1,58 @@
+{
+    "name": "luxury-limousine-vehicles",
+    "datapackage_version": "1.0-beta",
+    "title": "Luxury Limousine Vehicles",
+    "version": "N/A",
+    "keywords": [
+        "luxury",
+        "taxi",
+        "transportation",
+        "limousine"
+    ],
+    "description": "All TLC luxury limousine vehicles",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/jdb4-d3j9/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5758,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1180,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "License Type",
+        "Hybrid_Accessible_CNG_OR_Stretch_Limousine_Vehicle",
+        "License Expiration Date",
+        "Affiliated Base License Number",
+        "Name of Licensee",
+        "Model Year",
+        "VIN",
+        "License Number",
+        "Affiliated Base Name",
+        "DMV License Plate"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/jdb4-d3j9",
+    "last_updated": "2014-09-05 18:08:54+00:00",
+    "protocol": "https",
+    "created": "2011-08-29 17:51:46+00:00"
+}

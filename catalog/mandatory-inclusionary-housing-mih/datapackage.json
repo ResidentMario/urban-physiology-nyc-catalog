@@ -1,0 +1,42 @@
+{
+    "name": "mandatory-inclusionary-housing-mih",
+    "datapackage_version": "1.0-beta",
+    "title": "Mandatory Inclusionary Housing (MIH)",
+    "version": "N/A",
+    "keywords": [],
+    "description": "The Mandatory Inclusionary Housing program was adopted in 2016 to encourage the creation of housing for families at a range of incomes in areas planned for housing growth. When actions of the Commission significantly increase residential density, the City Planning Commission and the City Council will apply one or more options to require affordable housing as part of new residential construction.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/bw8v-wzdr?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 31.6767578125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 111,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/bw8v-wzdr",
+    "last_updated": "2017-05-02 17:08:56+00:00",
+    "protocol": "https",
+    "created": "2017-03-13 19:05:13+00:00"
+}

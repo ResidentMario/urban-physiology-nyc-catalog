@@ -1,0 +1,53 @@
+{
+    "name": "fdny-vital-statistics",
+    "datapackage_version": "1.0-beta",
+    "title": "FDNY Vital Statistics",
+    "version": "N/A",
+    "keywords": [
+        "fire safety",
+        "safety",
+        "fire department",
+        "fdny",
+        "fdny vital statistics"
+    ],
+    "description": "FDNY Vital Statistics",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Fire Department of New York City (FDNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/qg7h-jiy8/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 118,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1874,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Vital Statistic Name",
+        "Vtail Statistic Value",
+        "Vital Statist Unit of Measure",
+        "Year"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/qg7h-jiy8",
+    "last_updated": "2014-09-05 17:26:33+00:00",
+    "protocol": "https",
+    "created": "2013-01-31 20:38:54+00:00"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "cash-assistance-heads-of-household-by-engagement-16-24-years-old",
+    "datapackage_version": "1.0-beta",
+    "title": "Cash Assistance Heads Of Household By Engagement (16-24 years old)",
+    "version": "N/A",
+    "keywords": [
+        "cash assistance head's of household by engagement (16-24years old)"
+    ],
+    "description": "Statistics on heads of a household receiving cash assistance between 16 and 24 years old by engagement category.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/6ayi-u3p7/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 53,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 192,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "% of Total (18-20 yrs)",
+        "16-17 Years",
+        "18-20 Years",
+        "21-24 Years",
+        "% of Total (21-24 yrs)",
+        "% of Total (16-17 yrs)",
+        "ENGAGEMENT CATEGORY"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/6ayi-u3p7",
+    "last_updated": "2016-05-23 19:01:08+00:00",
+    "protocol": "https",
+    "created": "2013-05-21 11:43:16+00:00"
+}

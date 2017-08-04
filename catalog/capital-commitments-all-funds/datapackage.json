@@ -1,0 +1,74 @@
+{
+    "name": "capital-commitments-all-funds",
+    "datapackage_version": "1.0-beta",
+    "title": "Capital Commitments All Funds",
+    "version": "N/A",
+    "keywords": [
+        "finance",
+        "capital",
+        "omb",
+        "actual",
+        "plan",
+        "year",
+        "fund",
+        "fiscal",
+        "commitment"
+    ],
+    "description": "Capital Commitments All Funds($ IN MILLIONS)\r\nFY 2002 - FY 2016 are actuals; FY 2017 - FY 2021 plan data as of the April 2017 Financial Plan",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor\u2019s Office of Management & Budget (OMB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8fnh-fcum/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 36,
+    "columns": 21,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 368,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        " FY 2012 Actual ",
+        " FY 2009 Actual ",
+        " FY 2010 Actual ",
+        " FY 2004 Actual ",
+        " FY 2002 Actual ",
+        " FY 2015 Actual",
+        "FY 2016 Actual",
+        " FY 2013 Actual ",
+        " FY 2014 Actual ",
+        " FY 2019 Plan ",
+        "AGENCY",
+        " FY 2003 Actual ",
+        "FY 2020 Plan",
+        " FY 2017 Plan ",
+        " FY 2018 Plan ",
+        " FY 2007 Actual ",
+        " FY 2008 Actual ",
+        " FY 2005 Actual ",
+        "FY 2021 Plan",
+        " FY 2006 Actual ",
+        " FY 2011 Actual "
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8fnh-fcum",
+    "last_updated": "2017-05-02 17:13:35+00:00",
+    "protocol": "https",
+    "created": "2015-08-06 21:46:47+00:00"
+}

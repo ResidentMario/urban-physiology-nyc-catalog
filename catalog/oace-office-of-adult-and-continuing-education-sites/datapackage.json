@@ -1,0 +1,54 @@
+{
+    "name": "oace-office-of-adult-and-continuing-education-sites",
+    "datapackage_version": "1.0-beta",
+    "title": "OACE (Office of Adult and Continuing Education) Sites",
+    "version": "N/A",
+    "keywords": [
+        "location",
+        "education",
+        "continuing",
+        "cartography",
+        "adult",
+        "site",
+        "school",
+        "basemap",
+        "oace",
+        "map",
+        "jobs and economic development"
+    ],
+    "description": "Adult and Continuing Education Sites",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of Adult and Continuing Education (OACE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/4u36-44pe?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 46.1845703125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1064,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/4u36-44pe",
+    "last_updated": "2016-08-27 18:27:09+00:00",
+    "protocol": "https",
+    "created": "2013-04-09 19:46:34+00:00"
+}

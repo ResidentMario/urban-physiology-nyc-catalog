@@ -1,0 +1,53 @@
+{
+    "name": "ccrb-attribution-of-complaints-to-traffic-control-division-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "CCRB: Attribution of Complaints to Traffic Control Division 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "complaint activity",
+        "statistics"
+    ],
+    "description": "Civilian Complaint Review Board (CCRB) complaint activity data, 2005-2009.\r\nUpdate Frequency: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/35fd-ehz6/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 22,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 217,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2007",
+        "Total",
+        "Traffic Control Division",
+        "2009",
+        "2008",
+        "2006",
+        "2005"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/35fd-ehz6",
+    "last_updated": "2014-09-05 17:11:52+00:00",
+    "protocol": "https",
+    "created": "2011-09-14 22:39:25+00:00"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "disposition-of-force-allegations-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "Disposition Of Force Allegations 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "2005",
+        "complaint",
+        "2007",
+        "2006",
+        "ccrb",
+        "statistics",
+        "civilian",
+        "civilian complaint review board",
+        "complaint activity",
+        "activity",
+        "2009",
+        "review",
+        "misconduct",
+        "disciplinary recommendation",
+        "board",
+        "allegation",
+        "2008"
+    ],
+    "description": "CCRB: Disposition of Force Allegations 2005 - 2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/isn9-aw8z/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 19,
+    "columns": 13,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 221,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Miscellaneous rate",
+        "Type of Abuse of Authority Allegation",
+        "Unsubstantiated number",
+        "Unfounded number",
+        "Substantiated Number",
+        "Unfounded rate",
+        "Sunstantiated rate",
+        "Officer Unidentified rate",
+        "Unsubstantiated rate",
+        "Exonerated rate",
+        "Officer Unidentified number",
+        "Exonerated number",
+        "Miscellaneous"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/isn9-aw8z",
+    "last_updated": "2014-09-05 17:00:19+00:00",
+    "protocol": "https",
+    "created": "2011-09-28 22:39:34+00:00"
+}

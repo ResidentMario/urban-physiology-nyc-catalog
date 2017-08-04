@@ -1,0 +1,57 @@
+{
+    "name": "constituent-services",
+    "datapackage_version": "1.0-beta",
+    "title": "Constituent Services",
+    "version": "N/A",
+    "keywords": [
+        "mbp",
+        "constituent",
+        "city government"
+    ],
+    "description": "This list contains information on the number and nature of constituent services handled by the Borough President's Office.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Manhattan Borough President (MBP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/kpjg-ubxi/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 565,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 255,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Letter Drafted",
+        "Status",
+        "Initial Contact",
+        "City/State",
+        "Council Member",
+        "Zip",
+        "Date",
+        "Issue",
+        "Language (If blank, English)",
+        "CB"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/kpjg-ubxi",
+    "last_updated": "2014-10-21 21:44:10+00:00",
+    "protocol": "https",
+    "created": "2014-10-21 21:36:17+00:00"
+}

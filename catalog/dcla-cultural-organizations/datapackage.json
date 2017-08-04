@@ -1,0 +1,66 @@
+{
+    "name": "dcla-cultural-organizations",
+    "datapackage_version": "1.0-beta",
+    "title": "DCLA Cultural Organizations",
+    "version": "N/A",
+    "keywords": [
+        "painting",
+        "art",
+        "dance",
+        "museo",
+        "museum",
+        "dcla",
+        "dcla cultural organizations",
+        "department of cultural affairs",
+        "culture",
+        "gallery",
+        "sculpture",
+        "performance"
+    ],
+    "description": "Listing of all Cultural  Organizations in the Department of Cultural Affairs directory",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Cultural Affairs (DCLA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/u35m-9t32/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1968,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 915,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Organization Name",
+        "Community Board",
+        "Main Phone #",
+        "Discipline",
+        "Council District",
+        "State",
+        "City",
+        "Address",
+        "Zip Code",
+        "Borough"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/u35m-9t32",
+    "last_updated": "2017-04-07 14:10:34+00:00",
+    "protocol": "https",
+    "created": "2013-03-05 18:27:58+00:00"
+}

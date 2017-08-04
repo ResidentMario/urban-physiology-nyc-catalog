@@ -1,0 +1,37 @@
+{
+    "name": "facilities-database-facdb-supplemental-file-package",
+    "datapackage_version": "1.0-beta",
+    "title": "Facilities Database (FacDB) - Supplemental File Package",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Supplemental data files for the Facilities Database (FacDB) captures the locations and descriptions of public and private facilities ranging from the provision of social services, recreation, education, to solid waste management.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 38649.34765625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 18,
+    "preferred_mimetype": "text/plain",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/infj-99i7",
+    "last_updated": "2017-04-06 14:34:13+00:00",
+    "protocol": "https",
+    "created": "2017-03-13 19:56:45+00:00"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "fair-student-funding-budget-detail-1",
+    "datapackage_version": "1.0-beta",
+    "title": "Fair Student Funding Budget Detail 1",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Fair Student Funding Budget Detail FY 2015 - Part I This detail data contains has one row for each school for each of the weights that comprise the Fair Student Funding Formula (Grade Weight, Need Weights, and Portfolio Weights).\r\nClick Here for further information- http://schools.nyc.gov/offices/d_chanc_oper/budget/dbor/allocationmemo/fy14_15/Fair_School_Funding_FY2015.html",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/wr4r-bue7/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 56800,
+    "columns": 15,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 176,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Column Q: Register Change",
+        "Need_Name",
+        "Print_Order",
+        "Category",
+        "Column M: FY15 Per Capita (no ATS growth)",
+        "Column P: Projected Formula",
+        "Sub_Category",
+        "Location",
+        "Column O: Projected Register",
+        "Attribute_Category",
+        "Attribute_Reference",
+        "Column L: FY15 Weight",
+        "Column N: FY14 Actual Registers",
+        "Fiscal_Year",
+        "Column R: Register Dollar Change"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/wr4r-bue7",
+    "last_updated": "2015-11-12 14:50:11+00:00",
+    "protocol": "https",
+    "created": "2015-10-19 18:50:29+00:00"
+}

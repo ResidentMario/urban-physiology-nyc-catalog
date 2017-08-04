@@ -1,0 +1,52 @@
+{
+    "name": "directory-of-unsheltered-street-homeless-to-general-population-ratio-2010",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Of Unsheltered Street Homeless To General Population Ratio 2010",
+    "version": "N/A",
+    "keywords": [
+        "dhs",
+        "population",
+        "ratio",
+        "homeless"
+    ],
+    "description": "\"Ratio of Homeless Population to General Population in major US Cities in 2010. \n*This represents a list of large U.S. cities for which DHS was able to confirm a recent estimate of the unsheltered population.  A 2010 result is only available for Seattle, WA. Other cities either did not conduct a count in 2010, or their 2010 results are not yet available.  2009 unsheltered census   figures were used for Los Angeles, San Francisco, Miami, and Washington, DC, and Boston; the 2007 estimate is used for Chicago.  General population figures are the latest estimates from the U.S. Census Bureau.\"",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Homeless Services (DHS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8kiv-2ukd/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 8,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 286,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "General Population",
+        "Street Homeless Population",
+        "City",
+        "Ratio of Unsheltered Homeless to General Population"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8kiv-2ukd",
+    "last_updated": "2014-09-05 17:41:11+00:00",
+    "protocol": "https",
+    "created": "2013-01-30 23:13:04+00:00"
+}

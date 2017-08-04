@@ -1,0 +1,52 @@
+{
+    "name": "fdny-fire-department-fee",
+    "datapackage_version": "1.0-beta",
+    "title": "FDNY Fire Department Fee",
+    "version": "N/A",
+    "keywords": [
+        "permit fee",
+        "fdny",
+        "fire department",
+        "fire safety"
+    ],
+    "description": "All accreditation fees are per year, unless otherwise indicated.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Fire Department of New York City (FDNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/2cvx-33uz/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 304,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 498,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Fee Amount",
+        "Certificate Name",
+        "Fee Application Name",
+        "Fee Type Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/2cvx-33uz",
+    "last_updated": "2014-09-05 17:40:03+00:00",
+    "protocol": "https",
+    "created": "2013-01-23 18:22:25+00:00"
+}

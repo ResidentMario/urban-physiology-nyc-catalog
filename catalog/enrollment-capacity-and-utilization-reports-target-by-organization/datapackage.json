@@ -1,0 +1,65 @@
+{
+    "name": "enrollment-capacity-and-utilization-reports-target-by-organization",
+    "datapackage_version": "1.0-beta",
+    "title": "Enrollment Capacity And Utilization Reports - Target by Organization",
+    "version": "N/A",
+    "keywords": [
+        "authority",
+        "enrollment",
+        "facility",
+        "sca",
+        "school",
+        "utilization",
+        "capacity",
+        "education",
+        "construction"
+    ],
+    "description": "Enrollment, target capacity and utilization data for every building and schools in those buildings, by school",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8b9a-pywy/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2658,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 290,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "PreK Cap",
+        "Organization Name",
+        "Org ID",
+        "No. of Cluster / Spec Rms Reported",
+        "Incl. Class",
+        "Bldg ID",
+        "Building Name",
+        "Geo Dist",
+        "Enroll",
+        "Target Capacity",
+        "No. of Cluster Rms Needed",
+        "Target Utilization"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8b9a-pywy",
+    "last_updated": "2015-05-12 20:58:17+00:00",
+    "protocol": "https",
+    "created": "2015-05-11 20:54:25+00:00"
+}

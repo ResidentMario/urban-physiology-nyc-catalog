@@ -1,0 +1,48 @@
+{
+    "name": "prek-vendors-by-transportation-site",
+    "datapackage_version": "1.0-beta",
+    "title": "PreK Vendors by Transportation Site",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Summary of documented students by school/site",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8wau-idzf/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 857,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 179,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Vendor_Name",
+        "Site_Name",
+        "OPT_Code",
+        "School_Year",
+        "School_Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8wau-idzf",
+    "last_updated": "2017-05-01 10:47:57+00:00",
+    "protocol": "https",
+    "created": "2016-01-11 22:59:48+00:00"
+}

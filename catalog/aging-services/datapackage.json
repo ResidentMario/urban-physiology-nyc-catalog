@@ -1,0 +1,45 @@
+{
+    "name": "aging-services",
+    "datapackage_version": "1.0-beta",
+    "title": "Aging Services",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Provides a listing of DFTA's core services by provider type",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department for the Aging (DFTA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/a9f5-j694/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 11,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 274,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Link for more info",
+        "Service"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/a9f5-j694",
+    "last_updated": "2014-10-23 23:33:27+00:00",
+    "protocol": "https",
+    "created": "2014-10-23 23:32:06+00:00"
+}

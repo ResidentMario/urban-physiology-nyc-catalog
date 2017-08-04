@@ -1,0 +1,47 @@
+{
+    "name": "new-york-city-water-trail-kayak-and-canoe-launch-sites",
+    "datapackage_version": "1.0-beta",
+    "title": "New York City Water Trail (Kayak and Canoe Launch Sites)",
+    "version": "N/A",
+    "keywords": [
+        "new york city water trail (kayak and canoe launch sites)",
+        "launch",
+        "department of parks and recreation (dpr)",
+        "new york city water trail",
+        "dpr",
+        "kayak",
+        "canoe",
+        "waterway",
+        "paddling"
+    ],
+    "description": "The New York City Water Trail connects New York City\u2019s rivers, creeks, and waterways together for paddling enthusiasts. Use this data to find launch sites on the water trail for kayaks and other openwater rowing craft",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 27.3330078125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 259,
+    "preferred_mimetype": "application/xml",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/hxay-3qcw",
+    "last_updated": "2017-04-11 16:05:42+00:00",
+    "protocol": "https",
+    "created": "2014-06-17 17:32:20+00:00"
+}

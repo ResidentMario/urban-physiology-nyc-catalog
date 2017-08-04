@@ -1,0 +1,55 @@
+{
+    "name": "expense-financial-plan-adptprel",
+    "datapackage_version": "1.0-beta",
+    "title": "Expense Financial Plan - Adpt\\Prel",
+    "version": "N/A",
+    "keywords": [],
+    "description": "This dataset contains agency summary level data for PS, OTPS and Total by type of funds.  The dollar amount fields are rounded to the thousands. The Adopted and Preliminary reports,  published by July 1 and January or February respectively,  contain the current fiscal year plus four out years of data which  coincide with the release of the published financial plan.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Management and Budget (OMB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/e4p3-6ecr/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5577,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 111,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Year 2 Estimate",
+        "Agency Number",
+        "Fiscal Year 1",
+        "Report Sort",
+        "Publication Date",
+        "Year 5 Estimate",
+        "Agency Name",
+        "Year 3 Estimate",
+        "Year 4 Estimate",
+        "Year 1 Forecast",
+        "Line Number Description",
+        "Line Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/e4p3-6ecr",
+    "last_updated": "2017-02-09 15:16:38+00:00",
+    "protocol": "https",
+    "created": "2016-06-17 21:27:02+00:00"
+}

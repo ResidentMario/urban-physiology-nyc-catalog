@@ -1,0 +1,37 @@
+{
+    "name": "annual-report-statistics",
+    "datapackage_version": "1.0-beta",
+    "title": "Annual Report Statistics",
+    "version": "N/A",
+    "keywords": [],
+    "description": "This list contains the year-end\nsummaries of activities of all COIB\nunits.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Conflicts of Interest Board (CONFLICTS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 40.0322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 102,
+    "preferred_mimetype": "application/msword",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "doc",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/s5c9-5mja",
+    "last_updated": "2015-03-09 16:48:05+00:00",
+    "protocol": "https",
+    "created": "2015-03-09 16:46:52+00:00"
+}

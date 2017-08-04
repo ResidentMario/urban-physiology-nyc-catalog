@@ -1,0 +1,52 @@
+{
+    "name": "directory-of-unsheltered-street-homeless-to-general-population-ratio-2011",
+    "datapackage_version": "1.0-beta",
+    "title": "Directory Of Unsheltered Street Homeless To General Population Ratio 2011",
+    "version": "N/A",
+    "keywords": [
+        "ratio",
+        "dhs",
+        "homeless",
+        "population"
+    ],
+    "description": "\"Ratio of Homeless Population to General Population in major US Cities in 2011.\n*This represents a list of large U.S. cities for which DHS was able to confirm a recent estimate of the unsheltered population.  A 2011 result is available for Seattle, WA, Miami, FL, and Boston, MA.. 2011 results are not yet available for the other cities, and their 2009 data are displayed in this chart. General population figures are 2010 estimates in New York, San Francisco, and Chicago, and 2009 estimates elsewhere.\"",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Homeless Services (DHS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ivbu-e2q7/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 8,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 301,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Street Homeless Population",
+        "General Population",
+        "Ratio of Unsheltered Homeless to General Population",
+        "City"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ivbu-e2q7",
+    "last_updated": "2014-09-05 17:40:17+00:00",
+    "protocol": "https",
+    "created": "2013-01-30 23:24:05+00:00"
+}

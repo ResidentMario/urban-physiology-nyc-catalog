@@ -1,0 +1,46 @@
+{
+    "name": "inmate-incidents-slashing-and-stabbing",
+    "datapackage_version": "1.0-beta",
+    "title": "Inmate Incidents - Slashing and Stabbing",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Violent inmate-on-inmate incidents (Slashings and Stabbings).",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Correction (DOC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/gakf-suji/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 205,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 92,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "REPORTED_DT",
+        "INCIDENT_TYPE",
+        "INCIDENT_ID"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/gakf-suji",
+    "last_updated": "2017-05-01 14:12:06+00:00",
+    "protocol": "https",
+    "created": "2016-03-23 18:28:11+00:00"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "update-to-submitted-state-aid-projects",
+    "datapackage_version": "1.0-beta",
+    "title": "Update to Submitted State Aid Projects",
+    "version": "N/A",
+    "keywords": [],
+    "description": "List of projects in substantial completion with the final aid amount requested.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/gk83-aa6y/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 129,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 131,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "SCHOOL NAME",
+        "PROJECT NUMBER",
+        "BUILDING ID",
+        "SED APPROVED FINAL COST ",
+        "SCHOOL ADDRESS",
+        "PROJECT DESCRIPTION"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/gk83-aa6y",
+    "last_updated": "2017-02-02 21:44:45+00:00",
+    "protocol": "https",
+    "created": "2016-02-01 15:43:31+00:00"
+}

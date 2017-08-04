@@ -1,0 +1,60 @@
+{
+    "name": "2012-nyc-farmers-market-list",
+    "datapackage_version": "1.0-beta",
+    "title": "2012 NYC Farmers Market List",
+    "version": "N/A",
+    "keywords": [
+        "green",
+        "health",
+        "healthy living",
+        "2012 nyc market list",
+        "dohmh",
+        "farmers market",
+        "food"
+    ],
+    "description": "Listing of NYC farmers markets.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Health and Mental Hygiene (DOHMH)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/b7kx-qikm/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 137,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 6639,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Day(s)",
+        "Borough",
+        "Accepts Health Bucks",
+        "Distribute Health Bucks",
+        "Market Name ",
+        "Hours",
+        "Street Address",
+        "Stellar",
+        "EBT"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/b7kx-qikm",
+    "last_updated": "2014-09-05 17:01:07+00:00",
+    "protocol": "https",
+    "created": "2012-06-26 15:29:07+00:00"
+}

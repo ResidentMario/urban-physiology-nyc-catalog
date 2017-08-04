@@ -1,0 +1,71 @@
+{
+    "name": "revenue-budget-financial-plan-qtr1",
+    "datapackage_version": "1.0-beta",
+    "title": "Revenue Budget & Financial Plan--Qtr1",
+    "version": "N/A",
+    "keywords": [
+        "budget",
+        "financial",
+        "plan",
+        "revenue",
+        "omb"
+    ],
+    "description": "This dataset contains agency revenue data for Adopted, Modified and four years of Financial Plan by   Revenue Class, Revenue Category and Revenue Source (Revenue Structure) or FPS Group name.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Management and Budget (OMB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/vf4p-p8ui/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1598,
+    "columns": 22,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 25,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Agency Name",
+        "Yr1_FY",
+        "Publication Date",
+        "Fiscal Year",
+        "FPS Group",
+        "Revenue Category",
+        "Revenue Class Code",
+        "Year 2 Revenue Amount",
+        "Year 1 Revenue Amount",
+        "Adopted Budget Amount",
+        "Current Modified Budget Amount",
+        "Year 3 Revenue Amount",
+        "Year 4 Revenue Amount",
+        "Revenue Category Name",
+        "Revenue Class Name",
+        "Budget Code",
+        "Revenue Source",
+        "Revenue Source Name",
+        "Revenue Structure Description",
+        "Fundind Source Name",
+        "FPS Group Name",
+        "Agency Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/vf4p-p8ui",
+    "last_updated": "2017-05-02 16:04:02+00:00",
+    "protocol": "https",
+    "created": "2016-11-29 22:44:14+00:00"
+}

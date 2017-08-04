@@ -1,0 +1,59 @@
+{
+    "name": "total-housing-units-by-occupancy-status-and-tenure-by-borough",
+    "datapackage_version": "1.0-beta",
+    "title": "Total Housing Units By Occupancy Status And Tenure By Borough",
+    "version": "N/A",
+    "keywords": [
+        "housing",
+        "growth",
+        "city",
+        "dcp",
+        "tenure",
+        "population",
+        "planning",
+        "occupancy"
+    ],
+    "description": "Details of Housing Unit numbers by Occupancy Status and Tenure in New York City Boroughs",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/6qzy-b4x8/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1165,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Vacant Units for Seasonal, Recreational   or Occasional  Use",
+        "Borough",
+        "Total Housing Units",
+        "Year",
+        "Renter Occupied",
+        "Owner Occupied",
+        "Total Vacant Units"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/6qzy-b4x8",
+    "last_updated": "2014-09-05 17:14:45+00:00",
+    "protocol": "https",
+    "created": "2013-02-20 19:02:10+00:00"
+}

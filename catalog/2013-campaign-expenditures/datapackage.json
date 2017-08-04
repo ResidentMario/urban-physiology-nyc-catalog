@@ -1,0 +1,84 @@
+{
+    "name": "2013-campaign-expenditures",
+    "datapackage_version": "1.0-beta",
+    "title": "2013 Campaign Expenditures",
+    "version": "N/A",
+    "keywords": [
+        "politics",
+        "nyccfb",
+        "funding",
+        "contributions",
+        "cfb",
+        "campaign finance board",
+        "campaign finance",
+        "campaign",
+        "finance",
+        "elections"
+    ],
+    "description": "A listing of campaign expenditures for candidates for City office dating back from the 2013 election cycle",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Campaign Finance Board (CFB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/kwmq-dbub/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 658,
+    "columns": 30,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 630,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "EXEMPTCD",
+        "SEQUENCENO",
+        "AMNT",
+        "PAY_METHOD",
+        "APARTMENT",
+        "STRNAME",
+        "STRNO",
+        "REFNO",
+        "PAGENO",
+        "ORG_IND",
+        "C_CODE",
+        "DATE",
+        "SCHEDULE",
+        "SEG_IND",
+        "CANDLAST",
+        "Location 1",
+        "EXPLAIN",
+        "PURPOSE",
+        "PURPOSECD",
+        "CANCLASS",
+        "CANDFIRST",
+        "CANDMI",
+        "FILING",
+        "ELECTION",
+        "CANDID",
+        "INV_DATE",
+        "COMMITTEE",
+        "OFFICECD",
+        "NAME",
+        "RR_IND"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/kwmq-dbub",
+    "last_updated": "2014-09-05 17:04:22+00:00",
+    "protocol": "https",
+    "created": "2011-09-13 23:18:19+00:00"
+}

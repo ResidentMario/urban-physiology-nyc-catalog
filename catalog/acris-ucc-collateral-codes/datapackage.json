@@ -1,0 +1,49 @@
+{
+    "name": "acris-ucc-collateral-codes",
+    "datapackage_version": "1.0-beta",
+    "title": "ACRIS - UCC Collateral Codes",
+    "version": "N/A",
+    "keywords": [
+        "dof",
+        "acris land records"
+    ],
+    "description": "ACRIS Collateral Type mapping for Codes in the ACRIS Personal Property Master Dataset",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/q9kp-jvxv/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 8,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 518,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "DESCRIPTION",
+        "UCC COLLATERAL CODE",
+        "RECORD TYPE"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/q9kp-jvxv",
+    "last_updated": "2017-05-08 20:12:50+00:00",
+    "protocol": "https",
+    "created": "2013-09-16 18:24:03+00:00"
+}

@@ -1,0 +1,56 @@
+{
+    "name": "incident-based-distribution-of-readyny-guides",
+    "datapackage_version": "1.0-beta",
+    "title": "Incident based distribution of ReadyNY guides",
+    "version": "N/A",
+    "keywords": [
+        "pamphlet",
+        "incident based distribution of readyny guides",
+        "emergency",
+        "oem",
+        "awareness"
+    ],
+    "description": "Areas targeted for ReadyNY guide distribution following a nearby incident, such as a large fire or water main break",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of Emergency Management (OEM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/mqd6-mvf7/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 192,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 350,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Incident Type",
+        "Amount Sent",
+        "City",
+        "Zip Code",
+        "Street",
+        "Date of Occurrence",
+        "Guide Type"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/mqd6-mvf7",
+    "last_updated": "2016-08-01 17:00:07+00:00",
+    "protocol": "https",
+    "created": "2014-05-05 17:00:51+00:00"
+}

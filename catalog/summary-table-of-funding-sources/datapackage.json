@@ -1,0 +1,57 @@
+{
+    "name": "summary-table-of-funding-sources",
+    "datapackage_version": "1.0-beta",
+    "title": "Summary Table Of Funding Sources",
+    "version": "N/A",
+    "keywords": [
+        "funding",
+        "city",
+        "source",
+        "planning",
+        "housing",
+        "dcp"
+    ],
+    "description": "Details of Funding Sources for Housing Projects",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/i7jz-e2db/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 123,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 553,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Project Code",
+        "Program Name",
+        "Amount",
+        "Program Type",
+        "Year",
+        "Amount City Expects to be Received by Other Entities",
+        "Amount City Expects to Receive"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/i7jz-e2db",
+    "last_updated": "2014-09-05 17:09:45+00:00",
+    "protocol": "https",
+    "created": "2013-02-20 14:49:34+00:00"
+}

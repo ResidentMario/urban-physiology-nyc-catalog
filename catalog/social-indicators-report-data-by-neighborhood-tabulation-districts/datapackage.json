@@ -1,0 +1,58 @@
+{
+    "name": "social-indicators-report-data-by-neighborhood-tabulation-districts",
+    "datapackage_version": "1.0-beta",
+    "title": "Social Indicators Report Data By Neighborhood Tabulation Districts",
+    "version": "N/A",
+    "keywords": [
+        "social conditions",
+        "indicators",
+        "moo",
+        "ceo"
+    ],
+    "description": "Select metrics by Community District/Neighborhood Tabulation Districts  where available. To see the full set of indicators (including those without CD/NTD level data), please refer to \u201cSocial Indicators Report Data \u2013 Citywide\u201d at https://data.cityofnewyork.us/Social-Services/Social-Indicators-Report-Data-Citywide/gysw-j2f3.\r\n\r\nThe Social Indicators Report is an analysis of social conditions across New York City, including geographic and demographic breakdowns, changes over time, and the Mayor's plan for responding to problems highlighted in the report. The report can be found at http://www1.nyc.gov/assets/operations/downloads/pdf/Social-Indicators-Report-April-2016.pdf. See also, the recently released Disparity Report produced by the Center for Innovation through Data Intelligence (CIDI). The report can be found at http://www1.nyc.gov/assets/operations/downloads/pdf/Social-Indicators-Report-April-2016.pdf",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Operations (OPS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ic2k-etms/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 188,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 157,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Source",
+        "Indicator",
+        "GeoID",
+        "Definition",
+        "2015",
+        "2011",
+        "Domain",
+        "2014",
+        "2012",
+        "2013"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ic2k-etms",
+    "last_updated": "2017-02-03 19:21:32+00:00",
+    "protocol": "https",
+    "created": "2016-04-13 15:57:04+00:00"
+}

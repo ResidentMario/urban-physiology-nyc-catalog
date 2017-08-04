@@ -1,0 +1,71 @@
+{
+    "name": "graduation-outcomes-citywide-classes-of-2005-2011-ethnicity",
+    "datapackage_version": "1.0-beta",
+    "title": "Graduation Outcomes - Citywide - Classes of 2005-2011 - Ethnicity",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning",
+        "citywide",
+        "graduation outcome",
+        "ethnicity",
+        "school"
+    ],
+    "description": "Latest available data and trends in graduation and dropout outcomes disaggregated by ethnicity.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/mbym-vp3s/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 92,
+    "columns": 22,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 136,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Still Enrolled Num",
+        "Local Pct of grads",
+        "Dropped Out Pct of cohort",
+        "Local Pct of cohort",
+        "Still Enrolled Pct of cohort",
+        "Regents w/o Advanced Num",
+        "Local Num",
+        "Total Regents Pct of grads",
+        "Advanced Regents Pct of grads",
+        "Advanced Regents Num",
+        "Advanced Regents Pct of cohort",
+        "Cohort Category",
+        "Demographic",
+        "Cohort Year",
+        "Total Regents Pct of cohort",
+        "Total Grads Num",
+        "Total Regents Num",
+        "Total Grads Pct of cohort",
+        "Regents w/o Advanced Pct of grads",
+        "Total Cohort Num",
+        "Dropped Out Num",
+        "Regents w/o Advanced Pct of cohort"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/mbym-vp3s",
+    "last_updated": "2014-09-05 17:24:43+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 02:32:07+00:00"
+}

@@ -1,0 +1,61 @@
+{
+    "name": "substantiated-officers-rank",
+    "datapackage_version": "1.0-beta",
+    "title": "Substantiated Officers Rank",
+    "version": "N/A",
+    "keywords": [
+        "populations",
+        "ccrb",
+        "substantiated",
+        "allegations",
+        "rank"
+    ],
+    "description": "This chat displays the rank of Police Officers against whom Allegations were Substantiated",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/pi4j-9c8t/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 3,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 176,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Lieutenant ",
+        "Police Officer ",
+        "Detective 3",
+        "Year ",
+        "Other ranks",
+        "Captain",
+        "Deputy Inspector/Inspector ",
+        "Detective 2",
+        "Sergeant ",
+        "Detective specialist ",
+        "Lieutenant commander detective",
+        "Detective 1 "
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/pi4j-9c8t",
+    "last_updated": "2014-09-05 17:10:10+00:00",
+    "protocol": "https",
+    "created": "2013-02-25 21:47:23+00:00"
+}

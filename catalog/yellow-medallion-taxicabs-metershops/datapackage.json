@@ -1,0 +1,43 @@
+{
+    "name": "yellow-medallion-taxicabs-metershops",
+    "datapackage_version": "1.0-beta",
+    "title": "Yellow Medallion Taxicabs - Metershops",
+    "version": "N/A",
+    "keywords": [
+        "transportation",
+        "vehicle",
+        "license",
+        "business",
+        "taxi"
+    ],
+    "description": "Yellow Medallion Taxicabs are the official taxis of New York City. There are currently about 13,000 licensed taxicabs and they provide transportation for passengers via street hails.\r\n\r\nThis lists licensed Medallion Taxi Meter Shops, including their license numbers, names, addresses, and phone numbers.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 45.5322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 509,
+    "preferred_mimetype": "application/vnd.ms-office",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "xls",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/sx4q-k6ay",
+    "last_updated": "2014-09-05 17:21:40+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 21:59:37+00:00"
+}

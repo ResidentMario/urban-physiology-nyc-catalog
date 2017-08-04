@@ -1,0 +1,37 @@
+{
+    "name": "city-owned-and-leased-property-colp",
+    "datapackage_version": "1.0-beta",
+    "title": "City Owned and Leased Property (COLP)",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Geodatabase of city-owned and leased properties and uses.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 0.4228515625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 100,
+    "preferred_mimetype": "application/octet-stream",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "gdb/timestamps",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/c2g8-ercv",
+    "last_updated": "2017-01-20 19:35:16+00:00",
+    "protocol": "https",
+    "created": "2016-07-05 18:35:31+00:00"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "community-parks-initiative-zone-boundaries",
+    "datapackage_version": "1.0-beta",
+    "title": "Community Parks Initiative Zone Boundaries",
+    "version": "N/A",
+    "keywords": [],
+    "description": "CPI Zones are neighborhoods where NYC Parks will pursue a combination of capital investment and/or targeted physical improvements, enhanced programming, and public outreach efforts through the Community Parks Initiative launched in 2014.  CPI Zones are boundaries based on the NYC Department of City Planning's Neighborhood Tabulation Areas. These NTAs were selected as they capture neighborhoods that met several criteria for the initiative. They are densely populated and growing neighborhoods where there are higher-than-average concentrations of poverty as measured through the 2010 US Census, and they contain parks that are suitable for recreational redevelopment and received less than $250,000 in capital investment from 1992-2013.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/vvdx-b56i?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 880.9072265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 377,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/vvdx-b56i",
+    "last_updated": "2016-08-27 18:30:07+00:00",
+    "protocol": "https",
+    "created": "2015-08-20 20:51:44+00:00"
+}

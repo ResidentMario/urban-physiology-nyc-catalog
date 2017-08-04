@@ -1,0 +1,37 @@
+{
+    "name": "local-law-1-city-council-report-fy-2015",
+    "datapackage_version": "1.0-beta",
+    "title": "Local Law 1 City Council Report FY 2015",
+    "version": "N/A",
+    "keywords": [],
+    "description": "New York City\u2019s M/WBE Program is governed by Local Law 1 of 2013 (LL 1).  LL 1 was enacted after an updated disparity analysis undertaken by the City.   The law allows City agencies to set M/WBE participation goals on standardized, professional and construction services contracts.  The full provisions of LL 1 law are detailed in section 6-129 of the New York City Administrative Code.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Contract Services (MOCS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 41.49609375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 37,
+    "preferred_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "xlsx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/u2m4-wh3s",
+    "last_updated": "2015-12-18 22:39:31+00:00",
+    "protocol": "https",
+    "created": "2015-12-17 15:47:09+00:00"
+}

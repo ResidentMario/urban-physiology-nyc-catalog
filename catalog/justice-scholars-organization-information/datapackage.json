@@ -1,0 +1,53 @@
+{
+    "name": "justice-scholars-organization-information",
+    "datapackage_version": "1.0-beta",
+    "title": "Justice Scholars Organization  Information",
+    "version": "N/A",
+    "keywords": [
+        "contact",
+        "law",
+        "justice",
+        "dop",
+        "scholar",
+        "probation"
+    ],
+    "description": "These are the address of Organizations providing Justice Scholars Programs",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/69w5-fdhb/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 53,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 197,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        " Justice Scholar Organization",
+        "Address",
+        "Community District Served"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/69w5-fdhb",
+    "last_updated": "2014-09-05 17:10:32+00:00",
+    "protocol": "https",
+    "created": "2013-02-12 18:02:31+00:00"
+}

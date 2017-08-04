@@ -1,0 +1,64 @@
+{
+    "name": "active-projects-under-construction",
+    "datapackage_version": "1.0-beta",
+    "title": "Active Projects Under Construction",
+    "version": "N/A",
+    "keywords": [
+        "construction",
+        "school",
+        "lifelong learning",
+        "education",
+        "current",
+        "project",
+        "improvement",
+        "capital",
+        "sca",
+        "authority"
+    ],
+    "description": "New school projects (Capacity) and Capital Improvement Projects (CIP) currently under Construction.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8586-3zfm/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 356,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1847,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Construction Award",
+        "Project Description",
+        "Geographical District",
+        "Borough",
+        "School Name",
+        "City",
+        "Zip Code",
+        "Building Address",
+        "Building ID",
+        "Project type"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8586-3zfm",
+    "last_updated": "2017-05-30 14:48:48+00:00",
+    "protocol": "https",
+    "created": "2011-10-09 00:24:57+00:00"
+}

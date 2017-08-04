@@ -1,0 +1,80 @@
+{
+    "name": "nyc-independent-budget-office-ibo-tax-revenue-fy-1980-fy-2014",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Independent Budget Office (IBO) Tax Revenue FY 1980 - FY 2014",
+    "version": "N/A",
+    "keywords": [
+        "nyc independent budget office (ibo) tax revenue fy 1980 - fy 2014"
+    ],
+    "description": "Annual tax revenue from major tax sources, from FY 1980 - FY 2014.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYC Independent Budget Office (IBO), Property, Personal Income, Mortgage Recording, Commercial Rent, Conveyance of Real Property, Transfers to Debt Service Funds, Unincorporated Business Income,"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/hdnu-nbrh/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 15,
+    "columns": 35,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 209,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "FY 1991",
+        "FY 1990",
+        "FY 1989",
+        "FY 1992",
+        "FY 1993",
+        "FY 1994",
+        "FY 1988",
+        "FY 2002",
+        "FY 2003",
+        "FY 2000",
+        "FY 2001",
+        "FY 1998",
+        "FY 1999",
+        "FY 1996",
+        "FY 1997",
+        "FY 2010",
+        "FY 2011",
+        "FY 2008",
+        "FY 2009",
+        "FY 2006",
+        "FY 2007",
+        "FY  2004",
+        "FY 2005",
+        "FY 1986",
+        "FY 1987",
+        "FY 1980",
+        "FY 2013",
+        "FY 2012",
+        "Tax Revenue",
+        "FY 1995",
+        "FY 1981",
+        "FY 1982",
+        "FY 1983",
+        "FY 1984",
+        "FY 1985"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/hdnu-nbrh",
+    "last_updated": "2014-09-06 00:38:45+00:00",
+    "protocol": "https",
+    "created": "2014-03-03 21:24:45+00:00"
+}

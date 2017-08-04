@@ -1,0 +1,45 @@
+{
+    "name": "staten-island-ferry-schedule-gtfs",
+    "datapackage_version": "1.0-beta",
+    "title": "Staten Island Ferry Schedule (GTFS)",
+    "version": "N/A",
+    "keywords": [
+        "staten island ferry",
+        "schedule",
+        "dot",
+        "transportation",
+        "gtfs",
+        "ferries",
+        "ferry"
+    ],
+    "description": "The Staten Island Ferry carries over 21 million passengers a year between St. George Terminal in Staten Island and Whitehall Terminal in Manhattan. On a typical workday, the ferry makes 109 trips. This General Transit Feed Specification (GTFS) (https://developers.google.com/transit/gtfs/) dataset includes information about the ferry terminal, and all scheduled weekday, weekend and holiday trips. The ferry's schedule may be adjusted due to heavy weather or low visibility. Adjustments are announced by email and in DOT's Twitter stream.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 46.6962890625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 1972,
+    "preferred_mimetype": "text/plain",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "txt",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/mwxp-krtu",
+    "last_updated": "2014-09-05 17:36:03+00:00",
+    "protocol": "https",
+    "created": "2013-04-01 23:20:09+00:00"
+}

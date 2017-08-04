@@ -1,0 +1,48 @@
+{
+    "name": "acceptable-reduced-pressure-detector-assemblies",
+    "datapackage_version": "1.0-beta",
+    "title": "Acceptable Reduced Pressure Detector Assemblies",
+    "version": "N/A",
+    "keywords": [
+        "acceptable reduced pressure detector assemblies",
+        "department of environmental protection (dep)"
+    ],
+    "description": "Acceptable Reduced Pressure Detector Assemblies.  Refer to the following report for additional details http://www.nyc.gov/html/dep/pdf/water_sewer/42_doh_supplement.pdf",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/4fif-5bmt/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 11,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 129,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Model Series",
+        "Company"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/4fif-5bmt",
+    "last_updated": "2014-09-05 17:01:45+00:00",
+    "protocol": "https",
+    "created": "2014-03-06 03:16:56+00:00"
+}

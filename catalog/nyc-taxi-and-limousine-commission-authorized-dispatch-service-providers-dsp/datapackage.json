@@ -1,0 +1,67 @@
+{
+    "name": "nyc-taxi-and-limousine-commission-authorized-dispatch-service-providers-dsp",
+    "datapackage_version": "1.0-beta",
+    "title": "NYC Taxi and Limousine Commission authorized Dispatch Service Providers (DSP)",
+    "version": "N/A",
+    "keywords": [
+        "trips",
+        "apps",
+        "fhv",
+        "mobile",
+        "app",
+        "dispatch",
+        "dispatch service provider",
+        "dsp",
+        "for-hire-vehicle",
+        "tlc",
+        "taxi"
+    ],
+    "description": "A Dispatch Service Provider (DSP) can dispatch trips on behalf of the FHV (For-Hire-Vehicle) Base.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/2n4x-d97d/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 401,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Building",
+        "Street Address",
+        "Zip Code",
+        "Secondary Address",
+        "Last Updated Time",
+        "State",
+        "Licensee Name",
+        "Alternate Name Of Licensee",
+        "Telephone Number",
+        "Licensee Number",
+        "City",
+        "Last Updated Date"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/2n4x-d97d",
+    "last_updated": "2017-02-07 17:57:29+00:00",
+    "protocol": "https",
+    "created": "2016-11-28 20:21:00+00:00"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "current-plan-programs",
+    "datapackage_version": "1.0-beta",
+    "title": "Current Plan Programs",
+    "version": "N/A",
+    "keywords": [
+        "sca",
+        "construction",
+        "projects",
+        "schools"
+    ],
+    "description": "The below datasets are now merged into a single dataset:\r\n\r\n1. Accessibility programs for schools\r\n2. Lighting fixture replacement for schools\r\n3. Science Lab programs for schools\r\n4. Sandy Storm Projects\r\n5. Bathroom Projects",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYC School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/bjmk-35w5/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1376,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 137,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Borough",
+        "Constr.Start FY",
+        "District",
+        "School Name",
+        "Program Name ",
+        "Description",
+        "Building ID"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/bjmk-35w5",
+    "last_updated": "2017-05-15 15:15:24+00:00",
+    "protocol": "https",
+    "created": "2016-05-31 21:48:36+00:00"
+}

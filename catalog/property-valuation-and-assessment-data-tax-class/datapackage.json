@@ -1,0 +1,49 @@
+{
+    "name": "property-valuation-and-assessment-data-tax-class",
+    "datapackage_version": "1.0-beta",
+    "title": "Property Valuation and Assessment data Tax Class",
+    "version": "N/A",
+    "keywords": [
+        "tax",
+        "tax class",
+        "roll",
+        "assess",
+        "valuation",
+        "property",
+        "finance",
+        "value",
+        "expanded",
+        "expand",
+        "assessment"
+    ],
+    "description": "Property valuation and assessment data (Expanded Tax Class 1 Assessed Value)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Finance (DOF)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 811368.0322265625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 1673,
+    "preferred_mimetype": "application/x-msaccess",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "mdb",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/qpsp-bm9z",
+    "last_updated": "2014-09-05 17:17:36+00:00",
+    "protocol": "https",
+    "created": "2011-09-02 19:41:47+00:00"
+}

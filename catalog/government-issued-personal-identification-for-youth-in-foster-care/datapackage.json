@@ -1,0 +1,37 @@
+{
+    "name": "government-issued-personal-identification-for-youth-in-foster-care",
+    "datapackage_version": "1.0-beta",
+    "title": "Government-Issued Personal Identification for Youth in Foster Care",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Statistics on government-issued personal identification for  youth in foster care reported in compliance with Local Law 48 passed by City Council in 2014",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Administration for Children's Services (ACS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 41.248046875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 57,
+    "preferred_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "xlsx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/n5e5-z493",
+    "last_updated": "2016-02-01 18:30:26+00:00",
+    "protocol": "https",
+    "created": "2016-02-01 18:29:11+00:00"
+}

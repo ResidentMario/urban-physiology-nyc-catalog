@@ -1,0 +1,70 @@
+{
+    "name": "cooking-gas-consumption-and-cost-2010-2016",
+    "datapackage_version": "1.0-beta",
+    "title": "Cooking Gas Consumption And Cost (2010 - 2016)",
+    "version": "N/A",
+    "keywords": [
+        "cooking gas consumption and cost"
+    ],
+    "description": "Monthly consumption and cost data by borough and development. Data set includes utility vendor and meter information.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "New York City Housing Authority (NYCHA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/avhb-5jhc/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 350000,
+    "columns": 25,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 125,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "ES Commodity",
+        "Meter Scope",
+        "Vendor Name",
+        "Service Start Date",
+        "Rate Class",
+        "Underlying Utility",
+        "Borough",
+        "TDS #",
+        "Bill Analyzed",
+        "Estimated",
+        "UMIS BILL ID",
+        "AMP #",
+        "Revenue Month",
+        "RC Code",
+        "Development Name",
+        "# days",
+        "Consumption (Therms)",
+        "Location",
+        "EDP",
+        "Funding Source",
+        "Meter Number",
+        "Service End Date",
+        "Current Charges",
+        "Meter AMR",
+        "Account Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/avhb-5jhc",
+    "last_updated": "2017-02-22 17:49:56+00:00",
+    "protocol": "https",
+    "created": "2016-07-15 22:08:05+00:00"
+}

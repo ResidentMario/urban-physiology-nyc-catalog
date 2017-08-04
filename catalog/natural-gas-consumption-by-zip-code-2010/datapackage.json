@@ -1,0 +1,55 @@
+{
+    "name": "natural-gas-consumption-by-zip-code-2010",
+    "datapackage_version": "1.0-beta",
+    "title": "Natural Gas Consumption by ZIP Code - 2010",
+    "version": "N/A",
+    "keywords": [
+        "gas",
+        "power",
+        "planning",
+        "energy",
+        "environment",
+        "utilities"
+    ],
+    "description": "2010 Natural Gas consumption in therms and GJ, by ZIP code, building type, and utility company.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Long-Term Planning and Sustainability (OLTPS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/uedp-fegm/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1015,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 4253,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Utility/Data Source",
+        " Consumption (therms) ",
+        " Consumption (GJ) ",
+        "Zip Code",
+        "Building type (service class"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/uedp-fegm",
+    "last_updated": "2014-09-05 17:05:45+00:00",
+    "protocol": "https",
+    "created": "2011-09-28 22:01:04+00:00"
+}

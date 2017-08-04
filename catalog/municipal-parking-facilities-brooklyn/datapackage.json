@@ -1,0 +1,42 @@
+{
+    "name": "municipal-parking-facilities-brooklyn",
+    "datapackage_version": "1.0-beta",
+    "title": "Municipal Parking Facilities (Brooklyn)",
+    "version": "N/A",
+    "keywords": [
+        "transportation",
+        "parking",
+        "clean web",
+        "brooklyn"
+    ],
+    "description": "RSS Feed displaying municipal parking facilities in Brooklyn.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 8.681640625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 499,
+    "preferred_mimetype": "text/xml",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/evdj-a5z2",
+    "last_updated": "2014-09-05 17:01:26+00:00",
+    "protocol": "https",
+    "created": "2011-10-10 22:18:39+00:00"
+}

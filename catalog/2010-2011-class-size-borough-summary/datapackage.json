@@ -1,0 +1,54 @@
+{
+    "name": "2010-2011-class-size-borough-summary",
+    "datapackage_version": "1.0-beta",
+    "title": "2010-2011 Class Size - Borough Summary",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning"
+    ],
+    "description": "This file shows average class size for each borough, aggregated by grade and program type. For grades 5-9 (where available) and 9-12, the data are shown by program type and core course.\r\nBased on January 28, 2011 data.\r\n* Grade 9 Official Class data is included for 0K-09 schools. Core Course information for these sections is not reported.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/7yds-6i8e/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 658,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 348,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "SERVICE CATEGORY(K-9* ONLY)",
+        "CORE SUBJECT (MS CORE and 9-12 ONLY)",
+        "CORE COURSE (MS CORE and 9-12 ONLY)",
+        "GRADE ",
+        "PROGRAM TYPE",
+        "BOROUGH",
+        "AVERAGE CLASS SIZE",
+        "NUMBER OF SECTIONS",
+        "NUMBER OF STUDENTS / SEATS FILLED"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/7yds-6i8e",
+    "last_updated": "2014-09-05 17:35:45+00:00",
+    "protocol": "https",
+    "created": "2011-10-14 17:29:10+00:00"
+}

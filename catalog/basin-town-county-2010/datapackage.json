@@ -1,0 +1,82 @@
+{
+    "name": "basin-town-county-2010",
+    "datapackage_version": "1.0-beta",
+    "title": "Basin Town County 2010",
+    "version": "N/A",
+    "keywords": [
+        "water system",
+        "tap",
+        "tap water",
+        "water",
+        "water supply",
+        "agua",
+        "basin",
+        "basin town",
+        "conservation",
+        "dep",
+        "department of environmental protection",
+        "ecosystem",
+        "eco-system",
+        "environment",
+        "health",
+        "healthy living",
+        "nyc",
+        "reservoir"
+    ],
+    "description": "County and Town Area Statistics for the NYC East-of-Hudson Watershed (including towns within a watershed county that are completely outside watershed)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/9akp-irxz/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 349,
+    "columns": 20,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 328,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Muscoot",
+        "Croton Falls",
+        "Town Acres Outside NYC Watershed",
+        "Total Town Acreage",
+        "West Branch",
+        "Sub-total Town Acres Inside NYC Watershed",
+        "Bog Brook",
+        "Cross River",
+        "% of each Town in NYC Watershed",
+        "TOWN**",
+        "Amawalk",
+        "Kensico",
+        "East Branch",
+        "Lake Gleneida",
+        "Lake Gilead",
+        "Boyds Corner",
+        "Diverting",
+        "Middle Branch",
+        "New Croton",
+        "Titicus"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/9akp-irxz",
+    "last_updated": "2014-09-05 18:11:43+00:00",
+    "protocol": "https",
+    "created": "2011-09-30 18:14:22+00:00"
+}

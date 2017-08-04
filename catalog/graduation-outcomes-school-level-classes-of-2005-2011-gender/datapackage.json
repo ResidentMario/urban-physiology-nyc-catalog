@@ -1,0 +1,72 @@
+{
+    "name": "graduation-outcomes-school-level-classes-of-2005-2011-gender",
+    "datapackage_version": "1.0-beta",
+    "title": "Graduation Outcomes - School Level - Classes of 2005-2011 - Gender",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning",
+        "graduation outcome",
+        "school",
+        "gender"
+    ],
+    "description": "Latest available data and trends in graduation and dropout outcomes by school and gender",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/khqi-x3p3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 15500,
+    "columns": 24,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 377,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Demographic",
+        "Cohort Year",
+        "School Name",
+        "Local Pct of grads",
+        "Still Enrolled Num",
+        "Still Enrolled Pct of cohort",
+        "Dropped Out Num",
+        "Dropped Out Pct of cohort",
+        "Advanced Regents Num",
+        "Total Regents Pct of grads",
+        "Total Regents Pct of cohort",
+        "Advanced Regents Pct of cohort",
+        "Advanced Regents Pct of grads",
+        "Regents w/o Advanced Num",
+        "Regents w/o Advanced Pct of cohort",
+        "Cohort Category",
+        "Regents w/o Advanced Pct of grads",
+        "Local Pct of cohort",
+        "Local Num",
+        "Total Cohort Num",
+        "Total Grads Num",
+        "Total Grads Pct of cohort",
+        "DBN",
+        "Total Regents Num"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/khqi-x3p3",
+    "last_updated": "2014-09-05 17:17:56+00:00",
+    "protocol": "https",
+    "created": "2013-02-21 02:36:31+00:00"
+}

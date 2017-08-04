@@ -1,0 +1,54 @@
+{
+    "name": "community-health-centers",
+    "datapackage_version": "1.0-beta",
+    "title": "Community Health Centers",
+    "version": "N/A",
+    "keywords": [
+        "human resources administration",
+        "health",
+        "community",
+        "jobs and economic mobility",
+        "hra"
+    ],
+    "description": "This table represents the details of the Community Health Centers distributed by Borough along with their address, Zip and phone number detail.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/b2sp-asbg/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 41,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 514,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Zip",
+        "  Name of Borough",
+        "Center Address",
+        "Name of Center",
+        "Telephone Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/b2sp-asbg",
+    "last_updated": "2014-09-05 17:10:40+00:00",
+    "protocol": "https",
+    "created": "2013-03-19 18:20:29+00:00"
+}

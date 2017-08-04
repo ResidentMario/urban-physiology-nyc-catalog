@@ -1,0 +1,72 @@
+{
+    "name": "distribution-of-discourtesy-allegations-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "Distribution Of Discourtesy Allegations 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "review",
+        "2008",
+        "2007",
+        "2006",
+        "2005",
+        "disciplinary recommendation",
+        "misconduct",
+        "2009",
+        "statistics",
+        "activity",
+        "allegation",
+        "board",
+        "ccrb",
+        "civilian",
+        "civilian complaint review board",
+        "complaint",
+        "complaint activity"
+    ],
+    "description": "CCRB: Distribution of Discourtesy Allegations 2005 - 2009",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8g9r-zz89/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 7,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 83,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2005 Number",
+        "2007 Number",
+        "2009 Percent of Total",
+        "2007 Percent of Total",
+        "2006 Number",
+        "Type of Discourtesy Allegation",
+        "2006 Percent of Total",
+        "2005 Percent of Total",
+        "2008 Percent of Total",
+        "2008 Number",
+        "2009 Number"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8g9r-zz89",
+    "last_updated": "2014-09-05 17:06:31+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 00:11:20+00:00"
+}

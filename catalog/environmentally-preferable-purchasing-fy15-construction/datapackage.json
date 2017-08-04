@@ -1,0 +1,49 @@
+{
+    "name": "environmentally-preferable-purchasing-fy15-construction",
+    "datapackage_version": "1.0-beta",
+    "title": "Environmentally Preferable Purchasing FY15 - Construction",
+    "version": "N/A",
+    "keywords": [],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Contract Services (MOCS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/p2q7-at72/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 30,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 63,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Contract Value",
+        "Products Meets EPP Minimum Standards? (Y/N)",
+        "Registration Date",
+        "EPP Product Type(s)",
+        "Agency",
+        "Contract Description"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/p2q7-at72",
+    "last_updated": "2015-12-18 22:39:53+00:00",
+    "protocol": "https",
+    "created": "2015-12-17 17:41:44+00:00"
+}

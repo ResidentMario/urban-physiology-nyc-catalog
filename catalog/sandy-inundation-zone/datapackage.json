@@ -1,0 +1,42 @@
+{
+    "name": "sandy-inundation-zone",
+    "datapackage_version": "1.0-beta",
+    "title": "Sandy Inundation Zone",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Areas of New York City that were flooded as a result of Hurricane Sandy.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Small Business Services (SBS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/uyj8-7rv5?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 89250.9619140625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1117,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/uyj8-7rv5",
+    "last_updated": "2016-08-27 18:37:41+00:00",
+    "protocol": "https",
+    "created": "2015-11-09 23:21:21+00:00"
+}

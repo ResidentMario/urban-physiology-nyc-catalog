@@ -1,0 +1,57 @@
+{
+    "name": "subway-entrances",
+    "datapackage_version": "1.0-beta",
+    "title": "Subway Entrances",
+    "version": "N/A",
+    "keywords": [
+        "transportation",
+        "station",
+        "map",
+        "jobs and economic mobility",
+        "location",
+        "train",
+        "cartography",
+        "subway",
+        "travel",
+        "entrance",
+        "mta",
+        "metropolitan transportation authority",
+        "basemap",
+        "transit"
+    ],
+    "description": "Map of NYC Subway Entrances",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Metropolitan Transportation Authority (MTA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/drex-xx56?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 439.326171875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 117243,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/drex-xx56",
+    "last_updated": "2017-01-05 16:56:04+00:00",
+    "protocol": "https",
+    "created": "2013-04-10 17:49:46+00:00"
+}

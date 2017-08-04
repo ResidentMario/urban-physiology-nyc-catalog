@@ -1,0 +1,58 @@
+{
+    "name": "commuter-van-vehicles",
+    "datapackage_version": "1.0-beta",
+    "title": "Commuter Van Vehicles",
+    "version": "N/A",
+    "keywords": [
+        "taxi",
+        "transportation",
+        "limousine",
+        "van",
+        "commuter"
+    ],
+    "description": "All TLC commuter vans",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/q44u-339y/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 344,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 673,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "License Expiration Date",
+        "VIN",
+        "Affiliated Base Name",
+        "DMV License Plate",
+        "License Type",
+        "Name of Licensee",
+        "Affiliated Base License Number",
+        "License Number",
+        "Model Year"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/q44u-339y",
+    "last_updated": "2014-09-05 18:09:06+00:00",
+    "protocol": "https",
+    "created": "2011-08-26 20:48:30+00:00"
+}

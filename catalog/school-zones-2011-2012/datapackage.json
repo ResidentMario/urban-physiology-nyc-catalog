@@ -1,0 +1,52 @@
+{
+    "name": "school-zones-2011-2012",
+    "datapackage_version": "1.0-beta",
+    "title": "School Zones 2011-2012",
+    "version": "N/A",
+    "keywords": [
+        "maps",
+        "is",
+        "high school",
+        "elementary",
+        "schools",
+        "board of ed",
+        "department of education",
+        "education",
+        "school",
+        "p.s.",
+        "lifelong learning",
+        "learning",
+        "junior high school",
+        "jhs"
+    ],
+    "description": "Files in an ESRI Geodatabase format.  They are broken down by elementary school zones (NYC_E) and middle school zones (NYC_M)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 388.0244140625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 2050,
+    "preferred_mimetype": "application/octet-stream",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "shp",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/dqkt-8x6u",
+    "last_updated": "2014-09-05 17:34:33+00:00",
+    "protocol": "https",
+    "created": "2011-09-22 23:18:52+00:00"
+}

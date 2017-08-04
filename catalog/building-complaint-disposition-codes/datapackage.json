@@ -1,0 +1,54 @@
+{
+    "name": "building-complaint-disposition-codes",
+    "datapackage_version": "1.0-beta",
+    "title": "Building Complaint Disposition Codes",
+    "version": "N/A",
+    "keywords": [
+        "disposition",
+        "building",
+        "complaints",
+        "buildings",
+        "reference",
+        "clean web",
+        "complaint",
+        "lookup"
+    ],
+    "description": "A reference table of disposition codes for building complaints",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Buildings (DOB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/6v9u-ndjg/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 160,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1504,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Disposition",
+        "Code"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/6v9u-ndjg",
+    "last_updated": "2017-05-22 20:36:15+00:00",
+    "protocol": "https",
+    "created": "2012-03-24 13:52:49+00:00"
+}

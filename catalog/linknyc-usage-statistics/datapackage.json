@@ -1,0 +1,57 @@
+{
+    "name": "linknyc-usage-statistics",
+    "datapackage_version": "1.0-beta",
+    "title": "LinkNYC Usage Statistics",
+    "version": "N/A",
+    "keywords": [
+        "usage",
+        "statistics",
+        "linknyc",
+        "link"
+    ],
+    "description": "LinkNYC usage data",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology and Telecommunications (DOITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/69wu-b929/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 64,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 684,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        ""
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Cumulative Sessions To Date",
+        "Bandwidth Utilization Per Week (TB)",
+        "Cumulative Bandwidth Utilization To Date (TB)",
+        "Average Session Duration",
+        "New Subscribers Per Week",
+        "Total Subscribers Per Week",
+        "Cumulative Subscribers To Date",
+        "Week",
+        "Sessions Per Week"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/69wu-b929",
+    "last_updated": "2017-05-25 14:46:02+00:00",
+    "protocol": "https",
+    "created": "2016-07-01 21:40:54+00:00"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "weekday-traffic-updates",
+    "datapackage_version": "1.0-beta",
+    "title": "Weekday Traffic Updates",
+    "version": "N/A",
+    "keywords": [
+        "update",
+        "travel",
+        "weekday",
+        "clean web",
+        "traffic",
+        "transportation"
+    ],
+    "description": "RSS Feed displaying weekday traffic updates",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 23.2666015625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 1971,
+    "preferred_mimetype": "text/xml",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/vihk-m25f",
+    "last_updated": "2014-09-05 16:59:32+00:00",
+    "protocol": "https",
+    "created": "2011-07-30 01:03:15+00:00"
+}

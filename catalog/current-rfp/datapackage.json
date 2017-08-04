@@ -1,0 +1,55 @@
+{
+    "name": "current-rfp",
+    "datapackage_version": "1.0-beta",
+    "title": "Current RFP",
+    "version": "N/A",
+    "keywords": [
+        "rfp",
+        "sca"
+    ],
+    "description": "List of active Requests For Proposals",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/bzjf-rmtp/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 1,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 142,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Assigned Contract Negotiator ",
+        "Solicitation Number",
+        "Not-To-Exceed Award Amount per Contract",
+        "Due Date",
+        "Data as of Date",
+        "Assigned Contract Negotiator Email",
+        "Number of Contract (s)",
+        "Services",
+        "Department"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/bzjf-rmtp",
+    "last_updated": "2015-02-17 22:14:25+00:00",
+    "protocol": "https",
+    "created": "2015-01-28 21:05:11+00:00"
+}

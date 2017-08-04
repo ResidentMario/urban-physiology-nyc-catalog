@@ -1,0 +1,55 @@
+{
+    "name": "fdny-certificate-of-fitness-rules-codes",
+    "datapackage_version": "1.0-beta",
+    "title": "FDNY Certificate Of Fitness Rules Codes",
+    "version": "N/A",
+    "keywords": [
+        "fire department",
+        "safety",
+        "fire safety",
+        "fire rule",
+        "certificate of fitness",
+        "cof",
+        "fdny",
+        "fire code"
+    ],
+    "description": "Rules and Codes required for Certificate of Fitness - FDNY",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Fire Department of New York City (FDNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/5vsp-htwz/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 87,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 705,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Fire Code /Rule Section",
+        "Supervision Type",
+        "Type of Material, Operation or Facility"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/5vsp-htwz",
+    "last_updated": "2014-09-05 17:35:07+00:00",
+    "protocol": "https",
+    "created": "2013-01-31 16:19:05+00:00"
+}

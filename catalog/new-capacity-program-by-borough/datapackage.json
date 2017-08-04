@@ -1,0 +1,61 @@
+{
+    "name": "new-capacity-program-by-borough",
+    "datapackage_version": "1.0-beta",
+    "title": "New Capacity Program By Borough",
+    "version": "N/A",
+    "keywords": [
+        "sca",
+        "capacity",
+        "schools"
+    ],
+    "description": "Number of seats and cost by borough and district.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "School Construction Authority (SCA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/tzwr-vksx/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 37,
+    "columns": 14,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 91,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "IS/HS # SEATS",
+        "SMALL PS # BLDGS",
+        "SMALL PS # SEATS",
+        "SMALL PS COST",
+        "PS/IS # BLDGS",
+        "PS/IS # SEATS",
+        "PS/IS COST",
+        "IS/HS # BLDGS",
+        "IS/HS COST",
+        "TOTAL # BLDGS",
+        "TOTAL # SEATS",
+        "TOTAL COST",
+        "DISTRICT",
+        "BOROUGH"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/tzwr-vksx",
+    "last_updated": "2017-05-02 15:38:32+00:00",
+    "protocol": "https",
+    "created": "2016-06-02 14:47:05+00:00"
+}

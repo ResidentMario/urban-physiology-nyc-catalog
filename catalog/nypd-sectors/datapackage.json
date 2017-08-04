@@ -1,0 +1,48 @@
+{
+    "name": "nypd-sectors",
+    "datapackage_version": "1.0-beta",
+    "title": "NYPD Sectors",
+    "version": "N/A",
+    "keywords": [
+        "boundary",
+        "sector",
+        "precinct",
+        "police",
+        "nypd"
+    ],
+    "description": "Geographic boundaries of NYPD sectors.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "NYPD"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/eizi-ujye?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 4662.8798828125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 238,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/eizi-ujye",
+    "last_updated": "2016-11-16 19:54:06+00:00",
+    "protocol": "https",
+    "created": "2015-09-01 18:37:09+00:00"
+}

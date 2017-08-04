@@ -1,0 +1,54 @@
+{
+    "name": "inmate-arrests",
+    "datapackage_version": "1.0-beta",
+    "title": "Inmate Arrests",
+    "version": "N/A",
+    "keywords": [
+        "facility",
+        "rikers",
+        "prison",
+        "population",
+        "arrest",
+        "corrections",
+        "jail",
+        "inmate"
+    ],
+    "description": "Inmate Arrests by fiscal year",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Correction (DOC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/d4uz-6jaw/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 10,
+    "columns": 2,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2733,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Fiscal Year",
+        "Number of Arrests"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/d4uz-6jaw",
+    "last_updated": "2014-09-05 18:05:59+00:00",
+    "protocol": "https",
+    "created": "2011-10-07 00:13:46+00:00"
+}

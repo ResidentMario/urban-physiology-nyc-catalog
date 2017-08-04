@@ -1,0 +1,54 @@
+{
+    "name": "fy-2017-pmmr-data-extract",
+    "datapackage_version": "1.0-beta",
+    "title": "FY 2017 PMMR Data Extract",
+    "version": "N/A",
+    "keywords": [],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": null
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/a6zp-tcs3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2284,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 96,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Target FY18",
+        "Actual FY15",
+        "Performance Indicator",
+        "Critical",
+        "Agency",
+        "Target FY17",
+        "Actual FY16",
+        "PMMR Goal",
+        "4-Month Actual FY17",
+        "4-Month Actual FY16",
+        "Actual FY14"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/a6zp-tcs3",
+    "last_updated": "2017-02-09 20:29:22+00:00",
+    "protocol": "https",
+    "created": "2017-02-03 18:43:48+00:00"
+}

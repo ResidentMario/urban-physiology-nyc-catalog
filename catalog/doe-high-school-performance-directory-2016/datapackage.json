@@ -1,0 +1,67 @@
+{
+    "name": "doe-high-school-performance-directory-2016",
+    "datapackage_version": "1.0-beta",
+    "title": "DOE High School Performance- Directory 2016",
+    "version": "N/A",
+    "keywords": [
+        "high school",
+        "graduation",
+        "performance",
+        "college",
+        "doe"
+    ],
+    "description": "Performance of NYC High Schools",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/qvir-knu3/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 437,
+    "columns": 18,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 355,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "dbn",
+        "college_career_rate_boro",
+        "ontrack_year1_boro",
+        "ontrack_year1_2013",
+        "qr_assessing_student_learning",
+        "graduation_rate_2014",
+        "pct_stu_safe_2014",
+        "quality_review_year",
+        "ontrack_year1_2014",
+        "graduation_rate_2013",
+        "graduation_rate_boro",
+        "pct_stu_enough_variety_2014",
+        "qr_curriculum",
+        "qr_instruction",
+        "college_career_rate_2014",
+        "college_career_rate_2013",
+        "qr_teacher_collaboration",
+        "qr_high_expectations"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/qvir-knu3",
+    "last_updated": "2015-07-23 16:08:08+00:00",
+    "protocol": "https",
+    "created": "2015-07-23 15:48:13+00:00"
+}

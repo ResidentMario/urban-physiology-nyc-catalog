@@ -1,0 +1,47 @@
+{
+    "name": "fire-battalions",
+    "datapackage_version": "1.0-beta",
+    "title": "Fire Battalions",
+    "version": "N/A",
+    "keywords": [
+        "fire battalions",
+        "dcp",
+        "public safety",
+        "fdny"
+    ],
+    "description": "GIS data: Boundaries of Fire Battalions",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/uh7r-6nya?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 3428.306640625,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 701,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/uh7r-6nya",
+    "last_updated": "2017-03-09 16:48:16+00:00",
+    "protocol": "https",
+    "created": "2013-01-29 21:19:50+00:00"
+}

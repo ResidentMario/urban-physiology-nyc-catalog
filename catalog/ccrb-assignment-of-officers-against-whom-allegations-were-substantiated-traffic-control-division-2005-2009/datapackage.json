@@ -1,0 +1,65 @@
+{
+    "name": "ccrb-assignment-of-officers-against-whom-allegations-were-substantiated-traffic-control-division-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "CCRB: Assignment of Officers against Whom Allegations Were Substantiated - Traffic Control Division 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "civilian",
+        "complaint",
+        "2006",
+        "complaint activity",
+        "review",
+        "civilian complaint review board",
+        "2005",
+        "ccrb",
+        "board",
+        "activity",
+        "2007",
+        "2009",
+        "statistics",
+        "2008"
+    ],
+    "description": "Civilian Complaint Review Board (CCRB)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ka3k-93z7/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 23,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 104,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Total",
+        "2007",
+        "2009",
+        "Traffic Control Division",
+        "2005",
+        "2006",
+        "2008"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ka3k-93z7",
+    "last_updated": "2014-09-05 16:57:53+00:00",
+    "protocol": "https",
+    "created": "2011-09-13 20:50:34+00:00"
+}

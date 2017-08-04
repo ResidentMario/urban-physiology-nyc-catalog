@@ -1,0 +1,76 @@
+{
+    "name": "dycd-after-school-programs-isy-in-school-youth-employment-programs",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD after-school programs: ISY In-School Youth Employment Programs",
+    "version": "N/A",
+    "keywords": [
+        "child",
+        "in-school",
+        "community",
+        "internship",
+        "internships",
+        "isy",
+        "high school",
+        "job",
+        "jobs",
+        "children",
+        "employment",
+        "jobs and economic mobility",
+        "lifelong learning",
+        "education",
+        "after-school programs",
+        "after-school",
+        "programs",
+        "school",
+        "services",
+        "young adult",
+        "youth employment",
+        "community development",
+        "development",
+        "youth"
+    ],
+    "description": "Facilities in New York City, by agency and site, that offer \u201cIn-School Youth Employment (ISY) Program\u201d after-school  job and internship programs for students in High School.\r\nUpdate Frequency: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/56u9-ryj4/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 65,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1208,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Contact Number",
+        "BOROUGH / COMMUNITY",
+        "PROGRAM TYPE",
+        "Grade Level / Age Group ",
+        "SITE NAME",
+        "PROGRAM",
+        "AGENCY",
+        "Location 1"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/56u9-ryj4",
+    "last_updated": "2014-09-05 17:44:14+00:00",
+    "protocol": "https",
+    "created": "2011-09-01 20:31:40+00:00"
+}

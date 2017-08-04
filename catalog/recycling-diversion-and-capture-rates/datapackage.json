@@ -1,0 +1,68 @@
+{
+    "name": "recycling-diversion-and-capture-rates",
+    "datapackage_version": "1.0-beta",
+    "title": "Recycling Diversion and Capture Rates",
+    "version": "N/A",
+    "keywords": [
+        "community",
+        "dsny",
+        "community district",
+        "capture",
+        "tonnage",
+        "sanitation",
+        "recycle",
+        "paper",
+        "recycling",
+        "refuse",
+        "plastic",
+        "clean web",
+        "metal",
+        "diversion"
+    ],
+    "description": "For each Community District, its Recycling Diversion rate (percentage of total municipal solid waste collected by the Department of Sanitation (DSNY that is disposed of by recycling) and Capture Rate (% of total Paper or Metal/Glass/Plastic in the waste stream that is disposed of by recycling).",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Sanitation (DSNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/gaq9-z3hz/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 59,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 4309,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Fiscal Month Number",
+        "Fiscal Year",
+        "District",
+        "Diversion Rate-Total (Total Recycling / Total Waste)",
+        "Month Name",
+        "Capture Rate-Total ((Total Recycling - Leaves (Recycling)) / (Max Paper + Max MGP))x100",
+        "Capture Rate-Paper (Total Paper / Max Paper)",
+        "Report Version",
+        "Capture Rate-MGP (Total MGP / Max MGP)",
+        "Zone"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/gaq9-z3hz",
+    "last_updated": "2014-09-05 17:05:53+00:00",
+    "protocol": "https",
+    "created": "2011-10-21 20:29:47+00:00"
+}

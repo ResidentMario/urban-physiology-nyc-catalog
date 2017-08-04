@@ -1,0 +1,48 @@
+{
+    "name": "election-districts-water-areas-included",
+    "datapackage_version": "1.0-beta",
+    "title": "Election Districts (water areas included)",
+    "version": "N/A",
+    "keywords": [
+        "election districts (water areas included)",
+        "dcp",
+        "politics",
+        "map",
+        "gis"
+    ],
+    "description": "GIS data: Boundaries of Election Districts (water areas included)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/wue3-68ab?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 9318.615234375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 239,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/wue3-68ab",
+    "last_updated": "2017-03-09 17:10:50+00:00",
+    "protocol": "https",
+    "created": "2013-04-18 18:14:39+00:00"
+}

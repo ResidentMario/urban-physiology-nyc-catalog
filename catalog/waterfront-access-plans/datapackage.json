@@ -1,0 +1,71 @@
+{
+    "name": "waterfront-access-plans",
+    "datapackage_version": "1.0-beta",
+    "title": "Waterfront Access Plans",
+    "version": "N/A",
+    "keywords": [
+        "location",
+        "dcp",
+        "private",
+        "status",
+        "construction",
+        "jurisdiction",
+        "paws",
+        "edge",
+        "parkland",
+        "park",
+        "cartography",
+        "map",
+        "geographic",
+        "accessible",
+        "public",
+        "waterfront",
+        "water",
+        "facilities",
+        "facility",
+        "land use",
+        "open space",
+        "site",
+        "parks",
+        "recreation",
+        "zoning",
+        "zone",
+        "water's edge",
+        "upland"
+    ],
+    "description": "GIS data: A waterfront access plan (WAP) is a specific plan, set forth in the Zoning Resolution that tailors waterfront bulk regulations and public access requirements to the specific conditions of a particular waterfront area.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/d9z4-v86m?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 18.296875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1778,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/d9z4-v86m",
+    "last_updated": "2017-01-20 16:44:56+00:00",
+    "protocol": "https",
+    "created": "2013-04-10 18:00:09+00:00"
+}

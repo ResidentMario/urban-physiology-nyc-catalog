@@ -1,0 +1,63 @@
+{
+    "name": "dycd-after-school-programs-beacon-programs",
+    "datapackage_version": "1.0-beta",
+    "title": "DYCD after-school programs:  Beacon Programs",
+    "version": "N/A",
+    "keywords": [
+        "services",
+        "children",
+        "beacon",
+        "child",
+        "lifelong learning",
+        "jobs and economic mobility",
+        "education",
+        "development",
+        "community",
+        "school",
+        "youth"
+    ],
+    "description": "Facilities in New York City, by agency and site,  that offer \"Beacon Programs\" after-school programs.\r\nUpdate Schedule: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Youth and Community Development (DYCD)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/35sw-rdxj/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 80,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 5454,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Contact Number",
+        "AGENCY",
+        "PROGRAM",
+        "BOROUGH / COMMUNITY",
+        "Location 1",
+        "PROGRAM TYPE",
+        "Grade Level / Age Group ",
+        "SITE NAME"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/35sw-rdxj",
+    "last_updated": "2014-09-05 17:18:46+00:00",
+    "protocol": "https",
+    "created": "2011-08-31 19:20:58+00:00"
+}

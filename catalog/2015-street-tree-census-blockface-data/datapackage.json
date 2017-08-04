@@ -1,0 +1,48 @@
+{
+    "name": "2015-street-tree-census-blockface-data",
+    "datapackage_version": "1.0-beta",
+    "title": "2015 Street Tree Census - Blockface Data",
+    "version": "N/A",
+    "keywords": [
+        "treescount",
+        "parks",
+        "dpr",
+        "census",
+        "trees"
+    ],
+    "description": "Blockface data from the TreesCount! 2015 Street Tree Census, conducted by volunteers and staff organized by NYC Parks & Recreation and partner organizations. Blockface data includes tree counts and data collection status by block. Accompanying street tree data is available, indicating tree-level details such as tree species, size and other characteristics.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/2cd9-59fr?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 114038.267578125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 564,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/2cd9-59fr",
+    "last_updated": "2017-01-26 20:06:09+00:00",
+    "protocol": "https",
+    "created": "2016-06-03 12:03:46+00:00"
+}

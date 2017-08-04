@@ -1,0 +1,50 @@
+{
+    "name": "ap-college-board-2010-school-level-results",
+    "datapackage_version": "1.0-beta",
+    "title": "AP (College Board) 2010 School Level Results",
+    "version": "N/A",
+    "keywords": [
+        "lifelong learning"
+    ],
+    "description": "New York City school level College Board AP results for 2010.  \r\n\r\nRecords with 5 or fewer students are suppressed. \r\n\r\nStudents are linked to schools by identifying which school they attend when registering for a College Board exam. A student is only included in a school\u2019s report if he/she self-reports being enrolled at that school. \r\n\r\nData collected and processed by the College Board.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Education (DOE)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/itfs-ms3e/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 258,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2839,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Education"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Total Exams Taken",
+        "DBN",
+        "SchoolName",
+        "AP Test Takers ",
+        "Number of Exams with scores 3 4 or 5"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/itfs-ms3e",
+    "last_updated": "2014-09-05 17:42:20+00:00",
+    "protocol": "https",
+    "created": "2011-10-06 18:25:29+00:00"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "times-square-entertainment-venues",
+    "datapackage_version": "1.0-beta",
+    "title": "Times Square Entertainment Venues",
+    "version": "N/A",
+    "keywords": [
+        "entertainment",
+        "tourism",
+        "food",
+        "new york",
+        "times square",
+        "theater",
+        "screens",
+        "crossroads",
+        "manhattan",
+        "times square alliance",
+        "pedestrian",
+        "nyc",
+        "new york city",
+        "crossroads of the world"
+    ],
+    "description": "Directory of entertainment venues in the Times Square area\r\n\r\nUpdate Schedule: As required",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Times Square Alliance (TSA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/jxdc-hnze/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 77,
+    "columns": 6,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 5683,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Sub Subindustry",
+        "Subindustry",
+        "Phone",
+        "Website",
+        "Location 1",
+        "Company Name"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/jxdc-hnze",
+    "last_updated": "2014-09-06 00:11:59+00:00",
+    "protocol": "https",
+    "created": "2011-07-26 20:44:07+00:00"
+}

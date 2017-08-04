@@ -1,0 +1,61 @@
+{
+    "name": "fcrc-annual-concession-plan-franchises",
+    "datapackage_version": "1.0-beta",
+    "title": "FCRC Annual Concession Plan Franchises",
+    "version": "N/A",
+    "keywords": [],
+    "description": "The Mayor\u2019s Office of Contract Services oversees and certifies agency compliance with the applicable laws and regulations for franchises and concessions. In certain circumstances, franchises and concessions are also subject to the approval of the Franchise and Concession Review Committee (FCRC).\r\n\r\nFranchises are grants of the right to occupy or to use the City\u2019s inalienable property, such as streets or parks, for a public service, e.g., transportation or telecommunications.\r\nConcessions are grants for the private use of city-owned property such as for food sales or recreational activity, with the City\u2019s compensation typically tied to the concessionaire\u2019s revenue. Concessions are also subject to the City's Concession Rules as codified in Title 12 of the Rules of the City of New York.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Office of the Mayor (OTM)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/rbvx-jqnh/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 65,
+    "columns": 18,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 98,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Franchise Type (Specific Category)",
+        "FY 2015 Award or Transaction (Yes/No)",
+        "DOC (agency code)",
+        "DOC_CD (e.g., \"RCT1\")",
+        "Registration Value for FY 2015 Transactions",
+        "Registration Date (or date sent to Comptroller for registration)",
+        "FY 2015 Registration (Yes/No)",
+        "Franchise Type (General Category)",
+        "Franchisee",
+        "Start Date",
+        "Public Meeting Date (if applicable)",
+        "Solicitation/Award Method",
+        "Expiration Date",
+        "DOC_ID (automatically generated contract ID number from FMS)",
+        "Brief Description of Franchise Award or FY2015 Transaction ",
+        "Agency",
+        "Public Hearing Date (if applicable)",
+        "Actual Fee/Revenue Collected in FY2015"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/rbvx-jqnh",
+    "last_updated": "2016-04-22 22:04:44+00:00",
+    "protocol": "https",
+    "created": "2016-04-22 17:21:28+00:00"
+}

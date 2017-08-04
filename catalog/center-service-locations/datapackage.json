@@ -1,0 +1,62 @@
+{
+    "name": "center-service-locations",
+    "datapackage_version": "1.0-beta",
+    "title": "Center & Service Locations",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Find a NYC Department of Small Business Services NYC Business Solutions Center, Workforce1 Career Center, or Employment Works Center. Click here to view a map- https://maps.nyc.gov/sbs/",
+    "licenses": [],
+    "sources": [
+        {
+            "title": null
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/6smc-7mk6/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 41,
+    "columns": 19,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 22,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        ""
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Street_Address_2",
+        "Number",
+        "BBL",
+        "NTA",
+        "Census Tract",
+        "Details",
+        "Council District",
+        "State",
+        "City",
+        "Street",
+        "Community Board",
+        "Location_Type",
+        "Longitude",
+        "BIN",
+        "Name",
+        "Postcode",
+        "Latitude",
+        "Borough",
+        "Hours"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/6smc-7mk6",
+    "last_updated": "2017-05-16 17:52:59+00:00",
+    "protocol": "https",
+    "created": "2017-04-26 17:47:34+00:00"
+}

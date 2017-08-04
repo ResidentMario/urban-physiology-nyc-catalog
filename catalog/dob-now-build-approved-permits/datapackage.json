@@ -1,0 +1,82 @@
+{
+    "name": "dob-now-build-approved-permits",
+    "datapackage_version": "1.0-beta",
+    "title": "DOB NOW: Build \u2013 Approved Permits",
+    "version": "N/A",
+    "keywords": [
+        "dob",
+        "permits",
+        "buildings"
+    ],
+    "description": "List of all approved permits in DOB NOW",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Buildings (DOB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/rbx6-tga4/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 6,
+    "columns": 35,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 782,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Permittee's License Type",
+        "Applicant First Name",
+        "Applicant License #",
+        "Bin",
+        "Applicant Business Name",
+        "Block",
+        "Approved Date",
+        "Applicant Last Name",
+        "LOT",
+        "Issued Date",
+        "Applicant Middle Name",
+        "Work on Floor",
+        "Owner Business Name",
+        "Owner State",
+        "Job Filing Number",
+        "Filing Representative Middle Initial",
+        "Borough",
+        "House No",
+        "Work Permit",
+        "Street Name",
+        "Filing Representative First Name",
+        "Work Type",
+        "Owner Zip Code",
+        "Owner Name",
+        "Expired Date",
+        "Owner Street Address",
+        "Apt/Condo No(s)",
+        "Estimated Job Costs",
+        "Owner City",
+        "C B NO",
+        "Filing Reason",
+        "Filing Representative Business Name",
+        "Filing Representative Last Name",
+        "Applicant Business Address",
+        "Job Description"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/rbx6-tga4",
+    "last_updated": "2017-05-20 23:22:39+00:00",
+    "protocol": "https",
+    "created": "2016-05-26 13:36:30+00:00"
+}

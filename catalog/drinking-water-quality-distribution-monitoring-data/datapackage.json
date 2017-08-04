@@ -1,0 +1,60 @@
+{
+    "name": "drinking-water-quality-distribution-monitoring-data",
+    "datapackage_version": "1.0-beta",
+    "title": "Drinking Water Quality Distribution Monitoring Data",
+    "version": "N/A",
+    "keywords": [
+        "turbidity",
+        "chlorine",
+        "fluoride",
+        "coliform",
+        "water"
+    ],
+    "description": "The data tables summarize the turbidity values, coliform, fluoride and chlorine found at sides in distribution each month.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/bkwf-xfky/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 33900,
+    "columns": 11,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1025,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Fluoride (mg/L)",
+        "Residual Free Chlorine (mg/L)",
+        "Sample Date",
+        "Sample Number",
+        "E.coli(Quanti-Tray) (MPN/100mL)",
+        "Location",
+        "Sample Site",
+        "Sample class",
+        "Turbidity (NTU)",
+        "Sample Time",
+        "Coliform (Quanti-Tray) (MPN /100mL)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/bkwf-xfky",
+    "last_updated": "2017-05-12 13:33:04+00:00",
+    "protocol": "https",
+    "created": "2015-02-24 19:57:00+00:00"
+}

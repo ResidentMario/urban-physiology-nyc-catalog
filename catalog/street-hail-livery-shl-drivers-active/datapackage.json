@@ -1,0 +1,58 @@
+{
+    "name": "street-hail-livery-shl-drivers-active",
+    "datapackage_version": "1.0-beta",
+    "title": "Street Hail Livery (SHL) Drivers - Active",
+    "version": "N/A",
+    "keywords": [
+        "drivers authorized",
+        "drivers active",
+        "shl",
+        "green cabs",
+        "boro taxi",
+        "green taxi",
+        "street hail livery"
+    ],
+    "description": "NYC TLC licensed drivers that are currently active, in good standing and authorized to operate Street Hail Livery (SHL) vehicles. This list is accurate to the date and time represented in the Last Date Updated and Last Time Updated fields. For inquiries about the contents of this dataset, please email licensinginquiries@tlc.nyc.gov.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/5tub-eh45/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 161000,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 31363,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Name",
+        "License Number",
+        "Last Time Updated",
+        "Expiration Date",
+        "Status Description",
+        "Status Code",
+        "Last Date Updated"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/5tub-eh45",
+    "last_updated": "2017-05-31 19:45:00+00:00",
+    "protocol": "https",
+    "created": "2014-08-18 18:33:15+00:00"
+}

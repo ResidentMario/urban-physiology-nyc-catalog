@@ -1,0 +1,42 @@
+{
+    "name": "bike-routes",
+    "datapackage_version": "1.0-beta",
+    "title": "Bike Routes",
+    "version": "N/A",
+    "keywords": [],
+    "description": "Locations of bike lanes and routes throughout the City",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/7vsa-caz7?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 7950.328125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 340,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/7vsa-caz7",
+    "last_updated": "2017-04-14 19:23:46+00:00",
+    "protocol": "https",
+    "created": "2017-04-13 20:31:54+00:00"
+}

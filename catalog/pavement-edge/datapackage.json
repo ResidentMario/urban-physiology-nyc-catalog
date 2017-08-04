@@ -1,0 +1,48 @@
+{
+    "name": "pavement-edge",
+    "datapackage_version": "1.0-beta",
+    "title": "Pavement Edge",
+    "version": "N/A",
+    "keywords": [
+        "edge",
+        "planimetrics",
+        "pavement",
+        "nyc",
+        "doitt gis"
+    ],
+    "description": "Planimetric basemap layer containing pavement edge features. Please see the following link for additional documentation- https://github.com/CityOfNewYork/nyc-planimetrics/blob/master/Capture_Rules.md.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/x9uq-u3qs?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 490209.1162109375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2119,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/x9uq-u3qs",
+    "last_updated": "2016-08-27 18:28:24+00:00",
+    "protocol": "https",
+    "created": "2014-06-25 17:33:26+00:00"
+}

@@ -1,0 +1,67 @@
+{
+    "name": "special-waste-drop-off-sites",
+    "datapackage_version": "1.0-beta",
+    "title": "Special Waste Drop-off Sites",
+    "version": "N/A",
+    "keywords": [
+        "drop-off",
+        "dispose",
+        "batteries",
+        "battery",
+        "bulb",
+        "disposal",
+        "services",
+        "tire",
+        "transmission",
+        "motor",
+        "light",
+        "waste",
+        "oil",
+        "latex",
+        "fluid",
+        "filter",
+        "drop off",
+        "refuse",
+        "sanitation"
+    ],
+    "description": "Addresses and coordinates of each of 5 special waste drop-off sites where New York City residents can dispose of automotive batteries, motor oil, oil filters, passenger car tires, transmission fluids, fluorescent light bulbs, thermostats, household batteries, and latex paint.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Sanitation (DSNY)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/a34j-ihvy/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1107,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Borough",
+        "Drop-Off Site Location",
+        "X_Coordinate",
+        "Y_Coordinate"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/a34j-ihvy",
+    "last_updated": "2014-09-05 17:05:01+00:00",
+    "protocol": "https",
+    "created": "2011-10-08 20:13:20+00:00"
+}

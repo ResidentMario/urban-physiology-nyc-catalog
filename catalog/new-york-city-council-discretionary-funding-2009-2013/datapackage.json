@@ -1,0 +1,65 @@
+{
+    "name": "new-york-city-council-discretionary-funding-2009-2013",
+    "datapackage_version": "1.0-beta",
+    "title": "New York City Council Discretionary Funding (2009-2013)",
+    "version": "N/A",
+    "keywords": [
+        "new york city council discretionary funding (2009-2013)",
+        "finance",
+        "council",
+        "contribution",
+        "data"
+    ],
+    "description": "This dataset reflects applications for discretionary funding to be allocated by the New York City Council between the years 2009 and 2013.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "City Council (NYCC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/m3fi-rt3k/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 17500,
+    "columns": 16,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 3294,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Fiscal Conduit Name ",
+        "EIN ",
+        "Fiscal Year ",
+        "Amount ",
+        "Purpose of Funds ",
+        "Council Member ",
+        "Source ",
+        "Agency ",
+        "Status ",
+        "Street Address 2 ",
+        "Zip Code ",
+        "Program Name ",
+        "Street Address 1 ",
+        "FC EIN ",
+        "Location 1 ",
+        "Legal Name "
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/m3fi-rt3k",
+    "last_updated": "2014-09-05 17:27:17+00:00",
+    "protocol": "https",
+    "created": "2012-08-03 19:35:59+00:00"
+}

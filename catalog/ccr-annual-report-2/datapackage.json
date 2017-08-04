@@ -1,0 +1,39 @@
+{
+    "name": "ccr-annual-report",
+    "datapackage_version": "1.0-beta",
+    "title": "CCR Annual Report",
+    "version": "N/A",
+    "keywords": [
+        "ccr annual report"
+    ],
+    "description": "The data tables published as part of the Annual NYC Drinking Water Supply and Quality Report",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 13.419921875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 190,
+    "preferred_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "xlsx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/yjw6-uibq",
+    "last_updated": "2016-01-05 18:33:06+00:00",
+    "protocol": "https",
+    "created": "2014-10-24 02:42:24+00:00"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "municipal-parking-facilities-bronx",
+    "datapackage_version": "1.0-beta",
+    "title": "Municipal Parking Facilities (Bronx)",
+    "version": "N/A",
+    "keywords": [
+        "clean web"
+    ],
+    "description": "RSS Feed displaying municipal parking facilities in the Bronx\r\n\r\nUpdated as required",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Transportation (DOT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 5.0048828125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 290,
+    "preferred_mimetype": "text/xml",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "xml",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/7xqy-uv7r",
+    "last_updated": "2014-09-05 18:10:18+00:00",
+    "protocol": "https",
+    "created": "2011-10-10 22:16:15+00:00"
+}

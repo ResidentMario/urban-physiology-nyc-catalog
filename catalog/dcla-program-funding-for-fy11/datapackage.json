@@ -1,0 +1,59 @@
+{
+    "name": "dcla-program-funding-for-fy11",
+    "datapackage_version": "1.0-beta",
+    "title": "DCLA Program Funding for FY11",
+    "version": "N/A",
+    "keywords": [
+        "project",
+        "program",
+        "cultural",
+        "artist",
+        "cultural affairs",
+        "culture",
+        "dcla",
+        "fund",
+        "funding",
+        "percent",
+        "art",
+        "percent for art"
+    ],
+    "description": "Department of Cultural Affairs (DCLA)\nThis data set is the Programs funding award amount for FY11",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Cultural Affairs (DCLA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/rskq-5bfv/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 874,
+    "columns": 3,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 630,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Recreation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Application #",
+        "Organization",
+        "Total Final Award"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/rskq-5bfv",
+    "last_updated": "2014-09-05 17:05:00+00:00",
+    "protocol": "https",
+    "created": "2012-02-07 23:37:10+00:00"
+}

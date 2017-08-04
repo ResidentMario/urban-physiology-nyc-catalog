@@ -1,0 +1,52 @@
+{
+    "name": "dop-adult-investigations-ordered",
+    "datapackage_version": "1.0-beta",
+    "title": "DOP Adult Investigations Ordered",
+    "version": "N/A",
+    "keywords": [
+        "dop",
+        "probation",
+        "investigation"
+    ],
+    "description": "",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Probation (DOP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/kkwv-djnk/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 12,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 31,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Month",
+        "Investigations Ordered Type",
+        "Year",
+        "Investigations Ordered Count",
+        "Region"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/kkwv-djnk",
+    "last_updated": "2017-04-27 19:04:50+00:00",
+    "protocol": "https",
+    "created": "2016-11-21 15:48:10+00:00"
+}

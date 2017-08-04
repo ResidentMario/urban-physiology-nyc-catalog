@@ -1,0 +1,54 @@
+{
+    "name": "medallion-drivers",
+    "datapackage_version": "1.0-beta",
+    "title": "Medallion Drivers",
+    "version": "N/A",
+    "keywords": [
+        "limousine",
+        "medallion",
+        "driver",
+        "transportation",
+        "taxi",
+        "drive"
+    ],
+    "description": "List of all TLC medallion drivers",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/iux8-53rc/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 48100,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2019,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "License Expiration Date",
+        "Name of Licensee",
+        "License Number",
+        "License Type"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/iux8-53rc",
+    "last_updated": "2014-09-05 17:01:35+00:00",
+    "protocol": "https",
+    "created": "2011-08-29 18:27:10+00:00"
+}

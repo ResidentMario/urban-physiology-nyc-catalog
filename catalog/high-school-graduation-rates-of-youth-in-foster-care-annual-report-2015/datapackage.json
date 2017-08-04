@@ -1,0 +1,44 @@
+{
+    "name": "high-school-graduation-rates-of-youth-in-foster-care-annual-report-2015",
+    "datapackage_version": "1.0-beta",
+    "title": "High School Graduation Rates Of Youth In Foster Care Annual Report 2015",
+    "version": "N/A",
+    "keywords": [
+        "acs",
+        "care",
+        "children",
+        "foster",
+        "social",
+        "services"
+    ],
+    "description": "Statistics on high school graduation rates of  youth in foster care reported in compliance with Local Law 49 passed by City Council in 2014",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Administration for Children's Services (ACS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 27.6162109375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": false,
+    "page_views": 153,
+    "preferred_mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "xlsx",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/abgy-h8ag",
+    "last_updated": "2016-02-23 15:40:00+00:00",
+    "protocol": "https",
+    "created": "2016-02-23 15:28:29+00:00"
+}

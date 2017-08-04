@@ -1,0 +1,91 @@
+{
+    "name": "2015-street-tree-census-tree-data",
+    "datapackage_version": "1.0-beta",
+    "title": "2015 Street Tree Census - Tree Data",
+    "version": "N/A",
+    "keywords": [
+        "nycopendata",
+        "trees",
+        "treescount",
+        "census",
+        "dpr",
+        "parks"
+    ],
+    "description": "Street tree data from the TreesCount! 2015 Street Tree Census, conducted by volunteers and staff organized by NYC Parks & Recreation and partner organizations. Tree data collected includes tree species, diameter and perception of health. Accompanying blockface data is available indicating status of data collection and data release citywide.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Parks and Recreation (DPR)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/uvpi-gqnh/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 684000,
+    "columns": 41,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 2386,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "status",
+        "zip_city",
+        "zipcode",
+        "address",
+        "brch_other",
+        "brch_shoe",
+        "brch_light",
+        "trnk_other",
+        "trnk_light",
+        "trunk_wire",
+        "root_other",
+        "root_grate",
+        "root_stone",
+        "problems",
+        "user_type",
+        "sidewalk",
+        "guards",
+        "steward",
+        "spc_common",
+        "spc_latin",
+        "health",
+        "curb_loc",
+        "stump_diam",
+        "tree_dbh",
+        "created_at",
+        "block_id",
+        "tree_id",
+        "st_senate",
+        "nta",
+        "nta_name",
+        "boro_ct",
+        "state",
+        "latitude",
+        "longitude",
+        "x_sp",
+        "y_sp",
+        "st_assem",
+        "cncldist",
+        "boroname",
+        "borocode",
+        "cb_num"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/uvpi-gqnh",
+    "last_updated": "2017-02-16 22:29:41+00:00",
+    "protocol": "https",
+    "created": "2016-06-03 12:14:58+00:00"
+}

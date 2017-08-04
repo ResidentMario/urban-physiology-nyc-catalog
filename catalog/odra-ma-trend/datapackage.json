@@ -1,0 +1,51 @@
+{
+    "name": "odra-ma-trend",
+    "datapackage_version": "1.0-beta",
+    "title": "ODRA MA Trend",
+    "version": "N/A",
+    "keywords": [
+        "hra",
+        "odra ma trend"
+    ],
+    "description": "Monthly trend statistics on medicaid enrollees.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Human Resources Administration (HRA)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/qj9s-yv6v/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 188,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 181,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Social Services"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Year",
+        "Month",
+        "Yearly Percent Change",
+        "Medicaid Enrollees",
+        "Monthly Percent Change"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/qj9s-yv6v",
+    "last_updated": "2014-09-05 16:59:46+00:00",
+    "protocol": "https",
+    "created": "2013-05-21 12:06:37+00:00"
+}

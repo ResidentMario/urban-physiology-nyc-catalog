@@ -1,0 +1,59 @@
+{
+    "name": "primary-commercial-zoning-by-lot",
+    "datapackage_version": "1.0-beta",
+    "title": "Primary Commercial Zoning by lot",
+    "version": "N/A",
+    "keywords": [
+        "development",
+        "2005",
+        "business geographic",
+        "cartography",
+        "commerce",
+        "commercial",
+        "economic",
+        "economic development corporation",
+        "edc",
+        "location",
+        "lot",
+        "map",
+        "pluto",
+        "property",
+        "zone",
+        "zoning"
+    ],
+    "description": "Primary Zoning by lot Based on PLUTO 2005",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Economic Development Corporation (EDC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/pwhj-ikym?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 12234.8330078125,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1642,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/pwhj-ikym",
+    "last_updated": "2016-08-27 18:28:37+00:00",
+    "protocol": "https",
+    "created": "2013-04-10 14:49:08+00:00"
+}

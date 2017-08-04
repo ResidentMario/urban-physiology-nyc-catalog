@@ -1,0 +1,62 @@
+{
+    "name": "downtown-brooklyn-partnership-dbp-court-livingston-schermerhorn-cls-retail-locations",
+    "datapackage_version": "1.0-beta",
+    "title": "Downtown Brooklyn Partnership (DBP)/ Court-Livingston-Schermerhorn (CLS)  Retail Locations",
+    "version": "N/A",
+    "keywords": [
+        "partnership",
+        "brooklyn",
+        "business",
+        "businesses",
+        "downtown",
+        "locations",
+        "retail",
+        "retailer",
+        "stores"
+    ],
+    "description": "List of retail location in the DBP/CLS district",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Downtown Brooklyn Partnership (DBP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/8gqz-6v9v/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 171,
+    "columns": 9,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 654,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Business Name",
+        "Hours Sun",
+        "Street Address",
+        "Business Category",
+        "Hours Sat",
+        "Hours Mon - Fri",
+        "Phone",
+        "Location 1",
+        "Website"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/8gqz-6v9v",
+    "last_updated": "2014-09-06 00:12:28+00:00",
+    "protocol": "https",
+    "created": "2011-10-06 16:31:44+00:00"
+}

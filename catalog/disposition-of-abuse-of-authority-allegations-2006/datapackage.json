@@ -1,0 +1,74 @@
+{
+    "name": "disposition-of-abuse-of-authority-allegations-2006",
+    "datapackage_version": "1.0-beta",
+    "title": "Disposition Of Abuse Of Authority Allegations 2006",
+    "version": "N/A",
+    "keywords": [
+        "2007",
+        "2008",
+        "2009",
+        "activity",
+        "allegation",
+        "board",
+        "ccrb",
+        "civilian",
+        "civilian complaint review board",
+        "complaint",
+        "complaint activity",
+        "disciplinary recommendation",
+        "misconduct",
+        "review",
+        "statistics",
+        "2005",
+        "2006"
+    ],
+    "description": "CCRB: Disposition of Abuse of Authority Allegations 2006",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/b3wh-m425/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 31,
+    "columns": 13,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 143,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Exonerated number",
+        "Unsubstantiated rate",
+        "Unsubstantiated number",
+        "Miscellaneous rate",
+        "Officer Unidentified rate",
+        "Substantiated Number",
+        "Sunstantiated rate",
+        "Type of Abuse of Authority Allegation",
+        "Unfounded number",
+        "Unfounded rate",
+        "Miscellaneous",
+        "Officer Unidentified number",
+        "Exonerated rate"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/b3wh-m425",
+    "last_updated": "2014-09-05 17:04:44+00:00",
+    "protocol": "https",
+    "created": "2011-09-28 21:02:32+00:00"
+}

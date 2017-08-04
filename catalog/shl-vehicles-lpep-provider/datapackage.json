@@ -1,0 +1,61 @@
+{
+    "name": "shl-vehicles-lpep-provider",
+    "datapackage_version": "1.0-beta",
+    "title": "SHL Vehicles \u2013 LPEP Provider",
+    "version": "N/A",
+    "keywords": [
+        "taxi",
+        "lpep",
+        "shl",
+        "cab",
+        "transportation"
+    ],
+    "description": "This list contains information on LPEP providers that are authorized for NYC TLC licensed SHL vehicles.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Taxi and Limousine Commission (TLC)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/6pwv-zmgh/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 2,
+    "columns": 12,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 248,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "License Number",
+        "Address",
+        "Name",
+        "Phone",
+        "Zip",
+        "Status",
+        "Type",
+        "24 Hour Phone",
+        "Time",
+        "Date",
+        "City",
+        "State"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/6pwv-zmgh",
+    "last_updated": "2017-05-24 19:12:38+00:00",
+    "protocol": "https",
+    "created": "2015-10-07 15:21:12+00:00"
+}

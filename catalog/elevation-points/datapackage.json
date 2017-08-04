@@ -1,0 +1,45 @@
+{
+    "name": "elevation-points",
+    "datapackage_version": "1.0-beta",
+    "title": "Elevation points",
+    "version": "N/A",
+    "keywords": [
+        "doitt gis",
+        "planimetrics"
+    ],
+    "description": "Elevation points. Please see the following link for additional documentation- https://github.com/CityOfNewYork/nyc-planimetrics/blob/master/Capture_Rules.md.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/szwg-xci6?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 321046.6201171875,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 882,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Transportation"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/szwg-xci6",
+    "last_updated": "2016-08-27 18:38:27+00:00",
+    "protocol": "https",
+    "created": "2016-03-14 21:37:15+00:00"
+}

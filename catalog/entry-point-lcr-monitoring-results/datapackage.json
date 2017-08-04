@@ -1,0 +1,57 @@
+{
+    "name": "entry-point-lcr-monitoring-results",
+    "datapackage_version": "1.0-beta",
+    "title": "Entry Point LCR Monitoring Results",
+    "version": "N/A",
+    "keywords": [
+        "monitoring",
+        "entry point",
+        "lcr"
+    ],
+    "description": "Daily results from the entry points for orthophosphate, pH, temperature, conductivity and monthly alkalinity, calcium, lead and copper - Bi annually updated",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/aa5e-digs/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 3553,
+    "columns": 10,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 204,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Sample Site ",
+        "Sample Date",
+        "Calcium (mg/L)",
+        "Specific Conductance ( \u00b5S/cm)",
+        "pH \u2020(Unit)",
+        "Alkalinity (mg/L CaCO3)",
+        "ortho-Phosphate \u2020\u2020 (mg/L)",
+        " Temperature \u2020 (\u00b0F)",
+        "Copper (mg/L)",
+        "Lead (\u00b5g/L)"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/aa5e-digs",
+    "last_updated": "2017-01-23 21:18:54+00:00",
+    "protocol": "https",
+    "created": "2015-02-24 18:25:50+00:00"
+}

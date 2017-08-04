@@ -1,0 +1,84 @@
+{
+    "name": "oil-boilers-detailed-fuel-consumption-and-building-data",
+    "datapackage_version": "1.0-beta",
+    "title": "Oil Boilers - Detailed Fuel Consumption and Building Data",
+    "version": "N/A",
+    "keywords": [
+        "environment",
+        "property",
+        "housing",
+        "energy",
+        "planning",
+        "power",
+        "construction"
+    ],
+    "description": "Detailed data on NYC buildings with oil boilers, including fuel consumption, BBL, building owner/management info, deadline for complying with Audit and Retrocommissioning Law, building type and year constructed, number of floors and residential units, Condo/Coop status, and more.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Mayor's Office of Long-Term Planning and Sustainability (OLTPS)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/jfzu-yy6n/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 8773,
+    "columns": 33,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 7601,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Housing & Development"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Boiler capacity (Gross BTU)",
+        "Borough, Block and Lot #",
+        "Natural Gas Utility (Con Edison or National Grid",
+        "Facility Address",
+        "Year constructed",
+        "Burner Model",
+        "Number of residential units",
+        "Number of floors",
+        "Building Type",
+        "City Council District",
+        "Total Estimated Cosumption - High Estimate (MMBTUs) ",
+        "Primary Fuel",
+        "Total Estimated Cosumption - Low Estimate  (MMBTUs) ",
+        "Needs to comply with Greener Greater Buildings Laws?",
+        "Boiler Model",
+        "Owner",
+        "Building Manager",
+        "DEP Boiler Application #",
+        "Owner Address",
+        "Total Estimated Cosumption - High Estimate (Gallons) ",
+        "Boiler Installation Date",
+        "Total Estimated Cosumption - Low Estimate (Gallons) ",
+        "Is boiler dual fuel capable?",
+        "Age range of boiler",
+        "Deadline for complying with Audit and Retrocommissioning Law",
+        "Total area of buildings on lot",
+        "Estimated retirement date of boiler (assuming 35 year average useful life)",
+        "Condominium housing?",
+        "Number of buildings on property (tax lot)",
+        "Deadline for phasing out #6 oil (i.e. data of next DEP permit renewal after July 1 2012)",
+        "Cooperative housing?",
+        "Number of identical boilers",
+        "Number of total units"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/jfzu-yy6n",
+    "last_updated": "2014-09-05 17:16:58+00:00",
+    "protocol": "https",
+    "created": "2011-09-29 15:45:34+00:00"
+}

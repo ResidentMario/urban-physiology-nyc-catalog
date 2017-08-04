@@ -1,0 +1,66 @@
+{
+    "name": "ccrb-command-rankings-complaints-per-uniformed-officer-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "CCRB: Command Rankings: Complaints per Uniformed Officer 2009",
+    "version": "N/A",
+    "keywords": [
+        "board",
+        "2009",
+        "complaint",
+        "ccrb",
+        "command ranking",
+        "command",
+        "civilian complaint review board",
+        "civilian",
+        "activity",
+        "2005",
+        "ranking",
+        "review",
+        "statistics",
+        "complaint activity",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "description": "Civilian Complaint Review Board (CCRB) complaint activity data, 2005-2009\r\nUpdate Schedule: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/83kr-sbhe/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 17,
+    "columns": 5,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 174,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Precinct/Command",
+        "2009 Command Ranking",
+        "2009 Complaints",
+        "2009 Complaints per Uniformed Officer",
+        "2009 Number of Subject Officers"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/83kr-sbhe",
+    "last_updated": "2014-09-05 17:14:36+00:00",
+    "protocol": "https",
+    "created": "2011-09-15 19:48:30+00:00"
+}

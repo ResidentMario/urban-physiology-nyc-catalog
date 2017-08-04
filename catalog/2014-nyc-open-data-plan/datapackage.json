@@ -1,0 +1,56 @@
+{
+    "name": "2014-nyc-open-data-plan",
+    "datapackage_version": "1.0-beta",
+    "title": "2014 NYC Open Data Plan",
+    "version": "N/A",
+    "keywords": [
+        "open data",
+        "open government",
+        "nyc open data plan",
+        "compliance plan"
+    ],
+    "description": "The 2014 Open Data Plan. Please see https://data.cityofnewyork.us/City-Government/NYC-Open-Data-Plan-Scheduled-Releases-2015/tyjc-nqc2 for the current version.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology & Telecommunications (DoITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/v475-8jcj/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 434,
+    "columns": 8,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 4656,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Behind Schedule",
+        "Dataset",
+        "Dataset description",
+        "Agency",
+        "Link",
+        "Available",
+        "Planned Release Date",
+        "Update Frequency"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/v475-8jcj",
+    "last_updated": "2016-06-02 21:34:42+00:00",
+    "protocol": "https",
+    "created": "2013-09-09 23:37:02+00:00"
+}

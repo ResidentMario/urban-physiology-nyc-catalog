@@ -1,0 +1,56 @@
+{
+    "name": "water-consumption-in-the-new-york-city",
+    "datapackage_version": "1.0-beta",
+    "title": "Water Consumption In The New York City",
+    "version": "N/A",
+    "keywords": [
+        "healthy living",
+        "water consumption",
+        "department of environmental protection",
+        "environment",
+        "water",
+        "dep",
+        "consumption",
+        "water consumption in the new york city"
+    ],
+    "description": "A brief history of water consumption in the New York City Water Supply System (Based on New York City Census population)",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Environmental Protection (DEP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/ia2d-e54m/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 38,
+    "columns": 4,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 11395,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Environment"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Year",
+        "NYC Consumption(Million gallons per day)",
+        "Per Capita(Gallons per person per day)",
+        "New York City Population"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/ia2d-e54m",
+    "last_updated": "2017-05-22 19:18:57+00:00",
+    "protocol": "https",
+    "created": "2013-01-31 00:21:38+00:00"
+}

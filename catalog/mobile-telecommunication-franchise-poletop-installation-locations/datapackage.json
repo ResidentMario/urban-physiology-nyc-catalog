@@ -1,0 +1,63 @@
+{
+    "name": "mobile-telecommunication-franchise-poletop-installation-locations",
+    "datapackage_version": "1.0-beta",
+    "title": "Mobile Telecommunication Franchise Poletop Installation Locations",
+    "version": "N/A",
+    "keywords": [
+        "poletop",
+        "telecommunications",
+        "equipment"
+    ],
+    "description": "Locations of street light poles, traffic light poles and utility poles approved for the potential installation of\u00a0mobile telecommunications equipment by\u00a0companies authorized by the New York City Department of Information Technology and Telecommunications.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of Information Technology and Telecommunications (DOITT)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/tbgj-tdd6/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 3470,
+    "columns": 16,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 250,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "City Government"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "Submission date",
+        "Zone",
+        "Pole type",
+        "BID Advisory",
+        "Id",
+        "Y Coord.",
+        "Port Auth Advisory",
+        "Cross street 1",
+        "X Coord.",
+        "Park Advisory",
+        "Borough",
+        "Historic Advisory",
+        "NYSDOT Advisory",
+        "Cross street 2",
+        "On street",
+        "School Advisory"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/tbgj-tdd6",
+    "last_updated": "2017-02-06 17:38:22+00:00",
+    "protocol": "https",
+    "created": "2016-07-19 19:02:38+00:00"
+}

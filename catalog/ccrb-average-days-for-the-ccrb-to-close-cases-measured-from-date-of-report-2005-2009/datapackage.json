@@ -1,0 +1,65 @@
+{
+    "name": "ccrb-average-days-for-the-ccrb-to-close-cases-measured-from-date-of-report-2005-2009",
+    "datapackage_version": "1.0-beta",
+    "title": "CCRB:  Average Days for the CCRB to Close Cases Measured from Date of Report 2005 - 2009",
+    "version": "N/A",
+    "keywords": [
+        "2008",
+        "statistics",
+        "2005",
+        "2009",
+        "activity",
+        "board",
+        "ccrb",
+        "2006",
+        "2007",
+        "civilian",
+        "civilian complaint review board",
+        "complaint",
+        "complaint activity",
+        "review"
+    ],
+    "description": "Civilian Complaint Review Board (CCRB) complaint activity data, 2005-2009.\r\nUpdate Frequency: Annually",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Civilian Complaint Review Board (CCRB)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/views/rgqc-ddc4/rows.csv?accessType=DOWNLOAD"
+        }
+    ],
+    "views": [],
+    "rows": 5,
+    "columns": 7,
+    "filesize": null,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 186,
+    "preferred_mimetype": "text/csv",
+    "topics_provided": [
+        "Public Safety"
+    ],
+    "preferred_format": "csv",
+    "column_names": [
+        "2006",
+        "2008",
+        "2007",
+        "2005",
+        "Five-year Average",
+        "2009",
+        "Case Type"
+    ],
+    "landing_page": "https://data.cityofnewyork.us/d/rgqc-ddc4",
+    "last_updated": "2014-09-05 17:14:37+00:00",
+    "protocol": "https",
+    "created": "2011-09-15 18:58:52+00:00"
+}

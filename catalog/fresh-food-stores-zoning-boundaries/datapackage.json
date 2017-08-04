@@ -1,0 +1,57 @@
+{
+    "name": "fresh-food-stores-zoning-boundaries",
+    "datapackage_version": "1.0-beta",
+    "title": "FRESH Food Stores Zoning Boundaries",
+    "version": "N/A",
+    "keywords": [
+        "zoning",
+        "dcp",
+        "geographic",
+        "location",
+        "map",
+        "cartography",
+        "zone",
+        "boundary",
+        "incentive",
+        "development",
+        "grocery",
+        "supermarket",
+        "promote",
+        "promotion"
+    ],
+    "description": "GIS data: FRESH boundaries where zoning and discretionary tax incentives are available for the development, expansion and renovation of full line grocery stores and supermarkets.",
+    "licenses": [],
+    "sources": [
+        {
+            "title": "Department of City Planning (DCP)"
+        }
+    ],
+    "contributors": [],
+    "maintainers": [],
+    "publishers": [],
+    "dependencies": {},
+    "resources": [
+        {
+            "path": "data.csv",
+            "url": "https://data.cityofnewyork.us/api/geospatial/w9uz-8epq?method=export&format=GeoJSON"
+        }
+    ],
+    "views": [],
+    "rows": null,
+    "columns": null,
+    "filesize": 1236.24609375,
+    "available_formats": null,
+    "metadata": [],
+    "complete": true,
+    "page_views": 1616,
+    "preferred_mimetype": "application/vnd.geo+json",
+    "topics_provided": [
+        "Business"
+    ],
+    "preferred_format": "geojson",
+    "column_names": [],
+    "landing_page": "https://data.cityofnewyork.us/d/w9uz-8epq",
+    "last_updated": "2017-01-20 16:20:32+00:00",
+    "protocol": "https",
+    "created": "2013-04-08 18:22:35+00:00"
+}
